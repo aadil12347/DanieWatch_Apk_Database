@@ -3,14 +3,18 @@ on:
   push:
     paths:
       - 'streaming_links/**' # Jab bhi is folder mein naya link aaye tab chale
+
+permissions:
+  contents: write # Required for committing and pushing changes
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20 # Updated to 20 to avoid deprecation warnings
       - name: Generate New Index
         run: node scripts/generate_index.js
       - name: Commit and Push
