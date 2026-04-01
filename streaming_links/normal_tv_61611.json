@@ -1,6 +1,14 @@
 {
   "id": "61611",
   "type": "tv",
+  "title": "Pinocchio",
+  "poster": "https://image.tmdb.org/t/p/w342/i97YOqvylMMkiNzi4l5yyEVbYQi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1pm2qvPGOA0dZPNABTtSERa7pX3.jpg",
+  "year": "2014",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

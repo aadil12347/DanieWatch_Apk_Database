@@ -1,6 +1,14 @@
 {
   "id": "95558",
   "type": "tv",
+  "title": "The Power",
+  "poster": "https://image.tmdb.org/t/p/w342/pTeb4EsTy3hoVFpg9FnLIF3glZ5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/nKPQhh3ua2k9Ps7P7idZ3U3V92V.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

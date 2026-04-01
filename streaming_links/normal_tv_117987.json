@@ -1,6 +1,14 @@
 {
   "id": "117987",
   "type": "tv",
+  "title": "You Are My Hero",
+  "poster": "https://image.tmdb.org/t/p/w342/2PD3rQ218D4C0cgCNoQvJLAYDRf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bVP7mU2bL766SYaCOx669P9YZZ3.jpg",
+  "year": "2021",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

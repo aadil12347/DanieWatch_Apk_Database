@@ -1,6 +1,14 @@
 {
   "id": "225361",
   "type": "tv",
+  "title": "BAT-FAM",
+  "poster": "https://image.tmdb.org/t/p/w342/8C34YTylNBt4DWM1a9oAAXqmTSr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/yZJ6ecQCRsXg3rx7hJbwYPHuzD3.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

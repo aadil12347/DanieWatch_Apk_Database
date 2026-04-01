@@ -1,6 +1,14 @@
 {
   "id": "284445",
   "type": "tv",
+  "title": "Takopi's Original Sin",
+  "poster": "https://image.tmdb.org/t/p/w342/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6omimfVty4JD3LXzI5LHEGhXjwn.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,5 +1,13 @@
 {
   "id": "284536",
   "type": "movie",
+  "title": "The Gambler",
+  "poster": "https://image.tmdb.org/t/p/w342/hIgU3cxn7Y87joQGM3srofnXOm5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ni6AHnsPMdH8jaK2wT3MRXA7JCi.jpg",
+  "year": "2014",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/ab4qxbqczdvt/the-gambler-2014-720p-bluray-hindi-english-dual-audio-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

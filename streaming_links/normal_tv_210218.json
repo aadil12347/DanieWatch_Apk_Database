@@ -1,6 +1,14 @@
 {
   "id": "210218",
   "type": "tv",
+  "title": "Delightfully Deceitful",
+  "poster": "https://image.tmdb.org/t/p/w342/bsGHK1Hf3vdD56XPe0d5N7HRa15.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lCdiBW0x73zYvTArT82M6JDoeyL.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

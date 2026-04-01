@@ -1,6 +1,14 @@
 {
   "id": "302199",
   "type": "tv",
+  "title": "Yeh Hai Sanak",
+  "poster": "https://image.tmdb.org/t/p/w342/9eQfMPokSgWBc6XDnd15qvLiuKR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/yNON5EP3qd2FwqhgnNSSy4zMFra.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

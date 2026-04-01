@@ -1,6 +1,14 @@
 {
   "id": "85077",
   "type": "tv",
+  "title": "The Chosen",
+  "poster": "https://image.tmdb.org/t/p/w342/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

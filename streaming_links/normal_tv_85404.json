@@ -1,6 +1,14 @@
 {
   "id": "85404",
   "type": "tv",
+  "title": "Touch Your Heart",
+  "poster": "https://image.tmdb.org/t/p/w342/kVFflfTOFqFBh34jcVRI1QCWSre.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5kOKNntEPrnq8LRtjC9vXAUueut.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "200709",
   "type": "tv",
+  "title": "Weak Hero",
+  "poster": "https://image.tmdb.org/t/p/w342/hS9VVF5ffTVWNoC9B48QNsZFGy9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

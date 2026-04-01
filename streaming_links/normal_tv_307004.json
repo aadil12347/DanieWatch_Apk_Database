@@ -1,6 +1,14 @@
 {
   "id": "307004",
   "type": "tv",
+  "title": "Real Kashmir Football Club",
+  "poster": "https://image.tmdb.org/t/p/w342/zsoQmFWqLuCzpNvyeIrggUsoc9I.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rgD0xgCSi1FXdl1GpUMmIdb2U7y.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,5 +1,13 @@
 {
   "id": "1153399",
   "type": "movie",
+  "title": "Coolie",
+  "poster": "https://image.tmdb.org/t/p/w342/kr36awqmziEI5mfUElsHB0pj9zP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bLn0CPzrrqFLicjNTgrzaIyE0gZ.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/5ieqcro9cozu/coolie-2025-720p-amzn-web-dl-hindi-tamil-ddp5-1-x264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

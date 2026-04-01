@@ -1,5 +1,13 @@
 {
   "id": "1145221",
   "type": "movie",
+  "title": "It Feeds",
+  "poster": "https://image.tmdb.org/t/p/w342/uC3lzzgOUgkubje7HR20qznAAGj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vyJxZSLdgCmUEZlc6OhyJUDqTjA.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/sse8aujoqu4o/it-feeds-2025-720p-bluray-hindi-english-esubs-x265-daniewatch-hot\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

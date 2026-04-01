@@ -1,6 +1,14 @@
 {
   "id": "133953",
   "type": "tv",
+  "title": "Be My Princess",
+  "poster": "https://image.tmdb.org/t/p/w342/kTrjTRp9kZgkiri64ccibBic6bK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2w2vq0nLDKjNAodHjxJhp7s7AhG.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

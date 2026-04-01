@@ -2,8 +2,9 @@
   "id": "1143407",
   "type": "movie",
   "title": "Sky Force",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/f1KLUpaW7rbXhUm5SxG1lpPFFCJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/pwfXx2O3eFXi5dtWCV5XJPQJgqN.jpg",
+  "year": "2025",
   "result": "HD",
   "language": [
     "Hindi"

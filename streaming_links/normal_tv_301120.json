@@ -1,6 +1,14 @@
 {
   "id": "301120",
   "type": "tv",
+  "title": "Personal Trainer",
+  "poster": "https://image.tmdb.org/t/p/w342/jgQ8dkVJQkrbKYy4Qj2jIVl4lHk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/Q0ONWIp975FQJqnISmjeWThRzH.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

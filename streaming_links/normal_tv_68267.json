@@ -1,6 +1,14 @@
 {
   "id": "68267",
   "type": "tv",
+  "title": "Trollhunters: Tales of Arcadia",
+  "poster": "https://image.tmdb.org/t/p/w342/gF03zm8x9B10QyPZyzc8Vgc8lqx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/oyi9AeavhrKTbISf4tZ83S7xp29.jpg",
+  "year": "2016",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

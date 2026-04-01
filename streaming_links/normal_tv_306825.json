@@ -1,6 +1,14 @@
 {
   "id": "306825",
   "type": "tv",
+  "title": "Regai",
+  "poster": "https://image.tmdb.org/t/p/w342/c7qJEHPMhc2rrx5k7HRJs6jIGjE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/qYJWMyvuJBaRnPlBqQpHOeESqhK.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "240715",
   "type": "tv",
+  "title": "Snap and Spark",
+  "poster": "https://image.tmdb.org/t/p/w342/w2vK0lTyUkyOl8tPrTkaxi69kKv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/df93jJXThdpSgb8Alj7oV5OExwU.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "224030",
   "type": "tv",
+  "title": "High School Return of a Gangster",
+  "poster": "https://image.tmdb.org/t/p/w342/bK5kGsWq9vGALbDgPmNiLFNFVI1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/d5XO4xMMYukfDgcuAe4IBQ7MBmY.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

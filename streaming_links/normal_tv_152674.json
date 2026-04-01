@@ -1,6 +1,14 @@
 {
   "id": "152674",
   "type": "tv",
+  "title": "Dream Garden",
+  "poster": "https://image.tmdb.org/t/p/w342/aC0HSAfB9IKN62kIPzi6Sq8J2O9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vEvAQhvu5VsRpqlBVXWtYOi7f6F.jpg",
+  "year": "2021",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

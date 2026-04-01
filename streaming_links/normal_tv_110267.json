@@ -1,6 +1,14 @@
 {
   "id": "110267",
   "type": "tv",
+  "title": "Strange School Tales",
+  "poster": "https://image.tmdb.org/t/p/w342/hGnY0ZVm8GuuQSsR49ENQW8OiOt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/t1doc4QR6eiRJoVh0mJJD5JOnS0.jpg",
+  "year": "2020",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "60957",
   "type": "tv",
+  "title": "My Love from the Star",
+  "poster": "https://image.tmdb.org/t/p/w342/o5EYVYCVtDUdajP4rWfv6q0BTmm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/A1G1EgLHk6u8bNMxfH9RPFr5V5e.jpg",
+  "year": "2013",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

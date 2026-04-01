@@ -1,6 +1,14 @@
 {
   "id": "250505",
   "type": "tv",
+  "title": "Agatha Christie's Seven Dials",
+  "poster": "https://image.tmdb.org/t/p/w342/3uRQi9HDEAGSadoKee1UHoFCaU9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/eVEbRtSOrczWlYnVmwM195AnX86.jpg",
+  "year": "2026",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

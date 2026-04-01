@@ -1,6 +1,14 @@
 {
   "id": "303851",
   "type": "tv",
+  "title": "Lakadbaggey",
+  "poster": "https://image.tmdb.org/t/p/w342/vb3DHIO9RIw47cX9p3BJc8xZ600.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cNY3cHnsohXl0ynMJErPJsS02mA.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

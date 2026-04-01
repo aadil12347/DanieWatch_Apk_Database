@@ -1,6 +1,14 @@
 {
   "id": "120998",
   "type": "tv",
+  "title": "Poker Face",
+  "poster": "https://image.tmdb.org/t/p/w342/8Xm5dyMQC9whMJKnGdFugUAW73C.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ccOzCmrglAjRGtqv5ClTaBEsWt8.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

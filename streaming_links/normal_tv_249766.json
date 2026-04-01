@@ -1,6 +1,14 @@
 {
   "id": "249766",
   "type": "tv",
+  "title": "Daldal",
+  "poster": "https://image.tmdb.org/t/p/w342/wvAwkKeIs7bkb6EJAYRzpANhfxM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bd0usdz6dgmEE6HVhEhepR5r6MP.jpg",
+  "year": "2026",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

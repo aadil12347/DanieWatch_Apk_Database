@@ -1,6 +1,14 @@
 {
   "id": "96648",
   "type": "tv",
+  "title": "Sweet Home",
+  "poster": "https://image.tmdb.org/t/p/w342/ovLdkMclsr9NjkfRPgMaGDTHyGk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mceCXNTny6a5F3rQgShLoyARw4l.jpg",
+  "year": "2020",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

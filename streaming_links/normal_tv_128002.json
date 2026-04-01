@@ -1,6 +1,14 @@
 {
   "id": "128002",
   "type": "tv",
+  "title": "Light on Me",
+  "poster": "https://image.tmdb.org/t/p/w342/cDaMMSuaTrD5hrbbHvwyD2CPY4Z.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ppGd2gNZgISpgIdJfsMG4DzXGu3.jpg",
+  "year": "2021",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

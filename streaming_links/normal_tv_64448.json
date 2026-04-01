@@ -1,6 +1,14 @@
 {
   "id": "64448",
   "type": "tv",
+  "title": "Madame Antoine: The Love Therapist",
+  "poster": "https://image.tmdb.org/t/p/w342/vArW0WiXx0Rdf5pzVxuISR2led6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/aHFDNTZMiP2oDBUcGjdyMJ65FGY.jpg",
+  "year": "2016",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

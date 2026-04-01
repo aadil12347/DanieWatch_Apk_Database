@@ -1,6 +1,14 @@
 {
   "id": "305017",
   "type": "tv",
+  "title": "Thode Door Thode Paas",
+  "poster": "https://image.tmdb.org/t/p/w342/sJZ2JrdwCAGfTaKlW2kVmLhuz5t.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/yWS5KBnWR2uRnWfqc6kTDQDVJ56.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

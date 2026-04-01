@@ -1,6 +1,14 @@
 {
   "id": "79070",
   "type": "tv",
+  "title": "Partners for Justice",
+  "poster": "https://image.tmdb.org/t/p/w342/lPU34PKrjJNISguneRdAB7zQfTj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/it0fRj6zOV9o5rIzxmjqqSAAS8t.jpg",
+  "year": "2018",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "146405",
   "type": "tv",
+  "title": "Part-time Mello",
+  "poster": "https://image.tmdb.org/t/p/w342/3JsIWFA1ho0Jrv9YkQpOBtJFaq2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/iy9R7ezVyKe4axLmu51WBVPREUC.jpg",
+  "year": "2021",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "230020",
   "type": "tv",
+  "title": "Half CA",
+  "poster": "https://image.tmdb.org/t/p/w342/4ckzFeoUzaBYR23uv0f3C6BfeH5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/42fhi4xrnK72Z9Ak8GO09G8QJJb.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

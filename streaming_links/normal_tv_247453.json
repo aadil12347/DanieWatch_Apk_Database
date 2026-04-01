@@ -1,6 +1,14 @@
 {
   "id": "247453",
   "type": "tv",
+  "title": "Everyone Loves Me",
+  "poster": "https://image.tmdb.org/t/p/w342/sgWR52ebu4rRCgJjYxCliCITh7H.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kVd2xlSYIPbXBVVxvb8f1tjh1aV.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

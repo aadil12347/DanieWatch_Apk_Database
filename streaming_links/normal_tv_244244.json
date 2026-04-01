@@ -1,6 +1,14 @@
 {
   "id": "244244",
   "type": "tv",
+  "title": "Run Away",
+  "poster": "https://image.tmdb.org/t/p/w342/frKxKytEHIA2vXg4RAz14Sc0UmS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1jBYTcOuiPNJsTcfYk66bbVLSBz.jpg",
+  "year": "2026",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

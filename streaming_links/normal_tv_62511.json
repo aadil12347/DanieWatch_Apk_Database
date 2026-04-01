@@ -1,6 +1,14 @@
 {
   "id": "62511",
   "type": "tv",
+  "title": "Who Are You: School 2015",
+  "poster": "https://image.tmdb.org/t/p/w342/snrF3YkSzsmUacDUtURKzZYZOfh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7Odgc3PdvRwIx7gvbePRk0vYvfF.jpg",
+  "year": "2015",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

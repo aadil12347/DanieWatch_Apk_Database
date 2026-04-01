@@ -1,6 +1,14 @@
 {
   "id": "200875",
   "type": "tv",
+  "title": "IT: Welcome to Derry",
+  "poster": "https://image.tmdb.org/t/p/w342/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2746UvsbkZINd873Yd3o3TxOwCP.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "91643",
   "type": "tv",
+  "title": "Girls' Frontline",
+  "poster": "https://image.tmdb.org/t/p/w342/hG7qq8ed3c3CdbybiFRU97O6l5u.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8yFwnqu64ufUMmGnw63Wq8YmYEu.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

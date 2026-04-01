@@ -1,6 +1,14 @@
 {
   "id": "301940",
   "type": "tv",
+  "title": "Kuttram Purindhavan",
+  "poster": "https://image.tmdb.org/t/p/w342/2ELw8en4H2PayT6B80kPAUGULXt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wyFde5LleXElpLLriTmztEGADgj.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

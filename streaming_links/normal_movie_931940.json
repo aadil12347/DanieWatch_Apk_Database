@@ -1,5 +1,13 @@
 {
   "id": "931940",
   "type": "movie",
+  "title": "The Fix",
+  "poster": "https://image.tmdb.org/t/p/w342/vY7bY2xZymoIOti4WM5K29OMzCS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4PXjYqkuBabnSAOaacAERf2D9zE.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/7sl9tc7pi0y6/the-fix-2024-720p-10bit-web-dl-hin-eng-x265-esub-daniewatch-hot\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

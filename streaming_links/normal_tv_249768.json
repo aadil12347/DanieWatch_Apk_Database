@@ -1,6 +1,14 @@
 {
   "id": "249768",
   "type": "tv",
+  "title": "Arabia Kadali",
+  "poster": "https://image.tmdb.org/t/p/w342/9pbnrMwfILtRo8kDalvXNOMtoJy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zCBDsNODV5VVtDMjGrAcW97FluZ.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

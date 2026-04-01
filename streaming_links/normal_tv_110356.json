@@ -1,6 +1,14 @@
 {
   "id": "110356",
   "type": "tv",
+  "title": "My Name",
+  "poster": "https://image.tmdb.org/t/p/w342/l3Bn2jgYndSFvcPpddqMxQXiiCe.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/x0eIZv8bJYjfTu7VkTOxHU8B91c.jpg",
+  "year": "2021",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "223952",
   "type": "tv",
+  "title": "Gutar Gu",
+  "poster": "https://image.tmdb.org/t/p/w342/pufzR7ryNgSDK88xsJTaihHSUzG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/sRR1IdmJL6C5nPD3SfZbj8EGIpr.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

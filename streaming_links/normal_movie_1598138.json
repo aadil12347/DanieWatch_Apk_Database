@@ -1,5 +1,13 @@
 {
   "id": "1598138",
   "type": "movie",
+  "title": "Red Letter",
+  "poster": "https://image.tmdb.org/t/p/w342/8qkYcdBA1XXs7vd9eCmSBmKb6c9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/r74Y9oHEUdlN0iZH2JwzYg3XtCj.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/t358s0drjr40/red-letter-2025-720p-web-dl-hindi-2-0-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

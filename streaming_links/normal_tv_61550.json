@@ -1,6 +1,14 @@
 {
   "id": "61550",
   "type": "tv",
+  "title": "Marvel's Agent Carter",
+  "poster": "https://image.tmdb.org/t/p/w342/fe79VYyLp5ZBstpJ4oukpuUT3B.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/MaQ7hbNsiJ30p14UgRdEnXDGMH.jpg",
+  "year": "2015",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

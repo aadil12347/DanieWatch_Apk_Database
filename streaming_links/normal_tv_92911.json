@@ -1,6 +1,14 @@
 {
   "id": "92911",
   "type": "tv",
+  "title": "Melting Me Softly",
+  "poster": "https://image.tmdb.org/t/p/w342/tci1NuarDuRJqCVKYzsX4FVUL91.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zMZ75Ui71g5QjDgEeFpn26bqDCA.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

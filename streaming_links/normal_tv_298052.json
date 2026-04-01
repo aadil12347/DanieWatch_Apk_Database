@@ -1,6 +1,14 @@
 {
   "id": "298052",
   "type": "tv",
+  "title": "Court Kacheri",
+  "poster": "https://image.tmdb.org/t/p/w342/vF8EPLO71t2eVdR3l7UgpMHrP3K.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hR6hgCTYi8VMXpRPGiWVYitUDYt.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

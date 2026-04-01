@@ -1,6 +1,14 @@
 {
   "id": "157741",
   "type": "tv",
+  "title": "Landman",
+  "poster": "https://image.tmdb.org/t/p/w342/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mh2UczqEXJJVgqohbyZbHTuxwhL.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

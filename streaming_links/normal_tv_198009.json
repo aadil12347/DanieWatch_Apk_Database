@@ -1,6 +1,14 @@
 {
   "id": "198009",
   "type": "tv",
+  "title": "Don't Be Shy",
+  "poster": "https://image.tmdb.org/t/p/w342/qqwkes8GEno52oewIF1rTE0jSA4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/nNZNb2LVYEgGzACkvJDGYf2eiDh.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

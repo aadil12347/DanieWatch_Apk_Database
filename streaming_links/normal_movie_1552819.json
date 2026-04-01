@@ -1,5 +1,13 @@
 {
   "id": "1552819",
   "type": "movie",
+  "title": "Assassin",
+  "poster": "https://image.tmdb.org/t/p/w342/fLRCNUz3MsnC0MdhaWpw3hp4Eye.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gZF6fDtE71Fi3AGcF0PSQAxCgE3.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/yq48q83m5yvp/Assassin__2025__Hindi_Dubbed_ORG_JHS_720p_-_DANIEWATCH\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

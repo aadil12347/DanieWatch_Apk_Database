@@ -1,5 +1,13 @@
 {
   "id": "851644",
   "type": "movie",
+  "title": "20th Century Girl",
+  "poster": "https://image.tmdb.org/t/p/w342/od22ftNnyag0TTxcnJhlsu3aLoU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/37y53Jt8K6MvN6s4zJVFa61luO2.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/23ux6j95t7bs/20th-century-girl-2022-720p-hevc-10bit-x265-nf-web-dl-multi-audio-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

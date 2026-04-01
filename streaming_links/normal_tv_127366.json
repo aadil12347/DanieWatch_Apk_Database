@@ -1,6 +1,14 @@
 {
   "id": "127366",
   "type": "tv",
+  "title": "Splinter Cell: Deathwatch",
+  "poster": "https://image.tmdb.org/t/p/w342/tgKYnJlze79IUKkPmtsW2nSUeeB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hyohgWwzIF7zrHdSS05evx4mqyU.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

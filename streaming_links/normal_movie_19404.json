@@ -1,5 +1,13 @@
 {
   "id": "19404",
   "type": "movie",
+  "title": "Dilwale Dulhania Le Jayenge",
+  "poster": "https://image.tmdb.org/t/p/w342/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zQDFHYNVVVp9OAYSixYAG1SyX1l.jpg",
+  "year": "1995",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/9162chdxepca/dilwale-dulhania-le-jayenge-1995-bluray-hindi-720p-aac-5-1-esub-daniewatch-nl\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

@@ -1,5 +1,13 @@
 {
   "id": "1403039",
   "type": "movie",
+  "title": "Maaman",
+  "poster": "https://image.tmdb.org/t/p/w342/a0BsRj9qQu8L2arBAHcbbfrVrB7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/aSN6JVqci5QdzuUU5M8IJQ2RKG7.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/m7pnll8nu3gt/maaman-2025-720p-web-dl-hindi-tamil-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

@@ -1,6 +1,14 @@
 {
   "id": "65143",
   "type": "tv",
+  "title": "Descendants of the Sun",
+  "poster": "https://image.tmdb.org/t/p/w342/s1zXuYyMMrgpet6BBrMqGlHnvc8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/o9Z8O0gdi6Qvvzk86RdnnBjBGDq.jpg",
+  "year": "2016",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

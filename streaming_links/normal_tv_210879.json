@@ -1,6 +1,14 @@
 {
   "id": "210879",
   "type": "tv",
+  "title": "Rurouni Kenshin",
+  "poster": "https://image.tmdb.org/t/p/w342/zT77Y6iQGmYGBqbhQi0ySD60o9i.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/xV0Xro8G20SgxYfGrXun26k7eVp.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,5 +1,13 @@
 {
   "id": "34851",
   "type": "movie",
+  "title": "Predators",
+  "poster": "https://image.tmdb.org/t/p/w342/wdniP8NDaJIydi1hMxhpbJMUfr6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/yVSgw4UyXWg0Edl7KMehdhhgIwL.jpg",
+  "year": "2010",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/rf2ugum5j266/Predators_2010_720p_BluRay_Hindi-English_x264_DANIEWATCH\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

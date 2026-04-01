@@ -1,5 +1,13 @@
 {
   "id": "1001311",
   "type": "movie",
+  "title": "Under Paris",
+  "poster": "https://image.tmdb.org/t/p/w342/qZPLK5ktRKa3CL4sKRZtj8UlPYc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/iwkWvcXcP8M4r9HLglhVEhgGyVu.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/ek99f0zp1il3/Under.Paris.2024.720P.Web-Dl.Hindi.English.x264.DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

@@ -1,5 +1,13 @@
 {
   "id": "1404864",
   "type": "movie",
+  "title": "Inspector Zende",
+  "poster": "https://image.tmdb.org/t/p/w342/dHGtwfVfY502veuMojfAkNbIBO9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6qd5asTVYH4MiKnEJ2RqUd0xp57.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/r1rvkydyhola/Inspector.Zende.2025.720p.NF.WEB-DL.AAC5.1.x264-DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

@@ -1,5 +1,13 @@
 {
   "id": "757725",
   "type": "movie",
+  "title": "Shadow Force",
+  "poster": "https://image.tmdb.org/t/p/w342/9LCpHFXZgkqp2AWiYq0mGbfZauk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lBsbWXGn9maPKGhN3fozTU3BH0r.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/4xq1vpy97p9d/Shadow.Force.2025.720p.Blu-Ray.Hindi.DD5.1-English.DD2.0.x264-DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

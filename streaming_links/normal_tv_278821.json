@@ -1,6 +1,14 @@
 {
   "id": "278821",
   "type": "tv",
+  "title": "Doosri Maa",
+  "poster": "https://image.tmdb.org/t/p/w342/ifxqx7irxHjn2G5Myn2k4PABrQD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/en3txzexqck8JgVlofpbsxzK8fQ.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

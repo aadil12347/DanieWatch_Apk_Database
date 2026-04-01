@@ -1,6 +1,14 @@
 {
   "id": "123249",
   "type": "tv",
+  "title": "My Dress-Up Darling",
+  "poster": "https://image.tmdb.org/t/p/w342/A6mxBwvvv63JXZm3xXKv4SugE0L.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gWPK2RIVJ6i3myf7Xdw8DqlznT8.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

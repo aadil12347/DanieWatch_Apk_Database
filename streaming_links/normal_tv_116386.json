@@ -1,6 +1,14 @@
 {
   "id": "116386",
   "type": "tv",
+  "title": "Doom at Your Service",
+  "poster": "https://image.tmdb.org/t/p/w342/tgsWD4dJI5YFY8Kyk6vVjZoIKfO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/uMLihaxfbeCvraDmER37t2jTNKi.jpg",
+  "year": "2021",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

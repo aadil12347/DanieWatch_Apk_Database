@@ -1,6 +1,14 @@
 {
   "id": "254017",
   "type": "tv",
+  "title": "YAIBA: Samurai Legend",
+  "poster": "https://image.tmdb.org/t/p/w342/cxD3FQP4hDU5hSABwdQCvGrrnz6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8anbNuU3e5PAvpfa8r26aZG7ubP.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "256317",
   "type": "tv",
+  "title": "Countdown",
+  "poster": "https://image.tmdb.org/t/p/w342/gcSNS5cy1iOmYawIdJCzoc873rQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4pxGvtwxDlATy9nvJMvYL8u25LZ.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

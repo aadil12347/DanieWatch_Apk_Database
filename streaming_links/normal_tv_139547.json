@@ -1,6 +1,14 @@
 {
   "id": "139547",
   "type": "tv",
+  "title": "Goodbye Earth",
+  "poster": "https://image.tmdb.org/t/p/w342/i1LvLQSKRoGlU5egMHagDtsZ4K1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/uXlxoe3ef5h2SlDlnLCOkizXq0B.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

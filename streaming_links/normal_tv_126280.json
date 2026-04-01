@@ -1,6 +1,14 @@
 {
   "id": "126280",
   "type": "tv",
+  "title": "Sex/Life",
+  "poster": "https://image.tmdb.org/t/p/w342/kfcJl5e8CRWDU7e4vX6uNABPRbS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/9nBVkNBe4x9HKDAzxjxlIqecxCW.jpg",
+  "year": "2021",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

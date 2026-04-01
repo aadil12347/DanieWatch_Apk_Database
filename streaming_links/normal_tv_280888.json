@@ -1,6 +1,14 @@
 {
   "id": "280888",
   "type": "tv",
+  "title": "Two Graves",
+  "poster": "https://image.tmdb.org/t/p/w342/bnERtXWzPaTRZfa0iEtvygiOrPP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/50ycQZGBRwVjVk0ZrERJRls2Wto.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

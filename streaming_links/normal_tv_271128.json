@@ -1,6 +1,14 @@
 {
   "id": "271128",
   "type": "tv",
+  "title": "The New Force",
+  "poster": "https://image.tmdb.org/t/p/w342/slACzBGkUWKHbU8bEwcR2Uvo1Ir.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jWUcTfpLo1nVBqBrbzZYP1hTMqf.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "205715",
   "type": "tv",
+  "title": "Gen V",
+  "poster": "https://image.tmdb.org/t/p/w342/tEv842Nd5uMSavURG4aQO1pNtst.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/tldMHeR7UnihV5ffrxxM8cDhbtT.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

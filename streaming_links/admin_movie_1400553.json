@@ -2,8 +2,9 @@
   "id": "1400553",
   "type": "movie",
   "title": "Sweet Dreams",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/fMsr2NPNghX76VML7xb1FdRzU1P.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/pYU35lHyG4UHoArxFtWu4bIhVcH.jpg",
+  "year": "2025",
   "result": "HD",
   "language": [
     "Hindi"

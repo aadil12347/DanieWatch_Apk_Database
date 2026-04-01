@@ -1,5 +1,13 @@
 {
   "id": "13460",
   "type": "movie",
+  "title": "Doomsday",
+  "poster": "https://image.tmdb.org/t/p/w342/cKUmTyXgmhv8cMRCY9RYTKcAeTn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2GmnhciVW262POiTCx43TTSvys3.jpg",
+  "year": "2008",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/8hgud1smqg4j/Doomsday_2008_720p_Blu-Ray_Hindi-English_x264-DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

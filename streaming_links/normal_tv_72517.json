@@ -1,6 +1,14 @@
 {
   "id": "72517",
   "type": "tv",
+  "title": "Classroom of the Elite",
+  "poster": "https://image.tmdb.org/t/p/w342/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/c2sl2dLlyFFeb18pJtOpBD8cidr.jpg",
+  "year": "2017",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

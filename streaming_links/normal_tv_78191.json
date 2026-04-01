@@ -1,6 +1,14 @@
 {
   "id": "78191",
   "type": "tv",
+  "title": "You",
+  "poster": "https://image.tmdb.org/t/p/w342/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gzOIymABxmetAECXtazEYCpMmfb.jpg",
+  "year": "2018",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

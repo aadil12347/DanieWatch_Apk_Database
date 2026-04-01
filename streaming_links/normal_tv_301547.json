@@ -1,6 +1,14 @@
 {
   "id": "301547",
   "type": "tv",
+  "title": "Janaawar - The Beast Within",
+  "poster": "https://image.tmdb.org/t/p/w342/s1yubL1BWB8vCpGAoQ7plRit5bQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lFxBdBnaPgkbfU9mXIkbx1t0sPj.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

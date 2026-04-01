@@ -2,8 +2,9 @@
   "id": "1273049",
   "type": "movie",
   "title": "Dragon",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/vKNJPuejtE6Xrp6RK6LKsQcbL8L.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8y8pxJwYEK1WvQAfoZTwC601eD8.jpg",
+  "year": "2025",
   "result": "HD",
   "language": [
     "Hindi"

@@ -1,6 +1,14 @@
 {
   "id": "246485",
   "type": "tv",
+  "title": "The Dead Girls",
+  "poster": "https://image.tmdb.org/t/p/w342/29VlRRFkGiFJFRZJBrYGPF2Ypz9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rmIQiFYnTDttJMehqkw2GEaO18Y.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

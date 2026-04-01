@@ -1,6 +1,14 @@
 {
   "id": "217667",
   "type": "tv",
+  "title": "Eric",
+  "poster": "https://image.tmdb.org/t/p/w342/9OV6McrRh1BAnrak3yVP9xYuUId.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2eX8Lx5VAl7ZKhwd5WOuGYwa3PW.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

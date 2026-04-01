@@ -1,6 +1,14 @@
 {
   "id": "292625",
   "type": "tv",
+  "title": "Single Papa",
+  "poster": "https://image.tmdb.org/t/p/w342/kSj4h1uVAKGn9yVjJTC1tQGcnoZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gnOvCMpd2NTl99zTF3rAndq9RY0.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

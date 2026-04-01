@@ -2,8 +2,9 @@
   "id": "1112417",
   "type": "movie",
   "title": "Test",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/8jZaBr3dTIW8N4D6F4Cprssfm7V.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/eExaW68UXzJMDQP9Ekyc3wn9h1Z.jpg",
+  "year": "2025",
   "result": "HD",
   "language": [
     "Hindi"

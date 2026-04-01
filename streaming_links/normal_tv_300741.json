@@ -1,6 +1,14 @@
 {
   "id": "300741",
   "type": "tv",
+  "title": "The Game: You Never Play Alone",
+  "poster": "https://image.tmdb.org/t/p/w342/c7WlnmjQvcKIoaUtOzzb951Hc5E.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hDsoCUGGPB0F8MddjII2RuhNVr1.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

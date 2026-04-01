@@ -1,5 +1,13 @@
 {
   "id": "719221",
   "type": "movie",
+  "title": "Tarot",
+  "poster": "https://image.tmdb.org/t/p/w342/gAEUXC37vl1SnM7PXsHTF23I2vq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/otfoeC96neoOdA4HqsX06OWuzE9.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/st991auqkrzn/Tarot.2024.720p.WEB-DL.HIN.x264.ESub-DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

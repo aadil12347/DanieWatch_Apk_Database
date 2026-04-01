@@ -1,6 +1,14 @@
 {
   "id": "94954",
   "type": "tv",
+  "title": "Hazbin Hotel",
+  "poster": "https://image.tmdb.org/t/p/w342/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/tuCU2yVRM2iZxFkpqlPUyvd6tSu.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

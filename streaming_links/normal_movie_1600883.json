@@ -1,5 +1,13 @@
 {
   "id": "1600883",
   "type": "movie",
+  "title": "Dhandoraa",
+  "poster": "https://image.tmdb.org/t/p/w342/hs3wQWyXPQEHxnMjXOXRoHY0dOG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/81CU1x2f7hUsZF6WeCo6WQxYx7K.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/n5gy00eycwfi/dhandoraa-2025-720p-amzn-web-dl-dual-ddp5-1-h-264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

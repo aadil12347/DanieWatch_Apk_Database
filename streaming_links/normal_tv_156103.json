@@ -1,6 +1,14 @@
 {
   "id": "156103",
   "type": "tv",
+  "title": "Shining For One Thing",
+  "poster": "https://image.tmdb.org/t/p/w342/1J4cANgkYDHsC6etlwMLatUDUWN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mvLYY6YeY5RRdjAfjRpJieJIhWb.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

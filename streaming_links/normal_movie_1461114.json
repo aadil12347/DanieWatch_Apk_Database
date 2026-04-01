@@ -1,5 +1,13 @@
 {
   "id": "1461114",
   "type": "movie",
+  "title": "The Door",
+  "poster": "https://image.tmdb.org/t/p/w342/2fTLOS6y3v8SCbkFFRagmYXVZTm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/3mzwKfsMrTnXy803IKcQZhg7K9L.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/jmvqjsvnsh9q/the-door-2025-720p-amzn-web-dl-hindi-dd2-0-tamil-dd5-1-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

@@ -1,6 +1,14 @@
 {
   "id": "230198",
   "type": "tv",
+  "title": "Wedding Impossible",
+  "poster": "https://image.tmdb.org/t/p/w342/auP4DnCCUHNH1CBlpL8TWBZya2f.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hUYwU0BPzhUQ1uupaHW13SnUtRo.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

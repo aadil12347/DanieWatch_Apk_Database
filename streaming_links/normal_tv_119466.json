@@ -1,6 +1,14 @@
 {
   "id": "119466",
   "type": "tv",
+  "title": "Youth of May",
+  "poster": "https://image.tmdb.org/t/p/w342/xf1JGvmWM1H5XoK8DvxXRAKjRkr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/iUKE5eW68Rv560jY77tHVZVAyjW.jpg",
+  "year": "2021",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

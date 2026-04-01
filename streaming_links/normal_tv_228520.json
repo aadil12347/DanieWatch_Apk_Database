@@ -1,6 +1,14 @@
 {
   "id": "228520",
   "type": "tv",
+  "title": "My Marvellous Fable",
+  "poster": "https://image.tmdb.org/t/p/w342/4KfIWmhkrhpomhbEFDpbDFEtDhj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1OCqKSrX2VC1gJo9eITi49b03BS.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

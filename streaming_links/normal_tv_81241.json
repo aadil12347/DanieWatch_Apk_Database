@@ -1,6 +1,14 @@
 {
   "id": "81241",
   "type": "tv",
+  "title": "Dispatches from Elsewhere",
+  "poster": "https://image.tmdb.org/t/p/w342/kWskCna5DnRutdc66XERYFGek5s.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ihQZnWgsTUzgm1Cjr94y7sdwlDl.jpg",
+  "year": "2020",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

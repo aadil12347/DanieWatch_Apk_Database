@@ -1,6 +1,14 @@
 {
   "id": "245648",
   "type": "tv",
+  "title": "Billionaires' Bunker",
+  "poster": "https://image.tmdb.org/t/p/w342/hNVb60dPG34wYjazGgFolJhqfxp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cyqKNRLFKCN9Y28ln38hLMESGEj.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

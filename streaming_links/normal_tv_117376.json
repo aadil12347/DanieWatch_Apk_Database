@@ -1,6 +1,14 @@
 {
   "id": "117376",
   "type": "tv",
+  "title": "Vincenzo",
+  "poster": "https://image.tmdb.org/t/p/w342/dvXJgEDQXhL9Ouot2WkBHpQiHGd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/sf7NCqyVUNoyjYuwW5oJke1T1lH.jpg",
+  "year": "2021",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

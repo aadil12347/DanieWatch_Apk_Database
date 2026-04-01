@@ -1,6 +1,14 @@
 {
   "id": "250307",
   "type": "tv",
+  "title": "The Pitt",
+  "poster": "https://image.tmdb.org/t/p/w342/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6uPBHw488MUW6x51zZ2OCJo6Dgp.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

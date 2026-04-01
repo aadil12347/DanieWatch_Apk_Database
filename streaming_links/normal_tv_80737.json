@@ -1,6 +1,14 @@
 {
   "id": "80737",
   "type": "tv",
+  "title": "My ID is Gangnam Beauty",
+  "poster": "https://image.tmdb.org/t/p/w342/8lj40cE1DhW9jBe07fOI18MDQDK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/eNK7aolIJ75W7tNeh5I0An14rtg.jpg",
+  "year": "2018",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

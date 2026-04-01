@@ -1,6 +1,14 @@
 {
   "id": "297310",
   "type": "tv",
+  "title": "Mayasabha",
+  "poster": "https://image.tmdb.org/t/p/w342/ddhOEoAqefgzcxlx5hIvkFpF9cw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/nofMFwwxPMkv76NqrbvoAVwiH4J.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

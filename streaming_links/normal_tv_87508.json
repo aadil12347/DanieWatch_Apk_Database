@@ -1,6 +1,14 @@
 {
   "id": "87508",
   "type": "tv",
+  "title": "Delhi Crime",
+  "poster": "https://image.tmdb.org/t/p/w342/xkpkTj6KGsjSaet0VQaq0aTn31D.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/j6djmR4hi8ULL0xUPQN4ZVyzgVN.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

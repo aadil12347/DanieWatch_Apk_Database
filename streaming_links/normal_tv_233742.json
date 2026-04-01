@@ -1,6 +1,14 @@
 {
   "id": "233742",
   "type": "tv",
+  "title": "Newtopia",
+  "poster": "https://image.tmdb.org/t/p/w342/cIC36RA59lg9ruYtPc7UA3f72yy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/olRPEYjyjzoMAODjOMjF2K1VlzO.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

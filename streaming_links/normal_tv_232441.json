@@ -1,6 +1,14 @@
 {
   "id": "232441",
   "type": "tv",
+  "title": "You Are Desire",
+  "poster": "https://image.tmdb.org/t/p/w342/93J5YpXVuu67zMbBBWJl7hUtuSp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ikRi5Oa7fm7kNplsOjvuj0JOzwF.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

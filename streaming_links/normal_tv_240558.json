@@ -1,6 +1,14 @@
 {
   "id": "240558",
   "type": "tv",
+  "title": "King & Conqueror",
+  "poster": "https://image.tmdb.org/t/p/w342/8SW0c0tUFWjpWBz2UYr0U57a8kB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bEhOXB2Pmda0tgRya5tLEaDr1qY.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

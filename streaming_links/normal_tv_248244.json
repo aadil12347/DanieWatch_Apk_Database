@@ -1,6 +1,14 @@
 {
   "id": "248244",
   "type": "tv",
+  "title": "Undercover High School",
+  "poster": "https://image.tmdb.org/t/p/w342/vXAWUI1pYrBvZoUarGxWj1mtlXp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lAOiaHI5OoY1t4L5rcmwaf1HkLs.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,5 +1,13 @@
 {
   "id": "1154990",
   "type": "movie",
+  "title": "Web",
+  "poster": "https://image.tmdb.org/t/p/w342/lU1Brm86Ez7JM16HEpH74Sxvtbd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vrnXyXNz51YPTMc5uKJFNr3z2CY.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/1nnsiyw3xlnq/Web_2023_720p_WEB-DL_HIN-TAM_x264-_DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

@@ -1,6 +1,14 @@
 {
   "id": "66732",
   "type": "tv",
+  "title": "Stranger Things",
+  "poster": "https://image.tmdb.org/t/p/w342/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8zbAoryWbtH0DKdev8abFAjdufy.jpg",
+  "year": "2016",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "203045",
   "type": "tv",
+  "title": "Paradox Live THE ANIMATION",
+  "poster": "https://image.tmdb.org/t/p/w342/tlPG08mmtFPb6K0PpymddXvuzzt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7o116hjdaWQzEaRT4SfH4F6nohN.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

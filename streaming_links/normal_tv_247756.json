@@ -1,6 +1,14 @@
 {
   "id": "247756",
   "type": "tv",
+  "title": "The Monster of Florence",
+  "poster": "https://image.tmdb.org/t/p/w342/1RRBxq1hEC7rKIp4yac96F9ObL5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/nYYJBixUNZAk4lmWdE5NBUfIMuw.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "244416",
   "type": "tv",
+  "title": "Malice",
+  "poster": "https://image.tmdb.org/t/p/w342/fKhHzRk1VIJY1nz1cRhAfAaYfnA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/AsWevUaVrwK1kiJFAoo9YKMgYty.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

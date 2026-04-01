@@ -1,6 +1,14 @@
 {
   "id": "99654",
   "type": "tv",
+  "title": "18 Again",
+  "poster": "https://image.tmdb.org/t/p/w342/AwoC5PiNdi1RZTZTgOGGdHqCzrC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hGtx3dAB6x0ShXpDk4BBvt74Mtx.jpg",
+  "year": "2020",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

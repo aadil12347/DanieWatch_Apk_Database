@@ -1,6 +1,14 @@
 {
   "id": "217553",
   "type": "tv",
+  "title": "The Trauma Code: Heroes on Call",
+  "poster": "https://image.tmdb.org/t/p/w342/y8h2RwUZM5chv9tuaKVwSPoo3KE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

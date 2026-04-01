@@ -1,6 +1,14 @@
 {
   "id": "291212",
   "type": "tv",
+  "title": "Murder Drones",
+  "poster": "https://image.tmdb.org/t/p/w342/ldUmo0NPUqEeTeJ6KdBkZudMtPu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mMG0DpazsIUMIhNhVMBP3odZHeI.jpg",
+  "year": "2021",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

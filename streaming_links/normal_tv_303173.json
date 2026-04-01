@@ -1,6 +1,14 @@
 {
   "id": "303173",
   "type": "tv",
+  "title": "MARINES",
+  "poster": "https://image.tmdb.org/t/p/w342/rpXGvTyNT6Crsu5ZzCy1h1SgRep.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kCf0Ydkeue3vnRljYxMRhigU2nx.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

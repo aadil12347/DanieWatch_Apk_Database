@@ -1,6 +1,14 @@
 {
   "id": "294240",
   "type": "tv",
+  "title": "First Copy",
+  "poster": "https://image.tmdb.org/t/p/w342/n0IlJt6HYjtivIF8vrW9MR0VUqy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/oszAbYBerWBpQvhIEcDvODD9BBo.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

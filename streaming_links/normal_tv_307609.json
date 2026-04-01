@@ -1,6 +1,14 @@
 {
   "id": "307609",
   "type": "tv",
+  "title": "Rasmalai",
+  "poster": "https://image.tmdb.org/t/p/w342/tK65NmtV9Yhe4A5AN3PgZ31s280.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6NekSeltjJoInpiRpgyD9uHYuUd.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "300369",
   "type": "tv",
+  "title": "IPC - The Ratnagiri Files",
+  "poster": "https://image.tmdb.org/t/p/w342/gLm4yud1TbTNzuvPpdgP00HE0CE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4lJ3kmTSuh23XobTVc7AYmqDLfc.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "95594",
   "type": "tv",
+  "title": "Fast & Furious Spy Racers",
+  "poster": "https://image.tmdb.org/t/p/w342/cI7zYWuYTmKEdXITcUKPzjc2EW5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/9aWSpBqMrlrr8yaydSEgNJjIruG.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

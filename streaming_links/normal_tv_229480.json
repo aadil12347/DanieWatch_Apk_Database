@@ -1,6 +1,14 @@
 {
   "id": "229480",
   "type": "tv",
+  "title": "No Gain No Love",
+  "poster": "https://image.tmdb.org/t/p/w342/jiGxkMP3lzPDaPw4F0EZAEiTSgL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hZ9ZogCxUnhHGi6epCeeG9xphJj.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

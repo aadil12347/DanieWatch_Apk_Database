@@ -1,6 +1,14 @@
 {
   "id": "199001",
   "type": "tv",
+  "title": "My Life with the Walter Boys",
+  "poster": "https://image.tmdb.org/t/p/w342/jg3YdxDNlxay0NWTxgAPif647Hj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "132117",
   "type": "tv",
+  "title": "Farzi",
+  "poster": "https://image.tmdb.org/t/p/w342/cTS86RwEBIDgCgUmjWQTSoPsK6p.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rGkjtv6UdL1ysDmZuBjbNl3PAA1.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

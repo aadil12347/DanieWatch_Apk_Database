@@ -1,5 +1,13 @@
 {
   "id": "496524",
   "type": "movie",
+  "title": "Simmba",
+  "poster": "https://image.tmdb.org/t/p/w342/ulQO4XJ1xlWdl4vX8Lr3SbWRfZw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1oEBCKVKC49By9RBTbsae8RO9Nh.jpg",
+  "year": "2018",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/9jott37wu535/simmba-2018-720p-bluray-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

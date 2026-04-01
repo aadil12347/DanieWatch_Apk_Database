@@ -1,6 +1,14 @@
 {
   "id": "232018",
   "type": "tv",
+  "title": "Paris Has Fallen",
+  "poster": "https://image.tmdb.org/t/p/w342/ei1jnjJ154XN1E4q9JKEpuEImup.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/v0eBR7tZIWQKNtb2MyJtAji5OjA.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

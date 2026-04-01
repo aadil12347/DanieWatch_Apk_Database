@@ -1,6 +1,14 @@
 {
   "id": "60863",
   "type": "tv",
+  "title": "Haikyu!!",
+  "poster": "https://image.tmdb.org/t/p/w342/rBXEmHQaYoIAyOWRpu8v3cBGKcT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+  "year": "2014",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

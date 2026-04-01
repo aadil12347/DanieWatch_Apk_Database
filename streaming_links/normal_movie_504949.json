@@ -1,5 +1,13 @@
 {
   "id": "504949",
   "type": "movie",
+  "title": "The King",
+  "poster": "https://image.tmdb.org/t/p/w342/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/pmwTANjISHvxOmO3iz5kRGAArso.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/fgidjzj4k8ep/the-king-2019-720p-10bit-hevc-hindi-english-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

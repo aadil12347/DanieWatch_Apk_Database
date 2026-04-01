@@ -1,6 +1,14 @@
 {
   "id": "219652",
   "type": "tv",
+  "title": "The Frog",
+  "poster": "https://image.tmdb.org/t/p/w342/uMl2TzRs1LzTR9jyRNHnf5keqMV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ea6lO0I2wOtC0SiHWZPfg9zRKZo.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

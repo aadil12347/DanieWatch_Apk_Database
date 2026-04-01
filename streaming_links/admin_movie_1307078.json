@@ -2,8 +2,9 @@
   "id": "1307078",
   "type": "movie",
   "title": "My Oxford Year",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/jrhXbIOFingzdLjkccjg9vZnqIp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/A466i5iATrpbVjX30clP1Zyfp31.jpg",
+  "year": "2025",
   "result": "HD",
   "language": [
     "Hindi"

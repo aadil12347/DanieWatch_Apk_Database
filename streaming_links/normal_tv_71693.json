@@ -1,6 +1,14 @@
 {
   "id": "71693",
   "type": "tv",
+  "title": "Blood Drive",
+  "poster": "https://image.tmdb.org/t/p/w342/qB9PBQMyKrp8diKGxVpfayKZbgd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/x0lANLygpQ4imAkSEihmcAkJ3qK.jpg",
+  "year": "2017",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

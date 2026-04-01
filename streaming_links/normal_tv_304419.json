@@ -1,6 +1,14 @@
 {
   "id": "304419",
   "type": "tv",
+  "title": "Deewangi",
+  "poster": "https://image.tmdb.org/t/p/w342/gKrrOEqrkl7nz4KEzucWPvRTvnO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/27Zb6xXAFkRnwFGPzwqSWBIqQUl.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

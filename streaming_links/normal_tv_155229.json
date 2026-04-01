@@ -1,6 +1,14 @@
 {
   "id": "155229",
   "type": "tv",
+  "title": "Cheer Up",
+  "poster": "https://image.tmdb.org/t/p/w342/agyQFkNKBExKYiIealedXNDIDqn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/43FSu75gWQfCQjyM9YB6zGOCNZ8.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

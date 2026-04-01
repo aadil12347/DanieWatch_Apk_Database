@@ -1,6 +1,14 @@
 {
   "id": "294178",
   "type": "tv",
+  "title": "Good Wife",
+  "poster": "https://image.tmdb.org/t/p/w342/7Z6yxgUaiIsOcIrVeuAbDvwIYej.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mdZ0JGxbuOX02Agvlg8uZ035JV4.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

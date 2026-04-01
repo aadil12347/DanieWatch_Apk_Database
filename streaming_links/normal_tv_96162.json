@@ -1,6 +1,14 @@
 {
   "id": "96162",
   "type": "tv",
+  "title": "Itaewon Class",
+  "poster": "https://image.tmdb.org/t/p/w342/qg7q0piY0fTt2enlIRHwKKRwNjS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rtYQCa2NzX8RspbOmwfAla6BemO.jpg",
+  "year": "2020",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

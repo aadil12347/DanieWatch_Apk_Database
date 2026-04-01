@@ -1,6 +1,14 @@
 {
   "id": "222667",
   "type": "tv",
+  "title": "Hunter - Tootega Nahi, Todega",
+  "poster": "https://image.tmdb.org/t/p/w342/69waAUsnOMEQJUZgsuWDycrRGnG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/xKIS5Dd0UyVAMb4UGnIGdjKLJ2J.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,5 +1,13 @@
 {
   "id": "668391",
   "type": "movie",
+  "title": "Seeru",
+  "poster": "https://image.tmdb.org/t/p/w342/4sK86QGqPib9rq3Ux8DcUVCkQRj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zDNe9Nu2vXmvvxmTDP0MHycvw9M.jpg",
+  "year": "2020",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/blcfug392z7j/Seeru_2022_720p_SONYLIV_WEB-DL_Hindi_AAC2_0_H_264-DANIEWATCH\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

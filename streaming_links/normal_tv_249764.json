@@ -1,6 +1,14 @@
 {
   "id": "249764",
   "type": "tv",
+  "title": "Rangeen",
+  "poster": "https://image.tmdb.org/t/p/w342/nlrZpxGg7Wn1cbJGc0EQe4PHODn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5s0Z3ojOGetN2ivApZKJnAbz73a.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

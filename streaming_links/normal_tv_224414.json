@@ -1,6 +1,14 @@
 {
   "id": "224414",
   "type": "tv",
+  "title": "You and Everything Else",
+  "poster": "https://image.tmdb.org/t/p/w342/o6h56VuZMmBDxmpRGwCYqGkMGCj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5Ia4bJ0GuAn84H98CCtWMRVCTAF.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "77284",
   "type": "tv",
+  "title": "Tempted",
+  "poster": "https://image.tmdb.org/t/p/w342/asRKD4SlynwMgvl9XXasNoktZoP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/uiVNZz9qSpNf6iGCznIPpAefijV.jpg",
+  "year": "2018",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

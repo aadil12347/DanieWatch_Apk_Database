@@ -1,5 +1,13 @@
 {
   "id": "1132491",
   "type": "movie",
+  "title": "Triggered",
+  "poster": "https://image.tmdb.org/t/p/w342/50g702Thykuc49lhVpz4zMSpPtL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lC6l36m9M9343mqC9coouVbNwGe.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/jmhpo6pwg54c/Topakk.AKA.Triggered.2023.720p.WEB-DL.HIN-FIL.x264.ESub-DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

@@ -1,6 +1,14 @@
 {
   "id": "82817",
   "type": "tv",
+  "title": "Go Go Squid!",
+  "poster": "https://image.tmdb.org/t/p/w342/xWnuIoWFejrYJXeEyJYUH4ILlVo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/yO2IbbpnwcTdEOeNv4uyEHYdJPr.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

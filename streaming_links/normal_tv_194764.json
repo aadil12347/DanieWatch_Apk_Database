@@ -1,6 +1,14 @@
 {
   "id": "194764",
   "type": "tv",
+  "title": "The Penguin",
+  "poster": "https://image.tmdb.org/t/p/w342/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4TdmuuwiIiKw3JOjIuhdgYxRXnN.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

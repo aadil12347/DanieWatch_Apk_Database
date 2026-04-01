@@ -1,6 +1,14 @@
 {
   "id": "240437",
   "type": "tv",
+  "title": "My Boss",
+  "poster": "https://image.tmdb.org/t/p/w342/27mXtbvk9lNpq5zC3dRzOX9Zb0c.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/nTMNnL7WQfmUN5O2sydtNSuwrEN.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "243826",
   "type": "tv",
+  "title": "Pharma",
+  "poster": "https://image.tmdb.org/t/p/w342/hQWT47GFQyvO1tFqx6IgCOvrrr8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/n1qDEYpr3pq7bJ9GGaF9zVNjdNq.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

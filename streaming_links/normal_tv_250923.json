@@ -1,6 +1,14 @@
 {
   "id": "250923",
   "type": "tv",
+  "title": "Nobody Wants This",
+  "poster": "https://image.tmdb.org/t/p/w342/cUpIceeJJoRqUHSCzh6jRSmlpkA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/q8BwtVM3t0SOtB1nZsXpOKZp8IM.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

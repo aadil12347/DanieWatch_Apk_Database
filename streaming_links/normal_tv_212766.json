@@ -1,6 +1,14 @@
 {
   "id": "212766",
   "type": "tv",
+  "title": "New Saga",
+  "poster": "https://image.tmdb.org/t/p/w342/dmZ74VyWi3I8ZqJ1m3Fmcc1etgp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/u9p6IIYllP8gwZB2URx08jIYdvZ.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

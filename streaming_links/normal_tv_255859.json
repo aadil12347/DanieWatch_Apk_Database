@@ -1,6 +1,14 @@
 {
   "id": "255859",
   "type": "tv",
+  "title": "Wayward",
+  "poster": "https://image.tmdb.org/t/p/w342/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/znwchNfU5Vr2RNbxnI2iVIxVeMD.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

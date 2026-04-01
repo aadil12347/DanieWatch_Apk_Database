@@ -1,5 +1,13 @@
 {
   "id": "157336",
   "type": "movie",
+  "title": "Interstellar",
+  "poster": "https://image.tmdb.org/t/p/w342/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5XNQBqnBwPA9yT0jZ0p3s8bbLh0.jpg",
+  "year": "2014",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/9f42jmdz57ch/interstellar-2014-bluray-imax-720p-x265-hevc-10bit-hindi-english-aac-5-1-esub-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

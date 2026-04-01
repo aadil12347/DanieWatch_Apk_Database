@@ -1,6 +1,14 @@
 {
   "id": "74785",
   "type": "tv",
+  "title": "Two Cops",
+  "poster": "https://image.tmdb.org/t/p/w342/eOxQhCu8tSXDhbfkTlny3dgLjnA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/w2eE1FKQm2xrLPU4lIugyRmu3yJ.jpg",
+  "year": "2017",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

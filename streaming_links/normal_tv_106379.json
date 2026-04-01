@@ -1,6 +1,14 @@
 {
   "id": "106379",
   "type": "tv",
+  "title": "Fallout",
+  "poster": "https://image.tmdb.org/t/p/w342/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kh6nOfQ6fmYyzHep2NHvdDaaIMb.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

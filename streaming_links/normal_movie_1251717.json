@@ -1,5 +1,13 @@
 {
   "id": "1251717",
   "type": "movie",
+  "title": "Vicious",
+  "poster": "https://image.tmdb.org/t/p/w342/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/da1mXvCrQrFcw6BxovCavBFbIvz.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/w3swu6zzszj2/Vicious_2025_720p_WEB-DL_HIN-ENG_x264_ESub-_DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

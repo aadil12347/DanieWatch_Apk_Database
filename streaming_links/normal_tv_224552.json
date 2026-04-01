@@ -1,6 +1,14 @@
 {
   "id": "224552",
   "type": "tv",
+  "title": "Love of Replica",
+  "poster": "https://image.tmdb.org/t/p/w342/9B9Ap6NbGlikEA8B01WfilAsXT9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7MObAC55fQQfD2g8sySIVIEYqHk.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

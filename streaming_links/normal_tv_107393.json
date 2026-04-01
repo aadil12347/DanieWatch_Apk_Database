@@ -1,6 +1,14 @@
 {
   "id": "107393",
   "type": "tv",
+  "title": "Twenty-Twenty",
+  "poster": "https://image.tmdb.org/t/p/w342/5iX4K96n5oRLK6q27fXzU3qn7Wu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/uWEwfHpfKMJQX7oOsoUMUFzEW99.jpg",
+  "year": "2020",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

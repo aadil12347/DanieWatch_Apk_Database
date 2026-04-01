@@ -1,6 +1,14 @@
 {
   "id": "240411",
   "type": "tv",
+  "title": "Dan Da Dan",
+  "poster": "https://image.tmdb.org/t/p/w342/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

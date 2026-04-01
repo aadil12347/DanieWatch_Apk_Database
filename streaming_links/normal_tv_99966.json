@@ -1,6 +1,14 @@
 {
   "id": "99966",
   "type": "tv",
+  "title": "All of Us Are Dead",
+  "poster": "https://image.tmdb.org/t/p/w342/pTEFqAjLd5YTsMD6NSUxV6Dq7A6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8hp2CuGnw1iP5dLBVMAPUv23swx.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

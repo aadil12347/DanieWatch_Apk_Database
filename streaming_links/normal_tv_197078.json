@@ -1,6 +1,14 @@
 {
   "id": "197078",
   "type": "tv",
+  "title": "Summer Strike",
+  "poster": "https://image.tmdb.org/t/p/w342/ge4M0QHCfegOETAkjAKZroo82Rr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/iieGhNugDWRZwCWYspqqoF3HAlI.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

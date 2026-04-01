@@ -1,5 +1,13 @@
 {
   "id": "1224993",
   "type": "movie",
+  "title": "Dark Nuns",
+  "poster": "https://image.tmdb.org/t/p/w342/2Abt2GgscAGtGAXTrhH44qPhugI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/xIB0jjWBuURB0K2Pr91VsjUNYsY.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/tfopu4e0js5m/Dark.Nuns.2025.720p.JH.WEB-DL.English_Hindi.AAC2.0.H.264-DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

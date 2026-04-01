@@ -1,5 +1,13 @@
 {
   "id": "10601",
   "type": "movie",
+  "title": "Peter Pan",
+  "poster": "https://image.tmdb.org/t/p/w342/6QdU3TZZrIvXFzoHOwafZAynFjB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zyWbOvKCdA9V9P5xuUG2eiPYsUo.jpg",
+  "year": "2003",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/7vvah7mebddq/Peter.Pan.2003.BluRay.720p.x265.HEVC.10bit.Hindi.2.0.English.5.1.AAC.ESub.DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

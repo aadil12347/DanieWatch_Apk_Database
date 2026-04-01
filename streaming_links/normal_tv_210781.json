@@ -1,6 +1,14 @@
 {
   "id": "210781",
   "type": "tv",
+  "title": "My Lovely Liar",
+  "poster": "https://image.tmdb.org/t/p/w342/msYlN0cIpuTKlWYnEStdoBuHmvX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wF7v6JeKOVdb5sERUvN4Z2hH2SV.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

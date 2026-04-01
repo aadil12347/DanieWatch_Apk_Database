@@ -1,6 +1,14 @@
 {
   "id": "214078",
   "type": "tv",
+  "title": "Shahmaran",
+  "poster": "https://image.tmdb.org/t/p/w342/Syz73lDTw9A4AeUIVDJvaYbXJh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bkdZHK0Nh1YaRXkk2j8vUGYQd6i.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

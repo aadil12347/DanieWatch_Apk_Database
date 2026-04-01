@@ -1,6 +1,14 @@
 {
   "id": "262281",
   "type": "tv",
+  "title": "Victoria Beckham",
+  "poster": "https://image.tmdb.org/t/p/w342/dJjWMwWk86zMGPQlMvAsptVEDYm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8yy8zWNVESHVcs0azqfDH4sLqk6.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

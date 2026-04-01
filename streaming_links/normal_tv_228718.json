@@ -1,6 +1,14 @@
 {
   "id": "228718",
   "type": "tv",
+  "title": "The Trial",
+  "poster": "https://image.tmdb.org/t/p/w342/3IuvPJWRLDsqPjWZu02BLGG38tw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/uS7bsxxCn8XbAGsw1H6nQgw8QN8.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

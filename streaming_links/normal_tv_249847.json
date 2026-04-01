@@ -1,6 +1,14 @@
 {
   "id": "249847",
   "type": "tv",
+  "title": "Miss Target",
+  "poster": "https://image.tmdb.org/t/p/w342/tcKysgvfk1kS84wdxMlJBK6KQIX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/w7HyNk48WV3xAXK0zKUCaxkxjnY.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

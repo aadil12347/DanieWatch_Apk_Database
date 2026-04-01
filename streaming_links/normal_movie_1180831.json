@@ -1,5 +1,13 @@
 {
   "id": "1180831",
   "type": "movie",
+  "title": "Troll 2",
+  "poster": "https://image.tmdb.org/t/p/w342/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/1st50nphcmmz/Troll.2.2025.720p.NF.HIN-ENG.WEB-DL.x264-Vegamovies.Hot.mkv\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

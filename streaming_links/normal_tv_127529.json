@@ -1,6 +1,14 @@
 {
   "id": "127529",
   "type": "tv",
+  "title": "Bloodhounds",
+  "poster": "https://image.tmdb.org/t/p/w342/3uflkuhQUh2pnT2V8YgsDkjMfrT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/b2iWqSFpuy9CS5XWiAmnLzNv9eP.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

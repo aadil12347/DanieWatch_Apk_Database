@@ -1,6 +1,14 @@
 {
   "id": "45790",
   "type": "tv",
+  "title": "JoJo's Bizarre Adventure",
+  "poster": "https://image.tmdb.org/t/p/w342/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
+  "year": "2012",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

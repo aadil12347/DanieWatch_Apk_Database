@@ -1,5 +1,13 @@
 {
   "id": "1234731",
   "type": "movie",
+  "title": "Anaconda",
+  "poster": "https://image.tmdb.org/t/p/w342/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/og8hxm2tvia5/anaconda-2025-v2-hq-predvd-720p-hin-eng-hq-clean-aac-daniewatch-hot\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

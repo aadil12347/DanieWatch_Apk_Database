@@ -1,6 +1,14 @@
 {
   "id": "110966",
   "type": "tv",
+  "title": "Perfect and Casual",
+  "poster": "https://image.tmdb.org/t/p/w342/hcuxSkKXkBgHlSJWPTDy9m9vDzI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wRZZCP33wVM4JhnxClnUH35jueE.jpg",
+  "year": "2020",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

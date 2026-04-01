@@ -1,5 +1,13 @@
 {
   "id": "1239655",
   "type": "movie",
+  "title": "Friendship",
+  "poster": "https://image.tmdb.org/t/p/w342/eikAu9gPJTQQmwFwa1zX5Hfz96P.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/g70uNy3hRqEcU0ilBTtcuBFlizx.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/exegjm7u8fjy/Friendship.2024.720p.BluRay.Hindi.5.1-English.5.1.ESub.x264-DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

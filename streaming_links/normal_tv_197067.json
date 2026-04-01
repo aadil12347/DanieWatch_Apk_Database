@@ -1,6 +1,14 @@
 {
   "id": "197067",
   "type": "tv",
+  "title": "Extraordinary Attorney Woo",
+  "poster": "https://image.tmdb.org/t/p/w342/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/tmgtlnBnoFvk52xZBO7Z0pTmN9b.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

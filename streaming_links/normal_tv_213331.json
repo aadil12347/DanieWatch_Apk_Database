@@ -1,6 +1,14 @@
 {
   "id": "213331",
   "type": "tv",
+  "title": "Berserk of Gluttony",
+  "poster": "https://image.tmdb.org/t/p/w342/wQMcq5YUjMfoIEqLRzrNQVt4ROl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/w6UrhLiXEMLwI4PFv2I2JEPhLRj.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

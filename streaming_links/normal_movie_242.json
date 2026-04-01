@@ -1,5 +1,13 @@
 {
   "id": "242",
   "type": "movie",
+  "title": "The Godfather Part III",
+  "poster": "https://image.tmdb.org/t/p/w342/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8zhviPFJx25k8PbUOUL5sLOy9XE.jpg",
+  "year": "1990",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/soy3tnoni2ie/the-godfather-part-iii-1990-bluray-720p-hindi-2-0-english-5-1-aac-esub-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

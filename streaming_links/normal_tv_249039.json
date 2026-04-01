@@ -1,6 +1,14 @@
 {
   "id": "249039",
   "type": "tv",
+  "title": "Black Rabbit",
+  "poster": "https://image.tmdb.org/t/p/w342/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/efbDkbMBPcHAfnsvJ9SXCdHgMBw.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

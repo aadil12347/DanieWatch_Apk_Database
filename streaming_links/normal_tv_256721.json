@@ -1,6 +1,14 @@
 {
   "id": "256721",
   "type": "tv",
+  "title": "Gachiakuta",
+  "poster": "https://image.tmdb.org/t/p/w342/jH78nLFrTU6aP7hY7KO6DZHFLoX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/WUQNBzTAln6iANDoMWWtf5m4i1.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

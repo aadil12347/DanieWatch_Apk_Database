@@ -2,8 +2,9 @@
   "id": "1428301",
   "type": "movie",
   "title": "#Single",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/3cX5JISvLrOrwfb0gCOV7Mz7if0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/pmh5zE5vRGrJ6GVidKLaHJK0Uf9.jpg",
+  "year": "2025",
   "result": "HD",
   "language": [
     "Hindi"

@@ -2,8 +2,9 @@
   "id": "1435092",
   "type": "movie",
   "title": "Goodbye June",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/9MJifKtwH3hSDPSqguyvFfgdmtA.jpg",
+  "year": "2025",
   "result": "HD",
   "language": [
     "Hindi"

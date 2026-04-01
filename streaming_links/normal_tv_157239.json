@@ -1,6 +1,14 @@
 {
   "id": "157239",
   "type": "tv",
+  "title": "Alien: Earth",
+  "poster": "https://image.tmdb.org/t/p/w342/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/biIBy2LPOOtGCgUYOls3dUEWU3v.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

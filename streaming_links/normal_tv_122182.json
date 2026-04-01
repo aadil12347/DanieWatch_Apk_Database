@@ -1,6 +1,14 @@
 {
   "id": "122182",
   "type": "tv",
+  "title": "The Long Ballad",
+  "poster": "https://image.tmdb.org/t/p/w342/okG1wxwkfQjZ3txuTnLvNts28m.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/NyL6tC8Cii8D3ZYVIvDCOMXwLD.jpg",
+  "year": "2021",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

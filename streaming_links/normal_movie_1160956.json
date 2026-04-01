@@ -1,5 +1,13 @@
 {
   "id": "1160956",
   "type": "movie",
+  "title": "Panda Plan",
+  "poster": "https://image.tmdb.org/t/p/w342/8iMPQl13q89jQhaA5nXb6UiT0t0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/dXoBFj9Yl9HDRcDVQubkuVCh26N.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/24kjs9silgqs/Panda_Plan_2024_720p_BluRay_HIN-CHI_x264_ESub-DANIEWATCH\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

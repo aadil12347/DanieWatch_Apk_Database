@@ -1,6 +1,14 @@
 {
   "id": "303410",
   "type": "tv",
+  "title": "Pitch To Get Rich",
+  "poster": "https://image.tmdb.org/t/p/w342/6pESMJE9AgbmMJt7a0iYcFCFBQj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6QEq1hvZ7xJDJ6uXotbPiM8ZV6O.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "296547",
   "type": "tv",
+  "title": "Rose Garden",
+  "poster": "https://image.tmdb.org/t/p/w342/7usDnfowGZn9tXQddl6SQb5eZ2d.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kb945CK5acDHpdGKqVA8c25jkIU.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

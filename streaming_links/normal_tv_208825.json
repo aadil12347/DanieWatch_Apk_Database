@@ -1,6 +1,14 @@
 {
   "id": "208825",
   "type": "tv",
+  "title": "Parasyte: The Grey",
+  "poster": "https://image.tmdb.org/t/p/w342/9UPneQ4NF7g6WDNSFE5qyt88wJn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/p4rJTY1rvQrffoh2P09sty5cz8B.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

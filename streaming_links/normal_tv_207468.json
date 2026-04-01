@@ -1,6 +1,14 @@
 {
   "id": "207468",
   "type": "tv",
+  "title": "Kaiju No. 8",
+  "poster": "https://image.tmdb.org/t/p/w342/bJxGs0w5RAhaX4fIUQu511rvm0S.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/htGeuCcNhlBe8GTx3izKOsd8frw.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

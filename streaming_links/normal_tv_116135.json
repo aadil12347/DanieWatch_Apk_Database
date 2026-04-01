@@ -1,6 +1,14 @@
 {
   "id": "116135",
   "type": "tv",
+  "title": "Vikings: Valhalla",
+  "poster": "https://image.tmdb.org/t/p/w342/rDFy1fUU6OC3Mm0CLFB7u0fGwVN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/k47JEUTQsSMN532HRg6RCzZKBdB.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,5 +1,13 @@
 {
   "id": "7980",
   "type": "movie",
+  "title": "The Lovely Bones",
+  "poster": "https://image.tmdb.org/t/p/w342/sn0iDphRxQ7I6aLd9igIgACITak.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/aoQW8NH6yY2ioQke0iKt0JZxXgv.jpg",
+  "year": "2009",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/nqo72igjwc9e/The.Lovely.Bones.2009.720p.BRRip.Hindi.Dual-Audio.DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

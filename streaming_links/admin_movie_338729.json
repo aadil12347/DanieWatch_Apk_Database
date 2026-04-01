@@ -2,8 +2,9 @@
   "id": "338729",
   "type": "movie",
   "title": "The Beauty Inside",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/z5gpjqQwo0h8rMvBLedRXfHHDKb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hMtxCEJjSD8NNK8J8qawe41iQ00.jpg",
+  "year": "2015",
   "result": "HD",
   "language": [
     "Hindi"

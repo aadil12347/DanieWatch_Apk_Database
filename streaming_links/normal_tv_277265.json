@@ -1,6 +1,14 @@
 {
   "id": "277265",
   "type": "tv",
+  "title": "Bhog",
+  "poster": "https://image.tmdb.org/t/p/w342/3XhvlhvwMHfRmQYaCMZynZjpNUo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/l8dmP9nHoUqg10zU5V5H7wiVB99.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "68398",
   "type": "tv",
+  "title": "Dr. Romantic",
+  "poster": "https://image.tmdb.org/t/p/w342/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7KmwT7LdRQAFYjxCKwtXA87bo0O.jpg",
+  "year": "2016",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

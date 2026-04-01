@@ -1,6 +1,14 @@
 {
   "id": "228689",
   "type": "tv",
+  "title": "Genie, Make a Wish",
+  "poster": "https://image.tmdb.org/t/p/w342/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

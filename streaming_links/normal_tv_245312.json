@@ -1,6 +1,14 @@
 {
   "id": "245312",
   "type": "tv",
+  "title": "A Man on the Inside",
+  "poster": "https://image.tmdb.org/t/p/w342/c09XdTLpLku2tqHt158NZBgC4hi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6EObfIe4akZGvCLXwXLJw3kPitQ.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

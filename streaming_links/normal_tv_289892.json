@@ -1,6 +1,14 @@
 {
   "id": "289892",
   "type": "tv",
+  "title": "Helluva Boss",
+  "poster": "https://image.tmdb.org/t/p/w342/dgtuBsG2F4cGiumtHBKDru7PW9j.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/20OP4f0xDbPttORm9OyIbNu3cNN.jpg",
+  "year": "2020",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

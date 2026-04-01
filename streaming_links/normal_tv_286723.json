@@ -1,6 +1,14 @@
 {
   "id": "286723",
   "type": "tv",
+  "title": "Welcome to the Outcast's Restaurant!",
+  "poster": "https://image.tmdb.org/t/p/w342/caWU2F1DSrrJgoJCSclpSoCWnge.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/exFWxrrWoI2QfzFId4SqZz0jkHP.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "300594",
   "type": "tv",
+  "title": "Is It Cake? Halloween",
+  "poster": "https://image.tmdb.org/t/p/w342/msfCGuLiZwLV8O5JZ3EoY6aeiim.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hWPLvmYb8jvkSHrlfgvw29HmwUW.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

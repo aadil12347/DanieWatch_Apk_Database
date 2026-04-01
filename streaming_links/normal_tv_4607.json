@@ -1,6 +1,14 @@
 {
   "id": "4607",
   "type": "tv",
+  "title": "Lost",
+  "poster": "https://image.tmdb.org/t/p/w342/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/yUOFocKDW7MCC5isx4FK8A68QFp.jpg",
+  "year": "2004",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

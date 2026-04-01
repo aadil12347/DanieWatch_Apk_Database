@@ -1,6 +1,14 @@
 {
   "id": "258348",
   "type": "tv",
+  "title": "Clevatess",
+  "poster": "https://image.tmdb.org/t/p/w342/7sWrMBhOS1x4RUCr3o2I4ld13fq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5nmg2cEZxA09VyDvioAuqd5jOW0.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

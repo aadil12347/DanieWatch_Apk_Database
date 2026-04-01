@@ -2,8 +2,9 @@
   "id": "1239433",
   "type": "movie",
   "title": "Poorna",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/bLLTy9l1BL8VvuGpXBlkZjFmw5J.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1ydTYR6yNhSvlgiU3q3S8cc6Y79.jpg",
+  "year": "2026",
   "result": "HD",
   "language": [
     "Hindi"

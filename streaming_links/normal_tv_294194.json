@@ -1,6 +1,14 @@
 {
   "id": "294194",
   "type": "tv",
+  "title": "Salakaar",
+  "poster": "https://image.tmdb.org/t/p/w342/n24ETnrCNuKX4O5CnQhy0lmZLYn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ArQpcPzTqjuhcKW3TtZpDhoVvLj.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

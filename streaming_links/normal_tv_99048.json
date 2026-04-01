@@ -1,6 +1,14 @@
 {
   "id": "99048",
   "type": "tv",
+  "title": "Start-Up",
+  "poster": "https://image.tmdb.org/t/p/w342/hxJQ3A2wtreuWDnVBbzzXI3YlOE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8NK9un1DPUTgRzGtJHMvpdIB5Ay.jpg",
+  "year": "2020",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

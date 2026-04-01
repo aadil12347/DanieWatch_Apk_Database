@@ -1,6 +1,14 @@
 {
   "id": "131305",
   "type": "tv",
+  "title": "Celebrity",
+  "poster": "https://image.tmdb.org/t/p/w342/bYhzribGfkw6eeKkicJHx7U3Bwy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ggOukDTllje9G36qKuXJtzMcRRT.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

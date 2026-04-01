@@ -1,6 +1,14 @@
 {
   "id": "279601",
   "type": "tv",
+  "title": "Man vs Baby",
+  "poster": "https://image.tmdb.org/t/p/w342/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lSffVt0etoSLyl2hsTREdJ1CnQ1.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

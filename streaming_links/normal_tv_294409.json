@@ -1,6 +1,14 @@
 {
   "id": "294409",
   "type": "tv",
+  "title": "Mistry",
+  "poster": "https://image.tmdb.org/t/p/w342/7f6E0EcFcWNWgsUXrKo379iSo4S.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/grReOkIuYCrBsdi4LYGvAUXsJ5M.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

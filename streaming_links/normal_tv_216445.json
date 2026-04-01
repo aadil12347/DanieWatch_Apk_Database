@@ -1,6 +1,14 @@
 {
   "id": "216445",
   "type": "tv",
+  "title": "Fireworks of My Heart",
+  "poster": "https://image.tmdb.org/t/p/w342/ecF1kGP2tlCpoWXVsaeYP3W6dZb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/oQBv5KUDuceheaYL8nMmF7Dg3K8.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

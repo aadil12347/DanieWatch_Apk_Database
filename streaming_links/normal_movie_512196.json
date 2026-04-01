@@ -1,5 +1,13 @@
 {
   "id": "512196",
   "type": "movie",
+  "title": "Happy Death Day 2U",
+  "poster": "https://image.tmdb.org/t/p/w342/4tdnePOkOOzwuGPEOAHp8UA4vqx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bU1n7bkDviEqwfKFTbjQ8BFrqEN.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/mfvmpovcrjy5/happy-death-day-2u-2019-720p-bluray-dual-audiohindi-english-esubs-daniewatch-nl\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

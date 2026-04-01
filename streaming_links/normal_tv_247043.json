@@ -1,6 +1,14 @@
 {
   "id": "247043",
   "type": "tv",
+  "title": "The Ba***ds of Bollywood",
+  "poster": "https://image.tmdb.org/t/p/w342/6QFnXFx5XJAp0SxMd9g23cbti4m.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/tW80eVy19UxCp9WZrmLiztdthSE.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

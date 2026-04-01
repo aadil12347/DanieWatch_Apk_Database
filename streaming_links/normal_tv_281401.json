@@ -1,6 +1,14 @@
 {
   "id": "281401",
   "type": "tv",
+  "title": "Finding Her Edge",
+  "poster": "https://image.tmdb.org/t/p/w342/7t6iXlbfoBSfVyINLRHms5kqfze.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/3aeYYriPQN7886in9bIGKnbC5eQ.jpg",
+  "year": "2026",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

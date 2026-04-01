@@ -1,6 +1,14 @@
 {
   "id": "296253",
   "type": "tv",
+  "title": "Sattamum Needhiyum",
+  "poster": "https://image.tmdb.org/t/p/w342/ocYBlbuQvCFgNFyNrkxXcOgI7hD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/arrJYizfuIxAPAn8gQaTdOuPsOZ.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

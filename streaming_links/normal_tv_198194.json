@@ -1,6 +1,14 @@
 {
   "id": "198194",
   "type": "tv",
+  "title": "Love in a Loop",
+  "poster": "https://image.tmdb.org/t/p/w342/l88ZG1hftMlb6DEn2OgfytcMrs8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/f6X9t3hpnZkZjhUyhv6vKi9AApr.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

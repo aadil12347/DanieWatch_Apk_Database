@@ -1,6 +1,14 @@
 {
   "id": "271041",
   "type": "tv",
+  "title": "The Chronicles Of The 4.5 Gang",
+  "poster": "https://image.tmdb.org/t/p/w342/8bhytwwkOOkLWGR76RubBr3IgXU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mfrx8ie27ljjrjSkiFrISKAui7o.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

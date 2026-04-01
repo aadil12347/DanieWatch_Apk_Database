@@ -1,6 +1,14 @@
 {
   "id": "155226",
   "type": "tv",
+  "title": "Big Mouth",
+  "poster": "https://image.tmdb.org/t/p/w342/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/3tI1eJxsvfDtnJdeRRV3kCHyb44.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "93352",
   "type": "tv",
+  "title": "The Family Man",
+  "poster": "https://image.tmdb.org/t/p/w342/tE1NUJqw9gV6AVjQ1GTK78LbWJ9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/eEzKigDI64OomZV6VTJvoPGmVu1.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

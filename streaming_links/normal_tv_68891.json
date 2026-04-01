@@ -1,6 +1,14 @@
 {
   "id": "68891",
   "type": "tv",
+  "title": "Missing Nine",
+  "poster": "https://image.tmdb.org/t/p/w342/e64mWY8t1WoTaab2LRQi59QN6b.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ltnApA9rg54hJ2rbwPck14TOdwp.jpg",
+  "year": "2017",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

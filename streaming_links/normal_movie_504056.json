@@ -1,5 +1,13 @@
 {
   "id": "504056",
   "type": "movie",
+  "title": "Big Brother",
+  "poster": "https://image.tmdb.org/t/p/w342/z6Y6uQn2fORr7o43EggQrTsp08o.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5MyjGUa2piiEyNH4UcLp3YV9cwo.jpg",
+  "year": "2018",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/6q4nvrvtcqi6/big-brother-2018-720p-bluray-x264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

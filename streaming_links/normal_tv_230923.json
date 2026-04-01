@@ -1,6 +1,14 @@
 {
   "id": "230923",
   "type": "tv",
+  "title": "Lovely Runner",
+  "poster": "https://image.tmdb.org/t/p/w342/xJQyrif5M4UMoVBrBlwUabtaRxB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vbkpl0ps4s5tMTUnC7SFXNzWmVr.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

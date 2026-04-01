@@ -1,6 +1,14 @@
 {
   "id": "249748",
   "type": "tv",
+  "title": "Andhera",
+  "poster": "https://image.tmdb.org/t/p/w342/wXVttISNv9GkbTCojifhZXeITG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kukdq9ANNQUgtzM59B2hP9o059f.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

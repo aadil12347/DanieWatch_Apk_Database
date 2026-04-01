@@ -1,6 +1,14 @@
 {
   "id": "306089",
   "type": "tv",
+  "title": "CO-ED",
+  "poster": "https://image.tmdb.org/t/p/w342/yszfk2In6I82bQIhrNijsoZkoiz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/33oeHzYG3MEs8fAfQLkI9m4kAUi.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

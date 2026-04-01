@@ -2,8 +2,9 @@
   "id": "1242011",
   "type": "movie",
   "title": "Together",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/80slKYVM5teFH3kz6ouWrZXveqj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/uBB1aMga5ngZxsUQL5k36zeW3pB.jpg",
+  "year": "2025",
   "result": "HD",
   "language": [
     "Hindi"

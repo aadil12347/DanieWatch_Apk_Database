@@ -1,6 +1,14 @@
 {
   "id": "83121",
   "type": "tv",
+  "title": "Kaguya-sama: Love Is War",
+  "poster": "https://image.tmdb.org/t/p/w342/5khbC6AuNgnvnoDbjIMKCOhEtIc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

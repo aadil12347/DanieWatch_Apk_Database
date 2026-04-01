@@ -1,6 +1,14 @@
 {
   "id": "61663",
   "type": "tv",
+  "title": "Your Lie in April",
+  "poster": "https://image.tmdb.org/t/p/w342/rRjfH3ckTYz8z8aSkJshFL4VyK9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/x6jWDL4H9TaBLGEvyej0qKiirBU.jpg",
+  "year": "2014",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "231727",
   "type": "tv",
+  "title": "Wolf King",
+  "poster": "https://image.tmdb.org/t/p/w342/jgs2AtxtOMRuVHYjSofbv3P9WnN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/fs4roTMxY3rMKECOMveWpUBQ1XY.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

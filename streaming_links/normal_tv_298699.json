@@ -1,6 +1,14 @@
 {
   "id": "298699",
   "type": "tv",
+  "title": "Dudes",
+  "poster": "https://image.tmdb.org/t/p/w342/mbKdopUfpIjLJOEUWoxrx3FVdh1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/l1fYY1YpDHL0GsC5pz0IP9E6ivC.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

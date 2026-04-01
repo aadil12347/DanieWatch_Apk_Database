@@ -1,6 +1,14 @@
 {
   "id": "252193",
   "type": "tv",
+  "title": "Last Samurai Standing",
+  "poster": "https://image.tmdb.org/t/p/w342/wKNEFlrs68rzweVzfwkjWmkJqu7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vcU8hIHXuADItJSzEmt2F8IMq5l.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

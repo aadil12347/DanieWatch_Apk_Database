@@ -1,6 +1,14 @@
 {
   "id": "255008",
   "type": "tv",
+  "title": "Present, is Present",
+  "poster": "https://image.tmdb.org/t/p/w342/srX5hpFsMhyVMw7zpEXwwg6fwah.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ydBl8GV3H0P91QZ1472JEgvgkCq.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

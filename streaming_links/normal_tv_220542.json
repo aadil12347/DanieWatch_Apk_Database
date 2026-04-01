@@ -1,6 +1,14 @@
 {
   "id": "220542",
   "type": "tv",
+  "title": "The Apothecary Diaries",
+  "poster": "https://image.tmdb.org/t/p/w342/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

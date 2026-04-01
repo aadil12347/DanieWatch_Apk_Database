@@ -1,6 +1,14 @@
 {
   "id": "229202",
   "type": "tv",
+  "title": "The Tale of Rose",
+  "poster": "https://image.tmdb.org/t/p/w342/d9M2l1fSFaze3PaHwz19hVrsU1g.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/yuTmSCEE5ovCF7bOCwBuv1ecIeF.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

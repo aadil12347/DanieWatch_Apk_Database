@@ -1,6 +1,14 @@
 {
   "id": "258025",
   "type": "tv",
+  "title": "Head Over Heels",
+  "poster": "https://image.tmdb.org/t/p/w342/kL42DhVhqjO3NxlB0oNg2Z4TAWP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jpxN1QHRSG660Ql62EHZvZzeaCA.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

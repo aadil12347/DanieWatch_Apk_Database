@@ -1,6 +1,14 @@
 {
   "id": "105009",
   "type": "tv",
+  "title": "Tokyo Revengers",
+  "poster": "https://image.tmdb.org/t/p/w342/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/a4MW4DzvP2eRizrx4OzOoIHu7Eg.jpg",
+  "year": "2021",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

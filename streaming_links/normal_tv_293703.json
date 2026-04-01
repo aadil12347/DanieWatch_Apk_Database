@@ -1,6 +1,14 @@
 {
   "id": "293703",
   "type": "tv",
+  "title": "Dr. Seuss's Red Fish, Blue Fish",
+  "poster": "https://image.tmdb.org/t/p/w342/fhtkX44A4cTYMNKNcosEFYX7zfq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kGgJR0JyxIjmugpGJx0UpujxFA4.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "225647",
   "type": "tv",
+  "title": "Boots",
+  "poster": "https://image.tmdb.org/t/p/w342/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7a78G7fisRp9N9upjyX5b3GNRNI.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

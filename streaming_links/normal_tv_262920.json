@@ -1,6 +1,14 @@
 {
   "id": "262920",
   "type": "tv",
+  "title": "The Asset",
+  "poster": "https://image.tmdb.org/t/p/w342/ugreFeu0Ng7wnfX6ZRNoQa2sbxX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/n9YnfHabjCNwCHUXfT6DPxzFa3e.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

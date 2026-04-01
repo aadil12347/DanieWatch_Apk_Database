@@ -2,8 +2,9 @@
   "id": "1726",
   "type": "movie",
   "title": "Iron Man",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
+  "year": "2008",
   "result": "HD",
   "language": [
     "Hindi"

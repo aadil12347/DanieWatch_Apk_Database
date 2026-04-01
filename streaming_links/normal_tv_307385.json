@@ -1,6 +1,14 @@
 {
   "id": "307385",
   "type": "tv",
+  "title": "Aukaat Ke Bahar",
+  "poster": "https://image.tmdb.org/t/p/w342/ig2tPrzG4WVSeypRWsQbftjQ5OV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/swuQjLe8z31xpw4EeUBYSWhL5m4.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

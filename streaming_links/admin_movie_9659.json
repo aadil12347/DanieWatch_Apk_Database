@@ -2,8 +2,9 @@
   "id": "9659",
   "type": "movie",
   "title": "Mad Max",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/5LrI4GiCSrChgkdskVZiwv643Kg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8CcjyTF3hXIe2wRdFkv52zkOmO1.jpg",
+  "year": "1979",
   "result": "HD",
   "language": [
     "Hindi"

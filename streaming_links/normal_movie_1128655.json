@@ -1,5 +1,13 @@
 {
   "id": "1128655",
   "type": "movie",
+  "title": "The Surfer",
+  "poster": "https://image.tmdb.org/t/p/w342/gm9Ou0dkxhb1vcrkB6uRhoifcHC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/iuW4CPRcaTZzTRDr8iLg2KYdKCM.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/ugylccn4o37l/The.Surfer.2024.BluRay.720p.x264.Hin._.Eng.ESub.DANIEWATCH.is.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

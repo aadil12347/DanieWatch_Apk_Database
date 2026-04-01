@@ -1,6 +1,14 @@
 {
   "id": "295241",
   "type": "tv",
+  "title": "AIR",
+  "poster": "https://image.tmdb.org/t/p/w342/uU4zmRjkPXb25qrC8tfs1xFwBCG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/dBtiO0kQpfwYeHBSfm8Wdi2IBHq.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "198004",
   "type": "tv",
+  "title": "King the Land",
+  "poster": "https://image.tmdb.org/t/p/w342/tW8BMRCYSe6nySvZ749pzc31x2m.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rHiz6GHA2bUPEtTDZvhbTmzlNm6.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "46435",
   "type": "tv",
+  "title": "Robotics;Notes",
+  "poster": "https://image.tmdb.org/t/p/w342/iRD5fwcKNqCuu7q6LqwCZP2iHpc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/uhUgDC8NAjLw64TZaEsb3wt9AUu.jpg",
+  "year": "2012",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

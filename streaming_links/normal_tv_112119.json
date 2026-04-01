@@ -1,6 +1,14 @@
 {
   "id": "112119",
   "type": "tv",
+  "title": "Kairos",
+  "poster": "https://image.tmdb.org/t/p/w342/cnThovHCzJ2YoKrZ0oBBZfkd26j.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/80z5nrNrDsj0JKyd1nfdyt7hR9k.jpg",
+  "year": "2020",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "110316",
   "type": "tv",
+  "title": "Alice in Borderland",
+  "poster": "https://image.tmdb.org/t/p/w342/Ac8ruycRXzgcsndTZFK6ouGA0FA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/QZaPkNUvhdcKONuO2fXuqtcQRo.jpg",
+  "year": "2020",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

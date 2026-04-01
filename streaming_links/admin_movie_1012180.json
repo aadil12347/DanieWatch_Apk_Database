@@ -2,8 +2,9 @@
   "id": "1012180",
   "type": "movie",
   "title": "Identity",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/hrusjWrcRuClY6PNooSZiKL6gqv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/d8fgJIUyvJa0NGkZ7VQBlgJADIK.jpg",
+  "year": "2025",
   "result": "HD",
   "language": [
     "Hindi"

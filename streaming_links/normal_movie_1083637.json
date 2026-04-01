@@ -1,5 +1,13 @@
 {
   "id": "1083637",
   "type": "movie",
+  "title": "Kantara - A Legend: Chapter 1",
+  "poster": "https://image.tmdb.org/t/p/w342/ehQPboTPaIMkMUOoNOh8e7pZ5Rp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/w57nxiBIODAYHLRs1xmrCY9zEFe.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/26wfv4i8whma/kantara-a-legend\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

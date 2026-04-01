@@ -1,6 +1,14 @@
 {
   "id": "196474",
   "type": "tv",
+  "title": "A Time Called You",
+  "poster": "https://image.tmdb.org/t/p/w342/b5Rmy2xJekCNY7raZEjpYPyhf6h.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bBKE6Sl9NnueGw1qK2HkrlNaIKG.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "306886",
   "type": "tv",
+  "title": "Firottiye",
+  "poster": "https://image.tmdb.org/t/p/w342/mbgkVypbw7RaOWdYA8TSTjycpHB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wCZj3GABz8Ypwc5DWTFrgHzNp1o.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "297206",
   "type": "tv",
+  "title": "Bakaiti",
+  "poster": "https://image.tmdb.org/t/p/w342/hINeNo3c3ycZPlSh8MXqofZLMBw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/n3TdpfHtP0yKhpQcl3bfNiGYkIG.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

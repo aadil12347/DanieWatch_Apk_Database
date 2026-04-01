@@ -1,6 +1,14 @@
 {
   "id": "75450",
   "type": "tv",
+  "title": "Titans",
+  "poster": "https://image.tmdb.org/t/p/w342/8e6QiSexmYKaiHGPvbhaFMmQEhc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/iAzH3jFEaDMkjEsNNBUpGzSJ6VR.jpg",
+  "year": "2018",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

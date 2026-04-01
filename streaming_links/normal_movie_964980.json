@@ -1,5 +1,13 @@
 {
   "id": "964980",
   "type": "movie",
+  "title": "Air",
+  "poster": "https://image.tmdb.org/t/p/w342/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/aT3sRVqgpkyCo23fp9myVfKPWbA.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/pis8rlyg3epb/air-2023-720p-bluray-hindi-ddp5-1-english-dd5-1-msubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

@@ -1,5 +1,13 @@
 {
   "id": "1507649",
   "type": "movie",
+  "title": "Andaaz 2",
+  "poster": "https://image.tmdb.org/t/p/w342/4aev7jUk0ITeUovbirv5EFdgKAR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vEwsR923L4hC5ehUbGjSHL9VL3R.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/axi3nfx4togc/andaaz-2-2025-720p-hdtc-hindi-line-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

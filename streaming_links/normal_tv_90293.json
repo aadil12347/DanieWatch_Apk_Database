@@ -1,6 +1,14 @@
 {
   "id": "90293",
   "type": "tv",
+  "title": "Ghost in the Shell: SAC_2045",
+  "poster": "https://image.tmdb.org/t/p/w342/tPK8BER0Pyq68IGKHrTemGlxBV4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2L4ob76e1tp6fgMXgMD2BC2hSUT.jpg",
+  "year": "2020",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

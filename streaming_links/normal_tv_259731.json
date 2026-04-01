@@ -1,6 +1,14 @@
 {
   "id": "259731",
   "type": "tv",
+  "title": "HIS & HERS",
+  "poster": "https://image.tmdb.org/t/p/w342/cDSXLVQLkCSBIpBx3UW04TsfZ5c.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/n4hJLZmBG8kZccNn7bNgBDsVQ6a.jpg",
+  "year": "2026",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "66788",
   "type": "tv",
+  "title": "13 Reasons Why",
+  "poster": "https://image.tmdb.org/t/p/w342/nel144y4dIOdFFid6twN5mAX9Yd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/c4CSgKL6QfkJxsWcGYDyTxpbzpW.jpg",
+  "year": "2017",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

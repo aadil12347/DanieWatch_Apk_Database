@@ -1,6 +1,14 @@
 {
   "id": "94891",
   "type": "tv",
+  "title": "Bhram",
+  "poster": "https://image.tmdb.org/t/p/w342/36rrCE1dHxrPP9KBJvzIRV6TrvA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/oving4jSIoFkvEMvMbY7E4epz9W.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

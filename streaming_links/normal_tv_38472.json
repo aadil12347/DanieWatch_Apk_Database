@@ -1,6 +1,14 @@
 {
   "id": "38472",
   "type": "tv",
+  "title": "Marvel's Jessica Jones",
+  "poster": "https://image.tmdb.org/t/p/w342/paf9wL3mOW9LT3ZjRxXqJcjeMEv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/g9ju2o4LioYYOyihBvf9lVX8XL.jpg",
+  "year": "2015",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

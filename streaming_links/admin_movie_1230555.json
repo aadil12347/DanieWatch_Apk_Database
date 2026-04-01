@@ -2,8 +2,9 @@
   "id": "1230555",
   "type": "movie",
   "title": "Detective Sherdil",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/gqLrdGer0xvG5ezas7Qe3alqMzV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wICQv6x5mK7rGmjyLlpGHSu19uR.jpg",
+  "year": "2025",
   "result": "HD",
   "language": [
     "Hindi"

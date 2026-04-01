@@ -1,5 +1,13 @@
 {
   "id": "1062722",
   "type": "movie",
+  "title": "Frankenstein",
+  "poster": "https://image.tmdb.org/t/p/w342/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ceyakefyCRAgyeFhefa2bz6d9QO.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/cfbdtxtn67ln/Frankenstein_2025_720p_NF_WEB-DL_HiN-ENG_x264-DANIEWATCH\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

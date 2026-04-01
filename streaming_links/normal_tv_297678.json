@@ -1,6 +1,14 @@
 {
   "id": "297678",
   "type": "tv",
+  "title": "Raakh",
+  "poster": "https://image.tmdb.org/t/p/w342/f24jO3ihgKEOUbeuX6qjXaKnVdD.jpg",
+  "backdrop": "",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

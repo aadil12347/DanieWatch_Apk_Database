@@ -1,6 +1,14 @@
 {
   "id": "244447",
   "type": "tv",
+  "title": "The Hunting Wives",
+  "poster": "https://image.tmdb.org/t/p/w342/knR0tDKgFwsUMxe0MqZSWQYhwpL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6PerjrTmwTNiRcfn0SpjU8N9Nio.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

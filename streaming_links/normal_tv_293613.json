@@ -1,6 +1,14 @@
 {
   "id": "293613",
   "type": "tv",
+  "title": "Physical: Asia",
+  "poster": "https://image.tmdb.org/t/p/w342/osa3I6CuabnCEpNgFOvFMLLS7yP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/823qOjKt0V0N9S6h2uoqu1IA15f.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

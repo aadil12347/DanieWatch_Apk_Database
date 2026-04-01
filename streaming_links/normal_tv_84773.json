@@ -1,6 +1,14 @@
 {
   "id": "84773",
   "type": "tv",
+  "title": "The Lord of the Rings: The Rings of Power",
+  "poster": "https://image.tmdb.org/t/p/w342/kf5Hz70tjNAHg4swGDzOr9BfoZ1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/NNC08YmJFFlLi1prBkK8quk3dp.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

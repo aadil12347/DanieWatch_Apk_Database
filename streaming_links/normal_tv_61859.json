@@ -1,6 +1,14 @@
 {
   "id": "61859",
   "type": "tv",
+  "title": "The Night Manager",
+  "poster": "https://image.tmdb.org/t/p/w342/1MccRnw41qQjREuZkovqP2UX1i3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2vAOdruqvx9GojXxKi3xVsZZvKU.jpg",
+  "year": "2016",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

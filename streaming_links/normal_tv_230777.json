@@ -1,6 +1,14 @@
 {
   "id": "230777",
   "type": "tv",
+  "title": "The Trunk",
+  "poster": "https://image.tmdb.org/t/p/w342/3YQtEqg923Os5w5Qg8sbQL41shw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/79DCyZhUcFsiGfyjNlFH1lS1t4c.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

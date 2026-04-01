@@ -1,6 +1,14 @@
 {
   "id": "70593",
   "type": "tv",
+  "title": "Kingdom",
+  "poster": "https://image.tmdb.org/t/p/w342/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jRhJlV4inm8wAAqTeHUX5HpjZcc.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

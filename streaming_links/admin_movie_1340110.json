@@ -2,8 +2,9 @@
   "id": "1340110",
   "type": "movie",
   "title": "Redux Redux",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/rHstdDcn1Kh6xAwilZL8CyMtZV7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/uZMVcWGzGxmXQGVk3hwu9Ne9lVt.jpg",
+  "year": "2026",
   "result": "HD",
   "language": [
     "Hindi"

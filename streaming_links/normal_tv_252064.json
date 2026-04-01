@@ -1,6 +1,14 @@
 {
   "id": "252064",
   "type": "tv",
+  "title": "Peacock in Wonderland",
+  "poster": "https://image.tmdb.org/t/p/w342/iPkB3ZVgWq8VMpj66LChO4ahiQ0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/fFBRgTVEDwCPwmPp4decvZ6S7Rk.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

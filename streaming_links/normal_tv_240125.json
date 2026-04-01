@@ -1,6 +1,14 @@
 {
   "id": "240125",
   "type": "tv",
+  "title": "TRILLION GAME",
+  "poster": "https://image.tmdb.org/t/p/w342/pL4nFHx4lChRXLrJzRX0sAl8SfG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zaxmjuukpaqLiMW4EOp2ArdO7xH.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "212204",
   "type": "tv",
+  "title": "Twinkling Watermelon",
+  "poster": "https://image.tmdb.org/t/p/w342/shuGzwtsLoODpa5unPq6aS3Gejm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/efaMS00Fevc3fw2dbeP7rh22O6D.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

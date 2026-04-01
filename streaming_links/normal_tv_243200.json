@@ -1,6 +1,14 @@
 {
   "id": "243200",
   "type": "tv",
+  "title": "Old Dog, New Tricks",
+  "poster": "https://image.tmdb.org/t/p/w342/UgYg7GY6LYQnGhCmt1PQ7OhwEU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jeua3sqZS9JQkOIBToLm6rvNUn9.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

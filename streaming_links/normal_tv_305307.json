@@ -1,6 +1,14 @@
 {
   "id": "305307",
   "type": "tv",
+  "title": "Sweat Aur Secrets",
+  "poster": "https://image.tmdb.org/t/p/w342/vE7YROgIOCqx2iiUBMOqFxvTRH1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lfrwUJU2bB1SesKKq9HlYAjSuQv.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

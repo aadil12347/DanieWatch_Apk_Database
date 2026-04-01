@@ -1,5 +1,13 @@
 {
   "id": "533533",
   "type": "movie",
+  "title": "TRON: Ares",
+  "poster": "https://image.tmdb.org/t/p/w342/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/pUNfHmVqfwRdILhCkU8TdysVOXo.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/d4p16y9ml6v8/tron-ares-2025-720p-bluray-x265-hin-eng-esub-daniewatch-hot\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

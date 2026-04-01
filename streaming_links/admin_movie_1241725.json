@@ -2,8 +2,9 @@
   "id": "1241725",
   "type": "movie",
   "title": "Jack",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/xkat9sykUnlwoeRW59X5mdVKfAi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/v9W20U4Z6WEu2D4c0flgZfWGDRp.jpg",
+  "year": "2025",
   "result": "HD",
   "language": [
     "Hindi"

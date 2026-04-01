@@ -1,6 +1,14 @@
 {
   "id": "248833",
   "type": "tv",
+  "title": "The Runarounds",
+  "poster": "https://image.tmdb.org/t/p/w342/653V492dSynzQcSDPubzZLJAjkf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/oyr8vPGD66eNqruV3LjoI72UNxl.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

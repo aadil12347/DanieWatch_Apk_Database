@@ -1,5 +1,13 @@
 {
   "id": "1007734",
   "type": "movie",
+  "title": "Nobody 2",
+  "poster": "https://image.tmdb.org/t/p/w342/iyxwxDZCpIm0vIORaHpmgJv2BGF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/82C04rTiXYZ7c8XZv91Nu53w82Y.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/gvsb01z8gfol/Nobody.2.2025.720p.WEB-DL.Hindi.English.ESubs.DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

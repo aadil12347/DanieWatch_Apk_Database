@@ -1,6 +1,14 @@
 {
   "id": "245219",
   "type": "tv",
+  "title": "Death by Lightning",
+  "poster": "https://image.tmdb.org/t/p/w342/KyUrz3GA1FML3XnKkY795XxDxN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/l89mjyc8tGfhEalwDIeGqmXLR1N.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "281004",
   "type": "tv",
+  "title": "Beyond the Bar",
+  "poster": "https://image.tmdb.org/t/p/w342/nN6mZZxJBPZXBjLxnjgpnoRvswk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/9MEzfTNfnTvCLHXfRu7a5TSJCsx.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

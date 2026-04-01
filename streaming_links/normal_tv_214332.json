@@ -1,6 +1,14 @@
 {
   "id": "214332",
   "type": "tv",
+  "title": "Sixer",
+  "poster": "https://image.tmdb.org/t/p/w342/uD1QfpTKwSksG13pcUOvWzyAeOK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wJF9iiLooF6cUQ07kh4FZPleYyk.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

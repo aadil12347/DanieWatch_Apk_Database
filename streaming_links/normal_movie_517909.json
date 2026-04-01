@@ -1,5 +1,13 @@
 {
   "id": "517909",
   "type": "movie",
+  "title": "The Laundromat",
+  "poster": "https://image.tmdb.org/t/p/w342/hwNMJgbiUUvPCxsnADjbV9ysM5j.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mXFmiaqqTPHatImHvQOujIYX7qF.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/fu0d2krom9nn/The.Laundromat.2019.720p.WEB-DL.Hindi-English.DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

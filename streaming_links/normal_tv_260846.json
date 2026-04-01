@@ -1,6 +1,14 @@
 {
   "id": "260846",
   "type": "tv",
+  "title": "Mrs. Deshpande",
+  "poster": "https://image.tmdb.org/t/p/w342/7uZ9ZQHVfOACW7Got0wMg8ykGkz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5lwjnSZvcaWyd1nkjoRQD0ON242.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

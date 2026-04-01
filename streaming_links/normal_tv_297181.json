@@ -1,6 +1,14 @@
 {
   "id": "297181",
   "type": "tv",
+  "title": "Pyaar Yaa Paap",
+  "poster": "https://image.tmdb.org/t/p/w342/pj9XCImj3jq74MhLpI2kwflGqgl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/Ap5TtaSIRWoutthHRHBPTjVYGwR.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

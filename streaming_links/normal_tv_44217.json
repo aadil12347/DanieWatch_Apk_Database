@@ -1,6 +1,14 @@
 {
   "id": "44217",
   "type": "tv",
+  "title": "Vikings",
+  "poster": "https://image.tmdb.org/t/p/w342/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/13kblIK8DnxMurcRDkeyy2sGR7v.jpg",
+  "year": "2013",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

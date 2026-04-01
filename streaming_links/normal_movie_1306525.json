@@ -1,5 +1,13 @@
 {
   "id": "1306525",
   "type": "movie",
+  "title": "The Elixir",
+  "poster": "https://image.tmdb.org/t/p/w342/A6aJLPhtmin9ZTWC2h7dnrMHU4z.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cNmGq1bfUDhrZEHvJ77zwiWfoNA.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/fadw69thu2r0/The_Elixir_2025_720p_WEB-DL_HIN-INDO_x264_ESub-DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

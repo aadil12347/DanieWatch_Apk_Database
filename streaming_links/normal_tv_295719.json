@@ -1,6 +1,14 @@
 {
   "id": "295719",
   "type": "tv",
+  "title": "Mitti – Ek Nayi Pehchaan",
+  "poster": "https://image.tmdb.org/t/p/w342/443pEkTNjSY4Y8PjIzJfxSslRYw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kaTrTPmZx3pdfqLWIArXbOTKQkQ.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

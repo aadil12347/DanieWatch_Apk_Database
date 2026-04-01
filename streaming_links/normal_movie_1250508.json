@@ -1,5 +1,13 @@
 {
   "id": "1250508",
   "type": "movie",
+  "title": "Kaantha",
+  "poster": "https://image.tmdb.org/t/p/w342/a6A0CvOMUUbQNfgkRSPqf5JMpsU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/l6ylNrKhLberlgaLQr4VQXXc6PU.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/qwc6mahw33r1/Kaantha_2025_720p_NF_WEB-DL_DUAL_AAC5_1_H_264-DANIEWATCH.mkv\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

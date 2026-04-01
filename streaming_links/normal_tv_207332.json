@@ -1,6 +1,14 @@
 {
   "id": "207332",
   "type": "tv",
+  "title": "SAKAMOTO DAYS",
+  "poster": "https://image.tmdb.org/t/p/w342/wRpCqsJFyKNuh5FMegNPrhzp2NF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/blSthAPRbEOJBowdxppeQqNPRh9.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

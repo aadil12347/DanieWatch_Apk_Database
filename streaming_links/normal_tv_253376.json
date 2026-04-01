@@ -1,6 +1,14 @@
 {
   "id": "253376",
   "type": "tv",
+  "title": "The Girlfriend",
+  "poster": "https://image.tmdb.org/t/p/w342/ktrp3tdZ5IQpFux4nLy8z70bt3n.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lnVWmFvLv2pTZGsuAJytiqKu541.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

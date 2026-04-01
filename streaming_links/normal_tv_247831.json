@@ -1,6 +1,14 @@
 {
   "id": "247831",
   "type": "tv",
+  "title": "Mandala Murders",
+  "poster": "https://image.tmdb.org/t/p/w342/tg16aWs58I5PleUQDmvsXPV7zfQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/m8s8Fp7fITnPzaftmVcsQYR5mMm.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

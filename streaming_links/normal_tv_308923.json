@@ -1,6 +1,14 @@
 {
   "id": "308923",
   "type": "tv",
+  "title": "Line Cross",
+  "poster": "https://image.tmdb.org/t/p/w342/4hYXpHDu1wHalTNibyJ97mdG41d.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kt1J3X21OnuA7tAmyESqbXzQ9iT.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

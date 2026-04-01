@@ -1,6 +1,14 @@
 {
   "id": "90335",
   "type": "tv",
+  "title": "Doctor Detective",
+  "poster": "https://image.tmdb.org/t/p/w342/693tpPhfqQhlqfw77nQmz9t3299.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/dOz7U0jlbBZINeULoXGjh5aDc7U.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

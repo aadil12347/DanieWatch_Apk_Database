@@ -1,6 +1,14 @@
 {
   "id": "108291",
   "type": "tv",
+  "title": "Snowdrop",
+  "poster": "https://image.tmdb.org/t/p/w342/3AhTqNJVr1v7Jfplg8Y1YOzzdWE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/dyBkTBcRIw5BC78zCauyrRm5EhJ.jpg",
+  "year": "2021",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

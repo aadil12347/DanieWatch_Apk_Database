@@ -1,6 +1,14 @@
 {
   "id": "217528",
   "type": "tv",
+  "title": "Heweliusz",
+  "poster": "https://image.tmdb.org/t/p/w342/ieDjrlZCmpY5Cp1Jbenqc46WdNp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/uanBIz4myibV0ytiPgzCVDz1kNg.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

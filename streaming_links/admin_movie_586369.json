@@ -2,8 +2,9 @@
   "id": "586369",
   "type": "movie",
   "title": "28 Degree Celsius",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/9uh1vtpaSAc8geSdnJ8SciiH0LS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6TBV2xzcN8mAvjmt4ttKfVogHqY.jpg",
+  "year": "2025",
   "result": "HD",
   "language": [
     "Hindi"

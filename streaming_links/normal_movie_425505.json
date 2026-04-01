@@ -1,5 +1,13 @@
 {
   "id": "425505",
   "type": "movie",
+  "title": "Kin",
+  "poster": "https://image.tmdb.org/t/p/w342/oPE5GXHaTlu5eRcd4USuOX3A1mf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7oZR0oaFOPrzGkg3ZntEKwMCLTe.jpg",
+  "year": "2018",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/9rapsqs9fth7/Kin_2018_Dual_Audio_Hindi-English_720p_BluRay_ESub_DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

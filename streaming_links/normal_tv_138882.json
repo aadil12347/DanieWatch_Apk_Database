@@ -1,6 +1,14 @@
 {
   "id": "138882",
   "type": "tv",
+  "title": "Shoot! Goal to the Future",
+  "poster": "https://image.tmdb.org/t/p/w342/3jMImKHLU9zoB2K2hDEe6fu1Emn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/pTVauqRiwGx0gqRwwwqOalTrbLd.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

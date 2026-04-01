@@ -1,6 +1,14 @@
 {
   "id": "280945",
   "type": "tv",
+  "title": "Bon Appétit, Your Majesty",
+  "poster": "https://image.tmdb.org/t/p/w342/bzYSIw9FTzQXUcWsnDSwlcwok3C.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ttbmzTZHTzqDK4JniKonMrsQath.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

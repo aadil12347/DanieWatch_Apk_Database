@@ -1,6 +1,14 @@
 {
   "id": "70813",
   "type": "tv",
+  "title": "Fight for My Way",
+  "poster": "https://image.tmdb.org/t/p/w342/55w33JzFKBkz1evjBjqeF0enDd1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/AvphOpbh7yoBfIROpNjlu2plIEn.jpg",
+  "year": "2017",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

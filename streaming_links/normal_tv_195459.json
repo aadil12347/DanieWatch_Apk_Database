@@ -1,6 +1,14 @@
 {
   "id": "195459",
   "type": "tv",
+  "title": "Ragna Crimson",
+  "poster": "https://image.tmdb.org/t/p/w342/oGmNWwV3wgp1DZXTOLSAYZZgh3X.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8Tv140K71PVsiU5z0vRNrgZpKAM.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

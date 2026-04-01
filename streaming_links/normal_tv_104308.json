@@ -1,6 +1,14 @@
 {
   "id": "104308",
   "type": "tv",
+  "title": "She Knows Everything",
+  "poster": "https://image.tmdb.org/t/p/w342/pYbaPdAN3M5FJ6IFLJCoAwjUTBM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gMnxpCrlFp0jGKi6i905EEFKUhn.jpg",
+  "year": "2020",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

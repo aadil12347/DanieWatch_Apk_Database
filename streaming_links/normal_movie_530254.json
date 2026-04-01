@@ -1,5 +1,13 @@
 {
   "id": "530254",
   "type": "movie",
+  "title": "The Witch: Part 1. The Subversion",
+  "poster": "https://image.tmdb.org/t/p/w342/4i2wo2ja5g2PmUxWa1a2eYIboZf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/f8ng3EDMLkuTMupe4TjgiJS1r0S.jpg",
+  "year": "2018",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "iframe src=\"https://bysebuho.com/e/o3dj88z9c2hk/the-witch-part-1-the-subversion-2018-bluray-720p-hin-korean-aac2-0-esub-x264-daniewatch-nl\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

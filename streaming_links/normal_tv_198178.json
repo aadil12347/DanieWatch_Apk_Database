@@ -1,6 +1,14 @@
 {
   "id": "198178",
   "type": "tv",
+  "title": "Wonder Man",
+  "poster": "https://image.tmdb.org/t/p/w342/2XSHwBHIvIDPpbcH4ntQIItlThG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/los8S8iCRn5Q7irl0LNAp6C6Gmz.jpg",
+  "year": "2026",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

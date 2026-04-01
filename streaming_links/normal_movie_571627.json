@@ -1,5 +1,13 @@
 {
   "id": "571627",
   "type": "movie",
+  "title": "The Divine Fury",
+  "poster": "https://image.tmdb.org/t/p/w342/9Z2qT9iZYLzzsCSYu7A4SEQsKX0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4MDYpCwqSVO5RcTiZ4GEfePzDdl.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/h09ynlmxr7ph/the-divine-fury-aka-saja-2019-720p-bluray-hindi-english-korean-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

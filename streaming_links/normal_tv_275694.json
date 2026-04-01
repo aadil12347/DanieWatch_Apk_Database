@@ -1,6 +1,14 @@
 {
   "id": "275694",
   "type": "tv",
+  "title": "The Darkness",
+  "poster": "https://image.tmdb.org/t/p/w342/xaPrG1yhXz1SE1cHUu4lmWAlZDR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/isHQmy86D7E67RnS2HpKo5hOv1n.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

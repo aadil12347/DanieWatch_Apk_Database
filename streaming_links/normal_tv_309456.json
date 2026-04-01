@@ -1,6 +1,14 @@
 {
   "id": "309456",
   "type": "tv",
+  "title": "Jackpot",
+  "poster": "https://image.tmdb.org/t/p/w342/9XwGhP2FQxOTqbU1Sm8C9jAb7gt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/h8EMcFq13P1ebvQ3qK3ZQYwy5FN.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

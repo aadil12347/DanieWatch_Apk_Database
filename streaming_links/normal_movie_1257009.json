@@ -1,5 +1,13 @@
 {
   "id": "1257009",
   "type": "movie",
+  "title": "Primitive War",
+  "poster": "https://image.tmdb.org/t/p/w342/fZnY97zAyATRH50Q1I92fQy1hUg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bWF5ImUscXXYia8owpm8coadR4m.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/jmspamn900at/Primitive_War__2025__WEB-DL_720p_x264_HiN-ENG_ESub_DANIEWATCH.mkv\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

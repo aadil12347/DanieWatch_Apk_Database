@@ -1,5 +1,13 @@
 {
   "id": "744653",
   "type": "movie",
+  "title": "The Thursday Murder Club",
+  "poster": "https://image.tmdb.org/t/p/w342/jbnazCHr8S2l2glyvjPTpa4NbEw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4KN06gns94rQFoYQWDGunK7Cob4.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/5rc6r63mimdf/The.Thursday.Murder.Club.2025.720p.WEB-DL.HIN-ENG.x264.ESub-DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

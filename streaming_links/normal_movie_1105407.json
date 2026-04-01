@@ -1,5 +1,13 @@
 {
   "id": "1105407",
   "type": "movie",
+  "title": "Damaged",
+  "poster": "https://image.tmdb.org/t/p/w342/tMO0YLXgJZBnIAjoTSz26zE33YN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hPU12uDcsVyaz368yjxa4BjDHXB.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/mbk6iyxj47mt/Damaged.2024.BluRay.720p.x264.Hin._.Eng.DD_5.1.192Kbps.ESub.DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

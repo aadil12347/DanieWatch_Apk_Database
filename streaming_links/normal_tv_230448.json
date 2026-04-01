@@ -1,6 +1,14 @@
 {
   "id": "230448",
   "type": "tv",
+  "title": "Mr. Plankton",
+  "poster": "https://image.tmdb.org/t/p/w342/c31cvdNNiAMvb4XVjAwYLNn3LNO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7LmwKWqnd0sYLQvz0VvjdW5J8sN.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

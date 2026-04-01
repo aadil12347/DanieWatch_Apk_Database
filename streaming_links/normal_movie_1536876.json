@@ -1,5 +1,13 @@
 {
   "id": "1536876",
   "type": "movie",
+  "title": "Mirage",
+  "poster": "https://image.tmdb.org/t/p/w342/glSCReT2vcnD7PO2P2959BtNTdC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lD9ScnNqDvX75cvQ54h4cUxQ2SW.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/7e3pmt954fvg/Mirage_2025_720p_SLIV_WEB-DL_DDP5_1_H_264-_DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

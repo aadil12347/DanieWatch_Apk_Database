@@ -1,6 +1,14 @@
 {
   "id": "70523",
   "type": "tv",
+  "title": "Dark",
+  "poster": "https://image.tmdb.org/t/p/w342/7CFCzWIZZcnxHke3yAQiGPWXHwF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
+  "year": "2017",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

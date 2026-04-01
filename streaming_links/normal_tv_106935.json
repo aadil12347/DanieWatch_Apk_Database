@@ -1,6 +1,14 @@
 {
   "id": "106935",
   "type": "tv",
+  "title": "Kiss Goblin",
+  "poster": "https://image.tmdb.org/t/p/w342/1cRHbcm77dBvqMGvHOJgjziteqZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6tPNr4eFGNQv97sD87BhvhCDktK.jpg",
+  "year": "2020",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

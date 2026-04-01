@@ -1,5 +1,13 @@
 {
   "id": "668489",
   "type": "movie",
+  "title": "Havoc",
+  "poster": "https://image.tmdb.org/t/p/w342/ubP2OsF3GlfqYPvXyLw9d78djGX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7rKyFSg6SdLoCRCVoWLjL5k658k.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/yzuxkfn0rnzf/Havoc.2025.WEB-DL.720p.10bit.Dual.Audio.Hindi.English.NF.ESub.DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

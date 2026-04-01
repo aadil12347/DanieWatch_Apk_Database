@@ -1,6 +1,14 @@
 {
   "id": "96481",
   "type": "tv",
+  "title": "Rise of Empires: Ottoman",
+  "poster": "https://image.tmdb.org/t/p/w342/nkvdPFYo7o2IQWooJvA9UE0nvAp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ztruG6mR07igZWchQHiaFkND8Di.jpg",
+  "year": "2020",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

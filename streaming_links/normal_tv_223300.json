@@ -1,6 +1,14 @@
 {
   "id": "223300",
   "type": "tv",
+  "title": "The Abandons",
+  "poster": "https://image.tmdb.org/t/p/w342/rQRzdfc0IlyiwM5HdzHdSYag9FG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/dHCr5HgldBavJPzAYFYmM0rEdQo.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

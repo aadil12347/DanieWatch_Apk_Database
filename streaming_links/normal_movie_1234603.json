@@ -1,5 +1,13 @@
 {
   "id": "1234603",
   "type": "movie",
+  "title": "The Fable",
+  "poster": "https://image.tmdb.org/t/p/w342/xpFx3aG0CpK3CMo62BuUlqu5ySD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/AbnqeiraJNrhl1P6mRmtXHaxk3Z.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/wm5j2e8flsz9/jugnuma-the-fable-2025-720p-amzn-web-dl-hindi-ddp5-1-h-264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

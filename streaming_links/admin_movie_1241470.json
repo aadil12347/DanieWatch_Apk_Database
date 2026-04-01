@@ -2,8 +2,9 @@
   "id": "1241470",
   "type": "movie",
   "title": "Osiris",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/3YtZHtXPNG5AleisgEatEfZOT2w.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ySHUoK4utUOiSfCinw81H1TsV0E.jpg",
+  "year": "2025",
   "result": "HD",
   "language": [
     "Hindi"

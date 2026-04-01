@@ -1,6 +1,14 @@
 {
   "id": "223500",
   "type": "tv",
+  "title": "WIND BREAKER",
+  "poster": "https://image.tmdb.org/t/p/w342/3kTFL3PAeTyS8gGZAh0iYG6NNjt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/czrAvoN103RYYX8lhkZPs2zgnkl.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

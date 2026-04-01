@@ -1,6 +1,14 @@
 {
   "id": "97951",
   "type": "tv",
+  "title": "Mayor of Kingstown",
+  "poster": "https://image.tmdb.org/t/p/w342/6rWIip9MZELAA0SKii5WqsBDCYW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/39bifj2FNytJ2m1cqOBcWMTKgmV.jpg",
+  "year": "2021",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "194766",
   "type": "tv",
+  "title": "The Summer I Turned Pretty",
+  "poster": "https://image.tmdb.org/t/p/w342/xBIz53wYWsKfFpN0TaizVAjKJ0z.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jCcSS9iDpKgll8Kpp7qVhSn0l1f.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

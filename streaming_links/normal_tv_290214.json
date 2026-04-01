@@ -1,6 +1,14 @@
 {
   "id": "290214",
   "type": "tv",
+  "title": "Criminal Justice: A Family Matter",
+  "poster": "https://image.tmdb.org/t/p/w342/9puBY2DdW3xOynWK5cqH3M2ZwJG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/eULa8WHAWxwDzAJIsQqH07heBg6.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

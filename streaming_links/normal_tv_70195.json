@@ -1,6 +1,14 @@
 {
   "id": "70195",
   "type": "tv",
+  "title": "Radiant Office",
+  "poster": "https://image.tmdb.org/t/p/w342/5cpANNfhpYNfPxvUNmQyvtMVTkQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2bxpm1qW5W4RjValqLwzLxONKWD.jpg",
+  "year": "2017",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

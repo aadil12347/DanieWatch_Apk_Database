@@ -1,6 +1,14 @@
 {
   "id": "219246",
   "type": "tv",
+  "title": "When Life Gives You Tangerines",
+  "poster": "https://image.tmdb.org/t/p/w342/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mwczMJeoQrsPERcyP1e900jo3Jv.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

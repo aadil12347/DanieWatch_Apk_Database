@@ -2,8 +2,9 @@
   "id": "1000438",
   "type": "movie",
   "title": "Emergency",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/yp5eg70g6LaZoBiApOv9oerzvvX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gOAQCgRvwWgu9FyYySxHQG9Wf84.jpg",
+  "year": "2025",
   "result": "HD",
   "language": [
     "Hindi"

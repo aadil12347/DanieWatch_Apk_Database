@@ -1,6 +1,14 @@
 {
   "id": "229958",
   "type": "tv",
+  "title": "Aema",
+  "poster": "https://image.tmdb.org/t/p/w342/jD8uwm1fvt6y2yxjSO6R9IOFwQQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/Kl07j8DsHfAwkODBblg81mjcGc.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

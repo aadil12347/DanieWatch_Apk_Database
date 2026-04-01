@@ -1,6 +1,14 @@
 {
   "id": "197084",
   "type": "tv",
+  "title": "Gaus Electronics",
+  "poster": "https://image.tmdb.org/t/p/w342/gKPLyIu0TQo3tkV9cgl9mT5GuC7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vEq9CRC5NvNCD7XqLih1j0ZcsUx.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

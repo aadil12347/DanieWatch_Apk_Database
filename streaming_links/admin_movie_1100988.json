@@ -2,8 +2,9 @@
   "id": "1100988",
   "type": "movie",
   "title": "28 Years Later",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/n5FygjEppOvac6yEaowi26nTyw3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
+  "year": "2025",
   "result": "HD",
   "language": [
     "Hindi"

@@ -2,8 +2,9 @@
   "id": "1268609",
   "type": "movie",
   "title": "Pavane",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/wOXc8stx1CLvM6GC0ABKfWOkbYw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/atWzbjlDkfbkh4mdY3uuiF9vr3r.jpg",
+  "year": "2026",
   "result": "HD",
   "language": [
     "Hindi"

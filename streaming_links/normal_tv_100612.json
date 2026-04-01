@@ -1,6 +1,14 @@
 {
   "id": "100612",
   "type": "tv",
+  "title": "Special Ops",
+  "poster": "https://image.tmdb.org/t/p/w342/rTOGcNzVMYGezpx9AxX7ilzLNEp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/A7A1s8O4M2rFlAbbcSlIxrgCY9i.jpg",
+  "year": "2020",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

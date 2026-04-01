@@ -1,6 +1,14 @@
 {
   "id": "126098",
   "type": "tv",
+  "title": "Maharani",
+  "poster": "https://image.tmdb.org/t/p/w342/g3ublqmXx9SH8ksY61OPkZRoN3I.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rLGmcpJHM43Ytx1sY52LEUSjBkr.jpg",
+  "year": "2021",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

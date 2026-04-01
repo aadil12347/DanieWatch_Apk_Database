@@ -1,5 +1,13 @@
 {
   "id": "19995",
   "type": "movie",
+  "title": "Avatar",
+  "poster": "https://image.tmdb.org/t/p/w342/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+  "year": "2009",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/ry6otwvrq09c/Avatar_2009_BluRay_EXTENDED_720p_Hindi_English_AAC_5.1_x264_ESub_-_DANIEWATCH.mkv\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

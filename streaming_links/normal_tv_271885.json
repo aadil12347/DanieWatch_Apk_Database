@@ -1,6 +1,14 @@
 {
   "id": "271885",
   "type": "tv",
+  "title": "As You Stood By",
+  "poster": "https://image.tmdb.org/t/p/w342/3ciqsMz21p8xp5udriFjRGM5OYs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7uVNWsjnmkvqpeqWHq5qpLBv3wd.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

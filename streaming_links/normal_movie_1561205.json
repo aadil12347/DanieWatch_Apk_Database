@@ -1,5 +1,13 @@
 {
   "id": "1561205",
   "type": "movie",
+  "title": "Controll",
+  "poster": "https://image.tmdb.org/t/p/w342/x4D59ZzGcaROt2ZGtSNCsvslM8F.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/l6KeC0gjFtEDDthUo5eVlOxDcEZ.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/ntu043pls502/Controll_2025_Hindi_HDTC_720p_x264_AAC_DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

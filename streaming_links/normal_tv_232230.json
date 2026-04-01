@@ -1,6 +1,14 @@
 {
   "id": "232230",
   "type": "tv",
+  "title": "Lord of Mysteries",
+  "poster": "https://image.tmdb.org/t/p/w342/c8fHePq3yTn3WvZd4hupkHwsjm5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/AdWWrcYKNXlpeWNJlmK4HCJ6Dj9.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

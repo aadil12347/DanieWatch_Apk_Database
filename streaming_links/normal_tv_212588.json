@@ -1,6 +1,14 @@
 {
   "id": "212588",
   "type": "tv",
+  "title": "Furies",
+  "poster": "https://image.tmdb.org/t/p/w342/8sHKc6kNKjdhvHBP2c5zoSS16v5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lOM5ho8qmqQh0F6cn1DxGB61RvR.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

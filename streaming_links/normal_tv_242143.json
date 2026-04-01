@@ -1,6 +1,14 @@
 {
   "id": "242143",
   "type": "tv",
+  "title": "You are Ms. Servant",
+  "poster": "https://image.tmdb.org/t/p/w342/eyFOI6GkIN9JI1qaGLpEkrRlXdc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2a1rAVKMJUXuAIv8cga0kTAXjzM.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

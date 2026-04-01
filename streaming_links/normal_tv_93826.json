@@ -1,6 +1,14 @@
 {
   "id": "93826",
   "type": "tv",
+  "title": "October Faction",
+  "poster": "https://image.tmdb.org/t/p/w342/7yrXh19tH2ThJHXriORT16WKbBi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/O8K1dhtLT6XoCESJIvW9wop1Wx.jpg",
+  "year": "2020",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

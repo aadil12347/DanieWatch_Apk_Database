@@ -1,5 +1,13 @@
 {
   "id": "533238",
   "type": "movie",
+  "title": "Kolamavu Kokila",
+  "poster": "https://image.tmdb.org/t/p/w342/bnbZ4tscBieDg7f14aUJZekqlZS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kBw3wcVAmFKCqhZXHsENpSAPfNI.jpg",
+  "year": "2018",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/sbm9rwytw40z/Kolamavu_Kokila_2018.720p.HEVC.HDRip.Dual.Audio.x265.ESubs_-_DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

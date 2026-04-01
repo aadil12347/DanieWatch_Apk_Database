@@ -2,8 +2,9 @@
   "id": "9355",
   "type": "movie",
   "title": "Mad Max Beyond Thunderdome",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/jJlxcEVVUHnrUeEkQ0077VeHQpb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/br1zDvgmBPa1EbBrUmEDaXXgykq.jpg",
+  "year": "1985",
   "result": "HD",
   "language": [
     "Hindi"

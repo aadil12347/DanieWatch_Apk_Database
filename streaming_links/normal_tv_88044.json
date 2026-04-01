@@ -1,6 +1,14 @@
 {
   "id": "88044",
   "type": "tv",
+  "title": "Demon Lord, Retry!",
+  "poster": "https://image.tmdb.org/t/p/w342/d5hXGaqit05qhYP4cqZs0BUrLG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/fHd0sO7jgwSqYkzsUXcWTDeMFSn.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "48866",
   "type": "tv",
+  "title": "The 100",
+  "poster": "https://image.tmdb.org/t/p/w342/wcaDIAG1QdXQLRaj4vC1EFdBT2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
+  "year": "2014",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

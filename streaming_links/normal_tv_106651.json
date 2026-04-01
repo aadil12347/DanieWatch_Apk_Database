@@ -1,6 +1,14 @@
 {
   "id": "106651",
   "type": "tv",
+  "title": "Hellbound",
+  "poster": "https://image.tmdb.org/t/p/w342/5NYdSAnDVIXePrSG2dznHdiibMk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ikN8ABD9pXHuW4JFqTEHr3ae8rd.jpg",
+  "year": "2021",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

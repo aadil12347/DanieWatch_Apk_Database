@@ -1,6 +1,14 @@
 {
   "id": "300894",
   "type": "tv",
+  "title": "Kurukshetra",
+  "poster": "https://image.tmdb.org/t/p/w342/amNFukSD0hpj5omLkikfaNw42sp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/u39VepT8l7cgDy9nsXG76t4av9n.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

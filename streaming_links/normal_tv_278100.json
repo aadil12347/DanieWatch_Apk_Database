@@ -1,6 +1,14 @@
 {
   "id": "278100",
   "type": "tv",
+  "title": "The Town",
+  "poster": "https://image.tmdb.org/t/p/w342/k4EhIaAapcEc79mXvzjxmplGb0e.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gYSE4tc6Cl9eZ3p8md2y9j2NI2w.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

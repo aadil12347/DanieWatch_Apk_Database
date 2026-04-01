@@ -1,6 +1,14 @@
 {
   "id": "259710",
   "type": "tv",
+  "title": "Confidence Queen",
+  "poster": "https://image.tmdb.org/t/p/w342/wUCmw1B6MBRiN6TUSbssKHuJnV0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/brugu6L6cGP7I0G1EH7id46brj2.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

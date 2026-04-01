@@ -1,6 +1,14 @@
 {
   "id": "239779",
   "type": "tv",
+  "title": "True Beauty",
+  "poster": "https://image.tmdb.org/t/p/w342/9gpc8kIhNEG7r0VTkyI9aVBxdO3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/yNQT7fVLhopmytPytN6VVPgrMoX.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

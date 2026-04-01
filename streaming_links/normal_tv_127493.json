@@ -1,6 +1,14 @@
 {
   "id": "127493",
   "type": "tv",
+  "title": "You Are My Glory",
+  "poster": "https://image.tmdb.org/t/p/w342/n2j4J1OwOjAsjxSzavRf5AP76kR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ttB7H1rF4W3iZ6pMyP6v5u9BMBm.jpg",
+  "year": "2021",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

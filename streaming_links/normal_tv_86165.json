@@ -1,6 +1,14 @@
 {
   "id": "86165",
   "type": "tv",
+  "title": "Four More Shots Please!",
+  "poster": "https://image.tmdb.org/t/p/w342/a4UNvDfbgk3AY7452dr9uGhulzB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7JHrABvkB9n4W3274w4vw42i9A1.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

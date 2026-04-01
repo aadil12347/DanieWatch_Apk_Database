@@ -1,6 +1,14 @@
 {
   "id": "244324",
   "type": "tv",
+  "title": "Dead and Buried",
+  "poster": "https://image.tmdb.org/t/p/w342/mNOtgyHuat5xZWLKl15JjBz8yqQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/9WmDfvPWeGqKAuYIGcEsbZV6a7K.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

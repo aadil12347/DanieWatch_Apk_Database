@@ -1,6 +1,14 @@
 {
   "id": "91026",
   "type": "tv",
+  "title": "After School Dice Club",
+  "poster": "https://image.tmdb.org/t/p/w342/nHVmPRqjGxMi4RNlwgflXA8mvev.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/a5xonu1E7yiQmO9UhKkmXXTNStB.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

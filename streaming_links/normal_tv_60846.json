@@ -1,6 +1,14 @@
 {
   "id": "60846",
   "type": "tv",
+  "title": "Log Horizon",
+  "poster": "https://image.tmdb.org/t/p/w342/xLGdRuWCn2AlByL5Y9OLB3ZwItg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/f6WzZQVoCSn7W1kmr1UhSToRi2y.jpg",
+  "year": "2013",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

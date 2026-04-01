@@ -1,5 +1,13 @@
 {
   "id": "100402",
   "type": "movie",
+  "title": "Captain America: The Winter Soldier",
+  "poster": "https://image.tmdb.org/t/p/w342/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1RWLMyC9KcFfcaoViMiJGSSZzzr.jpg",
+  "year": "2014",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/vmesydk36zmn/captain-america-winter-soldier-2014-720p-hindi-english-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

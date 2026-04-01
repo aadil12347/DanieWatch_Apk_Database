@@ -1,6 +1,14 @@
 {
   "id": "262955",
   "type": "tv",
+  "title": "Starting 5",
+  "poster": "https://image.tmdb.org/t/p/w342/i6SYNxGbyo9nIg4MugPMnaUHKYR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/an3Lq5IkjHJxg7Q3ekz92wR8IcT.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

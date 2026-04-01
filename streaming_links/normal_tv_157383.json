@@ -1,6 +1,14 @@
 {
   "id": "157383",
   "type": "tv",
+  "title": "The Golden Spoon",
+  "poster": "https://image.tmdb.org/t/p/w342/1fJcOnUsRlpiCSt3J35T1Ga9UHV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zFxqn3zMlH13Ld2JIpYT33oA73S.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

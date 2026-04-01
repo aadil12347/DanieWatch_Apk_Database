@@ -1,6 +1,14 @@
 {
   "id": "218539",
   "type": "tv",
+  "title": "My Demon",
+  "poster": "https://image.tmdb.org/t/p/w342/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/pRStZQlU0aB6KaVNBKnyEAygDBw.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

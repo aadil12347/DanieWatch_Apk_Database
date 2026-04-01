@@ -2,8 +2,9 @@
   "id": "76341",
   "type": "movie",
   "title": "Mad Max: Fury Road",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/l0eIS009XtEO80aC6zjM3o3AkEl.jpg",
+  "year": "2015",
   "result": "HD",
   "language": [
     "Hindi"

@@ -1,5 +1,13 @@
 {
   "id": "1306486",
   "type": "movie",
+  "title": "Mr Shudai",
+  "poster": "https://image.tmdb.org/t/p/w342/4sfkXIyIgdDbCDJb1eYadfMEJFp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kAojEgon0aiOJLArhngx4cGKWiv.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/h4x0j07zq5ud/Mr_Shudai_2024_720p_WEB-DL_Punjabi_x264-DANIEWATCH\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
 }

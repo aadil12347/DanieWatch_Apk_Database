@@ -1,6 +1,14 @@
 {
   "id": "85273",
   "type": "tv",
+  "title": "NOS4A2",
+  "poster": "https://image.tmdb.org/t/p/w342/gnosVTTRTCqooJuipwU6C0bgOGf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

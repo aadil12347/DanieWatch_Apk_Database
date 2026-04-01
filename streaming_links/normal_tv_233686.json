@@ -1,6 +1,14 @@
 {
   "id": "233686",
   "type": "tv",
+  "title": "Karma",
+  "poster": "https://image.tmdb.org/t/p/w342/nZ7SFBgEhgSCaQFFActjcBQeIV1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/l5mHXDvmvfNM4T8S5akFFcLRLKv.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

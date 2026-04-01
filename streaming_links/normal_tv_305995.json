@@ -1,6 +1,14 @@
 {
   "id": "305995",
   "type": "tv",
+  "title": "What's in the Box?",
+  "poster": "https://image.tmdb.org/t/p/w342/riwRl7TPRH8OqMmleaPGtL1VBDC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/aaxT7Dh43Mzirgb9lPQZyQ1A41Y.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

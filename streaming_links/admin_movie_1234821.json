@@ -2,8 +2,9 @@
   "id": "1234821",
   "type": "movie",
   "title": "Jurassic World Rebirth",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zNriRTr0kWwyaXPzdg1EIxf0BWk.jpg",
+  "year": "2025",
   "result": "HD",
   "language": [
     "Hindi"

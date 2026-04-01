@@ -1,6 +1,14 @@
 {
   "id": "214826",
   "type": "tv",
+  "title": "Not A Murder Story",
+  "poster": "https://image.tmdb.org/t/p/w342/aWgKbHI8GfW63CfLa5BHgDbnMl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hIYH3Zw36ihAbGWQ8cI4yeNMsJP.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

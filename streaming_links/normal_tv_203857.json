@@ -1,6 +1,14 @@
 {
   "id": "203857",
   "type": "tv",
+  "title": "The Diplomat",
+  "poster": "https://image.tmdb.org/t/p/w342/cOKXV0FalCYixNmZYCfHXgyQ0VX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "249551",
   "type": "tv",
+  "title": "Néro the Assassin",
+  "poster": "https://image.tmdb.org/t/p/w342/cgzHLXOEILDwvj19tggt3ZLsfTF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lMdOqInVxIvEapJjxAvOoHc7tl5.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

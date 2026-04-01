@@ -1,6 +1,14 @@
 {
   "id": "152471",
   "type": "tv",
+  "title": "Ghost Doctor",
+  "poster": "https://image.tmdb.org/t/p/w342/1TWwuZR398ytSZX0RdsOyECu9sC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/suTqAJACZ1XwUNhOBnKtytKLjSR.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

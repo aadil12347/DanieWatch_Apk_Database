@@ -1,6 +1,14 @@
 {
   "id": "274875",
   "type": "tv",
+  "title": "Twelve",
+  "poster": "https://image.tmdb.org/t/p/w342/6q66Psq2cDrCsoz8cGDVa6gFmMm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/22kJFY1PBSWNsQ4dBJvaaBNgM62.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

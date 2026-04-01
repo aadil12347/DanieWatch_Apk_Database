@@ -1,6 +1,14 @@
 {
   "id": "250994",
   "type": "tv",
+  "title": "Ameku M.D.: Doctor Detective",
+  "poster": "https://image.tmdb.org/t/p/w342/ukyIdEgqRKfovtFm9NzUfrIdm8y.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/oBYKvW0VS1L3Gfr81VoJgeK7jzo.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

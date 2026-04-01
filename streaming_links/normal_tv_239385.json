@@ -1,6 +1,14 @@
 {
   "id": "239385",
   "type": "tv",
+  "title": "The Manipulated",
+  "poster": "https://image.tmdb.org/t/p/w342/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cqkmEHLE4LjPHSqKdLt4pJFJv0f.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

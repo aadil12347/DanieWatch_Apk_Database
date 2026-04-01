@@ -1,6 +1,14 @@
 {
   "id": "63926",
   "type": "tv",
+  "title": "One-Punch Man",
+  "poster": "https://image.tmdb.org/t/p/w342/dT10AxJIXVvRwFAew4tt2RhzJrD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/s0w8JbuNNxL1YgaHeDWih12C3jG.jpg",
+  "year": "2015",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "235351",
   "type": "tv",
+  "title": "The Legend of Heroes",
+  "poster": "https://image.tmdb.org/t/p/w342/fVOEMyOJx6pQ3ngacvkxiMZbnMD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/sbCiZJJEsXEZ7kcZ7oVgQySuRJa.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

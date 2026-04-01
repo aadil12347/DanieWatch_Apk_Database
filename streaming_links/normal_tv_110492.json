@@ -1,6 +1,14 @@
 {
   "id": "110492",
   "type": "tv",
+  "title": "Peacemaker",
+  "poster": "https://image.tmdb.org/t/p/w342/eYzbGcYnOUlvj2fa76pTgIXogd7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/aJcUU3LMlqMKBi8L3eaxGfAbd4G.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

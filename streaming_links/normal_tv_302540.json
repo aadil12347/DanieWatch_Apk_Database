@@ -1,6 +1,14 @@
 {
   "id": "302540",
   "type": "tv",
+  "title": "The Bad Guys: Breaking In",
+  "poster": "https://image.tmdb.org/t/p/w342/12ybD4BvgSpmhSjknFPvf1Nu7CC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/pXdkJvhBcPf8oEj831ASMkLPXKT.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

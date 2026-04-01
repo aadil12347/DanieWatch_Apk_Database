@@ -1,6 +1,14 @@
 {
   "id": "277752",
   "type": "tv",
+  "title": "City of Shadows",
+  "poster": "https://image.tmdb.org/t/p/w342/n4rguIB7Cf4h3l1IyqMo3THW5xn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/jKyYbESbbsDuEF0G2a9Kg5zuttG.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

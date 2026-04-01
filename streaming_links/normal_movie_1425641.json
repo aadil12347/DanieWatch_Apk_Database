@@ -1,5 +1,13 @@
 {
   "id": "1425641",
   "type": "movie",
+  "title": "Maargan",
+  "poster": "https://image.tmdb.org/t/p/w342/sgNetedu19Ar9LkUXGNheh9NL1D.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/sTwYXYIw79TlBKRQ7Cdzev28vSQ.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/gf7wws29l53c/Maargan.2025.720p.WEB-DL.HIN-TAM.x264-DanieWatch.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

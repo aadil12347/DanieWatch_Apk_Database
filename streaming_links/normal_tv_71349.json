@@ -1,6 +1,14 @@
 {
   "id": "71349",
   "type": "tv",
+  "title": "Suspicious Partner",
+  "poster": "https://image.tmdb.org/t/p/w342/e5ytMZlkGlVWtxSoLypobMaqZEO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/qzw3CA3AqrLsBa25XUjLLpkWrAk.jpg",
+  "year": "2017",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

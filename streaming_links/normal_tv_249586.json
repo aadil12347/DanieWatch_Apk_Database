@@ -1,6 +1,14 @@
 {
   "id": "249586",
   "type": "tv",
+  "title": "Amsterdam Empire",
+  "poster": "https://image.tmdb.org/t/p/w342/bssBGroBgZCHmn4jbbTmttt7VEq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/2sORBXHcWuh000pKAl93bsMmf76.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

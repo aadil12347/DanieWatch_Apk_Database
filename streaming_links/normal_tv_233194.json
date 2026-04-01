@@ -1,6 +1,14 @@
 {
   "id": "233194",
   "type": "tv",
+  "title": "Only for Love",
+  "poster": "https://image.tmdb.org/t/p/w342/aSDZcX0FIJJRMNiL7n9J39LyK46.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/tchhr4PIgdILmgUqbfm2fbi9b26.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

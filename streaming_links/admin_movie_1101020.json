@@ -2,8 +2,9 @@
   "id": "1101020",
   "type": "movie",
   "title": "Baby Girl",
-  "year": "",
-  "poster": "",
+  "poster": "https://image.tmdb.org/t/p/w342/nEyEFVdlmUdapDl77704aR8o59D.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/q7K1z3paBMkHAPd5WgFqBboIJee.jpg",
+  "year": "2026",
   "result": "HD",
   "language": [
     "Hindi"

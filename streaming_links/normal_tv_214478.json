@@ -1,6 +1,14 @@
 {
   "id": "214478",
   "type": "tv",
+  "title": "Road Home",
+  "poster": "https://image.tmdb.org/t/p/w342/5NmLByu3hHyV5xQIxr4ARxBMkVI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/fAGhk5U9MKQPVO4TsSB0uAaFrfh.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

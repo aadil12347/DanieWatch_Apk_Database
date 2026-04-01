@@ -1,6 +1,14 @@
 {
   "id": "136699",
   "type": "tv",
+  "title": "Glitch",
+  "poster": "https://image.tmdb.org/t/p/w342/kJEYfQSnnFSn8DY9vdNQ9UQ9QSg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hGm3m4TzEsmBb9SF2mz8Uizx9uH.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

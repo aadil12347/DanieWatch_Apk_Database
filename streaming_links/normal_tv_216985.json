@@ -1,6 +1,14 @@
 {
   "id": "216985",
   "type": "tv",
+  "title": "Blood Coast",
+  "poster": "https://image.tmdb.org/t/p/w342/pKvpiFL4pxrixwpHg77s9oQqfNl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vINfddqZKlEsOzDpDfnHrrEAaH1.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,6 +1,14 @@
 {
   "id": "274979",
   "type": "tv",
+  "title": "The Crystal Cuckoo",
+  "poster": "https://image.tmdb.org/t/p/w342/tsY3Kl793m2sXTMkQTajz0EOqCl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kuvIwh28N9iGsJak8Q8fx3ABKer.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,

@@ -1,5 +1,13 @@
 {
   "id": "619278",
   "type": "movie",
+  "title": "Inside Man: Most Wanted",
+  "poster": "https://image.tmdb.org/t/p/w342/zcDZisqVQK9akfKgyrB9HYzYuVh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/OvMX5sgJ0vLmKQbIiS5yy7jn5H.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "watch": "<iframe src=\"https://bysebuho.com/e/9z4tf3s7lsje/Inside.Man.Most.Wanted.2019.720p.BluRay.Hindi.5.1-English.5.1.DANIEWATCH.mkv\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
 }

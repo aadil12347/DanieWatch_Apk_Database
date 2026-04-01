@@ -1,6 +1,14 @@
 {
   "id": "120089",
   "type": "tv",
+  "title": "SPY x FAMILY",
+  "poster": "https://image.tmdb.org/t/p/w342/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lysUnU6V0VfcthDbviuVlIqgHOR.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
   "seasons": [
     {
       "season_number": 1,
