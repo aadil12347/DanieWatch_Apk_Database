@@ -1,0 +1,28 @@
+{
+  "id": "286787",
+  "type": "tv",
+  "title": "Loot Kaand",
+  "year": "",
+  "poster": "",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes Combined",
+          "overview": "Latika and Palash have to figure out a way to keep their ancestral house, as skeletons from the past come tumbling out to wreak havoc on their family.",
+          "still_path": "https://image.tmdb.org/t/p/w300/9MDV3rKVYruY1eyQQ6WWwTc6FPb.jpg",
+          "air_date": "2025-03-19",
+          "runtime": 37,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/hwi2tqxjcy3y/loot-kaand-2025-s01-hindi-amzn-web-dl-720p-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "236445",
+  "type": "tv",
+  "title": "Campus Beats",
+  "year": "",
+  "poster": "",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes Combined",
+          "overview": "In a college divided between OGs and BGs, Leader of the OG gang 'Ruthless' , Rihanna plans a rebellion. Netra, an outsider, is left stumped. Chaos ensues as the Police arrives after receiving a panic call.As tensions rise, Netra makes a big confession setting the stage for a power struggle!",
+          "still_path": "https://image.tmdb.org/t/p/w300/z0rUBCduhuA0Tvt6rOiQrEiD8hk.jpg",
+          "air_date": "2023-09-21",
+          "runtime": 36,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/krq4d2uw4d0i/campus-beats-s01-2023-hindi-complete-amazon-minitv-series-720p-hd-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes Combined",
+          "overview": "A struggle for power happens between Netra and Rihanna, who both want to be the leader of the newly formed ‘MAD’ crew. It is only a crew on paper, the OGs and BGs can’t put their differences aside. Netra has a bigger crisis to worry about as someone closes in on her true identity.",
+          "still_path": "https://image.tmdb.org/t/p/w300/3Sf3odII5BOmeh1x4FlOLCQkmWr.jpg",
+          "air_date": "2023-10-20",
+          "runtime": 25,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/pk3qisefdoo2/campus-beats-s02-complete-720p-hevc-hdrip-aac2-0-x265-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    },
+    {
+      "season_number": 5,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes Combined",
+          "overview": "Ri and Malang's grand entry shakes Ruthless as Beat Breakers' performance includes chunks of their choreography. Netra is furious, but Ishaan stops her from causing a scene. Meanwhile, Neel is devastated by Malang's betrayal. Ri taunts Netra's leadership, promising to never let her win. Meanwhile, Ishaan is deeply affected by Netra mistakenly confessing her love to Ahaan.",
+          "still_path": "https://image.tmdb.org/t/p/w300/fTZNviLpLDBgKJ4FTLxqsviD0Or.jpg",
+          "air_date": "2025-04-10",
+          "runtime": 38,
+          "vote_average": 9,
+          "watch": ""
+        }
+      ]
+    }
+  ]
+}

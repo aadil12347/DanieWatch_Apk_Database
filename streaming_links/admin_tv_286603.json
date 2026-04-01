@@ -1,0 +1,28 @@
+{
+  "id": "286603",
+  "type": "tv",
+  "title": "Khadaan",
+  "year": "",
+  "poster": "",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes Combined",
+          "overview": "Inspector Veer Pratap Singh's arrival in the village coincides with the discovery of the dead bodies of an entire family. While he takes charge of the investigation, fear and murmurs of an old curse spread through the village.",
+          "still_path": "https://image.tmdb.org/t/p/w300/4jAjkC3CNNjjxASUuzLxMbmnGnF.jpg",
+          "air_date": "2025-03-09",
+          "runtime": 29,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/gbcwz4s17hzi/khadaan-s01-720p-hevc-web-dl-hindi-aac2-0-x265-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

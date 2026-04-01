@@ -1,0 +1,28 @@
+{
+  "id": "284731",
+  "type": "tv",
+  "title": "Crime Beat",
+  "year": "",
+  "poster": "",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episode Combined",
+          "overview": "Delhi's notorious mafia don, Binny Chaudhary, returns to the city and is killed in front of a large crowd. Rookie crime reporter Abhishek Sinha investigates the don's life for his next big story.",
+          "still_path": "https://image.tmdb.org/t/p/w300/lBHTFE03Wy20D7bhfE9pUjl4zCl.jpg",
+          "air_date": "2025-02-21",
+          "runtime": 36,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/jyx89djwczs3/crime-beat-s01-720p-hevc-web-dl-hindi-aac2-0-x265-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

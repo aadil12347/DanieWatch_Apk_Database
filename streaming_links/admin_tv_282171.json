@@ -1,0 +1,28 @@
+{
+  "id": "282171",
+  "type": "tv",
+  "title": "Griha Laxmi",
+  "year": "",
+  "poster": "",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes Combined",
+          "overview": "In Betalgadh, India’s drug hub, Lakshmi, a struggling woman, finds abandoned sacks of marijuana and sees a chance to escape poverty. Meanwhile, ruthless drug lord Vikram Kandpal relentlessly hunts for his lost stash, leaving chaos in his wake.",
+          "still_path": "https://image.tmdb.org/t/p/w300/htpBbUJPLOMnLaeolGsHVKVCBui.jpg",
+          "air_date": "2025-01-16",
+          "runtime": 30,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/10yzlhdygm72/griha-laxmi-s01-720p-hevc-web-dl-aac2-0-x265-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

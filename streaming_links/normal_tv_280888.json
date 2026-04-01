@@ -1,0 +1,23 @@
+{
+  "id": "280888",
+  "type": "tv",
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ro9y1otcahj3/two-graves-s01e01-720p-web-dl-hin-eng-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/g457r3prb6u4/two-graves-s01e02-720p-web-dl-hin-eng-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/xssr1z8rqb6e/two-graves-s01e03-720p-web-dl-hin-eng-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

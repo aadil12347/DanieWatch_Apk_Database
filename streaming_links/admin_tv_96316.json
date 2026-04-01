@@ -1,0 +1,388 @@
+{
+  "id": "96316",
+  "type": "tv",
+  "title": "Rent-a-Girlfriend",
+  "year": "",
+  "poster": "",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "Rent-a-Girlfriend",
+          "overview": "Jilted and heartbroken, 20-year-old Kinoshita Kazuya turns to Diamond, a Rent-A-Girlfriend app that leads him to a fateful encounter with Mizuhara Chizuru, one of the talents on offer.",
+          "still_path": "https://image.tmdb.org/t/p/w300/bys7fHJehP5t92UaiCLLocWmhNQ.jpg",
+          "air_date": "2020-07-11",
+          "runtime": 25,
+          "vote_average": 7.2,
+          "watch": ""
+        },
+        {
+          "episode_number": 2,
+          "name": "Ex-Girlfriend and Girlfriend",
+          "overview": "Immediately after deciding not to rely on pretend dating anymore, Kazuya is hit with a triple whammy of reveals: Chizuru not only goes to his college but lives next door to him, and his grandmother is coming to visit and wants to see her.",
+          "still_path": "https://image.tmdb.org/t/p/w300/ezPWlfnFlAPMrMZoxbVW4F7yQbz.jpg",
+          "air_date": "2020-07-18",
+          "runtime": 25,
+          "vote_average": 7.1,
+          "watch": ""
+        },
+        {
+          "episode_number": 3,
+          "name": "Beach and Girlfriend",
+          "overview": "Kazuya barely has time to deal with the fallout of the situation in the pub before the gang heads off on a short trip to Izu, where they run into someone unexpected.",
+          "still_path": "https://image.tmdb.org/t/p/w300/2FxYsAqi2w2VUIHz0ZS6EQ2cCte.jpg",
+          "air_date": "2020-07-25",
+          "runtime": 25,
+          "vote_average": 6.7,
+          "watch": ""
+        },
+        {
+          "episode_number": 4,
+          "name": "Friend and Girlfriend",
+          "overview": "Mami’s plan comes to a head as Kazuya decides to set the story straight, to mixed reactions.",
+          "still_path": "https://image.tmdb.org/t/p/w300/dJnTykqnUtP2mHNpq26VdTRU0VS.jpg",
+          "air_date": "2020-08-01",
+          "runtime": 25,
+          "vote_average": 7.6,
+          "watch": ""
+        },
+        {
+          "episode_number": 5,
+          "name": "Hot Springs and Girlfriend",
+          "overview": "The aftermath of the ferry incident signals a clear shift in Kazuya’s feelings. Meanwhile, there’s a conspiracy brewing at the hot springs inn he and his family decide to visit.",
+          "still_path": "https://image.tmdb.org/t/p/w300/pAqrrqa06Hjdc3xmr6bcq53OM2k.jpg",
+          "air_date": "2020-08-08",
+          "runtime": 25,
+          "vote_average": 6.3,
+          "watch": ""
+        },
+        {
+          "episode_number": 6,
+          "name": "Girlfriend and Girlfriend",
+          "overview": "Having to spend a night in the same room with Chizuru sends Kazuya’s heart and mind racing. Meanwhile, Kuribayashi Shun has a surprise in store…",
+          "still_path": "https://image.tmdb.org/t/p/w300/3I25SCWCjMhv5krYwLwwwmSOsom.jpg",
+          "air_date": "2020-08-15",
+          "runtime": 25,
+          "vote_average": 7.2,
+          "watch": ""
+        },
+        {
+          "episode_number": 7,
+          "name": "Provisional Girlfriend and Girlfriend",
+          "overview": "While Kazuya desperately tries to get Ruka to promise she won’t reveal his secret, she tells him her own.",
+          "still_path": "https://image.tmdb.org/t/p/w300/hHfEYLJLYgZKopwBSev1zb4IT6o.jpg",
+          "air_date": "2020-08-22",
+          "runtime": 25,
+          "vote_average": 7.4,
+          "watch": ""
+        },
+        {
+          "episode_number": 8,
+          "name": "Christmas and Girlfriend",
+          "overview": "Christmas rolls around with Kazuya not having met Chizuru for ages, and he sees something he never wanted to see.",
+          "still_path": "https://image.tmdb.org/t/p/w300/m3tXfADWG6fgD4xCqTCvz6VZb8N.jpg",
+          "air_date": "2020-08-29",
+          "runtime": 25,
+          "vote_average": 7,
+          "watch": ""
+        },
+        {
+          "episode_number": 9,
+          "name": "Lies and Girlfriend",
+          "overview": "Ruka is hellbent on knowing the full story behind Kazuya and Chizuru’s relationship, and once she does she decides to take action.",
+          "still_path": "https://image.tmdb.org/t/p/w300/illMv4oAFfCCTLYytJjiWCwK8CT.jpg",
+          "air_date": "2020-09-05",
+          "runtime": 25,
+          "vote_average": 6.6,
+          "watch": ""
+        },
+        {
+          "episode_number": 10,
+          "name": "Friend’s Girlfriend",
+          "overview": "Kazuya learns that Kuribayashi's been down in the dumps and tries to figure out how he can help him.",
+          "still_path": "https://image.tmdb.org/t/p/w300/matfrlDRmLkW18NluL86A7vdnyD.jpg",
+          "air_date": "2020-09-12",
+          "runtime": 25,
+          "vote_average": 6.9,
+          "watch": ""
+        },
+        {
+          "episode_number": 11,
+          "name": "Truth and Girlfriend",
+          "overview": "On Chizuru's request, Kazuya goes on a practice date with Sumi, another rental girlfriend. Will he actually be able to help her and stay out of trouble while he's at it?",
+          "still_path": "https://image.tmdb.org/t/p/w300/mwgGTaApa4FHLVr3Jx76ItzQt7q.jpg",
+          "air_date": "2020-09-19",
+          "runtime": 25,
+          "vote_average": 6.8,
+          "watch": ""
+        },
+        {
+          "episode_number": 12,
+          "name": "Confession and Girlfriend",
+          "overview": "Chizuru and Mami go on an awkward rental date unaware that Kazuya has seen them together. How can Chizuru handle this situation?",
+          "still_path": "https://image.tmdb.org/t/p/w300/wMmUFZi8tp36RvdT8tJ4W2Nt4WU.jpg",
+          "air_date": "2020-09-26",
+          "runtime": 24,
+          "vote_average": 7.2,
+          "watch": ""
+        },
+        {
+          "episode_number": 24,
+          "name": "Season 2 Complete - 12 Episodes",
+          "overview": "Chizuru reflects on her journey to get her here, and Kazuya acts on his idea to help her.",
+          "still_path": "https://image.tmdb.org/t/p/w300/egkEnyqeO5Kd4m4MFwPzKFkGIaR.jpg",
+          "air_date": "2022-09-17",
+          "runtime": 24,
+          "vote_average": 7,
+          "watch": ""
+        },
+        {
+          "episode_number": 25,
+          "name": "Home Cooking and Girlfriend",
+          "overview": "Kazuya and Chizuru have decided to make a movie together so that Granny Sayuri can see it. That's all well and good, but now they have to sit down and work out all the details.",
+          "still_path": "https://image.tmdb.org/t/p/w300/9KmCKga3mzzSrMH8vx5bpnGDSuj.jpg",
+          "air_date": "2023-07-08",
+          "runtime": 24,
+          "vote_average": 6.8,
+          "watch": ""
+        },
+        {
+          "episode_number": 26,
+          "name": "Girlfriend Next Door",
+          "overview": "Ruka demands an explanation from Kazuya and Chizuru, and Mini overhears it all going down! What will she do with this information?",
+          "still_path": "https://image.tmdb.org/t/p/w300/85XDKfPscTwF4cXPAFFs0YflzFr.jpg",
+          "air_date": "2023-07-15",
+          "runtime": 24,
+          "vote_average": 6.8,
+          "watch": ""
+        },
+        {
+          "episode_number": 27,
+          "name": "Expert and Girlfriend",
+          "overview": "With the momentum of the crowdfunding campaign stalling, Kazuya must turn to Mini, who happens to be an expert on the matter!",
+          "still_path": "https://image.tmdb.org/t/p/w300/f1WipTgya6fJ7zMROhLGfmrbO05.jpg",
+          "air_date": "2023-07-22",
+          "runtime": 24,
+          "vote_average": 6.8,
+          "watch": ""
+        },
+        {
+          "episode_number": 28,
+          "name": "D-Day and Girlfriend",
+          "overview": "Mini's earnest appeal makes things awkward. Meanwhile, Umi makes a request in return for retweeting the campaign.",
+          "still_path": "https://image.tmdb.org/t/p/w300/y8ld8pj9YxqtwrLwIWGEJhIPpfC.jpg",
+          "air_date": "2023-07-29",
+          "runtime": 24,
+          "vote_average": 6.7,
+          "watch": ""
+        },
+        {
+          "episode_number": 29,
+          "name": "Filming and Girlfriend",
+          "overview": "Filming for the movie begins, and seeing her act in the flesh, Kazuya realizes that Chizuru exists in a whole different dimension from him. Meanwhile, Mini is hatching a plot of her own.",
+          "still_path": "https://image.tmdb.org/t/p/w300/Jb5y7I6eLoyK2ORY4t62KwIKZX.jpg",
+          "air_date": "2023-08-05",
+          "runtime": 24,
+          "vote_average": 6.5,
+          "watch": ""
+        },
+        {
+          "episode_number": 30,
+          "name": "Final Scene and Girlfriend",
+          "overview": "Kazuya and Chizuru end up at a ski resort, finding themselves having to shoot the final scene for the movie all on their own. Chizuru decides she has something to say to Kazuya.",
+          "still_path": "https://image.tmdb.org/t/p/w300/4br4UZUGvGNzEbK0HCc4AEtha5m.jpg",
+          "air_date": "2023-08-12",
+          "runtime": 24,
+          "vote_average": 6.5,
+          "watch": ""
+        },
+        {
+          "episode_number": 31,
+          "name": "Kazuya and Girlfriend",
+          "overview": "It's Ruka's birthday, and Kazuya has to stay true to his word and grant her anything she desires. But what does she want, really?",
+          "still_path": "https://image.tmdb.org/t/p/w300/ovurWlCTYY17MHXsZftMG1JNS04.jpg",
+          "air_date": "2023-08-19",
+          "runtime": 24,
+          "vote_average": 6.5,
+          "watch": ""
+        },
+        {
+          "episode_number": 32,
+          "name": "Family and Girlfriend",
+          "overview": "Sayuri tags along with Kazuya and Chizuru as they scout out the cinema they'll be screening their movie in, and it brings back memories for her.",
+          "still_path": "https://image.tmdb.org/t/p/w300/rAsOUv2kP3qCJCbd06GBXjhYnMk.jpg",
+          "air_date": "2023-09-02",
+          "runtime": 24,
+          "vote_average": 6.5,
+          "watch": ""
+        },
+        {
+          "episode_number": 33,
+          "name": "Parting and Girlfriend",
+          "overview": "With Sayuri's prospects looking bleak, Kazuya pulls off the only thing he can do for Chizuru and her.",
+          "still_path": "https://image.tmdb.org/t/p/w300/nWN6DDcLgPfqPN8Tn9DiO0hqVUS.jpg",
+          "air_date": "2023-09-09",
+          "runtime": 24,
+          "vote_average": 7,
+          "watch": ""
+        },
+        {
+          "episode_number": 34,
+          "name": "Spontaneous Trip and Girlfriend",
+          "overview": "Not knowing what to do, Kazuya looks to good old Sumi for advice. She decides to take him on a trip to help clear his mind.",
+          "still_path": "https://image.tmdb.org/t/p/w300/7xtrkD0vVtfpQnPFNBlGUl4qIym.jpg",
+          "air_date": "2023-09-16",
+          "runtime": 24,
+          "vote_average": 7,
+          "watch": ""
+        },
+        {
+          "episode_number": 35,
+          "name": "Girlfriend and Boyfriend",
+          "overview": "Kazuya decides to rent Chizuru out for an entire day and puts together a date plan to help cheer her up. Will he be successful?",
+          "still_path": "https://image.tmdb.org/t/p/w300/agI4hxwHjBV6Hk4n3UZlWiPRtch.jpg",
+          "air_date": "2023-09-23",
+          "runtime": 24,
+          "vote_average": 6.5,
+          "watch": ""
+        },
+        {
+          "episode_number": 36,
+          "name": "Season 3 Complete - 12 Episodes",
+          "overview": "Seeing Chizuru overcome with grief, Kazuya decides to give her an outlet and sees the ensuing moment as a big change in their relationship.",
+          "still_path": "https://image.tmdb.org/t/p/w300/ruApEADcedktb4fmYnx1e5NiXi5.jpg",
+          "air_date": "2023-09-30",
+          "runtime": 24,
+          "vote_average": 7,
+          "watch": ""
+        },
+        {
+          "episode_number": 37,
+          "name": "Routine and Girlfriend",
+          "overview": "Summer break is over, and routine returns to Kazuya's life. Something he needs to fix, and fast.",
+          "still_path": "https://image.tmdb.org/t/p/w300/8iqP7U6dX0kBL7bYyUSpbXtFuML.jpg",
+          "air_date": "2025-07-05",
+          "runtime": 25,
+          "vote_average": 7.8,
+          "watch": ""
+        },
+        {
+          "episode_number": 38,
+          "name": "Sigh and Girlfriend",
+          "overview": "Kazuya suggests that he and Chizuru get lunch together. How will she take it?",
+          "still_path": "https://image.tmdb.org/t/p/w300/ed9PMGORLvtvCEfjU9Wug5GxdtA.jpg",
+          "air_date": "2025-07-12",
+          "runtime": 25,
+          "vote_average": 7.8,
+          "watch": ""
+        },
+        {
+          "episode_number": 39,
+          "name": "Daikanyama and Girlfriend",
+          "overview": "Chizuru and Kazuya are invited to a party in the super-fancy area of Daikanyama.",
+          "still_path": "https://image.tmdb.org/t/p/w300/nbZeXNZ411ePwgM089RTatXF9YV.jpg",
+          "air_date": "2025-07-19",
+          "runtime": 25,
+          "vote_average": 7.8,
+          "watch": ""
+        },
+        {
+          "episode_number": 40,
+          "name": "Decision and Girlfriend",
+          "overview": "Kazuya has his mind set on making his move, and Chizuru has realized something too.",
+          "still_path": "https://image.tmdb.org/t/p/w300/sVzMgjWee2cc0Jd3m2sZzOtiOe5.jpg",
+          "air_date": "2025-07-26",
+          "runtime": 25,
+          "vote_average": 8,
+          "watch": ""
+        },
+        {
+          "episode_number": 41,
+          "name": "Promised Time and Girlfriend",
+          "overview": "Mami finally confronts Chizuru. How will this explosive situation turn out?",
+          "still_path": "https://image.tmdb.org/t/p/w300/fLn9PWApn3tUhTzWB75ANnRZBVN.jpg",
+          "air_date": "2025-08-02",
+          "runtime": 25,
+          "vote_average": 8.5,
+          "watch": ""
+        },
+        {
+          "episode_number": 42,
+          "name": "Family Trip and Girlfriend",
+          "overview": "It's time for the Kinoshita tradition—a two-night, three-day trip to Spa Resort Hawaiians!",
+          "still_path": "https://image.tmdb.org/t/p/w300/kMfZ4tvX2czuewFJHDMKySq0ekR.jpg",
+          "air_date": "2025-08-09",
+          "runtime": 25,
+          "vote_average": 7.8,
+          "watch": ""
+        },
+        {
+          "episode_number": 43,
+          "name": "Hawaiians and Girlfriend",
+          "overview": "The Hawaiians stay begins in absolute chaos as Mami has joined the fray!",
+          "still_path": "https://image.tmdb.org/t/p/w300/6GCPl14PWJzU92QEm9RknkN1J9b.jpg",
+          "air_date": "2025-08-16",
+          "runtime": 25,
+          "vote_average": 7,
+          "watch": ""
+        },
+        {
+          "episode_number": 44,
+          "name": "Strings and Girlfriend",
+          "overview": "Chizuru and Kazuya deal with a little incident, blissfully unaware of the moves Mami is making.",
+          "still_path": "https://image.tmdb.org/t/p/w300/bUIrAq2ns5Jqbd1NHl5AifjVKDm.jpg",
+          "air_date": "2025-08-23",
+          "runtime": 25,
+          "vote_average": 6.7,
+          "watch": ""
+        },
+        {
+          "episode_number": 45,
+          "name": "For My First Time and Girlfriend",
+          "overview": "Ruka has her doubts about this trip, and her doubts are amplified by the conversations she has!",
+          "still_path": "https://image.tmdb.org/t/p/w300/AkwsjXqLSnCpW3sfT5K5VkCTbYV.jpg",
+          "air_date": "2025-08-30",
+          "runtime": 25,
+          "vote_average": 6.3,
+          "watch": ""
+        },
+        {
+          "episode_number": 46,
+          "name": "Ring Finger and Girlfriend",
+          "overview": "Chizuru and Ruka have run-ins with the Kinoshita family women.",
+          "still_path": "https://image.tmdb.org/t/p/w300/8OqKKCYY33lxtMKmPFnHFK8d8C4.jpg",
+          "air_date": "2025-09-06",
+          "runtime": 25,
+          "vote_average": 7,
+          "watch": ""
+        },
+        {
+          "episode_number": 47,
+          "name": "Guilt and Girlfriend",
+          "overview": "Mami confronts Chizuru and urges her to make a decision.",
+          "still_path": "https://image.tmdb.org/t/p/w300/kHB1QvvrFf8RmJJoM1Wc8bBZoZK.jpg",
+          "air_date": "2025-09-13",
+          "runtime": 25,
+          "vote_average": 7.5,
+          "watch": ""
+        },
+        {
+          "episode_number": 48,
+          "name": "Paradise and Girlfriend",
+          "overview": "Kazuya's filled with guilt after Nagomi's display of gratitude, and Chizuru has a decision to make with Mami.",
+          "still_path": "https://image.tmdb.org/t/p/w300/24V0rD06NQWY0fzw0kH4CkaeROe.jpg",
+          "air_date": "2025-09-20",
+          "runtime": 24,
+          "vote_average": 6.5,
+          "watch": ""
+        }
+      ]
+    }
+  ]
+}

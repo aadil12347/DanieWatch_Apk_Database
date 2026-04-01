@@ -1,0 +1,28 @@
+{
+  "id": "292127",
+  "type": "tv",
+  "title": "Knock Knock…Kaun Hai?",
+  "year": "",
+  "poster": "",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes Combined",
+          "overview": "On the night of a college party, in a fit of anger, Tanya downloads the Knock Knock app and puts a death wish on Mehek setting off a series of unfortunate events.",
+          "still_path": "https://image.tmdb.org/t/p/w300/86w0rYY4jnT4l8HcVr3AU7SbBRX.jpg",
+          "air_date": "2025-05-22",
+          "runtime": 27,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/wvx2lpts7xj7/knock-knock-kaun-hai-s01-720p-hevc-web-dl-hindi-2ch-x265-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "230020",
+  "type": "tv",
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/6u9tyivcpc42/half-ca-s01-complete-720p-hevc-hdrip-aac2-0-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": ""
+        },
+        {
+          "episode_number": 3,
+          "watch": ""
+        },
+        {
+          "episode_number": 4,
+          "watch": ""
+        },
+        {
+          "episode_number": 5,
+          "watch": ""
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/tlu7ctedykes/half-ca-s02e01-new-account-720p-web-dl-hindi-x264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/qarfsqzcgml4/half-ca-s02e02-orientation-720p-web-dl-hindi-x264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/6p1fx39he1ca/half-ca-s02e03-reconciliation-720p-web-dl-hindi-x264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/b2lyjj94d8wc/half-ca-s02e04-articleship-vs-exams-720p-web-dl-hindi-x264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ze0g6n0mowxr/half-ca-s02e05-balancing-figures-720p-web-dl-hindi-x264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

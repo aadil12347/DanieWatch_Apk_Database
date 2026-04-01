@@ -1,0 +1,28 @@
+{
+  "id": "281408",
+  "type": "tv",
+  "title": "Agra Affair",
+  "year": "",
+  "poster": "",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes Combined",
+          "overview": "With the unusual tactics of running Hotel Aalishan exposed to his father, Aakash seeks to repair the damage. In this quest, he crosses paths with Tanvi, a tourist guide, leading to an unprecedented collaboration.",
+          "still_path": "https://image.tmdb.org/t/p/w300/jURzyKc7VGUAdVV1leODWQOn2yQ.jpg",
+          "air_date": "2025-01-08",
+          "runtime": 30,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/dkzozxw9g2u7/agra-affair-s01-720p-hevc-web-dl-hindi-x265-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

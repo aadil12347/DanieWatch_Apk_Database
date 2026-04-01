@@ -1,0 +1,43 @@
+{
+  "id": "94891",
+  "type": "tv",
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/inibdlrgjext/bhram-s01-e01-05-webrip-hindi-720p-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/4cjfngbgq1dc/bhram-s01-e06-08-webrip-hindi-720p-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": ""
+        },
+        {
+          "episode_number": 4,
+          "watch": ""
+        },
+        {
+          "episode_number": 5,
+          "watch": ""
+        },
+        {
+          "episode_number": 6,
+          "watch": ""
+        },
+        {
+          "episode_number": 7,
+          "watch": ""
+        },
+        {
+          "episode_number": 8,
+          "watch": ""
+        }
+      ]
+    }
+  ]
+}

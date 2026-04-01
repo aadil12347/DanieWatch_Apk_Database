@@ -1,0 +1,27 @@
+{
+  "id": "138505",
+  "type": "tv",
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/tmkhlymdpwlo/marvel-zombies-s01e01-720p-dsnp-web-dl-ddp5-1-h-264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/em2zyz329j8e/marvel-zombies-s01e02-720p-dsnp-web-dl-ddp5-1-h-264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/2d06snb1swi8/marvel-zombies-s01e03-720p-dsnp-web-dl-ddp5-1-h-264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/b6el1nw2ufg0/marvel-zombies-s01e04-720p-dsnp-web-dl-ddp5-1-h-264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "307534",
+  "type": "tv",
+  "title": "Free Bert",
+  "year": "",
+  "poster": "",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "The Crowd Pleaser",
+          "overview": "An existential crisis at a celebrity soiree pushes Bert to get more involved in his daughters' lives — with predictably disastrous results.",
+          "still_path": "https://image.tmdb.org/t/p/w300/ftHiFLaZXOUkWg9HcMuVMJNKR1D.jpg",
+          "air_date": "2026-01-22",
+          "runtime": 24,
+          "vote_average": 10,
+          "watch": "<iframe src=\"https://bysebuho.com/e/itdbrcg8mk7f/free-bert-2026-s01ep01-hin-eng-720p-daniewatch-hot\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "name": "Wearing Thin",
+          "overview": "Bert's attempt to transform campus conflict into comedy gold lands Georgia on house arrest, where a new face in her DMs sparks major parental concern.",
+          "still_path": "https://image.tmdb.org/t/p/w300/mdSg5qY7IIZsJsvAAhuEjCmlhUM.jpg",
+          "air_date": "2026-01-22",
+          "runtime": 27,
+          "vote_average": 6.5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/5qarcwgebvv0/free-bert-2026-s01ep02-hin-eng-720p-daniewatch-hot\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "name": "Nutless",
+          "overview": "It's sink or swim as Bert and LeeAnn scramble to polish their image at a posh poolside brunch — and undo their missteps with Georgia's crush.",
+          "still_path": "https://image.tmdb.org/t/p/w300/lFIXdJewXR0KohG7jWpETmYo1v2.jpg",
+          "air_date": "2026-01-22",
+          "runtime": 23,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/imzjedh84mjl/free-bert-2026-s01ep03-hin-eng-720p-daniewatch-hot\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "name": "The New Fourth",
+          "overview": "Bert leverages a catastrophe to tee up a day out with the other Barklidge dads, leaving LeeAnn trapped in close quarters with a frenemy.",
+          "still_path": "https://image.tmdb.org/t/p/w300/2RtnD3AAwZ2IZWPO3d4jouNxzot.jpg",
+          "air_date": "2026-01-22",
+          "runtime": 24,
+          "vote_average": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/frwfnvu95shl/free-bert-2026-s01ep04-hin-eng-720p-daniewatch-hot\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "name": "A Doubt Firestorm",
+          "overview": "Cornered by an unexpected blackmailer, Bert must evade suspicion on a boys' trip. LeeAnn's half-baked cover-up starts to crumble.",
+          "still_path": "https://image.tmdb.org/t/p/w300/hrQpHvu2ZeJB4J7xOj2ZsjcG0sc.jpg",
+          "air_date": "2026-01-22",
+          "runtime": 30,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/x0mmimvftv3v/free-bert-2026-s01ep05-hin-eng-720p-daniewatch-hot\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "name": "Proper Descension",
+          "overview": "As Barklidge prepares to crown its king and queen, the Kreischers must decide whether they're happier fitting in — or standing out.",
+          "still_path": "https://image.tmdb.org/t/p/w300/2UDiB5hYG4y5ExqD9PtECPRVPkE.jpg",
+          "air_date": "2026-01-22",
+          "runtime": 26,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/abljzmqmyqsl/free-bert-2026-s01ep06-hin-eng-720p-daniewatch-hot\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

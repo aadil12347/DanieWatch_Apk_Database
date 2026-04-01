@@ -1,0 +1,27 @@
+{
+  "id": "245219",
+  "type": "tv",
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/is4e7audjk6k/death-by-lightning-s01e01-720p-nf-web-dl-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/e9qd9cyc3av7/death-by-lightning-s01e02-720p-nf-web-dl-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/2xv97pbepi0o/death-by-lightning-s01e03-720p-nf-web-dl-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/zhenn2n02eyx/death-by-lightning-s01e04-720p-nf-web-dl-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

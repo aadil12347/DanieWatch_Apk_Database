@@ -1,0 +1,78 @@
+{
+  "id": "224372",
+  "type": "tv",
+  "title": "A Knight of the Seven Kingdoms",
+  "year": "",
+  "poster": "",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "The Hedge Knight",
+          "overview": "On his journey to the forthcoming tournament in Ashford, Dunk meets a clever young boy named Egg, who offers to be his squire.",
+          "still_path": "https://image.tmdb.org/t/p/w300/skUblgYcUgTwcs1J2N0dAmIJcoF.jpg",
+          "air_date": "2026-01-18",
+          "runtime": 42,
+          "vote_average": 7.552,
+          "watch": "<iframe src=\"https://bysebuho.com/e/dj8119htocib/a-knight-of-the-seven-kingdoms-s01e01-720p-web-dl-x264-daniewatch-hot\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "name": "Hard Salt Beef",
+          "overview": "Dunk appeals to various lords in order to gain entrance into the tournament...but Egg advises him to hold onto his pride. When the Targaryens arrive at Ashford, Dunk seizes his moment with Prince Baelor.",
+          "still_path": "https://image.tmdb.org/t/p/w300/xIGDeFRQWNBYqGxzjLg1I8c22Ne.jpg",
+          "air_date": "2026-01-25",
+          "runtime": 34,
+          "vote_average": 8.25,
+          "watch": "<iframe src=\"https://bysebuho.com/e/mexe8z4mbst5/a-knight-of-the-seven-kingdoms-s01e02-720p-web-dl-x264-daniewatch-hot\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "name": "The Squire",
+          "overview": "After Egg attempts to train Dunk's uncooperative horse, Dunk teaches his new squire an important skill. As they take in the tourney's first full day of events, Dunk receives a proposition from the Ashford steward that could help secure his future.",
+          "still_path": "https://image.tmdb.org/t/p/w300/8coDmuDhHGJGpgOqr7eT4FtA4uD.jpg",
+          "air_date": "2026-02-01",
+          "runtime": 31,
+          "vote_average": 8.7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/z6tb8jy7twvp/a-knight-of-the-seven-kingdoms-s01e03-720p-web-dl-x264-daniewatch-hot\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "name": "Seven",
+          "overview": "After landing himself in the Targaryens' crosshairs, Dunk exercises his right to request a trial by combat.",
+          "still_path": "",
+          "air_date": "2026-02-08",
+          "runtime": 38,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/om48tyc28zqj/a-knight-of-the-seven-kingdoms-s01e04-720p-web-dl-x264-daniewatch-hot\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "name": "In the Name of the Mother",
+          "overview": "Dunk finds himself drawn to the promise of a new future.",
+          "still_path": "",
+          "air_date": "2026-02-15",
+          "runtime": 39,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ws39ujyu828j/a-knight-of-the-seven-kingdoms-s01e05-720p-web-dl-x264-daniewatch-hot\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "name": "Episode 6",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2026-02-22",
+          "runtime": null,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/h2ca5m07b5mj/a-knight-of-the-seven-kingdoms-s01e06-720p-web-dl-x264-daniewatch-hot\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+name: Auto Update Index
+on:
+  push:
+    paths:
+      - 'streaming_links/**' # Jab bhi is folder mein naya link aaye tab chale
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - name: Generate New Index
+        run: node scripts/generate_index.js
+      - name: Commit and Push
+        run: |
+          git config --global user.name "DanieWatch Bot"
+          git config --global user.email "bot@daniewatch.com"
+          git add index.json
+          git commit -m "chore: auto-update index [skip ci]" || exit 0
+          git push

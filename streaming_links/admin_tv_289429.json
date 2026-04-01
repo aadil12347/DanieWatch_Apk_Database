@@ -1,0 +1,28 @@
+{
+  "id": "289429",
+  "type": "tv",
+  "title": "Hai Junoon!",
+  "year": "",
+  "poster": "",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes Combined",
+          "overview": "Bikram is elated to meet award-winning musician Gagan at the SuperSonics' show. But Sebi and his team plot to steal the spotlight.",
+          "still_path": "https://image.tmdb.org/t/p/w300/dcF9zQfZFJoUsSmHjtLDOtLlYAO.jpg",
+          "air_date": "2025-05-16",
+          "runtime": 43,
+          "vote_average": null,
+          "watch": ""
+        }
+      ]
+    }
+  ]
+}
