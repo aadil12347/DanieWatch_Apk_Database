@@ -9,5 +9,81 @@
   "language": [
     "Hindi"
   ],
-  "seasons": []
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "Episode 1",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/lyk0fc0z5pfq/the-terminal-list-dark-wolf-s01e01-inherent-resolve-720p-amzn-web-dl-ddp5-1-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "name": "Episode 2",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/iopfu1ldrc7m/the-terminal-list-dark-wolf-s01e02-the-audition-720p-amzn-web-dl-ddp5-1-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "name": "Episode 3",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/fkv2q3udqw3p/the-terminal-list-dark-wolf-s01e03-whats-past-is-prologue-720p-amzn-web-dl-ddp5-1-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "name": "Episode 4",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/lt5ce781wkik/the-terminal-list-dark-wolf-s01e04-720p-hin-eng-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "name": "Episode 5",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/mzr7w8ft7cei/the-terminal-list-dark-wolf-s01e05-720p-hin-eng-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "name": "Episode 6",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/042snifjb8hl/the-terminal-list-dark-wolf-s01e06-720p-hindi-english-msubs-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "name": "Episode 7",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/752r2x5bepr5/the-terminal-list-dark-wolf-s01e07-720p-hin-eng-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
 }

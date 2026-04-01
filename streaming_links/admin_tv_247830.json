@@ -9,5 +9,81 @@
   "language": [
     "Hindi"
   ],
-  "seasons": []
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "Episode 1",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ycsjlb47hxak/dabba-cartel-episode-1-multi-720p-web-dl-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "name": "Episode 2",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/w9zwj9p5erm7/dabba-cartel-episode-2-multi-720p-web-dl-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "name": "Episode 3",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/wzxcp1s3q7ok/dabba-cartel-episode-3-multi-720p-web-dl-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "name": "Episode 4",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/e0du5w1fc649/dabba-cartel-episode-4-multi-720p-web-dl-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "name": "Episode 5",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/oht5af2dy9ja/dabba-cartel-episode-5-multi-720p-web-dl-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "name": "Episode 6",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/25se5y14yhfe/dabba-cartel-episode-6-multi-720p-web-dl-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "name": "Episode 7",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/cajgettrumik/dabba-cartel-episode-7-multi-720p-web-dl-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
 }

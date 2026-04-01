@@ -9,5 +9,61 @@
   "language": [
     "Hindi"
   ],
-  "seasons": []
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "Episode 1",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/haaer732ipuj/gram-chikitsalay-s01e01-720p-hindi-web-dl-5-1-esub-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "name": "Episode 2",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/4xgdqag6kwbt/gram-chikitsalay-s01e02-720p-hindi-web-dl-5-1-esub-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "name": "Episode 3",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/2iob5fwgtk57/gram-chikitsalay-s01e03-720p-hindi-web-dl-5-1-esub-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "name": "Episode 4",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/090bw5huhype/gram-chikitsalay-s01e04-720p-hindi-web-dl-5-1-esub-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "name": "Episode 5",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ynu3rka21ybg/gram-chikitsalay-s01e05-720p-hindi-web-dl-5-1-esub-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
 }
