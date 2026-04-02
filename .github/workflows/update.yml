@@ -16,6 +16,8 @@ jobs:
         with:
           node-version: 20 # Updated to 20 to avoid deprecation warnings
       - name: Generate New Index
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: node scripts/generate_index.js
       - name: Commit and Push
         run: |

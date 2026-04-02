@@ -1,0 +1,9 @@
+node_modules/
+build/
+dist/
+manager/
+*.spec
+*.html
+.env
+index.json
+*.log
