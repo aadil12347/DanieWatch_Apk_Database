@@ -1,0 +1,39 @@
+{
+  "id": "298052",
+  "type": "tv",
+  "title": "Court Kacheri",
+  "poster": "https://image.tmdb.org/t/p/w342/vF8EPLO71t2eVdR3l7UgpMHrP3K.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hR6hgCTYi8VMXpRPGiWVYitUDYt.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/83wxxw4popft/court-kacheri-2025-s01e01-summon-720p-sony-web-dl-multi-ddp5-1-atmos-h-265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/beoml3jll1ma/court-kacheri-2025-s01e02-objection-720p-sony-web-dl-multi-ddp5-1-atmos-h-265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/hi80hfiwtj4d/court-kacheri-2025-s01e03-cross-examination-720p-sony-web-dl-multi-ddp5-1-atmos-h-265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/rzg2amum8em3/court-kacheri-2025-s01e04-final-argument-720p-sony-web-dl-multi-ddp5-1-atmos-h-265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/tj1u1bxavdtk/court-kacheri-2025-s01e05-judgment-720p-sony-web-dl-multi-ddp5-1-atmos-h-265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

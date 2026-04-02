@@ -1,0 +1,43 @@
+{
+  "id": "253376",
+  "type": "tv",
+  "title": "The Girlfriend",
+  "poster": "https://image.tmdb.org/t/p/w342/ktrp3tdZ5IQpFux4nLy8z70bt3n.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lnVWmFvLv2pTZGsuAJytiqKu541.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ivjdtra81anv/the-girlfriend-s01e01-720p-web-dl-hin-eng-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/pna8xlgvom6e/the-girlfriend-s01e02-720p-web-dl-hin-eng-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/uyxie6i58jv6/the-girlfriend-s01e03-720p-web-dl-hin-eng-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/lyhkea4cxmoq/the-girlfriend-s01e04-720p-web-dl-hin-eng-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/65ik1cwbmarj/the-girlfriend-s01e05-720p-web-dl-hin-eng-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/3t25liw4ey4c/the-girlfriend-s01e06-720p-web-dl-hin-eng-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

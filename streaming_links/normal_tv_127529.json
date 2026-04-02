@@ -1,0 +1,84 @@
+{
+  "id": "127529",
+  "type": "tv",
+  "title": "Bloodhounds",
+  "poster": "https://image.tmdb.org/t/p/w342/3uflkuhQUh2pnT2V8YgsDkjMfrT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/b2iWqSFpuy9CS5XWiAmnLzNv9eP.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/34tuiekilsal/bloodhounds-s01e01-720p-web-dl-hin-eng-kor-msubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/6nvuke6w7tmm/bloodhounds-s01e02-720p-web-dl-hin-eng-kor-msub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/imsx05odufcw/bloodhounds-s01e03-720p-web-dl-hin-eng-kor-msubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ht3niy5u3d59/bloodhounds-s01e04-720p-web-dl-hin-eng-kor-msubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ofs3o2pbdgz0/bloodhounds-s01e05-720p-web-dl-hin-eng-kor-msubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ja14hydd2pst/bloodhounds-s01e06-720p-web-dl-hin-eng-kor-msubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/9hp1ocdpn74i/bloodhounds-s01e07-720p-web-dl-hin-eng-kor-msubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/y0rn4pe2d8p4/bloodhounds-s01e08-720p-web-dl-hin-eng-kor-msubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": ""
+        },
+        {
+          "episode_number": 2,
+          "watch": ""
+        },
+        {
+          "episode_number": 3,
+          "watch": ""
+        },
+        {
+          "episode_number": 4,
+          "watch": ""
+        },
+        {
+          "episode_number": 5,
+          "watch": ""
+        },
+        {
+          "episode_number": 6,
+          "watch": ""
+        },
+        {
+          "episode_number": 7,
+          "watch": ""
+        }
+      ]
+    }
+  ]
+}

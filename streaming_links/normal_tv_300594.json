@@ -1,0 +1,35 @@
+{
+  "id": "300594",
+  "type": "tv",
+  "title": "Is It Cake? Halloween",
+  "poster": "https://image.tmdb.org/t/p/w342/msfCGuLiZwLV8O5JZ3EoY6aeiim.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hWPLvmYb8jvkSHrlfgvw29HmwUW.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ksf36usqnwb1/is-it-cake-halloween-s01-e01-webrip-720p-hindi-english-aac-5-1-msubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/a4nu1o4k06da/is-it-cake-halloween-s01-e02-webrip-720p-hindi-english-aac-5-1-msubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ya4abhtpxbga/is-it-cake-halloween-s01-e03-webrip-720p-hindi-english-aac-5-1-msubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/b4o83vc7libt/is-it-cake-halloween-s01-e04-webrip-720p-hindi-english-aac-5-1-msubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

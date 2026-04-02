@@ -1,0 +1,68 @@
+{
+  "id": "214332",
+  "type": "tv",
+  "title": "Sixer",
+  "poster": "https://image.tmdb.org/t/p/w342/uD1QfpTKwSksG13pcUOvWzyAeOK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wJF9iiLooF6cUQ07kh4FZPleYyk.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/v3jikgteod7h/sixer-s01-720p-amzn-web-dl-aac2-0-h-264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": ""
+        },
+        {
+          "episode_number": 3,
+          "watch": ""
+        },
+        {
+          "episode_number": 4,
+          "watch": ""
+        },
+        {
+          "episode_number": 5,
+          "watch": ""
+        },
+        {
+          "episode_number": 6,
+          "watch": ""
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/zyobqd0sqe4a/sixer-s02e01-do-rakshas-720p-amzn-web-dl-aac2-0-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/o8xvvoxgc764/sixer-s02e02-kadvi-mithai-720p-amzn-web-dl-aac2-0-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/d9v9a9noyn8z/sixer-s02e03-mitti-aur-pani-720p-amzn-web-dl-aac2-0-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/lxbod59bu8cd/sixer-s02e04-sweet-spot-720p-amzn-web-dl-aac2-0-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/d0zxlo1sra7i/sixer-s02e05-the-destroyer-720p-amzn-web-dl-aac2-0-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

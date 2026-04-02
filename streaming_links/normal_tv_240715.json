@@ -1,0 +1,51 @@
+{
+  "id": "240715",
+  "type": "tv",
+  "title": "Snap and Spark",
+  "poster": "https://image.tmdb.org/t/p/w342/w2vK0lTyUkyOl8tPrTkaxi69kKv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/df93jJXThdpSgb8Alj7oV5OExwU.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/i698fus8h7z1/snap-and-spark-s01e01-1080p-hindi-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/yy1al6m468o6/snap-and-spark-s01e02-1080p-hindi-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/8vtyrnanttsb/snap-and-spark-s01e03-1080p-hindi-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/kiwm80cydvso/snap-and-spark-s01e04-1080p-hindi-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/uelcfks7ewvj/snap-and-spark-s01e05-1080p-hindi-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/sdd7l9v0qa18/snap-and-spark-s01e06-1080p-hindi-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/h6d8lf0awu1b/snap-and-spark-s01e07-1080p-hindi-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/qzvpquo0qj2j/snap-and-spark-s01e08-1080p-hindi-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

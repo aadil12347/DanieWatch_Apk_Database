@@ -1,0 +1,35 @@
+{
+  "id": "303173",
+  "type": "tv",
+  "title": "MARINES",
+  "poster": "https://image.tmdb.org/t/p/w342/rpXGvTyNT6Crsu5ZzCy1h1SgRep.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kCf0Ydkeue3vnRljYxMRhigU2nx.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/tqitj9xr1fzz/marines-s01e01-720p-web-dl-hin-eng-x264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/7qbt4wxx8lt9/marines-s01e02-720p-web-dl-hin-eng-x264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/vxgyiiak94uj/marines-s01e03-720p-web-dl-hin-eng-x264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/np3bc4lpekec/marines-s01e04-720p-web-dl-hin-eng-x264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

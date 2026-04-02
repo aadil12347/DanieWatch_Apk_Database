@@ -1,0 +1,47 @@
+{
+  "id": "304419",
+  "type": "tv",
+  "title": "Deewangi",
+  "poster": "https://image.tmdb.org/t/p/w342/gKrrOEqrkl7nz4KEzucWPvRTvnO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/27Zb6xXAFkRnwFGPzwqSWBIqQUl.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/56df9xyx1mzi/deewangi-s01-e01-webrip-720p-hindi-aac-2-0-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/1v74ik0tlft9/deewangi-s01-e02-webrip-720p-hindi-aac-2-0-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/nvobl2cunpzg/deewangi-s01-e03-webrip-720p-hindi-aac-2-0-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/gk2q8ldtf5q5/deewangi-s01-e04-webrip-720p-hindi-aac-2-0-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/s58tt0sxmt2l/deewangi-s01-e05-webrip-720p-hindi-aac-2-0-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/q460rcapocwe/deewangi-s01-e06-webrip-720p-hindi-aac-2-0-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/fb8i5jzclbgv/deewangi-s01-e07-webrip-720p-hindi-aac-2-0-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

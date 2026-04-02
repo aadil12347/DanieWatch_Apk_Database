@@ -1,0 +1,43 @@
+{
+  "id": "262920",
+  "type": "tv",
+  "title": "The Asset",
+  "poster": "https://image.tmdb.org/t/p/w342/ugreFeu0Ng7wnfX6ZRNoQa2sbxX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/n9YnfHabjCNwCHUXfT6DPxzFa3e.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/vir1wpq3m60n/the-asset-s01e01-720p-nf-web-dl-dual-ddp5-1-x264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/uirgyb1sq3rs/the-asset-s01e02-720p-nf-web-dl-dual-ddp5-1-x264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/2bga2w1w7ypr/the-asset-s01e03-720p-nf-web-dl-dual-ddp5-1-x264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/3ic0n0ux6mom/the-asset-s01e04-720p-nf-web-dl-dual-ddp5-1-x264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/28y966c8p75j/the-asset-s01e05-720p-nf-web-dl-dual-ddp5-1-x264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ia9s73dx41ll/the-asset-s01e06-720p-nf-web-dl-dual-ddp5-1-x264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "208825",
+  "type": "tv",
+  "title": "Parasyte: The Grey",
+  "poster": "https://image.tmdb.org/t/p/w342/9UPneQ4NF7g6WDNSFE5qyt88wJn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/p4rJTY1rvQrffoh2P09sty5cz8B.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/zbrdxg7do97e/parasyte-the-grey-s01e01-web-dl-hin-eng-kor-msub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/2saxbtancr3j/parasyte-the-grey-s01e02-web-dl-hin-eng-kor-msub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/39tsqe03scz0/parasyte-the-grey-s01e03-web-dl-hin-eng-kor-msub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/tj491k8o55e0/parasyte-the-grey-s01e04-web-dl-hin-eng-kor-msub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/tfwtc638m5qo/parasyte-the-grey-s01e05-720p-hindi-korean-english-esubs-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/vq7mnhkcbqww/parasyte-the-grey-s01e06-web-dl-hin-eng-kor-msub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

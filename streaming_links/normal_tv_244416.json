@@ -1,0 +1,43 @@
+{
+  "id": "244416",
+  "type": "tv",
+  "title": "Malice",
+  "poster": "https://image.tmdb.org/t/p/w342/fKhHzRk1VIJY1nz1cRhAfAaYfnA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/AsWevUaVrwK1kiJFAoo9YKMgYty.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/9e7cvojrji8h/malice-s01e01-720p-amzn-web-dl-ddp5-1-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ugcnz4vezad4/malice-s01e02-720p-amzn-web-dl-ddp5-1-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/y1x6fxwl74x8/malice-s01e03-720p-amzn-web-dl-ddp5-1-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/5oyyuw5gaokq/malice-s01e04-720p-amzn-web-dl-ddp5-1-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/dagqjgna9g8r/malice-s01e05-720p-amzn-web-dl-ddp5-1-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/747d0kf4eerz/malice-s01e06-720p-amzn-web-dl-ddp5-1-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

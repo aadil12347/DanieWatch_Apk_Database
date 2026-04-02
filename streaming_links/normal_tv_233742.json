@@ -1,0 +1,51 @@
+{
+  "id": "233742",
+  "type": "tv",
+  "title": "Newtopia",
+  "poster": "https://image.tmdb.org/t/p/w342/cIC36RA59lg9ruYtPc7UA3f72yy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/olRPEYjyjzoMAODjOMjF2K1VlzO.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/0uce45bo881f/newtopia-s01e01-720p-web-dl-hin-kor-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/g7kty6xicrlx/newtopia-s01e02-720p-web-dl-hin-kor-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/r5gyq8q6f1qx/newtopia-s01e03-720p-web-dl-hindi-5-1-english-5-1-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ubi6qybmlgry/newtopia-s01e04-720p-web-dl-hin-kor-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/1ylzt6n1pmy2/newtopia-s01e05-720p-web-dl-hindi-5-1-english-5-1-esub-x264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/qase7n6rjj5n/newtopia-s01e06-720p-web-dl-hindi-5-1-english-5-1-esub-x264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/sa50h2o6kro4/newtopia-s01e07-720p-web-dl-hindi-5-1-english-5-1-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/xlh0dt98tbyt/newtopia-s01e08-720p-web-dl-hindi-5-1-english-5-1-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

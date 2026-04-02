@@ -1,0 +1,43 @@
+{
+  "id": "271041",
+  "type": "tv",
+  "title": "The Chronicles Of The 4.5 Gang",
+  "poster": "https://image.tmdb.org/t/p/w342/8bhytwwkOOkLWGR76RubBr3IgXU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mfrx8ie27ljjrjSkiFrISKAui7o.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/8y9ocnbeibvh/the-chronicles-of-the-4-5-gang-2025-s01-hindi-sliv-720p-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": ""
+        },
+        {
+          "episode_number": 3,
+          "watch": ""
+        },
+        {
+          "episode_number": 4,
+          "watch": ""
+        },
+        {
+          "episode_number": 5,
+          "watch": ""
+        },
+        {
+          "episode_number": 6,
+          "watch": ""
+        }
+      ]
+    }
+  ]
+}

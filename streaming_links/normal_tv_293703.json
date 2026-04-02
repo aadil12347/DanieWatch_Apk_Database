@@ -1,0 +1,68 @@
+{
+  "id": "293703",
+  "type": "tv",
+  "title": "Dr. Seuss's Red Fish, Blue Fish",
+  "poster": "https://image.tmdb.org/t/p/w342/fhtkX44A4cTYMNKNcosEFYX7zfq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kGgJR0JyxIjmugpGJx0UpujxFA4.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/9hkch94az579/dr-seusss-red-fish-blue-fish-s01e01-quiet-loud-clean-dirty-go-stop-lock-unlock-720p-nf-web-dl-aac5-1-h-264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/hhjagstucirs/dr-seusss-red-fish-blue-fish-s01e02-loose-tight-gather-scatter-catch-let-go-relax-stressed-720p-nf-web-dl-aac5-1-h-264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/q019zvjhwub1/dr-seusss-red-fish-blue-fish-s01e03-dangerous-safe-inside-outside-first-last-720p-nf-web-dl-aac5-1-h-264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/23iz34nx9tdf/dr-seusss-red-fish-blue-fish-s01e04-awake-asleep-hot-cold-clumsy-graceful-720p-nf-web-dl-aac5-1-h-264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/z4pdln47zoig/dr-seusss-red-fish-blue-fish-s01e05-near-far-heavy-light-open-shut-720p-nf-web-dl-aac5-1-h-264-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": ""
+        },
+        {
+          "episode_number": 2,
+          "watch": ""
+        },
+        {
+          "episode_number": 3,
+          "watch": ""
+        },
+        {
+          "episode_number": 4,
+          "watch": ""
+        },
+        {
+          "episode_number": 5,
+          "watch": ""
+        },
+        {
+          "episode_number": 6,
+          "watch": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "214078",
+  "type": "tv",
+  "title": "Shahmaran",
+  "poster": "https://image.tmdb.org/t/p/w342/Syz73lDTw9A4AeUIVDJvaYbXJh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/bkdZHK0Nh1YaRXkk2j8vUGYQd6i.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/qs1b4fjh5z14/shahmaran-s01e01-throes-of-the-earth-720p-10bit-hindi-english-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/lxfn0fdxjtuv/shahmaran-s01e02-things-rain-says-720p-10bit-hindi-english-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/o7dr2rq8lcal/shahmaran-s01e03-unstable-equilibrium-720p-10bit-hindi-english-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/8svashbihi46/shahmaran-s01e04-unbearable-lightness-of-believing-720p-10bit-hindi-english-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/hsp2afrr3vah/shahmaran-s01e05-future-changes-720p-10bit-hindi-english-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/u7jdiquqpts6/shahmaran-s01e06-the-turmoil-that-is-life-720p-10bit-hindi-english-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/jsiy0r723ssg/shahmaran-s01e07-recurrence-of-love-720p-10bit-hindi-english-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/furdpw8w45qw/shahmaran-s01e08-the-snake-inside-me-720p-10bit-hindi-english-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/afn187nqidpr/shahmaran-s02e01-those-who-sleep-within-720p-10bit-hindi-english-turkish-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/hioqfj8un3dr/shahmaran-s02e02-festina-lente-720p-10bit-hindi-english-turkish-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/g9vmpxydvyay/shahmaran-s02e03-love-doesnt-kill-720p-10bit-hindi-english-turkish-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/of1p0qq1jgp9/shahmaran-s02e04-about-love-and-death-720p-10bit-hindi-english-turkish-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/0q4r10srbl0q/shahmaran-s02e05-judgement-day-720p-10bit-hindi-english-turkish-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/b965z07mcj3b/shahmaran-s02e06-cycle-720p-10bit-hindi-english-turkish-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

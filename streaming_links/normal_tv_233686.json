@@ -1,0 +1,43 @@
+{
+  "id": "233686",
+  "type": "tv",
+  "title": "Karma",
+  "poster": "https://image.tmdb.org/t/p/w342/nZ7SFBgEhgSCaQFFActjcBQeIV1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/l5mHXDvmvfNM4T8S5akFFcLRLKv.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/8t500dd4hhp6/karma-s01e01-the-man-with-loan-shark-debts-720p-hindi-korean-english-esubs-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/07xriiz63h9s/karma-s01e02-the-man-who-disposed-of-a-body-720p-hindi-korean-english-esubs-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/vx0pdkz7em2v/karma-s01e03-the-unrighteous-720p-hindi-korean-english-esubs-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/0l3nd4h93gnm/karma-s01e04-the-woman-trapped-in-the-past-720p-hindi-korean-english-esubs-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/6vxw64kaslk5/karma-s01e05-rewind-720p-hindi-korean-english-esubs-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/16gws4o7lilm/karma-s01e06-karma-720p-hindi-korean-english-esubs-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "137040",
+  "type": "tv",
+  "title": "Black Knight",
+  "poster": "https://image.tmdb.org/t/p/w342/ucz3ZboT2Sb12yum51Q4J8M0myb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/qVNACrSwu8RCgf9loLKfTv0mDeq.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/4xqmai184dcb/black-knight-s01e01-720p-hindi-english-korean-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ss3n8aizq8oq/black-knight-s01e02-720p-hindi-english-korean-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/b8wznasbwcbu/black-knight-s01e03-720p-hindi-english-korean-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/kjx5b6d4mdbs/black-knight-s01e04-720p-hindi-english-korean-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/afrlm4w1z7y5/black-knight-s01e05-720p-hindi-english-korean-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/1f2eh339im2g/black-knight-s01e06-720p-hindi-english-korean-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

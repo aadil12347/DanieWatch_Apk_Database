@@ -1,0 +1,43 @@
+{
+  "id": "292625",
+  "type": "tv",
+  "title": "Single Papa",
+  "poster": "https://image.tmdb.org/t/p/w342/kSj4h1uVAKGn9yVjJTC1tQGcnoZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gnOvCMpd2NTl99zTF3rAndq9RY0.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/by7avegyyevy/single-papa-2025-s01-hindi-netflix-720p-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": ""
+        },
+        {
+          "episode_number": 3,
+          "watch": ""
+        },
+        {
+          "episode_number": 4,
+          "watch": ""
+        },
+        {
+          "episode_number": 5,
+          "watch": ""
+        },
+        {
+          "episode_number": 6,
+          "watch": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "250923",
+  "type": "tv",
+  "title": "Nobody Wants This",
+  "poster": "https://image.tmdb.org/t/p/w342/cUpIceeJJoRqUHSCzh6jRSmlpkA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/q8BwtVM3t0SOtB1nZsXpOKZp8IM.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/m4pya9eyidi2/nobody-wants-this-s01e01-pilot-720p-hindi-english-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/18n5k95sosnb/nobody-wants-this-s01e02-a-shiksa-walks-into-a-temple-720p-hindi-english-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/q7i5skf7ijl1/nobody-wants-this-s01e03-either-aura-720p-hindi-english-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/7x6e5280hg0u/nobody-wants-this-s01e04-obliterated-720p-hindi-english-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/14hafohzdq13/nobody-wants-this-s01e05-my-friend-joanne-720p-hindi-english-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/qo1rw35ytocw/nobody-wants-this-s01e06-the-ick-720p-hindi-english-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/vwb94g4gyj05/nobody-wants-this-s01e07-wags-720p-hindi-english-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/uazc6fwk15bs/nobody-wants-this-s01e08-rebeccas-box-720p-hindi-english-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 9,
+          "watch": "<iframe src=\"https://bysebuho.com/e/vn63py6n9ops/nobody-wants-this-s01e09-my-girl-bina-720p-hindi-english-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 10,
+          "watch": "<iframe src=\"https://bysebuho.com/e/qtq6yy07evab/nobody-wants-this-s01e10-bat-mitzvah-crashers-720p-hindi-english-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": ""
+        },
+        {
+          "episode_number": 2,
+          "watch": ""
+        },
+        {
+          "episode_number": 3,
+          "watch": ""
+        },
+        {
+          "episode_number": 4,
+          "watch": ""
+        },
+        {
+          "episode_number": 5,
+          "watch": ""
+        },
+        {
+          "episode_number": 6,
+          "watch": ""
+        },
+        {
+          "episode_number": 7,
+          "watch": ""
+        },
+        {
+          "episode_number": 8,
+          "watch": ""
+        },
+        {
+          "episode_number": 9,
+          "watch": ""
+        },
+        {
+          "episode_number": 10,
+          "watch": ""
+        }
+      ]
+    }
+  ]
+}

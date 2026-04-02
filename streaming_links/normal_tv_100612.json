@@ -1,0 +1,84 @@
+{
+  "id": "100612",
+  "type": "tv",
+  "title": "Special Ops",
+  "poster": "https://image.tmdb.org/t/p/w342/rTOGcNzVMYGezpx9AxX7ilzLNEp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/A7A1s8O4M2rFlAbbcSlIxrgCY9i.jpg",
+  "year": "2020",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": ""
+        },
+        {
+          "episode_number": 2,
+          "watch": ""
+        },
+        {
+          "episode_number": 3,
+          "watch": ""
+        },
+        {
+          "episode_number": 4,
+          "watch": ""
+        },
+        {
+          "episode_number": 5,
+          "watch": ""
+        },
+        {
+          "episode_number": 6,
+          "watch": ""
+        },
+        {
+          "episode_number": 7,
+          "watch": ""
+        },
+        {
+          "episode_number": 8,
+          "watch": ""
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/amyp21eoyiue/special-ops-s02e01-720p-hindi-web-dl-5-1-esub-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/gfsw6ahe735j/special-ops-s02e02-720p-hindi-web-dl-5-1-esub-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/27v2ezxv72q2/special-ops-s02e03-720p-hindi-web-dl-5-1-esub-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ise7yaw6a5c2/special-ops-s02e04-720p-hindi-web-dl-5-1-esub-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/iwjsaxe1vyq6/special-ops-s02e05-720p-hindi-web-dl-5-1-esub-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/kpqiku4r50y2/special-ops-s02e06-720p-hindi-web-dl-5-1-esub-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/bka7vhue5sjb/special-ops-s02e07-720p-hindi-web-dl-5-1-esub-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}
