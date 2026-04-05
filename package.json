@@ -1,0 +1,13 @@
+{
+  "name": "daniewatch-database",
+  "version": "1.0.0",
+  "description": "DanieWatch APK Database Manager",
+  "main": "index.json",
+  "scripts": {
+    "update": "node scripts/generate_index.js",
+    "watch": "node scripts/watch_index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

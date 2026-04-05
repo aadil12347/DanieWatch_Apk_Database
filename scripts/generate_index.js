@@ -5,6 +5,7 @@ const path = require('path');
 const TMDB_API_KEY = process.env.TMDB_API_KEY || 'fc6d85b3839330e3458701b975195487';
 const dir = './streaming_links';
 const outputFile = './index.json';
+const CONCURRENCY_LIMIT = 10; // Batch size for parallel fetching
 
 // Fetch metadata from TMDB
 async function getTMDBMetadata(id, type) {
@@ -29,7 +30,7 @@ async function getTMDBMetadata(id, type) {
 async function run() {
     const posts = [];
     
-    // Purana data load karo to avoid unnecessary API calls (Cache mechanism)
+    // Load existing data for caching
     let cache = new Map();
     if (fs.existsSync(outputFile)) {
         try {
@@ -42,54 +43,67 @@ async function run() {
         }
     }
 
-    if (fs.existsSync(dir)) {
-        const files = fs.readdirSync(dir);
-        console.log(`Scanning ${files.length} files...`);
-
-        for (let i = 0; i < files.length; i++) {
-            const file = files[i];
-            if (file.endsWith('.json')) {
-                const filePath = path.join(dir, file);
-                try {
-                    const content = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-                    
-                    let meta = cache.get(content.id);
-                    // Agar meta nahi hai ya genres missing hain, to fetch karo
-                    if (!meta || !meta.country || !meta.genres || meta.genres.length === 0) {
-                        console.log(`[${i + 1}/${files.length}] Fetching metadata: ${content.title}`);
-                        const tmdbData = await getTMDBMetadata(content.id, content.type);
-                        if (tmdbData) {
-                            meta = { ...tmdbData };
-                        }
-                    }
-
-                    posts.push({
-                        id: content.id,
-                        type: content.type,
-                        title: content.title || "",
-                        poster: content.poster || "",
-                        year: content.year || "",
-                        result: content.result || "HD",
-                        language: content.language || ["Hindi"],
-                        country: meta?.country || [],
-                        original_language: meta?.original_language || "en",
-                        genres: meta?.genres || []
-                    });
-                } catch (err) {
-                    console.error(`Error processing ${file}:`, err);
-                }
-            }
-        }
+    if (!fs.existsSync(dir)) {
+        console.error(`Directory ${dir} not found!`);
+        return;
     }
+
+    const files = fs.readdirSync(dir).filter(f => f.endsWith('.json'));
+    console.log(`Scanning ${files.length} files...`);
+
+    const results = new Array(files.length);
+    
+    // Process files in batches to respect rate limits and speed up execution
+    for (let i = 0; i < files.length; i += CONCURRENCY_LIMIT) {
+        const batch = files.slice(i, i + CONCURRENCY_LIMIT);
+        console.log(`Processing batch ${Math.floor(i/CONCURRENCY_LIMIT) + 1}/${Math.ceil(files.length/CONCURRENCY_LIMIT)}...`);
+        
+        const batchPromises = batch.map(async (file, indexInBatch) => {
+            const globalIndex = i + indexInBatch;
+            const filePath = path.join(dir, file);
+            try {
+                const content = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+                let meta = cache.get(content.id);
+
+                // Re-fetch only if necessary fields are missing
+                if (!meta || !meta.country || !meta.genres || meta.genres.length === 0) {
+                    const tmdbData = await getTMDBMetadata(content.id, content.type);
+                    if (tmdbData) {
+                        meta = { ...tmdbData };
+                    }
+                }
+
+                results[globalIndex] = {
+                    id: content.id,
+                    type: content.type,
+                    title: content.title || "",
+                    poster: content.poster || "",
+                    year: content.year || "",
+                    result: content.result || "HD",
+                    language: content.language || ["Hindi"],
+                    country: meta?.country || [],
+                    original_language: meta?.original_language || "en",
+                    genres: meta?.genres || []
+                };
+            } catch (err) {
+                console.error(`Error processing ${file}:`, err);
+            }
+        });
+
+        await Promise.all(batchPromises);
+    }
+
+    // Filter out any failed entries
+    const finalPosts = results.filter(p => p !== undefined);
 
     const finalData = {
         last_updated: new Date().toISOString(),
-        total: posts.length,
-        posts: posts
+        total: finalPosts.length,
+        posts: finalPosts
     };
 
     fs.writeFileSync(outputFile, JSON.stringify(finalData, null, 2));
-    console.log('✅ index.json successfully updated with country, language, and genres!');
+    console.log(`✅ index.json successfully updated! Total posts: ${finalPosts.length}`);
 }
 
 run();

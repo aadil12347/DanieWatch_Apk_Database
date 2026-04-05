@@ -19,10 +19,12 @@ jobs:
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: node scripts/generate_index.js
+      - name: Find Duplicates
+        run: node scripts/find_duplicates.js
       - name: Commit and Push
         run: |
           git config --global user.name "DanieWatch Bot"
           git config --global user.email "bot@daniewatch.com"
-          git add index.json
-          git commit -m "chore: auto-update index [skip ci]" || exit 0
+          git add index.json duplicate_posts.md
+          git commit -m "chore: auto-update index & duplicate report [skip ci]" || exit 0
           git push
