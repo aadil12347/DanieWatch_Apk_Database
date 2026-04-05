@@ -1,0 +1,29 @@
+{
+  "id": "312005",
+  "type": "tv",
+  "title": "Devkhel",
+  "poster": "https://image.tmdb.org/t/p/w342/fGOlVDJSF7hhw2sIQiZksXFhYJJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5FCQLqEptCTLRco2nYp21M41nIX.jpg",
+  "year": "2026",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes Combined",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/5FCQLqEptCTLRco2nYp21M41nIX.jpg",
+          "air_date": "2026-01-30",
+          "runtime": 184,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/bsws7aao8dzg/devkhel-s01-720p-dual-audio-hindi-marathi-web-dl-daniewatch-hot\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

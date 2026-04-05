@@ -1,0 +1,51 @@
+{
+  "id": "249771",
+  "type": "tv",
+  "title": "Maa Ka Sum",
+  "poster": "https://image.tmdb.org/t/p/w342/aU1mdmehINpJ5nuHUq1dNyJMpYy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/ff4B8sHVJ0fVBTxbYUdIq7xvtqF.jpg",
+  "year": "2026",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ge5g1qcjp7di/maa-ka-sum-s01e01-the-blueprint-720p-amzn-web-dl-hindi-ddp5-1-h-264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/rj9zrvoaenax/maa-ka-sum-s01e02-work-in-progress-720p-amzn-web-dl-hindi-ddp5-1-h-264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/9f1fal9cr4xa/maa-ka-sum-s01e03-progress-720p-amzn-web-dl-hindi-ddp5-1-h-264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/c2iyanjrxuk7/maa-ka-sum-s01e04-off-track-720p-amzn-web-dl-hindi-ddp5-1-h-264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/nec4yfad2lxk/maa-ka-sum-s01e05-the-tipping-point-720p-amzn-web-dl-hindi-ddp5-1-h-264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/t65gdlc9fgn0/maa-ka-sum-s01e06-the-unravelling-720p-amzn-web-dl-hindi-ddp5-1-h-264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/7xx13br6hg74/maa-ka-sum-s01e07-the-final-piece-720p-amzn-web-dl-hindi-ddp5-1-h-264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/bcomj09gu7gc/maa-ka-sum-s01e08-20-720p-amzn-web-dl-hindi-ddp5-1-h-264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}
