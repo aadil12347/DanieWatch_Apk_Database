@@ -11,7 +11,7 @@ const CONCURRENCY_LIMIT = 10; // Batch size for parallel fetching
 async function getTMDBMetadata(id, type) {
     if (!id || !TMDB_API_KEY) return null;
     try {
-        const url = `https://api.themoviedb.org/3/${type === 'tv' ? 'tv' : 'movie'}/${id}?api_key=${TMDB_API_KEY}`;
+        const url = `https://api.themoviedb.org/3/${type === 'tv' ? 'tv' : 'movie'}/${id}?api_key=${TMDB_API_KEY}&append_to_response=external_ids`;
         const response = await fetch(url);
         if (!response.ok) return null;
         const data = await response.json();
@@ -19,7 +19,8 @@ async function getTMDBMetadata(id, type) {
         return {
             country: type === 'tv' ? (data.origin_country || []) : (data.production_countries?.map(c => c.iso_3166_1) || []),
             original_language: data.original_language || "en",
-            genres: data.genres?.map(g => g.name) || []
+            genres: data.genres?.map(g => g.name) || [],
+            imdb_id: data.external_ids?.imdb_id || data.imdb_id || ""
         };
     } catch (err) {
         console.error(`Error fetching TMDB for ${id}:`, err.message);
@@ -66,7 +67,7 @@ async function run() {
                 let meta = cache.get(content.id);
 
                 // Re-fetch only if necessary fields are missing
-                if (!meta || !meta.country || !meta.genres || meta.genres.length === 0) {
+                if (!meta || !meta.country || !meta.genres || meta.genres.length === 0 || meta.imdb_id === undefined) {
                     const tmdbData = await getTMDBMetadata(content.id, content.type);
                     if (tmdbData) {
                         meta = { ...tmdbData };
@@ -83,7 +84,8 @@ async function run() {
                     language: content.language || ["Hindi"],
                     country: meta?.country || [],
                     original_language: meta?.original_language || "en",
-                    genres: meta?.genres || []
+                    genres: meta?.genres || [],
+                    imdb_id: meta?.imdb_id || ""
                 };
             } catch (err) {
                 console.error(`Error processing ${file}:`, err);
