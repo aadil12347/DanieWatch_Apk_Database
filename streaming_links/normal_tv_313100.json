@@ -1,0 +1,39 @@
+{
+  "id": "313100",
+  "type": "tv",
+  "title": "Hello Bachhon",
+  "poster": "https://image.tmdb.org/t/p/w342/sBprJ6cIkWWKl4ABWgxNDKxe9kL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/akwxUU6YDiAixkx7t8AOSzxzkNG.jpg",
+  "year": "2026",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/5y80ot2ulkq1/hello-bachhon-2026-s01e01-720p-nf-web-dl-hindi-ddp5-1-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/2ffbtxz1c930/hello-bachhon-2026-s01e02-720p-nf-web-dl-hindi-ddp5-1-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/rx406czcr0cq/hello-bachhon-2026-s01e03-720p-nf-web-dl-hindi-ddp5-1-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/bsref5xv4ien/hello-bachhon-2026-s01e04-720p-nf-web-dl-hindi-ddp5-1-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/dam3d8wzfcsp/hello-bachhon-2026-s01e05-720p-nf-web-dl-hindi-ddp5-1-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

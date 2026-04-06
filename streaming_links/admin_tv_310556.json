@@ -1,0 +1,29 @@
+{
+  "id": "310556",
+  "type": "tv",
+  "title": "Prayagraj Ki Love Story",
+  "poster": "https://image.tmdb.org/t/p/w342/ivRuROxApwA0fPRE5KsKsHI3wMQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/gXCHZpBnkaeQ8NwIKK6MQ9orvKs.jpg",
+  "year": "2026",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes Combined",
+          "overview": "Sonia runs away to be with Anshul, but her decision starts a risky chase driven by obsession and honour.",
+          "still_path": "https://image.tmdb.org/t/p/w300/udje8MuYSjwejS8RFZNOlFgq4Dh.jpg",
+          "air_date": "2026-01-06",
+          "runtime": 142,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/m6o0f60hfzk7/prayagraj-ki-love-story-s01-720p-hevc-web-dl-hindi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}
