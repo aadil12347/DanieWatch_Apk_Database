@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T01:02:12.532Z",
-  "total": 1448,
+  "last_updated": "2026-04-08T01:06:25.936Z",
+  "total": 1449,
   "posts": [
     {
       "id": "1000438",
@@ -24029,6 +24029,27 @@
         "Comedy"
       ],
       "imdb_id": "tt29366100"
+    },
+    {
+      "id": "233347",
+      "type": "tv",
+      "title": "Study Group",
+      "poster": "https://image.tmdb.org/t/p/w342/1x3xfnXQpxVfiRXUTqzX4CxU8yf.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "E-Subtitles"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Action & Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt35304338"
     },
     {
       "id": "233686",
