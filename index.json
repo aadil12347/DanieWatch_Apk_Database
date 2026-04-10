@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T05:43:22.644Z",
-  "total": 1448,
+  "last_updated": "2026-04-10T00:36:41.962Z",
+  "total": 1466,
   "posts": [
     {
       "id": "1000438",
@@ -3854,6 +3854,26 @@
       "imdb_id": "tt31624309"
     },
     {
+      "id": "216003",
+      "type": "tv",
+      "title": "First Love",
+      "poster": "https://image.tmdb.org/t/p/w342/lYj5Y2kz34Qn0VfXB2F1m57C3Ng.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt24133542"
+    },
+    {
       "id": "219080",
       "type": "tv",
       "title": "The Mighty Nein",
@@ -3873,6 +3893,27 @@
         "Action & Adventure"
       ],
       "imdb_id": "tt26453092"
+    },
+    {
+      "id": "219160",
+      "type": "tv",
+      "title": "23:23",
+      "poster": "https://image.tmdb.org/t/p/w342/3qTThjT0EmW1eRdnUOF7qC5zji8.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "TH"
+      ],
+      "original_language": "th",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdb_id": ""
     },
     {
       "id": "219760",
@@ -7809,6 +7850,27 @@
       "imdb_id": "tt9104736"
     },
     {
+      "id": "1147710",
+      "type": "movie",
+      "title": "Hijack 1971",
+      "poster": "https://image.tmdb.org/t/p/w342/68jNkFi61MQjrJEqj2up5wZ4w5R.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "imdb_id": "tt31624258"
+    },
+    {
       "id": "1148677",
       "type": "movie",
       "title": "Doraemon the Movie: Nobita's Earth Symphony",
@@ -7852,6 +7914,26 @@
         "Drama"
       ],
       "imdb_id": "tt23846664"
+    },
+    {
+      "id": "1151766",
+      "type": "movie",
+      "title": "Murderer Report",
+      "poster": "https://image.tmdb.org/t/p/w342/dl0sMMjMkdkziSGeSwiQ1DAb6Ci.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": "tt37718411"
     },
     {
       "id": "1153399",
@@ -10103,6 +10185,27 @@
       "imdb_id": "tt33312131"
     },
     {
+      "id": "1268127",
+      "type": "movie",
+      "title": "Humint",
+      "poster": "https://image.tmdb.org/t/p/w342/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Drama"
+      ],
+      "imdb_id": "tt32606470"
+    },
+    {
       "id": "1270908",
       "type": "movie",
       "title": "The Pet Detective",
@@ -10982,6 +11085,26 @@
         "Family"
       ],
       "imdb_id": "tt30818546"
+    },
+    {
+      "id": "1316719",
+      "type": "movie",
+      "title": "The Ugly",
+      "poster": "https://image.tmdb.org/t/p/w342/sNLTSYHRfQJ2gpdrA2UXjkfEije.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": "tt33514451"
     },
     {
       "id": "1318308",
@@ -17182,6 +17305,28 @@
       "imdb_id": "tt2531344"
     },
     {
+      "id": "447743",
+      "type": "movie",
+      "title": "Inuyashiki",
+      "poster": "https://image.tmdb.org/t/p/w342/lyqkQ6y7d4YGVQrRjtmGTRMVcDY.jpg",
+      "year": "2018",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction",
+        "Fantasy"
+      ],
+      "imdb_id": "tt6340500"
+    },
+    {
       "id": "452068",
       "type": "movie",
       "title": "Drone",
@@ -21135,6 +21280,26 @@
       "imdb_id": "tt12004706"
     },
     {
+      "id": "103469",
+      "type": "tv",
+      "title": "My Love, Enlighten Me",
+      "poster": "https://image.tmdb.org/t/p/w342/o2ov4gmKnYJ9GIopeDbwGwzwwo0.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt12274642"
+    },
+    {
       "id": "104308",
       "type": "tv",
       "title": "She Knows Everything",
@@ -21443,6 +21608,26 @@
         "Comedy"
       ],
       "imdb_id": "tt12256822"
+    },
+    {
+      "id": "112706",
+      "type": "tv",
+      "title": "Cheat On Me, If You Can",
+      "poster": "https://image.tmdb.org/t/p/w342/5nUrDZeZzJSXiY4eRJEg45TYavs.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Comedy",
+        "Mystery"
+      ],
+      "imdb_id": "tt13092070"
     },
     {
       "id": "112836",
@@ -22404,6 +22589,25 @@
         "Sci-Fi & Fantasy"
       ],
       "imdb_id": "tt28685470"
+    },
+    {
+      "id": "195627",
+      "type": "tv",
+      "title": "Mental Coach Jegal",
+      "poster": "https://image.tmdb.org/t/p/w342/3aPmsRyHCOpL8itZZxYVcZng8ga.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt23033870"
     },
     {
       "id": "196474",
@@ -24176,6 +24380,26 @@
       "imdb_id": "tt31975847"
     },
     {
+      "id": "237918",
+      "type": "tv",
+      "title": "Derailment",
+      "poster": "https://image.tmdb.org/t/p/w342/eVnw1ATwtaTjcbZjUe61JK6OuzH.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdb_id": "tt29367004"
+    },
+    {
       "id": "238458",
       "type": "tv",
       "title": "Cashero",
@@ -25782,6 +26006,25 @@
       "imdb_id": "tt36866367"
     },
     {
+      "id": "274230",
+      "type": "tv",
+      "title": "Good Doctor",
+      "poster": "https://image.tmdb.org/t/p/w342/9RKqT2nKPmGRA9Rx2nIhK4Fi5c5.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "TH"
+      ],
+      "original_language": "th",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt33417631"
+    },
+    {
       "id": "274875",
       "type": "tv",
       "title": "Twelve",
@@ -25947,6 +26190,25 @@
       "imdb_id": "tt33028568"
     },
     {
+      "id": "278446",
+      "type": "tv",
+      "title": "Hello Old Friend",
+      "poster": "https://image.tmdb.org/t/p/w342/fkKX90TYtlmkMvjYeB90bkYJOS.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": ""
+    },
+    {
       "id": "278821",
       "type": "tv",
       "title": "Doosri Maa",
@@ -26084,6 +26346,27 @@
         "Comedy"
       ],
       "imdb_id": "tt38353551"
+    },
+    {
+      "id": "281016",
+      "type": "tv",
+      "title": "Boyfriend on Demand",
+      "poster": "https://image.tmdb.org/t/p/w342/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Comedy",
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "imdb_id": "tt35848827"
     },
     {
       "id": "281401",
@@ -28439,6 +28722,26 @@
       "imdb_id": "tt7263328"
     },
     {
+      "id": "74064",
+      "type": "tv",
+      "title": "Go Back Couple",
+      "poster": "https://image.tmdb.org/t/p/w342/2OzDKStSL3oGKQMlASeqvCFZsHz.jpg",
+      "year": "2017",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Comedy",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdb_id": "tt7418578"
+    },
+    {
       "id": "74785",
       "type": "tv",
       "title": "Two Cops",
@@ -28598,6 +28901,26 @@
         "Mystery"
       ],
       "imdb_id": "tt8965666"
+    },
+    {
+      "id": "81500",
+      "type": "tv",
+      "title": "Fights Break Sphere",
+      "poster": "https://image.tmdb.org/t/p/w342/quF64x6cR0dk38v2Y2kTJKJWU1H.jpg",
+      "year": "2018",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "imdb_id": "tt9248626"
     },
     {
       "id": "82817",
@@ -29193,6 +29516,45 @@
         "Family"
       ],
       "imdb_id": "tt8322592"
+    },
+    {
+      "id": "95686",
+      "type": "tv",
+      "title": "Love is Fate",
+      "poster": "https://image.tmdb.org/t/p/w342/lgNnSY78qkwdsNDuXUJWoiHlDte.jpg",
+      "year": "2019",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": ""
+    },
+    {
+      "id": "95842",
+      "type": "tv",
+      "title": "Joy of Life",
+      "poster": "https://image.tmdb.org/t/p/w342/7NXlOAFSUPBujmWbnUmqnwNZQhO.jpg",
+      "year": "2019",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt11273352"
     },
     {
       "id": "96162",
