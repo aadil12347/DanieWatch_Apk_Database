@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-13T11:40:30.832Z",
-  "total": 1531,
+  "last_updated": "2026-04-13T11:40:57.884Z",
+  "total": 1532,
   "posts": [
     {
       "id": "1000438",
@@ -11378,6 +11378,26 @@
         "Thriller"
       ],
       "imdb_id": "tt32880540"
+    },
+    {
+      "id": "1315143",
+      "type": "movie",
+      "title": "Darling",
+      "poster": "https://image.tmdb.org/t/p/w342/qY4Xwbq0NnwErp2sPZOaQwpSGMv.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "imdb_id": "tt32199626"
     },
     {
       "id": "1316719",
