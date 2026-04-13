@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-13T12:55:03.467Z",
-  "total": 1532,
+  "last_updated": "2026-04-13T13:05:13.175Z",
+  "total": 1542,
   "posts": [
     {
       "id": "1000438",
@@ -6957,6 +6957,30 @@
       "imdb_id": "tt26671996"
     },
     {
+      "id": "1084187",
+      "type": "movie",
+      "title": "Pretty Lethal",
+      "poster": "https://image.tmdb.org/t/p/w342/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US",
+        "HU",
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Music",
+        "Thriller",
+        "Action",
+        "Horror"
+      ],
+      "imdb_id": "tt26678938"
+    },
+    {
       "id": "1084242",
       "type": "movie",
       "title": "Zootopia 2",
@@ -8066,6 +8090,27 @@
         "Crime"
       ],
       "imdb_id": ""
+    },
+    {
+      "id": "1159559",
+      "type": "movie",
+      "title": "Scream 7",
+      "poster": "https://image.tmdb.org/t/p/w342/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Crime"
+      ],
+      "imdb_id": "tt27047903"
     },
     {
       "id": "1160956",
@@ -9358,6 +9403,28 @@
       "imdb_id": "tt30973261"
     },
     {
+      "id": "1236153",
+      "type": "movie",
+      "title": "Mercy",
+      "poster": "https://image.tmdb.org/t/p/w342/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "imdb_id": "tt31050594"
+    },
+    {
       "id": "1238164",
       "type": "movie",
       "title": "Gustaakh Ishq",
@@ -10295,6 +10362,28 @@
       "imdb_id": "tt32159989"
     },
     {
+      "id": "1265609",
+      "type": "movie",
+      "title": "War Machine",
+      "poster": "https://image.tmdb.org/t/p/w342/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "AU",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "imdb_id": "tt15940132"
+    },
+    {
       "id": "1267319",
       "type": "movie",
       "title": "Mantis",
@@ -11070,6 +11159,27 @@
       "imdb_id": "tt28252563"
     },
     {
+      "id": "1297842",
+      "type": "movie",
+      "title": "GOAT",
+      "poster": "https://image.tmdb.org/t/p/w342/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "imdb_id": "tt27613895"
+    },
+    {
       "id": "1298092",
       "type": "movie",
       "title": "Lockdown",
@@ -11420,6 +11530,27 @@
       "imdb_id": "tt33514451"
     },
     {
+      "id": "1317672",
+      "type": "movie",
+      "title": "Love Me Love Me",
+      "poster": "https://image.tmdb.org/t/p/w342/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IT",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "imdb_id": "tt36331860"
+    },
+    {
       "id": "1318308",
       "type": "movie",
       "title": "Aaryan",
@@ -11583,6 +11714,27 @@
         "Comedy"
       ],
       "imdb_id": "tt33029024"
+    },
+    {
+      "id": "1327690",
+      "type": "movie",
+      "title": "One Mile: Chapter Two",
+      "poster": "https://image.tmdb.org/t/p/w342/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US",
+        "CA"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "imdb_id": "tt24326462"
     },
     {
       "id": "1327819",
@@ -13372,6 +13524,26 @@
         "Drama"
       ],
       "imdb_id": "tt32175880"
+    },
+    {
+      "id": "1440049",
+      "type": "movie",
+      "title": "Preschool",
+      "poster": "https://image.tmdb.org/t/p/w342/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US",
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt34890320"
     },
     {
       "id": "1440700",
@@ -21204,6 +21376,28 @@
       "imdb_id": "tt14107334"
     },
     {
+      "id": "799882",
+      "type": "movie",
+      "title": "The Bluff",
+      "poster": "https://image.tmdb.org/t/p/w342/dl1cA7wdwePc9QU2Rc24EPqlcyJ.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US",
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Action",
+        "Thriller"
+      ],
+      "imdb_id": "tt14181714"
+    },
+    {
       "id": "800345",
       "type": "movie",
       "title": "Carter",
@@ -21636,6 +21830,26 @@
         "Drama"
       ],
       "imdb_id": "tt15327052"
+    },
+    {
+      "id": "875828",
+      "type": "movie",
+      "title": "Peaky Blinders: The Immortal Man",
+      "poster": "https://image.tmdb.org/t/p/w342/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": "tt15574124"
     },
     {
       "id": "878667",
