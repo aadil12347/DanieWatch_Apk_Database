@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-13T23:33:06.333Z",
-  "total": 1567,
+  "last_updated": "2026-04-13T23:35:25.967Z",
+  "total": 1566,
   "posts": [
     {
       "id": "1000438",
@@ -2800,24 +2800,6 @@
       "original_language": "hi",
       "genres": [],
       "imdb_id": ""
-    },
-    {
-      "id": "1607762",
-      "type": "movie",
-      "title": "Hostellers",
-      "poster": "https://i.ibb.co/FLW1hfPY/Gemini-Generated-Image-bhmmlcbhmmlcbhmm-1.png",
-      "year": "2026",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [],
-      "original_language": "te",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "imdb_id": "tt39302439"
     },
     {
       "id": "1627976",
