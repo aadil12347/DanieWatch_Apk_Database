@@ -1,0 +1,79 @@
+{
+  "id": "225891",
+  "type": "tv",
+  "title": "The Madison",
+  "poster": "https://image.tmdb.org/t/p/w342/6EXDfhfR2nNNK385rA49RY92qGt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg",
+  "year": "2026",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "Pilot",
+          "overview": "The Clyburns uproot their lives to the wilds of Montana.",
+          "still_path": "https://image.tmdb.org/t/p/w300/jhexpLezkqu1BSemG8ZK3yXpUux.jpg",
+          "air_date": "2026-03-14",
+          "runtime": 69,
+          "vote_average": 9.1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/toiy6g6shftz/the-madison-s01e01-720p-web-dl-hin-eng-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "name": "Let the Land Hold Me",
+          "overview": "A neighbor's kindness guides Stacy towards a bold choice.",
+          "still_path": "https://image.tmdb.org/t/p/w300/9qcyJiBKt6Lr0qg0D0ez52vnGf2.jpg",
+          "air_date": "2026-03-14",
+          "runtime": 50,
+          "vote_average": 9.6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/madbgwdtew99/the-madison-s01e02-720p-web-dl-hin-eng-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "name": "Watch Her Fall",
+          "overview": "Stacy confronts Abigail about her future, triggering a roadside reckoning.",
+          "still_path": "https://image.tmdb.org/t/p/w300/7BLTZu266YujJZUNXkW0jpOIZw2.jpg",
+          "air_date": "2026-03-14",
+          "runtime": 47,
+          "vote_average": 9.7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/4rjon12sq4ko/the-madison-s01e03-720p-web-dl-hin-eng-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "name": "Tomorrow Is Goodbye",
+          "overview": "The family finds unexpected moments of joy in the Montana wild.",
+          "still_path": "https://image.tmdb.org/t/p/w300/wL3g0vCLPUb5JHpmcpI1RnzXoWA.jpg",
+          "air_date": "2026-03-21",
+          "runtime": 62,
+          "vote_average": 9.8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/dnf4n2k9ttz0/the-madison-s01e04-tomorrow-is-goodbye-720p-jhs-web-dl-hindi-english-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "name": "No Name and a New Dream",
+          "overview": "Stacy returns to New York and faces the weight of her grief.",
+          "still_path": "https://image.tmdb.org/t/p/w300/ysEoZIOZqmHdAgv13pIVXjKlr0w.jpg",
+          "air_date": "2026-03-21",
+          "runtime": 54,
+          "vote_average": 9.4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/n8nwb9ikyomp/the-madison-s01e05-no-name-and-a-new-dream-720p-jhs-web-dl-hindi-english-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "name": "I Give Me Permission",
+          "overview": "Therapy forces Stacy to finally face her grief.",
+          "still_path": "https://image.tmdb.org/t/p/w300/4Ct9GmO8Bg0SHxdxgCLqla69TmS.jpg",
+          "air_date": "2026-03-21",
+          "runtime": 49,
+          "vote_average": 9.7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/1ittszytafsi/the-madison-s01e06-i-give-me-permission-720p-jhs-web-dl-hindi-english-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}
