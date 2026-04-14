@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-14T03:59:42.613Z",
-  "total": 1603,
+  "last_updated": "2026-04-14T11:09:27.487Z",
+  "total": 1634,
   "posts": [
     {
       "id": "1607762",
@@ -4023,6 +4023,25 @@
         "Action & Adventure"
       ],
       "imdb_id": "tt27497448"
+    },
+    {
+      "id": "225891",
+      "type": "tv",
+      "title": "The Madison",
+      "poster": "https://image.tmdb.org/t/p/w342/6EXDfhfR2nNNK385rA49RY92qGt.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt33204276"
     },
     {
       "id": "226331",
@@ -24790,6 +24809,27 @@
       "imdb_id": "tt11343600"
     },
     {
+      "id": "129552",
+      "type": "tv",
+      "title": "The Night Agent",
+      "poster": "https://image.tmdb.org/t/p/w342/4c5yUNcaff4W4aPrkXE6zr7papX.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": "tt13918776"
+    },
+    {
       "id": "130107",
       "type": "tv",
       "title": "Forever and Ever",
@@ -25285,6 +25325,25 @@
         "Drama"
       ],
       "imdb_id": "tt14186672"
+    },
+    {
+      "id": "158154",
+      "type": "tv",
+      "title": "Heartbreak High",
+      "poster": "https://image.tmdb.org/t/p/w342/1KTYMK7N2vRe8PowCyb799DbDRR.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "AU"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt15054962"
     },
     {
       "id": "194764",
@@ -27337,6 +27396,27 @@
       "imdb_id": "tt30454687"
     },
     {
+      "id": "240740",
+      "type": "tv",
+      "title": "Scarpetta",
+      "poster": "https://image.tmdb.org/t/p/w342/zvkcHCJUPqv7R9ukaiDNkm75jy.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ],
+      "imdb_id": "tt14786934"
+    },
+    {
       "id": "241065",
       "type": "tv",
       "title": "Got a Crush on You",
@@ -27354,6 +27434,27 @@
         "Drama"
       ],
       "imdb_id": "tt30333827"
+    },
+    {
+      "id": "241372",
+      "type": "tv",
+      "title": "56 Days",
+      "poster": "https://image.tmdb.org/t/p/w342/sdJLbucggwGj8NdX0UN2zt1Vwmn.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ],
+      "imdb_id": "tt30412869"
     },
     {
       "id": "242143",
@@ -27899,6 +28000,25 @@
       "imdb_id": "tt32524691"
     },
     {
+      "id": "249522",
+      "type": "tv",
+      "title": "Beast Games",
+      "poster": "https://image.tmdb.org/t/p/w342/6Zww0KyC518xni9m12dA3qB392D.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Reality"
+      ],
+      "imdb_id": "tt31812476"
+    },
+    {
       "id": "249551",
       "type": "tv",
       "title": "Néro the Assassin",
@@ -27938,6 +28058,28 @@
         "Crime"
       ],
       "imdb_id": "tt31835154"
+    },
+    {
+      "id": "249597",
+      "type": "tv",
+      "title": "Detective Hole",
+      "poster": "https://image.tmdb.org/t/p/w342/j61dmzEq4aRWJZk5tPyjzpHj8T2.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "NO",
+        "GB",
+        "US"
+      ],
+      "original_language": "no",
+      "genres": [
+        "Mystery",
+        "Crime"
+      ],
+      "imdb_id": "tt31810018"
     },
     {
       "id": "249748",
@@ -28336,6 +28478,27 @@
       "imdb_id": "tt32525811"
     },
     {
+      "id": "255661",
+      "type": "tv",
+      "title": "Young Sherlock",
+      "poster": "https://image.tmdb.org/t/p/w342/h3s0Cd2JppeWA4UjTuSRauL52P7.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action & Adventure",
+        "Mystery"
+      ],
+      "imdb_id": "tt8599532"
+    },
+    {
       "id": "255859",
       "type": "tv",
       "title": "Wayward",
@@ -28420,6 +28583,26 @@
       "imdb_id": "tt32612521"
     },
     {
+      "id": "257519",
+      "type": "tv",
+      "title": "Bait",
+      "poster": "https://image.tmdb.org/t/p/w342/gX9zWmUnrjCZEPpultvvFtSUb93.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt32252887"
+    },
+    {
       "id": "258025",
       "type": "tv",
       "title": "Head Over Heels",
@@ -28460,6 +28643,27 @@
         "Sci-Fi & Fantasy"
       ],
       "imdb_id": "tt32991344"
+    },
+    {
+      "id": "259265",
+      "type": "tv",
+      "title": "Something Very Bad Is Going to Happen",
+      "poster": "https://image.tmdb.org/t/p/w342/tuj37DlqEqib8sTO4h3nHJeTAJ2.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdb_id": "tt32937780"
     },
     {
       "id": "259710",
@@ -28563,6 +28767,25 @@
       "imdb_id": "tt38990492"
     },
     {
+      "id": "262273",
+      "type": "tv",
+      "title": "Being Gordon Ramsay",
+      "poster": "https://image.tmdb.org/t/p/w342/2n4dI6F0vRZJHSMep9vv9CS7FoE.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Documentary"
+      ],
+      "imdb_id": "tt33241079"
+    },
+    {
       "id": "262279",
       "type": "tv",
       "title": "Matchroom: The Greatest Showmen",
@@ -28639,6 +28862,27 @@
         "Reality"
       ],
       "imdb_id": "tt33294894"
+    },
+    {
+      "id": "269160",
+      "type": "tv",
+      "title": "Cash Queens",
+      "poster": "https://image.tmdb.org/t/p/w342/hu9DpdDLU7W0nqmsAJPmWKDeRjT.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "FR"
+      ],
+      "original_language": "fr",
+      "genres": [
+        "Comedy",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "imdb_id": "tt34139155"
     },
     {
       "id": "270420",
@@ -28743,6 +28987,27 @@
       "imdb_id": "tt33550045"
     },
     {
+      "id": "272059",
+      "type": "tv",
+      "title": "TO BE HERO X",
+      "poster": "https://image.tmdb.org/t/p/w342/7ynNG9lYS9HIR8cYMgawO19VPkg.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdb_id": "tt23139038"
+    },
+    {
       "id": "274048",
       "type": "tv",
       "title": "Grab Your Love",
@@ -28779,6 +29044,27 @@
         "Drama"
       ],
       "imdb_id": "tt33417631"
+    },
+    {
+      "id": "274776",
+      "type": "tv",
+      "title": "Unfamiliar",
+      "poster": "https://image.tmdb.org/t/p/w342/hdEQWvSbDQsbdseeYjUS0NgrfT2.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "DE"
+      ],
+      "original_language": "de",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Crime"
+      ],
+      "imdb_id": "tt37024136"
     },
     {
       "id": "274875",
@@ -28841,6 +29127,25 @@
         "Mystery"
       ],
       "imdb_id": "tt10011518"
+    },
+    {
+      "id": "276083",
+      "type": "tv",
+      "title": "Crap Happens",
+      "poster": "https://image.tmdb.org/t/p/w342/9AG5nhecHFpFShhhaHEUEnjNrgW.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "DE"
+      ],
+      "original_language": "de",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt34458461"
     },
     {
       "id": "277265",
@@ -29163,6 +29468,27 @@
       "imdb_id": "tt35665851"
     },
     {
+      "id": "283673",
+      "type": "tv",
+      "title": "That Night",
+      "poster": "https://image.tmdb.org/t/p/w342/xOB3odcE8pbTPK0FHzfwgRTneoS.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "ES"
+      ],
+      "original_language": "es",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": "tt35674865"
+    },
+    {
       "id": "284445",
       "type": "tv",
       "title": "Takopi's Original Sin",
@@ -29204,6 +29530,25 @@
         "Comedy"
       ],
       "imdb_id": "tt39068875"
+    },
+    {
+      "id": "285739",
+      "type": "tv",
+      "title": "Vladimir",
+      "poster": "https://image.tmdb.org/t/p/w342/j02VBIGVIk2OTwTUZ1YzyzcONAy.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt35997699"
     },
     {
       "id": "285770",
@@ -29265,6 +29610,25 @@
         "Mystery"
       ],
       "imdb_id": "tt35671670"
+    },
+    {
+      "id": "289485",
+      "type": "tv",
+      "title": "WWE: Unreal",
+      "poster": "https://image.tmdb.org/t/p/w342/4wfySL6AUTwXRCiL6tumMq9oFam.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Documentary"
+      ],
+      "imdb_id": "tt36614693"
     },
     {
       "id": "289892",
@@ -29329,6 +29693,47 @@
         "Sci-Fi & Fantasy"
       ],
       "imdb_id": "tt15599734"
+    },
+    {
+      "id": "291506",
+      "type": "tv",
+      "title": "Big Mistakes",
+      "poster": "https://image.tmdb.org/t/p/w342/mgXTCQ86lV3oudr2KXXO5zGEqIb.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "imdb_id": "tt36957934"
+    },
+    {
+      "id": "292474",
+      "type": "tv",
+      "title": "Radioactive Emergency",
+      "poster": "https://image.tmdb.org/t/p/w342/kshpdkPOdkZZS65PYecXJVYjwUe.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "BR"
+      ],
+      "original_language": "pt",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Action & Adventure"
+      ],
+      "imdb_id": "tt37041021"
     },
     {
       "id": "292625",
@@ -29784,6 +30189,26 @@
         "Sci-Fi & Fantasy"
       ],
       "imdb_id": "tt38491451"
+    },
+    {
+      "id": "300054",
+      "type": "tv",
+      "title": "BAKI-DOU: The Invincible Samurai",
+      "poster": "https://image.tmdb.org/t/p/w342/frtzbwANetYd0M4zdrZ5gx0E89q.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "genres": [
+        "Animation",
+        "Action & Adventure"
+      ],
+      "imdb_id": "tt38201910"
     },
     {
       "id": "300101",
@@ -30520,6 +30945,27 @@
       "imdb_id": "tt35674414"
     },
     {
+      "id": "310800",
+      "type": "tv",
+      "title": "Siren's Kiss",
+      "poster": "https://image.tmdb.org/t/p/w342/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ],
+      "imdb_id": "tt39303992"
+    },
+    {
       "id": "311171",
       "type": "tv",
       "title": "Bhootiyapa",
@@ -30539,6 +30985,46 @@
       "imdb_id": ""
     },
     {
+      "id": "312046",
+      "type": "tv",
+      "title": "Glitter & Gold: Ice Dancing",
+      "poster": "https://image.tmdb.org/t/p/w342/irrdulKrIPIjUwpZMwdtoo80CLW.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Documentary",
+        "Reality"
+      ],
+      "imdb_id": "tt39314120"
+    },
+    {
+      "id": "312423",
+      "type": "tv",
+      "title": "Reality Check: Inside America's Next Top Model",
+      "poster": "https://image.tmdb.org/t/p/w342/lxlsvsgvEYlf2wrSV9qUipHRAuk.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Reality",
+        "Documentary"
+      ],
+      "imdb_id": "tt39398591"
+    },
+    {
       "id": "313100",
       "type": "tv",
       "title": "Hello Bachhon",
@@ -30556,6 +31042,65 @@
         "Drama"
       ],
       "imdb_id": "tt39657434"
+    },
+    {
+      "id": "313298",
+      "type": "tv",
+      "title": "The Dinosaurs",
+      "poster": "https://image.tmdb.org/t/p/w342/x37IK9WWhuzi7tgyMT4ff3kiT5X.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Documentary",
+        "Animation"
+      ],
+      "imdb_id": "tt32493765"
+    },
+    {
+      "id": "314297",
+      "type": "tv",
+      "title": "Blue Therapy",
+      "poster": "https://image.tmdb.org/t/p/w342/H8K1osuUf7OsMbtSVPvXJlcnWS.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Reality"
+      ],
+      "imdb_id": "tt35836615"
+    },
+    {
+      "id": "315159",
+      "type": "tv",
+      "title": "Dynasty: The Murdochs",
+      "poster": "https://image.tmdb.org/t/p/w342/j5wfKP6lxz6A2IBca5rqSXru5v0.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Documentary"
+      ],
+      "imdb_id": "tt40233617"
     },
     {
       "id": "316272",
@@ -30594,6 +31139,27 @@
         "Crime"
       ],
       "imdb_id": "tt40431801"
+    },
+    {
+      "id": "316295",
+      "type": "tv",
+      "title": "The Predator of Seville",
+      "poster": "https://image.tmdb.org/t/p/w342/ayrLeA54JHe7qvmwAT3kAtWybb7.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "ES",
+        "US"
+      ],
+      "original_language": "es",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ],
+      "imdb_id": "tt40392206"
     },
     {
       "id": "316879",
@@ -31943,6 +32509,47 @@
       "imdb_id": "tt10443362"
     },
     {
+      "id": "88046",
+      "type": "tv",
+      "title": "Fire Force",
+      "poster": "https://image.tmdb.org/t/p/w342/sC4sTJnI0rLakinXMgBHv3Ynl9D.jpg",
+      "year": "2019",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Comedy"
+      ],
+      "imdb_id": "tt9307686"
+    },
+    {
+      "id": "88324",
+      "type": "tv",
+      "title": "Virgin River",
+      "poster": "https://image.tmdb.org/t/p/w342/oHEqfmSWR4Ex4V4AJyUn8HGHHnt.jpg",
+      "year": "2019",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt9077530"
+    },
+    {
       "id": "90293",
       "type": "tv",
       "title": "Ghost in the Shell: SAC_2045",
@@ -32003,6 +32610,25 @@
         "Comedy"
       ],
       "imdb_id": "tt11033944"
+    },
+    {
+      "id": "91239",
+      "type": "tv",
+      "title": "Bridgerton",
+      "poster": "https://image.tmdb.org/t/p/w342/uXTg565ahu9RwonCX1V2Hex1NU6.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt8740790"
     },
     {
       "id": "91284",
