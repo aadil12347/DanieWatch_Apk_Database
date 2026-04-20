@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-20T11:39:37.855Z",
-  "total": 1661,
+  "last_updated": "2026-04-20T11:41:55.065Z",
+  "total": 1660,
   "posts": [
     {
       "id": "1607762",
@@ -2526,23 +2526,6 @@
         "Drama"
       ],
       "imdb_id": "tt35257690"
-    },
-    {
-      "id": "1499099",
-      "type": "movie",
-      "title": "Karamsutra",
-      "poster": "https://image.tmdb.org/t/p/w342/akxdNCJQ3wh0bRLRl2p7VaICRXe.jpg",
-      "year": "2025",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [],
-      "original_language": "pa",
-      "genres": [
-        "Thriller"
-      ],
-      "imdb_id": "tt37285355"
     },
     {
       "id": "1508485",
