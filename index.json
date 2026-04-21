@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-20T11:45:39.991Z",
-  "total": 1661,
+  "last_updated": "2026-04-21T06:43:56.178Z",
+  "total": 1678,
   "posts": [
     {
       "id": "1607762",
@@ -3782,6 +3782,27 @@
       "imdb_id": "tt0460681"
     },
     {
+      "id": "196944",
+      "type": "tv",
+      "title": "My Happy Marriage",
+      "poster": "https://image.tmdb.org/t/p/w342/5RZIBqSYHhpQF6s8Dgw2aXlA4ZS.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdb_id": "tt19869172"
+    },
+    {
       "id": "200861",
       "type": "tv",
       "title": "Suzhal - The Vortex",
@@ -5637,6 +5658,43 @@
         "Mystery"
       ],
       "imdb_id": "tt39601175"
+    },
+    {
+      "id": "315036",
+      "type": "tv",
+      "title": "Sangamarmar",
+      "poster": "https://image.tmdb.org/t/p/w342/tQRFVM5MJsnNBUQgRP31aWwy1Qx.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": "tt39992549"
+    },
+    {
+      "id": "319102",
+      "type": "tv",
+      "title": "Zung: The Rust",
+      "poster": "https://image.tmdb.org/t/p/w342/jzmmCVj05loavL4iW5NfD0q657N.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "en",
+      "genres": [],
+      "imdb_id": "tt40832405"
     },
     {
       "id": "33217",
@@ -17616,6 +17674,27 @@
       "imdb_id": "tt39066215"
     },
     {
+      "id": "1595325",
+      "type": "movie",
+      "title": "The Anacondas",
+      "poster": "https://image.tmdb.org/t/p/w342/yphysF14qWFvrIbFVg3vEnbudwT.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror"
+      ],
+      "imdb_id": "tt38043316"
+    },
+    {
       "id": "1595481",
       "type": "movie",
       "title": "Kidnapped: Elizabeth Smart",
@@ -20332,6 +20411,28 @@
       "imdb_id": "tt7322816"
     },
     {
+      "id": "486579",
+      "type": "movie",
+      "title": "Night Bus",
+      "poster": "https://image.tmdb.org/t/p/w342/xz8DoqGevecvAVcbHNa5XiRcj6F.jpg",
+      "year": "2017",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "ID"
+      ],
+      "original_language": "id",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Action",
+        "Crime"
+      ],
+      "imdb_id": "tt6574480"
+    },
+    {
       "id": "487558",
       "type": "movie",
       "title": "BlacKkKlansman",
@@ -20775,6 +20876,28 @@
         "Thriller"
       ],
       "imdb_id": "tt7986222"
+    },
+    {
+      "id": "533514",
+      "type": "movie",
+      "title": "Violet Evergarden: The Movie",
+      "poster": "https://image.tmdb.org/t/p/w342/bajajkoErDst0JxdFyBkABiF9rW.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "English"
+      ],
+      "country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "imdb_id": "tt8652818"
     },
     {
       "id": "533533",
@@ -24716,6 +24839,27 @@
       "imdb_id": "tt13016388"
     },
     {
+      "id": "108978",
+      "type": "tv",
+      "title": "Reacher",
+      "poster": "https://image.tmdb.org/t/p/w342/31GlRQMiDunO8cl3NxTz34U64rf.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Crime"
+      ],
+      "imdb_id": "tt9288030"
+    },
+    {
       "id": "110267",
       "type": "tv",
       "title": "Strange School Tales",
@@ -25942,6 +26086,26 @@
       "imdb_id": "tt23033870"
     },
     {
+      "id": "195670",
+      "type": "tv",
+      "title": "XO, Kitty",
+      "poster": "https://image.tmdb.org/t/p/w342/hxvTdKAwv27PUfpXOQp6AwWr6V.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt14490706"
+    },
+    {
       "id": "196474",
       "type": "tv",
       "title": "A Time Called You",
@@ -26238,6 +26402,28 @@
         "Drama"
       ],
       "imdb_id": "tt29514999"
+    },
+    {
+      "id": "203164",
+      "type": "tv",
+      "title": "Strong Girl Nam-soon",
+      "poster": "https://image.tmdb.org/t/p/w342/rjkHORZvB5bnz7kH1PufFCKsX4I.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Crime"
+      ],
+      "imdb_id": "tt29225198"
     },
     {
       "id": "203857",
@@ -26853,6 +27039,26 @@
         "Sci-Fi & Fantasy"
       ],
       "imdb_id": "tt26225038"
+    },
+    {
+      "id": "218238",
+      "type": "tv",
+      "title": "My Lethal Man",
+      "poster": "https://image.tmdb.org/t/p/w342/ykKbuBoY3pf1lvjpfhWfrS1NTxY.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": "tt26287941"
     },
     {
       "id": "218539",
@@ -28677,6 +28883,26 @@
         "Comedy"
       ],
       "imdb_id": "tt31898339"
+    },
+    {
+      "id": "249765",
+      "type": "tv",
+      "title": "Matka King",
+      "poster": "https://image.tmdb.org/t/p/w342/cAWIMbCmzVBi86kEOHKjHZCKGyo.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "imdb_id": "tt16997004"
     },
     {
       "id": "249766",
@@ -31429,6 +31655,26 @@
       "imdb_id": ""
     },
     {
+      "id": "307900",
+      "type": "tv",
+      "title": "Secret Stories: Roslin",
+      "poster": "https://image.tmdb.org/t/p/w342/pgVtjCdC5aBADQswOGx7BnTbjgH.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ml",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "imdb_id": "tt32105473"
+    },
+    {
       "id": "308053",
       "type": "tv",
       "title": "Bhay: The Gaurav Tiwari Story",
@@ -31641,6 +31887,25 @@
       "imdb_id": "tt35836615"
     },
     {
+      "id": "315008",
+      "type": "tv",
+      "title": "Psycho Saiyaan",
+      "poster": "https://image.tmdb.org/t/p/w342/xW8UKl010jOVFmqYhcYDl7neTue.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt39971916"
+    },
+    {
       "id": "315159",
       "type": "tv",
       "title": "Dynasty: The Murdochs",
@@ -31755,6 +32020,23 @@
         "Crime",
         "Drama"
       ],
+      "imdb_id": ""
+    },
+    {
+      "id": "319059",
+      "type": "tv",
+      "title": "Adalat: Insaaf Ki Jung",
+      "poster": "https://image.tmdb.org/t/p/w342/5BVhF1GRtaInMFJrtA9uzTkx0To.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "hi",
+      "genres": [],
       "imdb_id": ""
     },
     {
@@ -32129,6 +32411,27 @@
       "imdb_id": "tt1399664"
     },
     {
+      "id": "62266",
+      "type": "tv",
+      "title": "Kill Me, Heal Me",
+      "poster": "https://image.tmdb.org/t/p/w342/dNH6NO0akHMIqbq5EC4qnCeeuC6.jpg",
+      "year": "2015",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": "tt4339192"
+    },
+    {
       "id": "62511",
       "type": "tv",
       "title": "Who Are You: School 2015",
@@ -32374,6 +32677,27 @@
         "Drama"
       ],
       "imdb_id": "tt6157190"
+    },
+    {
+      "id": "68814",
+      "type": "tv",
+      "title": "Strong Woman Do Bong-Soon",
+      "poster": "https://image.tmdb.org/t/p/w342/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
+      "year": "2017",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Comedy",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "imdb_id": "tt6263222"
     },
     {
       "id": "68891",
@@ -33147,6 +33471,25 @@
         "Mystery"
       ],
       "imdb_id": "tt10473780"
+    },
+    {
+      "id": "90706",
+      "type": "tv",
+      "title": "Doctor John",
+      "poster": "https://image.tmdb.org/t/p/w342/2EtZ91FzsFRe3FFtAr29ESgW9QK.jpg",
+      "year": "2019",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt10544464"
     },
     {
       "id": "91026",
