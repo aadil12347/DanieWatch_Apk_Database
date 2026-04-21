@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-21T06:43:56.178Z",
-  "total": 1678,
+  "last_updated": "2026-04-21T07:18:50.647Z",
+  "total": 1683,
   "posts": [
     {
       "id": "1607762",
@@ -5797,6 +5797,28 @@
         "Action & Adventure"
       ],
       "imdb_id": "tt4869896"
+    },
+    {
+      "id": "65942",
+      "type": "tv",
+      "title": "Re:ZERO -Starting Life in Another World-",
+      "poster": "https://image.tmdb.org/t/p/w342/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg",
+      "year": "2016",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Mystery"
+      ],
+      "imdb_id": "tt5607616"
     },
     {
       "id": "67014",
@@ -25272,6 +25294,28 @@
       "imdb_id": "tt15765670"
     },
     {
+      "id": "123542",
+      "type": "tv",
+      "title": "LINK CLICK",
+      "poster": "https://image.tmdb.org/t/p/w342/hCt2bLRGTCjHGqtV5FP3Img6w1h.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "English"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Mystery",
+        "Drama"
+      ],
+      "imdb_id": "tt14976292"
+    },
+    {
       "id": "124411",
       "type": "tv",
       "title": "Aspirants",
@@ -26528,6 +26572,28 @@
         "Sci-Fi & Fantasy"
       ],
       "imdb_id": "tt21975436"
+    },
+    {
+      "id": "207493",
+      "type": "tv",
+      "title": "The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far",
+      "poster": "https://image.tmdb.org/t/p/w342/aH3EKIPW9XRaIJQeF7EYlOe7SEK.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "English"
+      ],
+      "country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdb_id": "tt27404658"
     },
     {
       "id": "207564",
@@ -32925,6 +32991,28 @@
       "imdb_id": "tt7263328"
     },
     {
+      "id": "72636",
+      "type": "tv",
+      "title": "Made in Abyss",
+      "poster": "https://image.tmdb.org/t/p/w342/f6U3odfIb3pCXMGKRTQGGF9o1Qg.jpg",
+      "year": "2017",
+      "result": "HD",
+      "language": [
+        "English"
+      ],
+      "country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdb_id": "tt7222086"
+    },
+    {
       "id": "74064",
       "type": "tv",
       "title": "Go Back Couple",
@@ -33429,6 +33517,28 @@
         "Drama"
       ],
       "imdb_id": "tt9077530"
+    },
+    {
+      "id": "88803",
+      "type": "tv",
+      "title": "Vinland Saga",
+      "poster": "https://image.tmdb.org/t/p/w342/vUHlpA5c1NXkds59reY3HMb4Abs.jpg",
+      "year": "2019",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "genres": [
+        "Animation",
+        "War & Politics",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "imdb_id": "tt10233448"
     },
     {
       "id": "90293",
