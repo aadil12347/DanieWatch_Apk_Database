@@ -1,0 +1,31 @@
+{
+  "id": "312046",
+  "type": "tv",
+  "title": "Glitter & Gold: Ice Dancing",
+  "poster": "https://image.tmdb.org/t/p/w342/irrdulKrIPIjUwpZMwdtoo80CLW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7oBYd2DIzxW1wtLa2pPl8FF9TPI.jpg",
+  "year": "2026",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/zbybx4rtpctb/glitter-and-gold-ice-dancing-s01e01-720p-nf-web-dl-dual-ddp5-1-x264-vegamovies-hot\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/o5m18am5ursn/glitter-and-gold-ice-dancing-s01e02-720p-nf-web-dl-dual-ddp5-1-x264-vegamovies-hot\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/y13xykkgs021/glitter-and-gold-ice-dancing-s01e03-720p-nf-web-dl-dual-ddp5-1-x264-vegamovies-hot\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

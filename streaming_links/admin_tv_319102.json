@@ -1,0 +1,29 @@
+{
+  "id": "319102",
+  "type": "tv",
+  "title": "Zung: The Rust",
+  "poster": "https://image.tmdb.org/t/p/w342/jzmmCVj05loavL4iW5NfD0q657N.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/7B7pnqNj2j05mHS0peNQZfa884H.jpg",
+  "year": "2026",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "Combined All Episodes",
+          "overview": "In Alang's ship-breaking yards, Kaveri's perfect marriage conceals deadly secrets. An affair leads to blackmail and murder, triggering a police probe that unravels betrayal and manipulation. She faces the consequences of her choices.",
+          "still_path": "",
+          "air_date": "2026-04-08",
+          "runtime": null,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/b54jh044hlr2/zung-the-rust-s01\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}
