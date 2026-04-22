@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-22T10:26:16.993Z",
-  "total": 1683,
+  "last_updated": "2026-04-22T12:38:47.960Z",
+  "total": 1682,
   "posts": [
     {
       "id": "1607762",
@@ -28949,26 +28949,6 @@
         "Comedy"
       ],
       "imdb_id": "tt31898339"
-    },
-    {
-      "id": "249765",
-      "type": "tv",
-      "title": "Matka King",
-      "poster": "https://image.tmdb.org/t/p/w342/cAWIMbCmzVBi86kEOHKjHZCKGyo.jpg",
-      "year": "2026",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "IN"
-      ],
-      "original_language": "hi",
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "imdb_id": "tt16997004"
     },
     {
       "id": "249766",
