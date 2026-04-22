@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-22T13:05:03.629Z",
-  "total": 1681,
+  "last_updated": "2026-04-22T13:05:25.245Z",
+  "total": 1680,
   "posts": [
     {
       "id": "1607762",
@@ -17405,27 +17405,6 @@
         "Comedy"
       ],
       "imdb_id": "tt38509022"
-    },
-    {
-      "id": "1582770",
-      "type": "movie",
-      "title": "Dhurandhar: The Revenge",
-      "poster": "https://image.tmdb.org/t/p/w342/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
-      "year": "2026",
-      "result": "CAM",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "IN"
-      ],
-      "original_language": "hi",
-      "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-      ],
-      "imdb_id": "tt39139925"
     },
     {
       "id": "1584215",
