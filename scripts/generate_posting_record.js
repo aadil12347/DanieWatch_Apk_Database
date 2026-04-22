@@ -60,9 +60,11 @@ function run() {
         return;
     }
 
-    // ─── Step 3: Compute the DIFF — find posts in new but NOT in old ───
+    // ─── Step 3: Compute the DIFF — find ADDED and REMOVED posts ───
     const addedPosts = [];
+    const removedKeys = new Set();
 
+    // Find posts added (in new but NOT in old)
     newPostMap.forEach((post, key) => {
         if (!oldPostKeys.has(key)) {
             addedPosts.push({
@@ -74,19 +76,17 @@ function run() {
         }
     });
 
-    if (addedPosts.length === 0) {
-        console.log('ℹ️ No new posts detected. Posting record unchanged.');
-        // Still update total_posts count in case of removals
-        if (fs.existsSync(recordFile)) {
-            try {
-                const record = JSON.parse(fs.readFileSync(recordFile, 'utf8'));
-                record.total_posts = newPosts.length;
-                record.last_updated = new Date().toISOString();
-                fs.writeFileSync(recordFile, JSON.stringify(record, null, 2));
-            } catch (err) {
-                // Ignore
-            }
+    // Find posts removed (in old but NOT in new)
+    const newPostKeys = new Set();
+    newPosts.forEach(p => newPostKeys.add(`${p.type}_${p.id}`));
+    oldPostKeys.forEach(key => {
+        if (!newPostKeys.has(key)) {
+            removedKeys.add(key);
         }
+    });
+
+    if (addedPosts.length === 0 && removedKeys.size === 0) {
+        console.log('ℹ️ No new or removed posts detected. Posting record unchanged.');
         return;
     }
 
@@ -120,37 +120,102 @@ function run() {
         };
     }
 
-    // ─── Step 6: Create the new batch ───
+    // ─── Step 5b: Purge REMOVED posts from all batches ───
+    if (removedKeys.size > 0) {
+        let totalRemoved = 0;
+        record.batches.forEach(batch => {
+            const before = batch.posts.length;
+            batch.posts = batch.posts.filter(p => {
+                const key = `${p.type}_${p.tmdb_id}`;
+                return !removedKeys.has(key);
+            });
+            const removed = before - batch.posts.length;
+            totalRemoved += removed;
+            batch.total_in_batch = batch.posts.length;
+        });
+
+        // Remove batches that became empty after purging
+        record.batches = record.batches.filter(b => b.posts.length > 0);
+
+        if (totalRemoved > 0) {
+            console.log(`🗑️ Purged ${totalRemoved} removed post(s) from posting record.`);
+        }
+
+        // If no new posts to add, just save and exit
+        if (addedPosts.length === 0) {
+            record.total_batches = record.batches.length;
+            record.total_posts = newPosts.length;
+            record.last_updated = new Date().toISOString();
+            fs.writeFileSync(recordFile, JSON.stringify(record, null, 2));
+            console.log(`   📊 Total batches: ${record.total_batches}`);
+            console.log(`   📁 Total posts in database: ${record.total_posts}`);
+            return;
+        }
+    }
+
+    // ─── Step 6: Create or merge into today's batch (1 batch per day) ───
     const now = new Date();
-    const newBatchId = record.total_batches + 1;
+    const todayDate = now.toISOString().split('T')[0]; // "YYYY-MM-DD"
+    const todayReadable = now.toLocaleDateString('en-US', {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric'
+    });
 
-    const newBatch = {
-        batch_id: newBatchId,
-        timestamp: now.toISOString(),
-        date: now.toLocaleDateString('en-US', {
-            year: 'numeric',
-            month: 'long',
-            day: 'numeric'
-        }),
-        total_in_batch: addedPosts.length,
-        posts: addedPosts
-    };
+    // Check if a batch for today already exists
+    let existingBatchIndex = record.batches.findIndex(b => b.date_key === todayDate);
 
-    // ─── Step 7: Append batch and save ───
-    record.batches.push(newBatch);
+    if (existingBatchIndex !== -1) {
+        // Merge new posts into today's existing batch
+        // IMPORTANT: Preserve existing post order (user may have manually rearranged)
+        const existingBatch = record.batches[existingBatchIndex];
+
+        // Build a set of already-tracked post keys to avoid duplicates
+        const existingKeys = new Set(
+            existingBatch.posts.map(p => `${p.type}_${p.tmdb_id}`)
+        );
+
+        // Filter to only truly new posts (not already in batch)
+        const trulyNew = addedPosts.filter(p => {
+            const key = `${p.type}_${p.tmdb_id}`;
+            return !existingKeys.has(key);
+        });
+
+        // PREPEND new posts ABOVE existing ones (don't rearrange existing order)
+        existingBatch.posts = [...trulyNew, ...existingBatch.posts];
+        existingBatch.total_in_batch = existingBatch.posts.length;
+        existingBatch.last_modified = now.toISOString();
+
+        console.log(`✅ Posting record updated! (merged into today's batch)`);
+        console.log(`   📦 Batch "${todayReadable}": now ${existingBatch.total_in_batch} post(s) total`);
+    } else {
+        // Create a new batch for today
+        const newBatch = {
+            batch_id: record.batches.length + 1,
+            date_key: todayDate,
+            date: todayReadable,
+            timestamp: now.toISOString(),
+            total_in_batch: addedPosts.length,
+            posts: addedPosts
+        };
+
+        record.batches.push(newBatch);
+        console.log(`✅ Posting record updated! (new batch created)`);
+        console.log(`   📦 Batch "${todayReadable}": ${addedPosts.length} new post(s)`);
+    }
+
+    // ─── Step 7: Save ───
     record.total_batches = record.batches.length;
     record.total_posts = newPosts.length;
     record.last_updated = now.toISOString();
 
     fs.writeFileSync(recordFile, JSON.stringify(record, null, 2));
 
-    console.log(`✅ Posting record updated!`);
-    console.log(`   📦 Batch #${newBatchId}: ${addedPosts.length} new post(s) added`);
     console.log(`   📊 Total batches: ${record.total_batches}`);
     console.log(`   📁 Total posts in database: ${record.total_posts}`);
 
     // Print the new posts
-    console.log(`\n   New posts in this batch (A→Z):`);
+    console.log(`\n   New posts added (A→Z):`);
     addedPosts.forEach((p, i) => {
         console.log(`   ${i + 1}. ${p.title} [${p.type.toUpperCase()}] (TMDB: ${p.tmdb_id}, IMDB: ${p.imdb_id || 'N/A'})`);
     });
