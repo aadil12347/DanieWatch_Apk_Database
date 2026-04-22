@@ -1,6 +1,21 @@
 {
-  "last_updated": "2026-04-22T10:25:33.204Z",
-  "total_posts": 1682,
-  "total_batches": 0,
-  "batches": []
+  "last_updated": "2026-04-22T10:26:17.045Z",
+  "total_posts": 1683,
+  "total_batches": 1,
+  "batches": [
+    {
+      "batch_id": 1,
+      "timestamp": "2026-04-22T10:26:17.045Z",
+      "date": "April 22, 2026",
+      "total_in_batch": 1,
+      "posts": [
+        {
+          "title": "Project Hail Mary",
+          "tmdb_id": "687163",
+          "imdb_id": "tt12042730",
+          "type": "movie"
+        }
+      ]
+    }
+  ]
 }
