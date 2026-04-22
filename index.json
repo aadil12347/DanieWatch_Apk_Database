@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-22T12:38:47.960Z",
-  "total": 1682,
+  "last_updated": "2026-04-22T13:05:03.629Z",
+  "total": 1681,
   "posts": [
     {
       "id": "1607762",
@@ -12147,29 +12147,6 @@
         "Crime"
       ],
       "imdb_id": "tt24326462"
-    },
-    {
-      "id": "1327819",
-      "type": "movie",
-      "title": "Hoppers",
-      "poster": "https://image.tmdb.org/t/p/w342/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-      "year": "2026",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "US"
-      ],
-      "original_language": "en",
-      "genres": [
-        "Animation",
-        "Family",
-        "Science Fiction",
-        "Comedy",
-        "Adventure"
-      ],
-      "imdb_id": "tt26443616"
     },
     {
       "id": "1327862",
