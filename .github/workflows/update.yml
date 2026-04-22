@@ -14,17 +14,32 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 20 # Updated to 20 to avoid deprecation warnings
+          node-version: 20
+
+      # Step 1: Snapshot the OLD index before regeneration
+      - name: Snapshot Old Index
+        run: cp index.json old_index_snapshot.json || echo '{}' > old_index_snapshot.json
+
+      # Step 2: Generate the NEW index
       - name: Generate New Index
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: node scripts/generate_index.js
+
+      # Step 3: Generate Posting Record (diff old vs new)
+      - name: Generate Posting Record
+        run: node scripts/generate_posting_record.js
+
+      # Step 4: Find Duplicates
       - name: Find Duplicates
         run: node scripts/find_duplicates.js
+
+      # Step 5: Cleanup snapshot & commit
       - name: Commit and Push
         run: |
+          rm -f old_index_snapshot.json
           git config --global user.name "DanieWatch Bot"
           git config --global user.email "bot@daniewatch.com"
-          git add index.json duplicate_posts.md
-          git commit -m "chore: auto-update index & duplicate report [skip ci]" || exit 0
+          git add index.json duplicate_posts.md posting_record.json
+          git commit -m "chore: auto-update index, duplicates & posting record [skip ci]" || exit 0
           git push
