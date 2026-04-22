@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-22T13:06:09.015Z",
-  "total": 1678,
+  "last_updated": "2026-04-22T13:06:50.811Z",
+  "total": 1677,
   "posts": [
     {
       "id": "1607762",
@@ -11281,27 +11281,6 @@
         "Fantasy"
       ],
       "imdb_id": "tt33372494"
-    },
-    {
-      "id": "1290417",
-      "type": "movie",
-      "title": "Thrash",
-      "poster": "https://image.tmdb.org/t/p/w342/adk8weka3O5648g3de4z3y4aE7G.jpg",
-      "year": "2026",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "US",
-        "AU"
-      ],
-      "original_language": "en",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "imdb_id": "tt32362890"
     },
     {
       "id": "1290879",
