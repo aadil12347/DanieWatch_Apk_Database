@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-23T06:22:49.541Z",
-  "total": 1683,
+  "last_updated": "2026-04-23T09:44:14.509Z",
+  "total": 1682,
   "posts": [
     {
       "id": "1607762",
@@ -8772,26 +8772,6 @@
         "Fantasy"
       ],
       "imdb_id": "tt29567402"
-    },
-    {
-      "id": "1194963",
-      "type": "movie",
-      "title": "Noise",
-      "poster": "https://image.tmdb.org/t/p/w342/uU3NXe7QqjJNxVpYPdz8dscFWlj.jpg",
-      "year": "2025",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "KR"
-      ],
-      "original_language": "ko",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "imdb_id": "tt29845247"
     },
     {
       "id": "1196095",
