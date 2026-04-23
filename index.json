@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-23T06:18:53.537Z",
-  "total": 1681,
+  "last_updated": "2026-04-23T06:19:29.023Z",
+  "total": 1680,
   "posts": [
     {
       "id": "1607762",
@@ -10773,27 +10773,6 @@
         "Thriller"
       ],
       "imdb_id": "tt33312131"
-    },
-    {
-      "id": "1268127",
-      "type": "movie",
-      "title": "Humint",
-      "poster": "https://image.tmdb.org/t/p/w342/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg",
-      "year": "2026",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "KR"
-      ],
-      "original_language": "ko",
-      "genres": [
-        "Thriller",
-        "Action",
-        "Drama"
-      ],
-      "imdb_id": "tt32606470"
     },
     {
       "id": "1270908",
