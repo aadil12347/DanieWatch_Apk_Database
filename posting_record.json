@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-04-23T06:15:31.803Z",
-  "total_posts": 1681,
-  "total_batches": 0,
-  "batches": []
+  "last_updated": "2026-04-23T06:16:38.295Z",
+  "total_posts": 1683,
+  "total_batches": 1,
+  "batches": [
+    {
+      "batch_id": 1,
+      "date_key": "2026-04-23",
+      "date": "April 23, 2026",
+      "timestamp": "2026-04-23T06:16:38.295Z",
+      "total_in_batch": 2,
+      "posts": [
+        {
+          "title": "Hoppers",
+          "tmdb_id": "1327819",
+          "imdb_id": "tt26443616",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Matka King",
+          "tmdb_id": "249765",
+          "imdb_id": "tt16997004",
+          "type": "tv",
+          "year": "2026"
+        }
+      ]
+    }
+  ]
 }

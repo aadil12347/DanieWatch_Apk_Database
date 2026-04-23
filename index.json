@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-23T06:15:31.735Z",
-  "total": 1681,
+  "last_updated": "2026-04-23T06:16:38.222Z",
+  "total": 1683,
   "posts": [
     {
       "id": "1607762",
@@ -12147,6 +12147,29 @@
         "Crime"
       ],
       "imdb_id": "tt24326462"
+    },
+    {
+      "id": "1327819",
+      "type": "movie",
+      "title": "Hoppers",
+      "poster": "https://image.tmdb.org/t/p/w342/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Animation",
+        "Family",
+        "Science Fiction",
+        "Comedy",
+        "Adventure"
+      ],
+      "imdb_id": "tt26443616"
     },
     {
       "id": "1327862",
@@ -28926,6 +28949,26 @@
         "Comedy"
       ],
       "imdb_id": "tt31898339"
+    },
+    {
+      "id": "249765",
+      "type": "tv",
+      "title": "Matka King",
+      "poster": "https://image.tmdb.org/t/p/w342/cAWIMbCmzVBi86kEOHKjHZCKGyo.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "imdb_id": "tt16997004"
     },
     {
       "id": "249766",
