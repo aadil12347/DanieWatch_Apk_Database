@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-23T06:19:50.402Z",
-  "total": 1679,
+  "last_updated": "2026-04-23T06:20:08.319Z",
+  "total": 1678,
   "posts": [
     {
       "id": "1607762",
@@ -8357,27 +8357,6 @@
         "Crime"
       ],
       "imdb_id": ""
-    },
-    {
-      "id": "1159559",
-      "type": "movie",
-      "title": "Scream 7",
-      "poster": "https://image.tmdb.org/t/p/w342/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-      "year": "2026",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "US"
-      ],
-      "original_language": "en",
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Crime"
-      ],
-      "imdb_id": "tt27047903"
     },
     {
       "id": "1160956",
