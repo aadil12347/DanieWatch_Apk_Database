@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-23T06:20:56.453Z",
-  "total": 1677,
+  "last_updated": "2026-04-23T06:21:14.104Z",
+  "total": 1676,
   "posts": [
     {
       "id": "1607762",
@@ -10687,28 +10687,6 @@
         "Drama"
       ],
       "imdb_id": "tt32159989"
-    },
-    {
-      "id": "1265609",
-      "type": "movie",
-      "title": "War Machine",
-      "poster": "https://image.tmdb.org/t/p/w342/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
-      "year": "2026",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "AU",
-        "US"
-      ],
-      "original_language": "en",
-      "genres": [
-        "Action",
-        "Science Fiction",
-        "Thriller"
-      ],
-      "imdb_id": "tt15940132"
     },
     {
       "id": "1267319",
