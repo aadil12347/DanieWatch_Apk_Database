@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-23T06:18:18.005Z",
-  "total": 1682,
+  "last_updated": "2026-04-23T06:18:53.537Z",
+  "total": 1681,
   "posts": [
     {
       "id": "1607762",
@@ -9815,26 +9815,6 @@
         "Family"
       ],
       "imdb_id": "tt6540996"
-    },
-    {
-      "id": "1239134",
-      "type": "movie",
-      "title": "Bhooth Bangla",
-      "poster": "https://image.tmdb.org/t/p/w342/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
-      "year": "2026",
-      "result": "HD",
-      "language": [
-        "Cam"
-      ],
-      "country": [
-        "IN"
-      ],
-      "original_language": "hi",
-      "genres": [
-        "Horror",
-        "Comedy"
-      ],
-      "imdb_id": "tt29540862"
     },
     {
       "id": "1239655",
