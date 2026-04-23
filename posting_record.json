@@ -1,20 +1,85 @@
 {
-  "last_updated": "2026-04-22T10:26:17.045Z",
+  "last_updated": "2026-04-22T13:11:18.359Z",
   "total_posts": 1683,
   "total_batches": 1,
   "batches": [
     {
       "batch_id": 1,
-      "timestamp": "2026-04-22T10:26:17.045Z",
+      "date_key": "2026-04-22",
       "date": "April 22, 2026",
-      "total_in_batch": 1,
+      "timestamp": "2026-04-22T13:11:18.359Z",
+      "total_in_batch": 10,
       "posts": [
+        {
+          "title": "Bhooth Bangla",
+          "tmdb_id": "1239134",
+          "imdb_id": "tt29540862",
+          "type": "movie"
+        },
+        {
+          "title": "Do Deewane Seher Mein",
+          "tmdb_id": "1241693",
+          "imdb_id": "tt31226272",
+          "type": "movie"
+        },
+        {
+          "title": "Dhurandhar: The Revenge",
+          "tmdb_id": "1582770",
+          "imdb_id": "tt39139925",
+          "type": "movie"
+        },
+        {
+          "title": "Hoppers",
+          "tmdb_id": "1327819",
+          "imdb_id": "tt26443616",
+          "type": "movie"
+        },
+        {
+          "title": "Humint",
+          "tmdb_id": "1268127",
+          "imdb_id": "tt32606470",
+          "type": "movie"
+        },
+        {
+          "title": "Matka King",
+          "tmdb_id": "249765",
+          "imdb_id": "tt16997004",
+          "type": "tv"
+        },
+        {
+          "title": "Mercy",
+          "tmdb_id": "1236153",
+          "imdb_id": "tt31050594",
+          "type": "movie"
+        },
         {
           "title": "Project Hail Mary",
           "tmdb_id": "687163",
           "imdb_id": "tt12042730",
+<<<<<<< HEAD
           "type": "movie",
           "year": "2026"
+=======
+          "type": "movie"
+        },
+        {
+          "title": "Scream 7",
+          "tmdb_id": "1159559",
+          "imdb_id": "tt27047903",
+          "type": "movie"
+        },
+        {
+          "title": "Thrash",
+          "tmdb_id": "1290417",
+          "imdb_id": "tt32362890",
+          "type": "movie"
+        },
+        {
+          "title": "War Machine",
+          "tmdb_id": "1265609",
+          "imdb_id": "tt15940132",
+          "type": "movie"
+>>>>>>> 348de8693fcd8c5135e76e11aa6455b8c3d6fde5
         }
       ]
     }
