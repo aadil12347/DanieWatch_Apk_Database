@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-23T06:21:28.138Z",
-  "total": 1675,
+  "last_updated": "2026-04-23T06:22:49.541Z",
+  "total": 1683,
   "posts": [
     {
       "id": "1607762",
@@ -8359,6 +8359,27 @@
       "imdb_id": ""
     },
     {
+      "id": "1159559",
+      "type": "movie",
+      "title": "Scream 7",
+      "poster": "https://image.tmdb.org/t/p/w342/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Crime"
+      ],
+      "imdb_id": "tt27047903"
+    },
+    {
       "id": "1160956",
       "type": "movie",
       "title": "Panda Plan",
@@ -9712,6 +9733,28 @@
       "imdb_id": "tt30973261"
     },
     {
+      "id": "1236153",
+      "type": "movie",
+      "title": "Mercy",
+      "poster": "https://image.tmdb.org/t/p/w342/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "imdb_id": "tt31050594"
+    },
+    {
       "id": "1238164",
       "type": "movie",
       "title": "Gustaakh Ishq",
@@ -9772,6 +9815,26 @@
         "Family"
       ],
       "imdb_id": "tt6540996"
+    },
+    {
+      "id": "1239134",
+      "type": "movie",
+      "title": "Bhooth Bangla",
+      "poster": "https://image.tmdb.org/t/p/w342/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Cam"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "imdb_id": "tt29540862"
     },
     {
       "id": "1239655",
@@ -10689,6 +10752,28 @@
       "imdb_id": "tt32159989"
     },
     {
+      "id": "1265609",
+      "type": "movie",
+      "title": "War Machine",
+      "poster": "https://image.tmdb.org/t/p/w342/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "AU",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "imdb_id": "tt15940132"
+    },
+    {
       "id": "1267319",
       "type": "movie",
       "title": "Mantis",
@@ -10708,6 +10793,27 @@
         "Thriller"
       ],
       "imdb_id": "tt33312131"
+    },
+    {
+      "id": "1268127",
+      "type": "movie",
+      "title": "Humint",
+      "poster": "https://image.tmdb.org/t/p/w342/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Drama"
+      ],
+      "imdb_id": "tt32606470"
     },
     {
       "id": "1270908",
@@ -11216,6 +11322,27 @@
         "Fantasy"
       ],
       "imdb_id": "tt33372494"
+    },
+    {
+      "id": "1290417",
+      "type": "movie",
+      "title": "Thrash",
+      "poster": "https://image.tmdb.org/t/p/w342/adk8weka3O5648g3de4z3y4aE7G.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US",
+        "AU"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "imdb_id": "tt32362890"
     },
     {
       "id": "1290879",
@@ -17303,6 +17430,27 @@
       "imdb_id": "tt38509022"
     },
     {
+      "id": "1582770",
+      "type": "movie",
+      "title": "Dhurandhar: The Revenge",
+      "poster": "https://image.tmdb.org/t/p/w342/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+      "year": "2026",
+      "result": "CAM",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": "tt39139925"
+    },
+    {
       "id": "1584215",
       "type": "movie",
       "title": "The Internship",
@@ -22171,6 +22319,26 @@
         "Horror"
       ],
       "imdb_id": "tt6754712"
+    },
+    {
+      "id": "687163",
+      "type": "movie",
+      "title": "Project Hail Mary",
+      "poster": "https://image.tmdb.org/t/p/w342/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "imdb_id": "tt12042730"
     },
     {
       "id": "698948",
