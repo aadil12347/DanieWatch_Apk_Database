@@ -18,6 +18,20 @@
           "year": "2025"
         },
         {
+          "title": "Project Hail Mary",
+          "tmdb_id": "687163",
+          "imdb_id": "tt12042730",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Scream 7",
+          "tmdb_id": "1159559",
+          "imdb_id": "tt27047903",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
           "title": "Bhooth Bangla",
           "tmdb_id": "1239134",
           "imdb_id": "tt29540862",
@@ -42,20 +56,6 @@
           "title": "Mercy",
           "tmdb_id": "1236153",
           "imdb_id": "tt31050594",
-          "type": "movie",
-          "year": "2026"
-        },
-        {
-          "title": "Project Hail Mary",
-          "tmdb_id": "687163",
-          "imdb_id": "tt12042730",
-          "type": "movie",
-          "year": "2026"
-        },
-        {
-          "title": "Scream 7",
-          "tmdb_id": "1159559",
-          "imdb_id": "tt27047903",
           "type": "movie",
           "year": "2026"
         },
