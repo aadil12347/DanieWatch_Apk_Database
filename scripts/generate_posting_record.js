@@ -71,7 +71,8 @@ function run() {
                 title: post.title || 'Unknown Title',
                 tmdb_id: post.id || '',
                 imdb_id: post.imdb_id || '',
-                type: post.type || 'movie'
+                type: post.type || 'movie',
+                year: post.year || ''
             });
         }
     });
@@ -86,7 +87,36 @@ function run() {
     });
 
     if (addedPosts.length === 0 && removedKeys.size === 0) {
-        console.log('ℹ️ No new or removed posts detected. Posting record unchanged.');
+        // Even if no new/removed posts, still backfill year for existing entries
+        if (fs.existsSync(recordFile)) {
+            try {
+                const existingRecord = JSON.parse(fs.readFileSync(recordFile, 'utf8'));
+                let backfilled = 0;
+                existingRecord.batches.forEach(batch => {
+                    batch.posts.forEach(p => {
+                        if (!p.year || p.year === '') {
+                            const key = `${p.type}_${p.tmdb_id}`;
+                            const indexPost = newPostMap.get(key);
+                            if (indexPost && indexPost.year) {
+                                p.year = indexPost.year;
+                                backfilled++;
+                            }
+                        }
+                    });
+                });
+                if (backfilled > 0) {
+                    existingRecord.last_updated = new Date().toISOString();
+                    fs.writeFileSync(recordFile, JSON.stringify(existingRecord, null, 2));
+                    console.log(`📅 Backfilled year for ${backfilled} existing post(s). No other changes.`);
+                } else {
+                    console.log('ℹ️ No new or removed posts detected. Posting record unchanged.');
+                }
+            } catch (err) {
+                console.log('ℹ️ No new or removed posts detected. Posting record unchanged.');
+            }
+        } else {
+            console.log('ℹ️ No new or removed posts detected. Posting record unchanged.');
+        }
         return;
     }
 
@@ -118,6 +148,24 @@ function run() {
             total_batches: 0,
             batches: []
         };
+    }
+
+    // ─── Step 5a: Backfill 'year' for existing posts missing it ───
+    let backfilledCount = 0;
+    record.batches.forEach(batch => {
+        batch.posts.forEach(p => {
+            if (!p.year || p.year === '') {
+                const key = `${p.type}_${p.tmdb_id}`;
+                const indexPost = newPostMap.get(key);
+                if (indexPost && indexPost.year) {
+                    p.year = indexPost.year;
+                    backfilledCount++;
+                }
+            }
+        });
+    });
+    if (backfilledCount > 0) {
+        console.log(`📅 Backfilled year for ${backfilledCount} existing post(s).`);
     }
 
     // ─── Step 5b: Purge REMOVED posts from all batches ───
@@ -217,7 +265,7 @@ function run() {
     // Print the new posts
     console.log(`\n   New posts added (A→Z):`);
     addedPosts.forEach((p, i) => {
-        console.log(`   ${i + 1}. ${p.title} [${p.type.toUpperCase()}] (TMDB: ${p.tmdb_id}, IMDB: ${p.imdb_id || 'N/A'})`);
+        console.log(`   ${i + 1}. ${p.title} [${p.type.toUpperCase()}] (TMDB: ${p.tmdb_id}, IMDB: ${p.imdb_id || 'N/A'}, Year: ${p.year || 'N/A'})`);
     });
 }
 
