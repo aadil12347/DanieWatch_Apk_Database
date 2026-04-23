@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-23T06:20:08.319Z",
-  "total": 1678,
+  "last_updated": "2026-04-23T06:20:56.453Z",
+  "total": 1677,
   "posts": [
     {
       "id": "1607762",
@@ -9710,28 +9710,6 @@
         "History"
       ],
       "imdb_id": "tt30973261"
-    },
-    {
-      "id": "1236153",
-      "type": "movie",
-      "title": "Mercy",
-      "poster": "https://image.tmdb.org/t/p/w342/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
-      "year": "2026",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "US"
-      ],
-      "original_language": "en",
-      "genres": [
-        "Science Fiction",
-        "Action",
-        "Thriller",
-        "Crime"
-      ],
-      "imdb_id": "tt31050594"
     },
     {
       "id": "1238164",
