@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-24T07:35:37.629Z",
-  "total": 1703,
+  "last_updated": "2026-04-24T09:25:21.303Z",
+  "total": 1702,
   "posts": [
     {
       "id": "1607762",
@@ -28066,30 +28066,6 @@
       "imdb_id": "tt32499943",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 8
-    },
-    {
-      "id": "224263",
-      "type": "tv",
-      "title": "Stranger Things: Tales from '85",
-      "poster": "https://image.tmdb.org/t/p/w342/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg",
-      "year": "2026",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "US"
-      ],
-      "original_language": "en",
-      "genres": [
-        "Animation",
-        "Sci-Fi & Fantasy",
-        "Mystery",
-        "Action & Adventure"
-      ],
-      "imdb_id": "tt27486290",
-      "latest_uploaded_season": 1,
-      "total_uploaded_episodes": 10
     },
     {
       "id": "224414",
