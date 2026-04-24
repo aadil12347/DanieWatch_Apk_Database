@@ -1,0 +1,35 @@
+{
+  "id": "318880",
+  "type": "tv",
+  "title": "Hulk Hogan: Real American",
+  "poster": "https://image.tmdb.org/t/p/w342/pdEEOQystKjHtC71RV6yRobY8bk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/v5DsZ3fnWSGfcIzt8twiFWz2JbL.jpg",
+  "year": "2026",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/1oh3rnjr0xvs/hulk-hogan-real-american-s01e01-the-rise-720p-hindi-english-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/89e4k1kz3kea/hulk-hogan-real-american-s01e02-hulkamania-720p-hindi-english-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/pmdwplxlhmrv/hulk-hogan-real-american-s01e03-hollywood-hogan-720p-hindi-english-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/m38q0lq7geaw/hulk-hogan-real-american-s01e04-hulk-vs-terry-720p-hindi-english-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

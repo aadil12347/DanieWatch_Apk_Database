@@ -1,0 +1,47 @@
+{
+  "id": "290230",
+  "type": "tv",
+  "title": "Santita",
+  "poster": "https://image.tmdb.org/t/p/w342/qVC23ZONOn7rEI2s1NqX5jzKQ8T.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/yFMVgMYmAMy2LfztV0JhxWefIaj.jpg",
+  "year": "2026",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/0ypy12obrjyd/santita-s01e01-being-santita-has-a-price-720p-nf-web-dl-multi-aac5-1-x264-daniewatch-is-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/eb1ib0sh3pz9/santita-s01e02-santitas-commandments-720p-nf-web-dl-multi-aac5-1-x264-daniewatch-is-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/mriscja1qu9c/santita-s01e03-not-here-to-play-games-720p-nf-web-dl-multi-aac5-1-x264-daniewatch-is-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/pmsk704b8ylt/santita-s01e04-better-mistakes-720p-nf-web-dl-multi-aac5-1-x264-daniewatch-is-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/qpt4m35ikiqa/santita-s01e05-i-know-chaos-720p-nf-web-dl-multi-aac5-1-x264-daniewatch-is-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/5k593ufciazu/santita-s01e06-we-always-ruin-weddings-720p-nf-web-dl-multi-aac5-1-x264-daniewatch-is-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/b4t01iy8hdv7/santita-s01e07-good-luck-doctor-720p-nf-web-dl-multi-aac5-1-x264-daniewatch-is-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

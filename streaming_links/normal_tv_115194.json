@@ -1,0 +1,39 @@
+{
+  "id": "115194",
+  "type": "tv",
+  "title": "A Perfect Planet",
+  "poster": "https://image.tmdb.org/t/p/w342/8JJa4gduVytwpXQzFtZNibRA6S.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vLmR4e0XP2ecCTFBzauNwQt40Bp.jpg",
+  "year": "2021",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/hp4pncnv9u4l/a-perfect-planet-s01e01-volcano-720p-hindi-english-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/cwjo0rhzgs5g/a-perfect-planet-s01e02-the-sun-720p-hindi-english-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/34plg5o8jkpb/a-perfect-planet-s01e03-weather-720p-hindi-english-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/vnem31kufpi8/a-perfect-planet-s01e04-oceans-720p-hindi-english-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/o75idwxgjaiq/a-perfect-planet-s01e05-humans-720p-hindi-english-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}
