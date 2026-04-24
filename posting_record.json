@@ -4,7 +4,7 @@
   "total_batches": 2,
   "batches": [
     {
-      "batch_id": 1,
+      "batch_id": 2,
       "date_key": "2026-04-24",
       "date": "April 24, 2026",
       "timestamp": "2026-04-24T02:53:22.660Z",
@@ -151,7 +151,7 @@
           "year": "2026"
         }
             {
-      "batch_id": 2,
+      "batch_id": 1,
       "date_key": "2026-04-23",
       "date": "April 23, 2026",
       "timestamp": "2026-04-23T06:16:38.295Z",
