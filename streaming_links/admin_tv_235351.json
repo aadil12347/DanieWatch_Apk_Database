@@ -1,0 +1,624 @@
+{
+  "id": "235351",
+  "type": "tv",
+  "title": "The Legend of Heroes",
+  "poster": "https://image.tmdb.org/t/p/w342/fVOEMyOJx6pQ3ngacvkxiMZbnMD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/sbCiZJJEsXEZ7kcZ7oVgQySuRJa.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "Episode 1",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/yPEIfcHy1qkgYoGejjw2cExscHq.jpg",
+          "air_date": "2024-06-17",
+          "runtime": 45,
+          "vote_average": 10,
+          "watch": "<iframe src=\"https://bysebuho.com/e/9yb4vy12ayoa/the-legend-of-heroes-hot-blooded-s01e01-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "name": "Episode 2",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/9wFfdIZFfbrDBwH5elZUMC7uFla.jpg",
+          "air_date": "2024-06-17",
+          "runtime": 45,
+          "vote_average": 10,
+          "watch": "<iframe src=\"https://bysebuho.com/e/bq9538fu34rr/the-legend-of-heroes-hot-blooded-s01e02-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "name": "Episode 3",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/i7NFl3pSPLCFjfijDMNKJQRpQYM.jpg",
+          "air_date": "2024-06-17",
+          "runtime": 45,
+          "vote_average": 10,
+          "watch": "<iframe src=\"https://bysebuho.com/e/dz6frqtkclzb/the-legend-of-heroes-hot-blooded-s01e03-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "name": "Episode 4",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/jSAOrPeMlwnXJjoBP2LJ8qIOHLN.jpg",
+          "air_date": "2024-06-17",
+          "runtime": 45,
+          "vote_average": 10,
+          "watch": "<iframe src=\"https://bysebuho.com/e/wwfrekjnnjrs/the-legend-of-heroes-hot-blooded-s01e04-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "name": "Episode 5",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/wdIw7uUnqYSDndOmZHXB212NHpr.jpg",
+          "air_date": "2024-06-18",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/n1tl1242v56f/the-legend-of-heroes-hot-blooded-s01e05-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "name": "Episode 6",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/u1OMzNpuJjxPjTYRmOATT9aFwhh.jpg",
+          "air_date": "2024-06-18",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/rjuzvvwb331t/the-legend-of-heroes-hot-blooded-s01e06-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "name": "Episode 7",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/9JIogt0UBVcAg0H0MbWVFsVug0J.jpg",
+          "air_date": "2024-06-19",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/add8o0f6cgvd/the-legend-of-heroes-hot-blooded-s01e07-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 8,
+          "name": "Episode 8",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/fQygeqOrG4gUsbZS4TpqwAcM3Nc.jpg",
+          "air_date": "2024-06-19",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/p5qqlr4nl5dt/the-legend-of-heroes-hot-blooded-s01e08-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 9,
+          "name": "Episode 9",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/zNCwVjruJuCM2n2IeAMMoyGGHr.jpg",
+          "air_date": "2024-06-20",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/7w943qnkesex/the-legend-of-heroes-hot-blooded-s01e09-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 10,
+          "name": "Episode 10",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/aTTRMFE13jIlPInOY5D324D7Mn3.jpg",
+          "air_date": "2024-06-20",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/fvan697f3zs3/the-legend-of-heroes-hot-blooded-s01e10-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 11,
+          "name": "Episode 11",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/xbQyeNkUjIF1dmmV2jj0WtEJUo5.jpg",
+          "air_date": "2024-06-21",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/g7qdbiyufdzn/the-legend-of-heroes-hot-blooded-s01e11-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 12,
+          "name": "Episode 12",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/a3lWk126DHmd1RxteGPC4Uddki5.jpg",
+          "air_date": "2024-06-22",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/m1vuaymclqea/the-legend-of-heroes-hot-blooded-s01e12-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 13,
+          "name": "Episode 13",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/fQMhewIrJ8ZfaBgDSD2KRcMesHF.jpg",
+          "air_date": "2024-06-23",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/eopcfbwwd8kh/the-legend-of-heroes-hot-blooded-s01e13-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 14,
+          "name": "Episode 14",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/rM5tx4xsZrJjqtx7tTib5iUVR8u.jpg",
+          "air_date": "2024-06-23",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/4e93msnemk42/the-legend-of-heroes-hot-blooded-s01e14-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 15,
+          "name": "Episode 15",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/PVFMK61pi97vKQw0EpQFfWx2Xj.jpg",
+          "air_date": "2024-06-24",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/8isftnqhb1ev/the-legend-of-heroes-hot-blooded-s01e15-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 16,
+          "name": "Episode 16",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/1wdgNB6w8MTwjIXvrKd0SCCA84r.jpg",
+          "air_date": "2024-06-24",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/fo2n3gxjhcsu/the-legend-of-heroes-hot-blooded-s01e16-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 17,
+          "name": "Episode 17",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/21atUeq7PNUlaiak7XmacFBgaL7.jpg",
+          "air_date": "2024-06-25",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/hwez58rsv3es/the-legend-of-heroes-hot-blooded-s01e17-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 18,
+          "name": "Episode 18",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/wg5QZIhMYeMveySC8sLDuYELjUw.jpg",
+          "air_date": "2024-06-25",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/57jebkup9put/the-legend-of-heroes-hot-blooded-s01e18-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 19,
+          "name": "Episode 19",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/xCQOdSmO39vUBEhUZce9iFIUgvu.jpg",
+          "air_date": "2024-06-26",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/mhtkhlq8oas6/the-legend-of-heroes-hot-blooded-s01e19-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 20,
+          "name": "Episode 20",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/2dTorkP2Y04D41cnCEhDW79nm70.jpg",
+          "air_date": "2024-06-26",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/g1vaiz4ihw6v/the-legend-of-heroes-hot-blooded-s01e20-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 21,
+          "name": "Episode 21",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/Sblulpmf8msj7rT8XxEQC6JMWi.jpg",
+          "air_date": "2024-06-27",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/q6tho2z00f9m/the-legend-of-heroes-hot-blooded-s01e21-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 22,
+          "name": "Episode 22",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/A5sPbnAfiITt5MwEnwRYR47Q4rs.jpg",
+          "air_date": "2024-06-27",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/kahsry63w7fh/the-legend-of-heroes-hot-blooded-s01e22-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 23,
+          "name": "Episode 23",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/7Ga6bEnIqDow6ec08RDOJZ1X2yo.jpg",
+          "air_date": "2024-06-28",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/vlxts8fto29q/the-legend-of-heroes-hot-blooded-s01e23-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 24,
+          "name": "Episode 24",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/n20p7DG61c3Qqn7s2naD38VmKtN.jpg",
+          "air_date": "2024-06-29",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ms2w43fa5o0o/the-legend-of-heroes-hot-blooded-s01e24-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 25,
+          "name": "Episode 25",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/qWTeoluKZkTMDt7v1T3UuNW7G0n.jpg",
+          "air_date": "2024-06-30",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/bmgniwlakgl1/the-legend-of-heroes-hot-blooded-s01e25-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 26,
+          "name": "Episode 26",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/c6TdsSASGDDi9xYkvoJGA3dJ1AD.jpg",
+          "air_date": "2024-06-30",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/l4utsbcyhuwu/the-legend-of-heroes-hot-blooded-s01e26-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 27,
+          "name": "Episode 27",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/5UiB37j4LmaEE8OVeMglhT2HkyV.jpg",
+          "air_date": "2024-06-30",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ydz03ly59i8h/the-legend-of-heroes-hot-blooded-s01e27-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 28,
+          "name": "Episode 28",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/60ndMuG2E8Nbkzz24lozmvOoAb6.jpg",
+          "air_date": "2024-06-30",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/b3yr0vp5sypc/the-legend-of-heroes-hot-blooded-s01e28-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 29,
+          "name": "Episode 29",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/wEgCAjyuYZhDIqiCyeyOjiL0iGV.jpg",
+          "air_date": "2024-06-30",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/19kom14392d2/the-legend-of-heroes-hot-blooded-s01e29-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 30,
+          "name": "Episode 30",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/7gxnWibNsfzzZT9NvrEcX93FBhb.jpg",
+          "air_date": "2024-06-30",
+          "runtime": 45,
+          "vote_average": null,
+          "watch": "<iframe src=\"https://bysebuho.com/e/pgq60nw4yemq/the-legend-of-heroes-hot-blooded-s01e30-720p-hin-chi-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "Episode 1",
+          "watch": "<iframe src=\"https://bysebuho.com/e/591ysmgrqwkm/the-legend-of-heroes-hot-blooded-s02e01-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 2,
+          "name": "Episode 2",
+          "watch": "<iframe src=\"https://bysebuho.com/e/nj749n6d4iba/the-legend-of-heroes-hot-blooded-s02e02-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 3,
+          "name": "Episode 3",
+          "watch": "<iframe src=\"https://bysebuho.com/e/9ax3bqk76kdr/the-legend-of-heroes-hot-blooded-s02e03-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 4,
+          "name": "Episode 4",
+          "watch": "<iframe src=\"https://bysebuho.com/e/n8cjotf8ff3v/the-legend-of-heroes-hot-blooded-s02e04-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 5,
+          "name": "Episode 5",
+          "watch": "<iframe src=\"https://bysebuho.com/e/3sdii2s3109a/the-legend-of-heroes-hot-blooded-s02e05-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 6,
+          "name": "Episode 6",
+          "watch": "<iframe src=\"https://bysebuho.com/e/grbivwm27lt9/the-legend-of-heroes-hot-blooded-s02e06-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 7,
+          "name": "Episode 7",
+          "watch": "<iframe src=\"https://bysebuho.com/e/8uvviqhcv05z/the-legend-of-heroes-hot-blooded-s02e07-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 8,
+          "name": "Episode 8",
+          "watch": "<iframe src=\"https://bysebuho.com/e/v6yfanmry2cg/the-legend-of-heroes-hot-blooded-s02e08-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 9,
+          "name": "Episode 9",
+          "watch": "<iframe src=\"https://bysebuho.com/e/rjyi3udioyik/the-legend-of-heroes-hot-blooded-s02e09-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 10,
+          "name": "Episode 10",
+          "watch": "<iframe src=\"https://bysebuho.com/e/vd3zw4lgm067/the-legend-of-heroes-hot-blooded-s02e10-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 11,
+          "name": "Episode 11",
+          "watch": "<iframe src=\"https://bysebuho.com/e/x0vqx0ez8vbn/the-legend-of-heroes-hot-blooded-s02e11-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 12,
+          "name": "Episode 12",
+          "watch": "<iframe src=\"https://bysebuho.com/e/k1nyh5ktq236/the-legend-of-heroes-hot-blooded-s02e12-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 13,
+          "name": "Episode 13",
+          "watch": "<iframe src=\"https://bysebuho.com/e/knmaabq6onf5/the-legend-of-heroes-hot-blooded-s02e13-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 14,
+          "name": "Episode 14",
+          "watch": "<iframe src=\"https://bysebuho.com/e/lc0cnmv6m8mu/the-legend-of-heroes-hot-blooded-s02e14-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 15,
+          "name": "Episode 15",
+          "watch": "<iframe src=\"https://bysebuho.com/e/w0k708xk30aj/the-legend-of-heroes-hot-blooded-s02e15-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 16,
+          "name": "Episode 16",
+          "watch": "<iframe src=\"https://bysebuho.com/e/o22qvgdfw7hb/the-legend-of-heroes-hot-blooded-s02e16-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 17,
+          "name": "Episode 17",
+          "watch": "<iframe src=\"https://bysebuho.com/e/9ntrn7zdhcnh/the-legend-of-heroes-hot-blooded-s02e17-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 18,
+          "name": "Episode 18",
+          "watch": "<iframe src=\"https://bysebuho.com/e/6h0xpr26wps8/the-legend-of-heroes-hot-blooded-s02e18-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 19,
+          "name": "Episode 19",
+          "watch": "<iframe src=\"https://bysebuho.com/e/42bnemu7jvnt/the-legend-of-heroes-hot-blooded-s02e19-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 20,
+          "name": "Episode 20",
+          "watch": "<iframe src=\"https://bysebuho.com/e/p4b4shi79rsy/the-legend-of-heroes-hot-blooded-s02e20-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 21,
+          "name": "Episode 21",
+          "watch": "<iframe src=\"https://bysebuho.com/e/jzkc89ztptac/the-legend-of-heroes-hot-blooded-s02e21-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 22,
+          "name": "Episode 22",
+          "watch": "<iframe src=\"https://bysebuho.com/e/lhw1nxags3w8/the-legend-of-heroes-hot-blooded-s02e22-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 23,
+          "name": "Episode 23",
+          "watch": "<iframe src=\"https://bysebuho.com/e/vvo0xaoemc8x/the-legend-of-heroes-hot-blooded-s02e23-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 24,
+          "name": "Episode 24",
+          "watch": "<iframe src=\"https://bysebuho.com/e/m7vz8j1hoxk9/the-legend-of-heroes-hot-blooded-s02e24-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 25,
+          "name": "Episode 25",
+          "watch": "<iframe src=\"https://bysebuho.com/e/h4c5b1624cqj/the-legend-of-heroes-hot-blooded-s02e25-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 26,
+          "name": "Episode 26",
+          "watch": "<iframe src=\"https://bysebuho.com/e/3ihca7bepas4/the-legend-of-heroes-hot-blooded-s02e26-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 27,
+          "name": "Episode 27",
+          "watch": "<iframe src=\"https://bysebuho.com/e/mcu05zq47n57/the-legend-of-heroes-hot-blooded-s02e27-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 28,
+          "name": "Episode 28",
+          "watch": "<iframe src=\"https://bysebuho.com/e/f4ejd1mxur9l/the-legend-of-heroes-hot-blooded-s02e28-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 29,
+          "name": "Episode 29",
+          "watch": "<iframe src=\"https://bysebuho.com/e/zgj8ib4wpmek/the-legend-of-heroes-hot-blooded-s02e29-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        },
+        {
+          "episode_number": 30,
+          "name": "Episode 30",
+          "watch": "<iframe src=\"https://bysebuho.com/e/xikd75clcjkg/the-legend-of-heroes-hot-blooded-s02e30-720p-web-dl-hin-chi-x265-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null,
+          "vote_average": null
+        }
+      ]
+    }
+  ]
+}
