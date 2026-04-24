@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-04-24T05:59:13.889Z",
-  "total_posts": 1702,
-  "total_batches": 0,
-  "batches": []
+  "last_updated": "2026-04-24T05:59:49.220Z",
+  "total_posts": 1703,
+  "total_batches": 1,
+  "batches": [
+    {
+      "batch_id": 1,
+      "date_key": "2026-04-24",
+      "date": "April 24, 2026",
+      "timestamp": "2026-04-24T05:59:49.220Z",
+      "total_in_batch": 1,
+      "posts": [
+        {
+          "title": "Bandi",
+          "tmdb_id": "269161",
+          "imdb_id": "tt37024175",
+          "type": "tv",
+          "year": "2026"
+        }
+      ]
+    }
+  ]
 }
