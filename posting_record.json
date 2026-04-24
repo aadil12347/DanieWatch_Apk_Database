@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-24T09:25:21.366Z",
-  "total_posts": 1702,
+  "last_updated": "2026-04-24T09:26:13.302Z",
+  "total_posts": 1703,
   "total_batches": 1,
   "batches": [
     {
@@ -8,8 +8,15 @@
       "date_key": "2026-04-24",
       "date": "April 24, 2026",
       "timestamp": "2026-04-24T05:59:49.220Z",
-      "total_in_batch": 130,
+      "total_in_batch": 131,
       "posts": [
+        {
+          "title": "Stranger Things: Tales from '85",
+          "tmdb_id": "224263",
+          "imdb_id": "tt27486290",
+          "type": "tv",
+          "year": "2026"
+        },
         {
           "title": "13 Reasons Why",
           "tmdb_id": "66788",
@@ -921,7 +928,7 @@
           "year": "2026"
         }
       ],
-      "last_modified": "2026-04-24T07:41:56.254Z"
+      "last_modified": "2026-04-24T09:26:13.302Z"
     }
   ]
 }
