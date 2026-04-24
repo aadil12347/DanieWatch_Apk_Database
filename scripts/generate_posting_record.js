@@ -29,13 +29,16 @@ function run() {
 
     // ─── Step 2: Load the OLD index snapshot (saved before generate_index.js ran) ───
     let oldPostKeys = new Set();
+    const oldPostMap = new Map();
 
     if (fs.existsSync(oldIndexFile)) {
         try {
             const oldIndex = JSON.parse(fs.readFileSync(oldIndexFile, 'utf8'));
             if (oldIndex.posts) {
                 oldIndex.posts.forEach(p => {
-                    oldPostKeys.add(`${p.type}_${p.id}`);
+                    const key = `${p.type}_${p.id}`;
+                    oldPostKeys.add(key);
+                    oldPostMap.set(key, p);
                 });
             }
         } catch (err) {
@@ -64,9 +67,10 @@ function run() {
     const addedPosts = [];
     const removedKeys = new Set();
 
-    // Find posts added (in new but NOT in old)
+    // Find posts added (in new but NOT in old) OR updated (year/episodes changed)
     newPostMap.forEach((post, key) => {
         if (!oldPostKeys.has(key)) {
+            // Completely new post
             addedPosts.push({
                 title: post.title || 'Unknown Title',
                 tmdb_id: post.id || '',
@@ -74,6 +78,31 @@ function run() {
                 type: post.type || 'movie',
                 year: post.year || ''
             });
+        } else {
+            // It already exists. Check if year changed or episodes were added.
+            const oldPost = oldPostMap.get(key);
+            const yearChanged = oldPost && post.year && oldPost.year && post.year !== oldPost.year;
+            
+            // Check episodes. Note: older snapshots might not have total_uploaded_episodes.
+            const oldEpisodes = oldPost ? (oldPost.total_uploaded_episodes || 0) : 0;
+            const newEpisodes = post.total_uploaded_episodes || 0;
+            const episodesAdded = newEpisodes > oldEpisodes;
+
+            if (yearChanged || episodesAdded) {
+                console.log(`🚀 Bumping ${post.title}: Year changed (${yearChanged}) or Episodes added (${episodesAdded} - old: ${oldEpisodes}, new: ${newEpisodes})`);
+                
+                // Treat as an added post so it goes to today's batch
+                addedPosts.push({
+                    title: post.title || 'Unknown Title',
+                    tmdb_id: post.id || '',
+                    imdb_id: post.imdb_id || '',
+                    type: post.type || 'movie',
+                    year: post.year || ''
+                });
+
+                // Also add it to removedKeys so it gets purged from its old batch!
+                removedKeys.add(key);
+            }
         }
     });
 

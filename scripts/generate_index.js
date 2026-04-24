@@ -20,7 +20,8 @@ async function getTMDBMetadata(id, type) {
             country: type === 'tv' ? (data.origin_country || []) : (data.production_countries?.map(c => c.iso_3166_1) || []),
             original_language: data.original_language || "en",
             genres: data.genres?.map(g => g.name) || [],
-            imdb_id: data.external_ids?.imdb_id || data.imdb_id || ""
+            imdb_id: data.external_ids?.imdb_id || data.imdb_id || "",
+            seasons: data.seasons || []
         };
     } catch (err) {
         console.error(`Error fetching TMDB for ${id}:`, err.message);
@@ -66,12 +67,44 @@ async function run() {
                 const content = JSON.parse(fs.readFileSync(filePath, 'utf8'));
                 let meta = cache.get(content.id);
 
-                // Re-fetch only if necessary fields are missing
-                if (!meta || !meta.country || !meta.genres || meta.genres.length === 0 || meta.imdb_id === undefined) {
+                // --- NEW LOGIC: Calculate uploaded seasons and episodes ---
+                let highestUploadedSeason = 1;
+                let totalUploadedEpisodes = 0;
+                
+                if (content.type === 'tv' && content.seasons) {
+                    content.seasons.forEach(s => {
+                        if (s.season_number > highestUploadedSeason) {
+                            highestUploadedSeason = s.season_number;
+                        }
+                        totalUploadedEpisodes += s.episodes ? s.episodes.length : 0;
+                    });
+                }
+
+                // Check if we need to force a TMDB update because a new season was added
+                let needsSeasonUpdate = false;
+                if (content.type === 'tv' && (!meta || meta.latest_uploaded_season !== highestUploadedSeason)) {
+                    needsSeasonUpdate = true;
+                }
+
+                // Re-fetch if necessary fields are missing OR if a new season was added
+                if (!meta || !meta.country || !meta.genres || meta.genres.length === 0 || meta.imdb_id === undefined || needsSeasonUpdate) {
                     const tmdbData = await getTMDBMetadata(content.id, content.type);
                     if (tmdbData) {
-                        meta = { ...tmdbData };
+                        meta = { ...meta, ...tmdbData }; // Merge to keep existing meta fields while updating
                     }
+                }
+
+                // --- Calculate correct year for TV Shows ---
+                let finalYear = content.year || (meta ? meta.year : "");
+                
+                if (content.type === 'tv' && meta && meta.seasons) {
+                    // Try to find the air_date of the highest uploaded season
+                    const tmdbSeason = meta.seasons.find(s => s.season_number === highestUploadedSeason);
+                    if (tmdbSeason && tmdbSeason.air_date) {
+                        finalYear = tmdbSeason.air_date.substring(0, 4);
+                    }
+                } else if (meta && meta.year) {
+                    finalYear = meta.year;
                 }
 
                 results[globalIndex] = {
@@ -79,7 +112,9 @@ async function run() {
                     type: content.type,
                     title: content.title || "",
                     poster: content.poster || "",
-                    year: content.year || "",
+                    year: finalYear,
+                    latest_uploaded_season: highestUploadedSeason,
+                    total_uploaded_episodes: totalUploadedEpisodes,
                     result: content.result || "HD",
                     language: content.language || ["Hindi"],
                     country: meta?.country || [],
