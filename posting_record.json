@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T06:02:54.039Z",
+  "last_updated": "2026-04-24T07:25:13.338Z",
   "total_posts": 1703,
   "total_batches": 1,
   "batches": [
@@ -8,8 +8,904 @@
       "date_key": "2026-04-24",
       "date": "April 24, 2026",
       "timestamp": "2026-04-24T05:59:49.220Z",
-      "total_in_batch": 2,
+      "total_in_batch": 130,
       "posts": [
+        {
+          "title": "13 Reasons Why",
+          "tmdb_id": "66788",
+          "imdb_id": "tt1837492",
+          "type": "tv",
+          "year": "2020"
+        },
+        {
+          "title": "A Couple of Cuckoos",
+          "tmdb_id": "122587",
+          "imdb_id": "tt14400866",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "A Man on the Inside",
+          "tmdb_id": "245312",
+          "imdb_id": "tt26670955",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Alice in Borderland",
+          "tmdb_id": "110316",
+          "imdb_id": "tt10795658",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Aspirants",
+          "tmdb_id": "124411",
+          "imdb_id": "tt14392248",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Attack on Titan",
+          "tmdb_id": "1429",
+          "imdb_id": "tt2560140",
+          "type": "tv",
+          "year": "2020"
+        },
+        {
+          "title": "Baki Hanma",
+          "tmdb_id": "129600",
+          "imdb_id": "tt13357140",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "Beast Games",
+          "tmdb_id": "249522",
+          "imdb_id": "tt31812476",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Beauty in Black",
+          "tmdb_id": "246246",
+          "imdb_id": "tt31260386",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "BEEF",
+          "tmdb_id": "154385",
+          "imdb_id": "tt14403178",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Better Call Saul",
+          "tmdb_id": "60059",
+          "imdb_id": "tt3032476",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "Bindiya Ke Bahubali",
+          "tmdb_id": "297594",
+          "imdb_id": "tt37787357",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Black Mirror",
+          "tmdb_id": "42009",
+          "imdb_id": "tt2085059",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Blood Coast",
+          "tmdb_id": "216985",
+          "imdb_id": "tt28129282",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Bloodhounds",
+          "tmdb_id": "127529",
+          "imdb_id": "tt26315487",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Breaking Bad",
+          "tmdb_id": "1396",
+          "imdb_id": "tt0903747",
+          "type": "tv",
+          "year": "2012"
+        },
+        {
+          "title": "Breathless",
+          "tmdb_id": "230069",
+          "imdb_id": "tt28298539",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Bridgerton",
+          "tmdb_id": "91239",
+          "imdb_id": "tt8740790",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Campus Beats",
+          "tmdb_id": "236445",
+          "imdb_id": "tt29261323",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Classroom of the Elite",
+          "tmdb_id": "72517",
+          "imdb_id": "tt7263328",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Crooks",
+          "tmdb_id": "246799",
+          "imdb_id": "tt27054614",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Dark",
+          "tmdb_id": "70523",
+          "imdb_id": "tt5753856",
+          "type": "tv",
+          "year": "2020"
+        },
+        {
+          "title": "Delhi Crime",
+          "tmdb_id": "87508",
+          "imdb_id": "tt9398466",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Demon Lord, Retry!",
+          "tmdb_id": "88044",
+          "imdb_id": "tt10443362",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Dr. Romantic",
+          "tmdb_id": "68398",
+          "imdb_id": "tt6157190",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "Dr. Seuss's Red Fish, Blue Fish",
+          "tmdb_id": "293703",
+          "imdb_id": "tt18940264",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Dr. STONE",
+          "tmdb_id": "86031",
+          "imdb_id": "tt9679542",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Fallout",
+          "tmdb_id": "106379",
+          "imdb_id": "tt12637874",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Fast & Furious Spy Racers",
+          "tmdb_id": "95594",
+          "imdb_id": "tt8322592",
+          "type": "tv",
+          "year": "2021"
+        },
+        {
+          "title": "Fights Break Sphere",
+          "tmdb_id": "81500",
+          "imdb_id": "tt9248626",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "Fire Force",
+          "tmdb_id": "88046",
+          "imdb_id": "tt9307686",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Four More Shots Please!",
+          "tmdb_id": "86165",
+          "imdb_id": "tt8242548",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Game of Thrones",
+          "tmdb_id": "1399",
+          "imdb_id": "tt0944947",
+          "type": "tv",
+          "year": "2019"
+        },
+        {
+          "title": "Gangs of Galicia",
+          "tmdb_id": "227042",
+          "imdb_id": "tt27843828",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Gen V",
+          "tmdb_id": "205715",
+          "imdb_id": "tt13159924",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Ghost in the Shell: SAC_2045",
+          "tmdb_id": "90293",
+          "imdb_id": "tt9466298",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "Girls' Frontline",
+          "tmdb_id": "91643",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2020"
+        },
+        {
+          "title": "Gunaah",
+          "tmdb_id": "255468",
+          "imdb_id": "tt32537124",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Gutar Gu",
+          "tmdb_id": "223952",
+          "imdb_id": "tt27303022",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Haikyu!!",
+          "tmdb_id": "60863",
+          "imdb_id": "tt3398540",
+          "type": "tv",
+          "year": "2020"
+        },
+        {
+          "title": "Half CA",
+          "tmdb_id": "230020",
+          "imdb_id": "tt28285430",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Hazbin Hotel",
+          "tmdb_id": "94954",
+          "imdb_id": "tt7216636",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Heartbreak High",
+          "tmdb_id": "158154",
+          "imdb_id": "tt15054962",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Hellbound",
+          "tmdb_id": "106651",
+          "imdb_id": "tt12235718",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Helluva Boss",
+          "tmdb_id": "289892",
+          "imdb_id": "tt10691770",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "Hunter - Tootega Nahi, Todega",
+          "tmdb_id": "222667",
+          "imdb_id": "tt27050076",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "I've Been Killing Slimes for 300 Years and Maxed Out My Level",
+          "tmdb_id": "99073",
+          "imdb_id": "tt13248062",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Jamnapaar",
+          "tmdb_id": "254671",
+          "imdb_id": "tt32379268",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "JoJo's Bizarre Adventure",
+          "tmdb_id": "45790",
+          "imdb_id": "tt2359704",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Kaguya-sama: Love Is War",
+          "tmdb_id": "83121",
+          "imdb_id": "tt9522300",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "Kerala Crime Files",
+          "tmdb_id": "228658",
+          "imdb_id": "tt27128638",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Kingdom",
+          "tmdb_id": "70593",
+          "imdb_id": "tt6611916",
+          "type": "tv",
+          "year": "2020"
+        },
+        {
+          "title": "Kohrra",
+          "tmdb_id": "230034",
+          "imdb_id": "tt27853283",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Landman",
+          "tmdb_id": "157741",
+          "imdb_id": "tt14186672",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "LINK CLICK",
+          "tmdb_id": "123542",
+          "imdb_id": "tt14976292",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Log Horizon",
+          "tmdb_id": "60846",
+          "imdb_id": "tt2942218",
+          "type": "tv",
+          "year": "2021"
+        },
+        {
+          "title": "Lost",
+          "tmdb_id": "4607",
+          "imdb_id": "tt0411008",
+          "type": "tv",
+          "year": "2010"
+        },
+        {
+          "title": "Maamla Legal Hai",
+          "tmdb_id": "246483",
+          "imdb_id": "tt31183656",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Made in Abyss",
+          "tmdb_id": "72636",
+          "imdb_id": "tt7222086",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "Maharani",
+          "tmdb_id": "126098",
+          "imdb_id": "tt14420552",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Marvel's Agent Carter",
+          "tmdb_id": "61550",
+          "imdb_id": "tt3475734",
+          "type": "tv",
+          "year": "2016"
+        },
+        {
+          "title": "Marvel's Jessica Jones",
+          "tmdb_id": "38472",
+          "imdb_id": "tt2357547",
+          "type": "tv",
+          "year": "2019"
+        },
+        {
+          "title": "Mayor of Kingstown",
+          "tmdb_id": "97951",
+          "imdb_id": "tt11712058",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Money Heist",
+          "tmdb_id": "71446",
+          "imdb_id": "tt6468322",
+          "type": "tv",
+          "year": "2021"
+        },
+        {
+          "title": "My Life with the Walter Boys",
+          "tmdb_id": "199001",
+          "imdb_id": "tt8323628",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Nobody Wants This",
+          "tmdb_id": "250923",
+          "imdb_id": "tt26933824",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "NOS4A2",
+          "tmdb_id": "85273",
+          "imdb_id": "tt5194792",
+          "type": "tv",
+          "year": "2020"
+        },
+        {
+          "title": "One-Punch Man",
+          "tmdb_id": "63926",
+          "imdb_id": "tt4508902",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Outer Banks",
+          "tmdb_id": "100757",
+          "imdb_id": "tt10293938",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Overlord",
+          "tmdb_id": "64196",
+          "imdb_id": "tt4869896",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "Ozark",
+          "tmdb_id": "69740",
+          "imdb_id": "tt5071412",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "Panchayat",
+          "tmdb_id": "101352",
+          "imdb_id": "tt12004706",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Partners for Justice",
+          "tmdb_id": "79070",
+          "imdb_id": "tt8243374",
+          "type": "tv",
+          "year": "2019"
+        },
+        {
+          "title": "Peacemaker",
+          "tmdb_id": "110492",
+          "imdb_id": "tt13146488",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Poker Face",
+          "tmdb_id": "120998",
+          "imdb_id": "tt14269590",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Prison Break",
+          "tmdb_id": "2288",
+          "imdb_id": "tt0455275",
+          "type": "tv",
+          "year": "2017"
+        },
+        {
+          "title": "Raakh",
+          "tmdb_id": "297678",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Rana Naidu",
+          "tmdb_id": "203202",
+          "imdb_id": "tt15471900",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Reacher",
+          "tmdb_id": "108978",
+          "imdb_id": "tt9288030",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Reborn as a Vending Machine, I Now Wander the Dungeon",
+          "tmdb_id": "207564",
+          "imdb_id": "tt28100731",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Rise of Empires: Ottoman",
+          "tmdb_id": "96481",
+          "imdb_id": "tt9244578",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "Sausage Party: Foodtopia",
+          "tmdb_id": "213249",
+          "imdb_id": "tt23036426",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "School Friends",
+          "tmdb_id": "233362",
+          "imdb_id": "tt28717624",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Sesame Street",
+          "tmdb_id": "502",
+          "imdb_id": "tt0063951",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Sex/Life",
+          "tmdb_id": "126280",
+          "imdb_id": "tt10839422",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "Shahmaran",
+          "tmdb_id": "214078",
+          "imdb_id": "tt16913068",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Sixer",
+          "tmdb_id": "214332",
+          "imdb_id": "tt22185582",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Special Ops",
+          "tmdb_id": "100612",
+          "imdb_id": "tt11854694",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "SPY x FAMILY",
+          "tmdb_id": "120089",
+          "imdb_id": "tt13706018",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Squid Game",
+          "tmdb_id": "93405",
+          "imdb_id": "tt10919420",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Star Trek: Strange New Worlds",
+          "tmdb_id": "103516",
+          "imdb_id": "tt12327578",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Starting 5",
+          "tmdb_id": "262955",
+          "imdb_id": "tt33294894",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Stranger Things",
+          "tmdb_id": "66732",
+          "imdb_id": "tt4574334",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Suzhal - The Vortex",
+          "tmdb_id": "200861",
+          "imdb_id": "tt20873118",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Sweet Home",
+          "tmdb_id": "96648",
+          "imdb_id": "tt11612120",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Sweet Tooth",
+          "tmdb_id": "103768",
+          "imdb_id": "tt12809988",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "The 100",
+          "tmdb_id": "48866",
+          "imdb_id": "tt2661044",
+          "type": "tv",
+          "year": "2020"
+        },
+        {
+          "title": "The Accident",
+          "tmdb_id": "259730",
+          "imdb_id": "tt30068042",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "The Chosen",
+          "tmdb_id": "85077",
+          "imdb_id": "tt5622316",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "The Diplomat",
+          "tmdb_id": "203857",
+          "imdb_id": "tt17491088",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "The Ex-Wife",
+          "tmdb_id": "212196",
+          "imdb_id": "tt13069604",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "The Family Man",
+          "tmdb_id": "93352",
+          "imdb_id": "tt9544034",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "The Last of Us",
+          "tmdb_id": "100088",
+          "imdb_id": "tt3581920",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "The Legend of Hanuman",
+          "tmdb_id": "117736",
+          "imdb_id": "tt13854248",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "The Legend of Heroes",
+          "tmdb_id": "235351",
+          "imdb_id": "tt28116044",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "The Lord of the Rings: The Rings of Power",
+          "tmdb_id": "84773",
+          "imdb_id": "tt7631058",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "The Night Agent",
+          "tmdb_id": "129552",
+          "imdb_id": "tt13918776",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "The Night Manager",
+          "tmdb_id": "61859",
+          "imdb_id": "tt1399664",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "The Pitt",
+          "tmdb_id": "250307",
+          "imdb_id": "tt31938062",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "The Summer I Turned Pretty",
+          "tmdb_id": "194766",
+          "imdb_id": "tt14016500",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "The Trial",
+          "tmdb_id": "228718",
+          "imdb_id": "tt21975100",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "The Vince Staples Show",
+          "tmdb_id": "243861",
+          "imdb_id": "tt21993130",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "The Walking Dead",
+          "tmdb_id": "1402",
+          "imdb_id": "tt1520211",
+          "type": "tv",
+          "year": "2019"
+        },
+        {
+          "title": "The Witcher",
+          "tmdb_id": "71912",
+          "imdb_id": "tt5180504",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Theatre of Darkness: Yamishibai",
+          "tmdb_id": "56559",
+          "imdb_id": "tt3111906",
+          "type": "tv",
+          "year": "2013"
+        },
+        {
+          "title": "Titans",
+          "tmdb_id": "75450",
+          "imdb_id": "tt1043813",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "Toilet-Bound Hanako-kun",
+          "tmdb_id": "95269",
+          "imdb_id": "tt10777610",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Trollhunters: Tales of Arcadia",
+          "tmdb_id": "68267",
+          "imdb_id": "tt1734135",
+          "type": "tv",
+          "year": "2018"
+        },
+        {
+          "title": "Vikings",
+          "tmdb_id": "44217",
+          "imdb_id": "tt2306299",
+          "type": "tv",
+          "year": "2019"
+        },
+        {
+          "title": "Vikings: Valhalla",
+          "tmdb_id": "116135",
+          "imdb_id": "tt11311302",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Vinland Saga",
+          "tmdb_id": "88803",
+          "imdb_id": "tt10233448",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "Virgin River",
+          "tmdb_id": "88324",
+          "imdb_id": "tt9077530",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Weak Hero",
+          "tmdb_id": "200709",
+          "imdb_id": "tt20234568",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Wednesday",
+          "tmdb_id": "119051",
+          "imdb_id": "tt13443470",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "WWE: Unreal",
+          "tmdb_id": "289485",
+          "imdb_id": "tt36614693",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "XO, Kitty",
+          "tmdb_id": "195670",
+          "imdb_id": "tt14490706",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "You",
+          "tmdb_id": "78191",
+          "imdb_id": "tt7335184",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Young Justice",
+          "tmdb_id": "33217",
+          "imdb_id": "tt1641384",
+          "type": "tv",
+          "year": "2019"
+        },
         {
           "title": "Vengeance",
           "tmdb_id": "1613798",
@@ -25,7 +921,7 @@
           "year": "2026"
         }
       ],
-      "last_modified": "2026-04-24T06:02:54.039Z"
+      "last_modified": "2026-04-24T07:25:13.338Z"
     }
   ]
 }
