@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-23T09:44:47.487Z",
-  "total_posts": 1683,
-  "total_batches": 1,
+  "last_updated": "2026-04-24T02:53:22.660Z",
+  "total_posts": 1704,
+  "total_batches": 2,
   "batches": [
     {
       "batch_id": 1,
@@ -89,6 +89,155 @@
         }
       ],
       "last_modified": "2026-04-23T09:44:47.487Z"
+    },
+    {
+      "batch_id": 2,
+      "date_key": "2026-04-24",
+      "date": "April 24, 2026",
+      "timestamp": "2026-04-24T02:53:22.660Z",
+      "total_in_batch": 20,
+      "posts": [
+        {
+          "title": "Bandi",
+          "tmdb_id": "269161",
+          "imdb_id": "tt37024175",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "BEEF",
+          "tmdb_id": "154385",
+          "imdb_id": "tt14403178",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "Blossom",
+          "tmdb_id": "249972",
+          "imdb_id": "tt31938763",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Dandelion",
+          "tmdb_id": "316973",
+          "imdb_id": "tt40356933",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Flunked",
+          "tmdb_id": "287978",
+          "imdb_id": "tt37031059",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Her Feast",
+          "tmdb_id": "294454",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "I Don't Want to Be Friends with You",
+          "tmdb_id": "104083",
+          "imdb_id": "tt12357086",
+          "type": "tv",
+          "year": "2020"
+        },
+        {
+          "title": "It's Okay to Not Be Okay",
+          "tmdb_id": "96462",
+          "imdb_id": "tt12451520",
+          "type": "tv",
+          "year": "2020"
+        },
+        {
+          "title": "Moonlight",
+          "tmdb_id": "125984",
+          "imdb_id": "tt14818618",
+          "type": "tv",
+          "year": "2021"
+        },
+        {
+          "title": "Oh My Baby",
+          "tmdb_id": "101243",
+          "imdb_id": "tt12324660",
+          "type": "tv",
+          "year": "2020"
+        },
+        {
+          "title": "Pallichattambi",
+          "tmdb_id": "959894",
+          "imdb_id": "tt10515398",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Stranger Things: Tales from '85",
+          "tmdb_id": "224263",
+          "imdb_id": "tt27486290",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Sunshine by My Side",
+          "tmdb_id": "233571",
+          "imdb_id": "tt28115920",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "Sweet and Cold",
+          "tmdb_id": "226066",
+          "imdb_id": "tt27678448",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "The Lost Tomb",
+          "tmdb_id": "64592",
+          "imdb_id": "tt4219438",
+          "type": "tv",
+          "year": "2015"
+        },
+        {
+          "title": "The Lost Tomb 2: Explore with the Note",
+          "tmdb_id": "90245",
+          "imdb_id": "tt10433136",
+          "type": "tv",
+          "year": "2019"
+        },
+        {
+          "title": "Trust Me: The False Prophet",
+          "tmdb_id": "316898",
+          "imdb_id": "tt40826311",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Unchosen",
+          "tmdb_id": "262848",
+          "imdb_id": "tt31631142",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Unforgettable Love",
+          "tmdb_id": "128926",
+          "imdb_id": "tt15037012",
+          "type": "tv",
+          "year": "2021"
+        },
+        {
+          "title": "Vengeance",
+          "tmdb_id": "1613798",
+          "imdb_id": "tt37989803",
+          "type": "movie",
+          "year": "2026"
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-23T09:44:47.410Z",
-  "total": 1683,
+  "last_updated": "2026-04-24T02:53:22.604Z",
+  "total": 1704,
   "posts": [
     {
       "id": "1607762",
@@ -4170,6 +4170,26 @@
       "imdb_id": "tt28717624"
     },
     {
+      "id": "235351",
+      "type": "tv",
+      "title": "The Legend of Heroes",
+      "poster": "https://image.tmdb.org/t/p/w342/fVOEMyOJx6pQ3ngacvkxiMZbnMD.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "imdb_id": "tt28116044"
+    },
+    {
       "id": "236445",
       "type": "tv",
       "title": "Campus Beats",
@@ -5942,6 +5962,26 @@
       "imdb_id": "tt9679542"
     },
     {
+      "id": "90245",
+      "type": "tv",
+      "title": "The Lost Tomb 2: Explore with the Note",
+      "poster": "https://image.tmdb.org/t/p/w342/m8O09RiqIrIbKwzj4cbmXyASPBb.jpg",
+      "year": "2019",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Action & Adventure"
+      ],
+      "imdb_id": "tt10433136"
+    },
+    {
       "id": "95479",
       "type": "tv",
       "title": "JUJUTSU KAISEN",
@@ -5981,6 +6021,26 @@
         "Comedy"
       ],
       "imdb_id": "tt11448214"
+    },
+    {
+      "id": "96462",
+      "type": "tv",
+      "title": "It's Okay to Not Be Okay",
+      "poster": "https://image.tmdb.org/t/p/w342/8XSJfLeImX8NszDUFnK1lbseCi8.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt12451520"
     },
     {
       "id": "97173",
@@ -18187,6 +18247,27 @@
       "imdb_id": "tt39328668"
     },
     {
+      "id": "1613798",
+      "type": "movie",
+      "title": "Vengeance",
+      "poster": "https://image.tmdb.org/t/p/w342/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "MX",
+        "US"
+      ],
+      "original_language": "es",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "imdb_id": "tt37989803"
+    },
+    {
       "id": "1614475",
       "type": "movie",
       "title": "Seeds",
@@ -24283,6 +24364,26 @@
       "imdb_id": "tt14412446"
     },
     {
+      "id": "959894",
+      "type": "movie",
+      "title": "Pallichattambi",
+      "poster": "https://image.tmdb.org/t/p/w342/znOpOhDmKlspIoeR3MvFeuhG19q.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Cam Result"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ml",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "imdb_id": "tt10515398"
+    },
+    {
       "id": "962851",
       "type": "movie",
       "title": "Kaal Trighori",
@@ -24657,6 +24758,27 @@
       "imdb_id": "tt11854694"
     },
     {
+      "id": "101243",
+      "type": "tv",
+      "title": "Oh My Baby",
+      "poster": "https://image.tmdb.org/t/p/w342/83H0ji4wWHVngwQ1EdxhwHZymvq.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Family",
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt12324660"
+    },
+    {
       "id": "101352",
       "type": "tv",
       "title": "Panchayat",
@@ -24695,6 +24817,26 @@
         "Drama"
       ],
       "imdb_id": "tt12274642"
+    },
+    {
+      "id": "104083",
+      "type": "tv",
+      "title": "I Don't Want to Be Friends with You",
+      "poster": "https://image.tmdb.org/t/p/w342/f9CzGlSYTIgYQEdeI2pBSH4O1ok.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt12357086"
     },
     {
       "id": "104308",
@@ -25335,6 +25477,26 @@
       "imdb_id": "tt14392248"
     },
     {
+      "id": "125984",
+      "type": "tv",
+      "title": "Moonlight",
+      "poster": "https://image.tmdb.org/t/p/w342/6ViVwJz1DsgH3XRJPOUxVivRdO0.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt14818618"
+    },
+    {
       "id": "126098",
       "type": "tv",
       "title": "Maharani",
@@ -25471,6 +25633,27 @@
         "Drama"
       ],
       "imdb_id": "tt14837532"
+    },
+    {
+      "id": "128926",
+      "type": "tv",
+      "title": "Unforgettable Love",
+      "poster": "https://image.tmdb.org/t/p/w342/dPDndH5bkpHZyQcmNZpoAQIugpi.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Family"
+      ],
+      "imdb_id": "tt15037012"
     },
     {
       "id": "129418",
@@ -25888,6 +26071,26 @@
         "Mystery"
       ],
       "imdb_id": "tt14496552"
+    },
+    {
+      "id": "154385",
+      "type": "tv",
+      "title": "BEEF",
+      "poster": "https://image.tmdb.org/t/p/w342/25ih0Xq2zWbxhhKxwhvswKYQyEr.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt14403178"
     },
     {
       "id": "154824",
@@ -27329,6 +27532,28 @@
       "imdb_id": "tt32499943"
     },
     {
+      "id": "224263",
+      "type": "tv",
+      "title": "Stranger Things: Tales from '85",
+      "poster": "https://image.tmdb.org/t/p/w342/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Mystery",
+        "Action & Adventure"
+      ],
+      "imdb_id": "tt27486290"
+    },
+    {
       "id": "224414",
       "type": "tv",
       "title": "You and Everything Else",
@@ -27408,6 +27633,25 @@
         "War & Politics"
       ],
       "imdb_id": "tt27987047"
+    },
+    {
+      "id": "226066",
+      "type": "tv",
+      "title": "Sweet and Cold",
+      "poster": "https://image.tmdb.org/t/p/w342/45YZhsTJp99hY7lR7jlzSxiGG7Y.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt27678448"
     },
     {
       "id": "227042",
@@ -27856,6 +28100,26 @@
         "Drama"
       ],
       "imdb_id": "tt35304338"
+    },
+    {
+      "id": "233571",
+      "type": "tv",
+      "title": "Sunshine by My Side",
+      "poster": "https://image.tmdb.org/t/p/w342/bDcGmCuqliWyRYFMeAbq7m1B3HO.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt28115920"
     },
     {
       "id": "233686",
@@ -29069,6 +29333,25 @@
       "imdb_id": "tt32169410"
     },
     {
+      "id": "249972",
+      "type": "tv",
+      "title": "Blossom",
+      "poster": "https://image.tmdb.org/t/p/w342/38WomXthArq5cKRfkHkxYRo6DLe.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt31938763"
+    },
+    {
       "id": "250307",
       "type": "tv",
       "title": "The Pitt",
@@ -29673,6 +29956,25 @@
       "imdb_id": "tt33241853"
     },
     {
+      "id": "262848",
+      "type": "tv",
+      "title": "Unchosen",
+      "poster": "https://image.tmdb.org/t/p/w342/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt31631142"
+    },
+    {
       "id": "262920",
       "type": "tv",
       "title": "The Asset",
@@ -29732,6 +30034,25 @@
         "Drama"
       ],
       "imdb_id": "tt34139155"
+    },
+    {
+      "id": "269161",
+      "type": "tv",
+      "title": "Bandi",
+      "poster": "https://image.tmdb.org/t/p/w342/bbU23S58nbHK3PkIpbbprRFTVGl.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "FR"
+      ],
+      "original_language": "fr",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt37024175"
     },
     {
       "id": "270420",
@@ -30461,6 +30782,26 @@
       "imdb_id": "tt35671670"
     },
     {
+      "id": "287978",
+      "type": "tv",
+      "title": "Flunked",
+      "poster": "https://image.tmdb.org/t/p/w342/zsKWS6BwdKbS9nrE38V0500TKoX.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "FR"
+      ],
+      "original_language": "fr",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "imdb_id": "tt37031059"
+    },
+    {
       "id": "289485",
       "type": "tv",
       "title": "WWE: Unreal",
@@ -30742,6 +31083,25 @@
         "Mystery"
       ],
       "imdb_id": "tt37048622"
+    },
+    {
+      "id": "294454",
+      "type": "tv",
+      "title": "Her Feast",
+      "poster": "https://image.tmdb.org/t/p/w342/o9NMTYfdb3iMYpVNlVsS3deNj3d.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": ""
     },
     {
       "id": "295241",
@@ -32069,6 +32429,48 @@
       "imdb_id": "tt40828245"
     },
     {
+      "id": "316898",
+      "type": "tv",
+      "title": "Trust Me: The False Prophet",
+      "poster": "https://image.tmdb.org/t/p/w342/emukhfluHEAjj0oAPqwn4y6Reg.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ],
+      "imdb_id": "tt40826311"
+    },
+    {
+      "id": "316973",
+      "type": "tv",
+      "title": "Dandelion",
+      "poster": "https://image.tmdb.org/t/p/w342/r5Cq5wax0sQ1ModcZXWKyXF1xpy.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "genres": [
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt40356933"
+    },
+    {
       "id": "318254",
       "type": "tv",
       "title": "Kaptaan",
@@ -32578,6 +32980,26 @@
         "Drama"
       ],
       "imdb_id": "tt5332172"
+    },
+    {
+      "id": "64592",
+      "type": "tv",
+      "title": "The Lost Tomb",
+      "poster": "https://image.tmdb.org/t/p/w342/uqOqVGdNheWAXUhZcybOGA7aPuT.jpg",
+      "year": "2015",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Action & Adventure",
+        "Mystery"
+      ],
+      "imdb_id": "tt4219438"
     },
     {
       "id": "65143",
