@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-24T09:28:05.144Z",
-  "total_posts": 1702,
+  "last_updated": "2026-04-24T09:28:27.208Z",
+  "total_posts": 1703,
   "total_batches": 1,
   "batches": [
     {
@@ -8,8 +8,15 @@
       "date_key": "2026-04-24",
       "date": "April 24, 2026",
       "timestamp": "2026-04-24T05:59:49.220Z",
-      "total_in_batch": 130,
+      "total_in_batch": 131,
       "posts": [
+        {
+          "title": "BEEF",
+          "tmdb_id": "154385",
+          "imdb_id": "tt14403178",
+          "type": "tv",
+          "year": "2026"
+        },
         {
           "title": "Stranger Things: Tales from '85",
           "tmdb_id": "224263",
@@ -921,7 +928,7 @@
           "year": "2026"
         }
       ],
-      "last_modified": "2026-04-24T09:26:13.302Z"
+      "last_modified": "2026-04-24T09:28:27.208Z"
     }
   ]
 }
