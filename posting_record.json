@@ -5,93 +5,6 @@
   "batches": [
     {
       "batch_id": 1,
-      "date_key": "2026-04-23",
-      "date": "April 23, 2026",
-      "timestamp": "2026-04-23T06:16:38.295Z",
-      "total_in_batch": 11,
-      "posts": [
-        {
-          "title": "Noise",
-          "tmdb_id": "1194963",
-          "imdb_id": "tt29845247",
-          "type": "movie",
-          "year": "2025"
-        },
-        {
-          "title": "Project Hail Mary",
-          "tmdb_id": "687163",
-          "imdb_id": "tt12042730",
-          "type": "movie",
-          "year": "2026"
-        },
-        {
-          "title": "Scream 7",
-          "tmdb_id": "1159559",
-          "imdb_id": "tt27047903",
-          "type": "movie",
-          "year": "2026"
-        },
-        {
-          "title": "Bhooth Bangla",
-          "tmdb_id": "1239134",
-          "imdb_id": "tt29540862",
-          "type": "movie",
-          "year": "2026"
-        },
-        {
-          "title": "Dhurandhar: The Revenge",
-          "tmdb_id": "1582770",
-          "imdb_id": "tt39139925",
-          "type": "movie",
-          "year": "2026"
-        },
-        {
-          "title": "Humint",
-          "tmdb_id": "1268127",
-          "imdb_id": "tt32606470",
-          "type": "movie",
-          "year": "2026"
-        },
-        {
-          "title": "Mercy",
-          "tmdb_id": "1236153",
-          "imdb_id": "tt31050594",
-          "type": "movie",
-          "year": "2026"
-        },
-        {
-          "title": "Thrash",
-          "tmdb_id": "1290417",
-          "imdb_id": "tt32362890",
-          "type": "movie",
-          "year": "2026"
-        },
-        {
-          "title": "War Machine",
-          "tmdb_id": "1265609",
-          "imdb_id": "tt15940132",
-          "type": "movie",
-          "year": "2026"
-        },
-        {
-          "title": "Hoppers",
-          "tmdb_id": "1327819",
-          "imdb_id": "tt26443616",
-          "type": "movie",
-          "year": "2026"
-        },
-        {
-          "title": "Matka King",
-          "tmdb_id": "249765",
-          "imdb_id": "tt16997004",
-          "type": "tv",
-          "year": "2026"
-        }
-      ],
-      "last_modified": "2026-04-23T09:44:47.487Z"
-    },
-    {
-      "batch_id": 2,
       "date_key": "2026-04-24",
       "date": "April 24, 2026",
       "timestamp": "2026-04-24T02:53:22.660Z",
@@ -237,6 +150,93 @@
           "type": "movie",
           "year": "2026"
         }
+            {
+      "batch_id": 2,
+      "date_key": "2026-04-23",
+      "date": "April 23, 2026",
+      "timestamp": "2026-04-23T06:16:38.295Z",
+      "total_in_batch": 11,
+      "posts": [
+        {
+          "title": "Noise",
+          "tmdb_id": "1194963",
+          "imdb_id": "tt29845247",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Project Hail Mary",
+          "tmdb_id": "687163",
+          "imdb_id": "tt12042730",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Scream 7",
+          "tmdb_id": "1159559",
+          "imdb_id": "tt27047903",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Bhooth Bangla",
+          "tmdb_id": "1239134",
+          "imdb_id": "tt29540862",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Dhurandhar: The Revenge",
+          "tmdb_id": "1582770",
+          "imdb_id": "tt39139925",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Humint",
+          "tmdb_id": "1268127",
+          "imdb_id": "tt32606470",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Mercy",
+          "tmdb_id": "1236153",
+          "imdb_id": "tt31050594",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Thrash",
+          "tmdb_id": "1290417",
+          "imdb_id": "tt32362890",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "War Machine",
+          "tmdb_id": "1265609",
+          "imdb_id": "tt15940132",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Hoppers",
+          "tmdb_id": "1327819",
+          "imdb_id": "tt26443616",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Matka King",
+          "tmdb_id": "249765",
+          "imdb_id": "tt16997004",
+          "type": "tv",
+          "year": "2026"
+        }
+      ],
+      "last_modified": "2026-04-23T09:44:47.487Z"
+    },
       ]
     }
   ]
