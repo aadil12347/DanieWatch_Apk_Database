@@ -234,16 +234,11 @@ function run() {
         existingBatch.total_in_batch = existingBatch.posts.length;
         existingBatch.last_modified = now.toISOString();
 
-        // Move today's batch to the TOP if it isn't already there
-        if (existingBatchIndex !== 0) {
-            record.batches.splice(existingBatchIndex, 1);
-            record.batches.unshift(existingBatch);
-        }
 
         console.log(`✅ Posting record updated! (merged into today's batch)`);
         console.log(`   📦 Batch "${todayReadable}": now ${existingBatch.total_in_batch} post(s) total`);
     } else {
-        // Create a new batch for today — INSERT AT THE TOP so latest is always first
+        // Create a new batch for today — appended naturally (app sorts by batch_id DESC)
         const newBatch = {
             batch_id: record.batches.length + 1,
             date_key: todayDate,
@@ -253,8 +248,8 @@ function run() {
             posts: addedPosts
         };
 
-        record.batches.unshift(newBatch);
-        console.log(`✅ Posting record updated! (new batch created — added to top)`);
+        record.batches.push(newBatch);
+        console.log(`✅ Posting record updated!`);
         console.log(`   📦 Batch "${todayReadable}": ${addedPosts.length} new post(s)`);
     }
 
