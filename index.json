@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-24T09:26:13.243Z",
-  "total": 1703,
+  "last_updated": "2026-04-24T09:28:05.080Z",
+  "total": 1702,
   "posts": [
     {
       "id": "1607762",
@@ -26463,28 +26463,6 @@
       "imdb_id": "tt14496552",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 16
-    },
-    {
-      "id": "154385",
-      "type": "tv",
-      "title": "BEEF",
-      "poster": "https://image.tmdb.org/t/p/w342/25ih0Xq2zWbxhhKxwhvswKYQyEr.jpg",
-      "year": "2026",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "US"
-      ],
-      "original_language": "en",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "imdb_id": "tt14403178",
-      "latest_uploaded_season": 2,
-      "total_uploaded_episodes": 18
     },
     {
       "id": "154824",
