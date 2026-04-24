@@ -83,10 +83,12 @@ function run() {
             const oldPost = oldPostMap.get(key);
             const yearChanged = oldPost && post.year && oldPost.year && post.year !== oldPost.year;
             
-            // Check episodes. Note: older snapshots might not have total_uploaded_episodes.
-            const oldEpisodes = oldPost ? (oldPost.total_uploaded_episodes || 0) : 0;
+            // Check episodes.
+            // If oldPost.total_uploaded_episodes is undefined, it means this is the first time we are tracking it,
+            // so we should silently learn the baseline and NOT bump it.
+            const oldEpisodes = oldPost ? oldPost.total_uploaded_episodes : undefined;
             const newEpisodes = post.total_uploaded_episodes || 0;
-            const episodesAdded = newEpisodes > oldEpisodes;
+            const episodesAdded = oldEpisodes !== undefined && newEpisodes > oldEpisodes;
 
             if (yearChanged || episodesAdded) {
                 console.log(`🚀 Bumping ${post.title}: Year changed (${yearChanged}) or Episodes added (${episodesAdded} - old: ${oldEpisodes}, new: ${newEpisodes})`);
