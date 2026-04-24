@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-24T06:02:42.164Z",
-  "total_posts": 1702,
+  "last_updated": "2026-04-24T06:02:54.039Z",
+  "total_posts": 1703,
   "total_batches": 1,
   "batches": [
     {
@@ -8,8 +8,15 @@
       "date_key": "2026-04-24",
       "date": "April 24, 2026",
       "timestamp": "2026-04-24T05:59:49.220Z",
-      "total_in_batch": 1,
+      "total_in_batch": 2,
       "posts": [
+        {
+          "title": "Vengeance",
+          "tmdb_id": "1613798",
+          "imdb_id": "tt37989803",
+          "type": "movie",
+          "year": "2026"
+        },
         {
           "title": "Bandi",
           "tmdb_id": "269161",
@@ -17,7 +24,8 @@
           "type": "tv",
           "year": "2026"
         }
-      ]
+      ],
+      "last_modified": "2026-04-24T06:02:54.039Z"
     }
   ]
 }
