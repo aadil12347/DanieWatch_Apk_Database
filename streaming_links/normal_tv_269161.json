@@ -1,0 +1,51 @@
+{
+  "id": "269161",
+  "type": "tv",
+  "title": "Bandi",
+  "poster": "https://image.tmdb.org/t/p/w342/bbU23S58nbHK3PkIpbbprRFTVGl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/zRPfRuLq1eCyEvlsKhl1k96lRw9.jpg",
+  "year": "2026",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/i4wtt5yt5nv3/bandi-2026-s01-ep-01-hin-eng-web-dl-720p-esub-vegamovies-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/kvwblsvyks0q/bandi-2026-s01-ep-02-hin-eng-web-dl-720p-esub-vegamovies-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/43gzsisvb9fe/bandi-2026-s01-ep-03-hin-eng-web-dl-720p-esub-vegamovies-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/jlrudxoza6to/bandi-2026-s01-ep-04-hin-eng-web-dl-720p-esub-vegamovies-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/6o06bk9b63tk/bandi-2026-s01-ep-05-hin-eng-web-dl-720p-esub-vegamovies-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/iitq91p3ce5i/bandi-2026-s01-ep-06-hin-eng-web-dl-720p-esub-vegamovies-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/prrf584t7uwx/bandi-2026-s01-ep-07-hin-eng-web-dl-720p-esub-vegamovies-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/qolgg14d9997/bandi-2026-s01-ep-08-hin-eng-web-dl-720p-esub-vegamovies-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}
