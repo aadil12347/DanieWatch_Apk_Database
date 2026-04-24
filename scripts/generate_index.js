@@ -107,14 +107,12 @@ async function run() {
                     finalYear = meta.year;
                 }
 
-                results[globalIndex] = {
+                const entry = {
                     id: content.id,
                     type: content.type,
                     title: content.title || "",
                     poster: content.poster || "",
                     year: finalYear,
-                    latest_uploaded_season: highestUploadedSeason,
-                    total_uploaded_episodes: totalUploadedEpisodes,
                     result: content.result || "HD",
                     language: content.language || ["Hindi"],
                     country: meta?.country || [],
@@ -122,6 +120,13 @@ async function run() {
                     genres: meta?.genres || [],
                     imdb_id: meta?.imdb_id || ""
                 };
+
+                if (content.type === 'tv') {
+                    entry.latest_uploaded_season = highestUploadedSeason;
+                    entry.total_uploaded_episodes = totalUploadedEpisodes;
+                }
+
+                results[globalIndex] = entry;
             } catch (err) {
                 console.error(`Error processing ${file}:`, err);
             }

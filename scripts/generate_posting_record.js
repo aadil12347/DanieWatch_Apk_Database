@@ -279,7 +279,7 @@ function run() {
             posts: addedPosts
         };
 
-        record.batches.push(newBatch);
+        record.batches.unshift(newBatch);
         console.log(`✅ Posting record updated!`);
         console.log(`   📦 Batch "${todayReadable}": ${addedPosts.length} new post(s)`);
     }
