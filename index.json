@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-24T02:53:22.604Z",
-  "total": 1704,
+  "last_updated": "2026-04-24T03:07:16.505Z",
+  "total": 1703,
   "posts": [
     {
       "id": "1607762",
@@ -28182,26 +28182,6 @@
         "Comedy"
       ],
       "imdb_id": "tt29141921"
-    },
-    {
-      "id": "235351",
-      "type": "tv",
-      "title": "The Legend of Heroes",
-      "poster": "https://image.tmdb.org/t/p/w342/fVOEMyOJx6pQ3ngacvkxiMZbnMD.jpg",
-      "year": "2024",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "CN"
-      ],
-      "original_language": "zh",
-      "genres": [
-        "Action & Adventure",
-        "Drama"
-      ],
-      "imdb_id": "tt28116044"
     },
     {
       "id": "235389",
