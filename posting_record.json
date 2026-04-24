@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-24T09:28:27.208Z",
-  "total_posts": 1703,
+  "last_updated": "2026-04-24T12:33:43.589Z",
+  "total_posts": 1746,
   "total_batches": 1,
   "batches": [
     {
@@ -8,8 +8,309 @@
       "date_key": "2026-04-24",
       "date": "April 24, 2026",
       "timestamp": "2026-04-24T05:59:49.220Z",
-      "total_in_batch": 131,
+      "total_in_batch": 174,
       "posts": [
+        {
+          "title": "A Perfect Planet",
+          "tmdb_id": "115194",
+          "imdb_id": "tt10219322",
+          "type": "tv",
+          "year": "2021"
+        },
+        {
+          "title": "Anemone",
+          "tmdb_id": "1364608",
+          "imdb_id": "tt33549447",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Apex",
+          "tmdb_id": "1318447",
+          "imdb_id": "tt16431404",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Captain Hook: The Cursed Tides",
+          "tmdb_id": "1511789",
+          "imdb_id": "tt33458086",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Dead of Winter",
+          "tmdb_id": "1235746",
+          "imdb_id": "tt7574556",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Dust Bunny",
+          "tmdb_id": "1043197",
+          "imdb_id": "tt23172090",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Edge of Winter",
+          "tmdb_id": "402446",
+          "imdb_id": "tt4526546",
+          "type": "movie",
+          "year": "2016"
+        },
+        {
+          "title": "Good Fortune",
+          "tmdb_id": "1114967",
+          "imdb_id": "tt27543578",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Hulk Hogan: Real American",
+          "tmdb_id": "318880",
+          "imdb_id": "tt41508977",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "If Wishes Could Kill",
+          "tmdb_id": "285838",
+          "imdb_id": "tt36104233",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Legends of the Condor Heroes: The Gallants",
+          "tmdb_id": "1185528",
+          "imdb_id": "tt28131433",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Making Off",
+          "tmdb_id": "108739",
+          "imdb_id": "tt3561490",
+          "type": "movie",
+          "year": "2012"
+        },
+        {
+          "title": "Mission: Possible",
+          "tmdb_id": "629028",
+          "imdb_id": "tt14140954",
+          "type": "movie",
+          "year": "2021"
+        },
+        {
+          "title": "Monster Man",
+          "tmdb_id": "1693",
+          "imdb_id": "tt0365513",
+          "type": "movie",
+          "year": "2003"
+        },
+        {
+          "title": "Nee Forever",
+          "tmdb_id": "1660940",
+          "imdb_id": "tt40720168",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Nine Perfect Strangers",
+          "tmdb_id": "88989",
+          "imdb_id": "tt8760932",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "No Tears in Hell",
+          "tmdb_id": "1512581",
+          "imdb_id": "tt28321883",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Now You See Me: Now You Don't",
+          "tmdb_id": "425274",
+          "imdb_id": "tt4712810",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Off the Grid",
+          "tmdb_id": "1371151",
+          "imdb_id": "tt27424511",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Pitch Perfect",
+          "tmdb_id": "114150",
+          "imdb_id": "tt1981677",
+          "type": "movie",
+          "year": "2012"
+        },
+        {
+          "title": "Pitch Perfect 2",
+          "tmdb_id": "254470",
+          "imdb_id": "tt2848292",
+          "type": "movie",
+          "year": "2015"
+        },
+        {
+          "title": "Pitch Perfect 3",
+          "tmdb_id": "353616",
+          "imdb_id": "tt4765284",
+          "type": "movie",
+          "year": "2017"
+        },
+        {
+          "title": "Prathichaya",
+          "tmdb_id": "1516501",
+          "imdb_id": "tt39283431",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Ride Along",
+          "tmdb_id": "168530",
+          "imdb_id": "tt1408253",
+          "type": "movie",
+          "year": "2014"
+        },
+        {
+          "title": "Ride Along 2",
+          "tmdb_id": "323675",
+          "imdb_id": "tt2869728",
+          "type": "movie",
+          "year": "2016"
+        },
+        {
+          "title": "Risqué",
+          "tmdb_id": "1512623",
+          "imdb_id": "tt37268550",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Running Point",
+          "tmdb_id": "244623",
+          "imdb_id": "tt14879018",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Safe House",
+          "tmdb_id": "1522923",
+          "imdb_id": "tt30954952",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Santita",
+          "tmdb_id": "290230",
+          "imdb_id": "tt36742714",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Scarlet",
+          "tmdb_id": "1406657",
+          "imdb_id": "tt35114460",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Silent Night, Deadly Night",
+          "tmdb_id": "801937",
+          "imdb_id": "tt34508974",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Sorcerer Heavenly Master · Dark Hades",
+          "tmdb_id": "1673401",
+          "imdb_id": "tt35786199",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "The Best Thing",
+          "tmdb_id": "256128",
+          "imdb_id": "tt31840873",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "The Collection",
+          "tmdb_id": "134597",
+          "imdb_id": "tt1748227",
+          "type": "movie",
+          "year": "2012"
+        },
+        {
+          "title": "The Perfect Couple",
+          "tmdb_id": "220564",
+          "imdb_id": "tt11514868",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "The Perfect Date",
+          "tmdb_id": "543540",
+          "imdb_id": "tt8201170",
+          "type": "movie",
+          "year": "2019"
+        },
+        {
+          "title": "The Secret Agent",
+          "tmdb_id": "1220564",
+          "imdb_id": "tt27847051",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "The Travellers",
+          "tmdb_id": "1325958",
+          "imdb_id": "tt33068674",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "The Truce",
+          "tmdb_id": "1434973",
+          "imdb_id": "tt35091739",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "The White Olive Tree",
+          "tmdb_id": "252774",
+          "imdb_id": "tt31450820",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Theeyavar Kulaigal Nadunga",
+          "tmdb_id": "946040",
+          "imdb_id": "tt15380786",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Tojima Wants to Be a Kamen Rider",
+          "tmdb_id": "285788",
+          "imdb_id": "tt37532319",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Wrath of the Titans",
+          "tmdb_id": "57165",
+          "imdb_id": "tt1646987",
+          "type": "movie",
+          "year": "2012"
+        },
         {
           "title": "BEEF",
           "tmdb_id": "154385",
@@ -928,7 +1229,7 @@
           "year": "2026"
         }
       ],
-      "last_modified": "2026-04-24T09:28:27.208Z"
+      "last_modified": "2026-04-24T12:33:43.589Z"
     }
   ]
 }
