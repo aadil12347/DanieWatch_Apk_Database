@@ -1,0 +1,255 @@
+{
+  "id": "76557",
+  "type": "tv",
+  "title": "Welcome to Waikiki",
+  "poster": "https://image.tmdb.org/t/p/w342/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/6dxB0dFDeBwB3jwhKlLdPEKYFD6.jpg",
+  "year": "2018",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "Episode 1",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2018-02-05",
+          "runtime": 66,
+          "vote_average": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/pew2vkayde4m/summer-wind-s01e01-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "name": "Episode 2",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2018-02-06",
+          "runtime": 63,
+          "vote_average": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/s9omqgamgync/summer-wind-s01e02-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "name": "Episode 3",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2018-02-12",
+          "runtime": 65,
+          "vote_average": 9,
+          "watch": "<iframe src=\"https://bysebuho.com/e/0r7u3q13lq88/summer-wind-s01e03-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "name": "Episode 4",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2018-02-13",
+          "runtime": 66,
+          "vote_average": 9,
+          "watch": "<iframe src=\"https://bysebuho.com/e/vktysg0zzfzf/summer-wind-s01e04-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "name": "Episode 5",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2018-02-19",
+          "runtime": 67,
+          "vote_average": 9,
+          "watch": "<iframe src=\"https://bysebuho.com/e/jdvrtpttsm8x/summer-wind-s01e05-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "name": "Episode 6",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2018-02-20",
+          "runtime": 64,
+          "vote_average": 10,
+          "watch": "<iframe src=\"https://bysebuho.com/e/e8jfk8odvdc5/summer-wind-s01e06-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "name": "Episode 7",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2018-02-26",
+          "runtime": 64,
+          "vote_average": 9,
+          "watch": "<iframe src=\"https://bysebuho.com/e/33rn7iq7nnqf/summer-wind-s01e07-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 8,
+          "name": "Episode 8",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2018-02-27",
+          "runtime": 68,
+          "vote_average": 10,
+          "watch": "<iframe src=\"https://bysebuho.com/e/2od5jbcw29uv/summer-wind-s01e08-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 9,
+          "name": "Episode 9",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2018-03-05",
+          "runtime": 68,
+          "vote_average": 9,
+          "watch": "<iframe src=\"https://bysebuho.com/e/wlcd8blmd3c6/summer-wind-s01e09-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 10,
+          "name": "Episode 10",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2018-03-06",
+          "runtime": 66,
+          "vote_average": 9,
+          "watch": "<iframe src=\"https://bysebuho.com/e/bg4tdvj9ankg/summer-wind-s01e10-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 11,
+          "name": "Episode 11",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2018-03-19",
+          "runtime": 70,
+          "vote_average": 10,
+          "watch": "<iframe src=\"https://bysebuho.com/e/n759vfv0088q/summer-wind-s01e11-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 12,
+          "name": "Episode 12",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2018-03-20",
+          "runtime": 70,
+          "vote_average": 9,
+          "watch": "<iframe src=\"https://bysebuho.com/e/j05t6h7cp1wc/summer-wind-s01e12-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 13,
+          "name": "Episode 13",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2018-03-26",
+          "runtime": 65,
+          "vote_average": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/f5ujxievdvg5/summer-wind-s01e13-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 14,
+          "name": "Episode 14",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2018-03-27",
+          "runtime": 68,
+          "vote_average": 9,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ayu4qeaakikf/summer-wind-s01e14-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 15,
+          "name": "Episode 15",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2018-04-02",
+          "runtime": 66,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/yosm5tm6wgk1/summer-wind-s01e15-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 16,
+          "name": "Episode 16",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2018-04-03",
+          "runtime": 68,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/kwkn112gqd8g/summer-wind-s01e16-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 17,
+          "name": "Episode 17",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2018-04-09",
+          "runtime": 63,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/xidelas5zalc/summer-wind-s01e17-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 18,
+          "name": "Episode 18",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2018-04-10",
+          "runtime": 68,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/wpneq5lw6se9/summer-wind-s01e18-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 19,
+          "name": "Episode 19",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2018-04-16",
+          "runtime": 66,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/1bvgyfuco24p/summer-wind-s01e19-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 20,
+          "name": "Episode 20",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2018-04-17",
+          "runtime": 71,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/qzer4v72gacx/summer-wind-s01e20-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 21,
+          "name": "Episode 21",
+          "watch": "<iframe src=\"https://bysebuho.com/e/q634j6go9iri/summer-wind-s01e21-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 22,
+          "name": "Episode 22",
+          "watch": "<iframe src=\"https://bysebuho.com/e/g9o95fznzrsu/summer-wind-s01e22-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 23,
+          "name": "Episode 23",
+          "watch": "<iframe src=\"https://bysebuho.com/e/jis0l3xy0r31/summer-wind-s01e23-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 24,
+          "name": "Episode 24",
+          "watch": "<iframe src=\"https://bysebuho.com/e/buioy08hrev4/summer-wind-s01e24-720p-hin-chi-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        }
+      ]
+    }
+  ]
+}
