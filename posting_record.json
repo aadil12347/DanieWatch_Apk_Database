@@ -1,8 +1,122 @@
 {
-  "last_updated": "2026-04-24T12:33:43.589Z",
-  "total_posts": 1746,
-  "total_batches": 1,
+  "last_updated": "2026-04-25T05:48:22.193Z",
+  "total_posts": 1761,
+  "total_batches": 2,
   "batches": [
+    {
+      "batch_id": 2,
+      "date_key": "2026-04-25",
+      "date": "April 25, 2026",
+      "timestamp": "2026-04-25T05:48:22.193Z",
+      "total_in_batch": 15,
+      "posts": [
+        {
+          "title": "Demi-Gods and Semi-Devils",
+          "tmdb_id": "131009",
+          "imdb_id": "tt22646564",
+          "type": "tv",
+          "year": "2021"
+        },
+        {
+          "title": "I Hear You",
+          "tmdb_id": "87299",
+          "imdb_id": "tt10327440",
+          "type": "tv",
+          "year": "2019"
+        },
+        {
+          "title": "Love The Way You Are",
+          "tmdb_id": "204254",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "My Lovely Wife",
+          "tmdb_id": "231364",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "My Neighbour Can't Sleep",
+          "tmdb_id": "94838",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2019"
+        },
+        {
+          "title": "Rising with the Wind",
+          "tmdb_id": "152551",
+          "imdb_id": "tt17069404",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "Summer Wind",
+          "tmdb_id": "214697",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "The Blue Whisper",
+          "tmdb_id": "136973",
+          "imdb_id": "tt20602820",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "The Secret Life of My Secretary",
+          "tmdb_id": "88783",
+          "imdb_id": "tt10101272",
+          "type": "tv",
+          "year": "2019"
+        },
+        {
+          "title": "Trigger",
+          "tmdb_id": "238084",
+          "imdb_id": "tt27898511",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Use for My Talent",
+          "tmdb_id": "125255",
+          "imdb_id": "tt14747972",
+          "type": "tv",
+          "year": "2021"
+        },
+        {
+          "title": "Welcome to Waikiki",
+          "tmdb_id": "76557",
+          "imdb_id": "tt7890304",
+          "type": "tv",
+          "year": "2018"
+        },
+        {
+          "title": "What's Wrong with Secretary Kim",
+          "tmdb_id": "79434",
+          "imdb_id": "tt8242904",
+          "type": "tv",
+          "year": "2018"
+        },
+        {
+          "title": "When I Fly Towards You",
+          "tmdb_id": "228547",
+          "imdb_id": "tt28036189",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "You From The Future",
+          "tmdb_id": "231955",
+          "imdb_id": "tt30138533",
+          "type": "tv",
+          "year": "2023"
+        }
+      ]
+    },
     {
       "batch_id": 1,
       "date_key": "2026-04-24",

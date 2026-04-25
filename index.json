@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-24T12:33:43.527Z",
-  "total": 1746,
+  "last_updated": "2026-04-25T05:48:22.123Z",
+  "total": 1761,
   "posts": [
     {
       "id": "1607762",
@@ -6138,6 +6138,28 @@
       "total_uploaded_episodes": 51
     },
     {
+      "id": "76557",
+      "type": "tv",
+      "title": "Welcome to Waikiki",
+      "poster": "https://image.tmdb.org/t/p/w342/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+      "year": "2018",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt7890304",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 24
+    },
+    {
       "id": "81745",
       "type": "tv",
       "title": "Hide and Seek",
@@ -6204,6 +6226,27 @@
       "imdb_id": "tt9679542",
       "latest_uploaded_season": 4,
       "total_uploaded_episodes": 81
+    },
+    {
+      "id": "88783",
+      "type": "tv",
+      "title": "The Secret Life of My Secretary",
+      "poster": "https://image.tmdb.org/t/p/w342/7owGMGmnlx2EMEm3yFPQ03C0zjr.jpg",
+      "year": "2019",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt10101272",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 16
     },
     {
       "id": "90245",
@@ -26515,6 +26558,28 @@
       "total_uploaded_episodes": 15
     },
     {
+      "id": "125255",
+      "type": "tv",
+      "title": "Use for My Talent",
+      "poster": "https://image.tmdb.org/t/p/w342/3cPaJnIwdMWDDLpKHfNkJGxhYMX.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt14747972",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 24
+    },
+    {
       "id": "125984",
       "type": "tv",
       "title": "Moonlight",
@@ -26779,6 +26844,28 @@
       "total_uploaded_episodes": 30
     },
     {
+      "id": "131009",
+      "type": "tv",
+      "title": "Demi-Gods and Semi-Devils",
+      "poster": "https://image.tmdb.org/t/p/w342/A0gvywTPbbHLcJDedoLdciaiB2t.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "imdb_id": "tt22646564",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 50
+    },
+    {
       "id": "131305",
       "type": "tv",
       "title": "Celebrity",
@@ -26932,6 +27019,27 @@
       "imdb_id": "tt19800324",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 16
+    },
+    {
+      "id": "136973",
+      "type": "tv",
+      "title": "The Blue Whisper",
+      "poster": "https://image.tmdb.org/t/p/w342/4i3wHI8Gk0Pvvg7UHYPlNS4CSk8.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt20602820",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 42
     },
     {
       "id": "137040",
@@ -27147,6 +27255,27 @@
       "imdb_id": "tt16493854",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 16
+    },
+    {
+      "id": "152551",
+      "type": "tv",
+      "title": "Rising with the Wind",
+      "poster": "https://image.tmdb.org/t/p/w342/cZSb43j1O1pRZIwwn0fgCx5XJIP.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt17069404",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 40
     },
     {
       "id": "152674",
@@ -27853,6 +27982,27 @@
       "total_uploaded_episodes": 22
     },
     {
+      "id": "204254",
+      "type": "tv",
+      "title": "Love The Way You Are",
+      "poster": "https://image.tmdb.org/t/p/w342/1WWAvAHc0ZS0XyHQ7vIoowi3TnG.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 30
+    },
+    {
       "id": "205082",
       "type": "tv",
       "title": "Vigilante",
@@ -28351,6 +28501,27 @@
       "imdb_id": "tt27137489",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 30
+    },
+    {
+      "id": "214697",
+      "type": "tv",
+      "title": "Summer Wind",
+      "poster": "https://image.tmdb.org/t/p/w342/f8So8pffkCLBRQOdWnvtdK047lg.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 24
     },
     {
       "id": "214826",
@@ -28975,6 +29146,28 @@
       "total_uploaded_episodes": 24
     },
     {
+      "id": "228547",
+      "type": "tv",
+      "title": "When I Fly Towards You",
+      "poster": "https://image.tmdb.org/t/p/w342/mjCChwZcEZ9902tUAG1hWZlfOHm.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt28036189",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 24
+    },
+    {
       "id": "228689",
       "type": "tv",
       "title": "Genie, Make a Wish",
@@ -29264,6 +29457,28 @@
       "total_uploaded_episodes": 16
     },
     {
+      "id": "231364",
+      "type": "tv",
+      "title": "My Lovely Wife",
+      "poster": "https://image.tmdb.org/t/p/w342/zPcThOYLsXUZUHY4VhRNCLQuhT0.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": "",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 11
+    },
+    {
       "id": "231727",
       "type": "tv",
       "title": "Wolf King",
@@ -29286,6 +29501,28 @@
       "imdb_id": "tt20917940",
       "latest_uploaded_season": 2,
       "total_uploaded_episodes": 16
+    },
+    {
+      "id": "231955",
+      "type": "tv",
+      "title": "You From The Future",
+      "poster": "https://image.tmdb.org/t/p/w342/edkdnOZhp0dzG0ltaxmNupVmdbZ.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdb_id": "tt30138533",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 24
     },
     {
       "id": "232018",
@@ -29602,6 +29839,29 @@
       "imdb_id": "tt29367004",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 30
+    },
+    {
+      "id": "238084",
+      "type": "tv",
+      "title": "Trigger",
+      "poster": "https://image.tmdb.org/t/p/w342/9eDF8Z4iFFCmQROiuej54rSK9LT.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Crime"
+      ],
+      "imdb_id": "tt27898511",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 10
     },
     {
       "id": "238458",
@@ -35554,6 +35814,28 @@
       "total_uploaded_episodes": 64
     },
     {
+      "id": "79434",
+      "type": "tv",
+      "title": "What's Wrong with Secretary Kim",
+      "poster": "https://image.tmdb.org/t/p/w342/qmq7vKRPoK2VHOTeaUdwwe3l5bB.jpg",
+      "year": "2018",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt8242904",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 16
+    },
+    {
       "id": "80737",
       "type": "tv",
       "title": "My ID is Gangnam Beauty",
@@ -35884,6 +36166,27 @@
       "imdb_id": "tt9772814",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 12
+    },
+    {
+      "id": "87299",
+      "type": "tv",
+      "title": "I Hear You",
+      "poster": "https://image.tmdb.org/t/p/w342/2wVMh3vqvt1IgAhextxwUKxaOAH.jpg",
+      "year": "2019",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt10327440",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 24
     },
     {
       "id": "87508",
@@ -36310,6 +36613,28 @@
       "imdb_id": "tt10712926",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 16
+    },
+    {
+      "id": "94838",
+      "type": "tv",
+      "title": "My Neighbour Can't Sleep",
+      "poster": "https://image.tmdb.org/t/p/w342/oYERaVqgXZkYs7BEPduNQDlHogM.jpg",
+      "year": "2019",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 24
     },
     {
       "id": "94891",
