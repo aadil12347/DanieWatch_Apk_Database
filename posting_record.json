@@ -1,8 +1,311 @@
 {
-  "last_updated": "2026-04-25T05:48:22.193Z",
-  "total_posts": 1761,
-  "total_batches": 2,
+  "last_updated": "2026-04-27T04:43:01.466Z",
+  "total_posts": 1803,
+  "total_batches": 3,
   "batches": [
+    {
+      "batch_id": 3,
+      "date_key": "2026-04-27",
+      "date": "April 27, 2026",
+      "timestamp": "2026-04-27T04:43:01.466Z",
+      "total_in_batch": 42,
+      "posts": [
+        {
+          "title": "A Love So Beautiful",
+          "tmdb_id": "75387",
+          "imdb_id": "tt8434720",
+          "type": "tv",
+          "year": "2017"
+        },
+        {
+          "title": "A Robot in the Orange Orchard",
+          "tmdb_id": "196193",
+          "imdb_id": "tt20204508",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "A Romance of the Little Forest",
+          "tmdb_id": "135185",
+          "imdb_id": "tt22096832",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "Be Melodramatic",
+          "tmdb_id": "90720",
+          "imdb_id": "tt10559276",
+          "type": "tv",
+          "year": "2019"
+        },
+        {
+          "title": "Best Lover",
+          "tmdb_id": "69051",
+          "imdb_id": "tt9874364",
+          "type": "tv",
+          "year": "2016"
+        },
+        {
+          "title": "Dear Hongrang",
+          "tmdb_id": "224819",
+          "imdb_id": "tt27554348",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Double Love",
+          "tmdb_id": "256649",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Embracing the Stars Together",
+          "tmdb_id": "247845",
+          "imdb_id": "tt33067214",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Exploration Method of Love",
+          "tmdb_id": "229217",
+          "imdb_id": "tt28131611",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "Fairy From the Painting",
+          "tmdb_id": "214605",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "Fake It Till You Make It",
+          "tmdb_id": "232828",
+          "imdb_id": "tt28667730",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "Fall In Love With Him",
+          "tmdb_id": "136063",
+          "imdb_id": "tt16310988",
+          "type": "tv",
+          "year": "2021"
+        },
+        {
+          "title": "Fish Show You",
+          "tmdb_id": "228819",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "Forget You Remember Love",
+          "tmdb_id": "100875",
+          "imdb_id": "tt5678346",
+          "type": "tv",
+          "year": "2020"
+        },
+        {
+          "title": "Have a Crush On You",
+          "tmdb_id": "220068",
+          "imdb_id": "tt26732402",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "Hidden Marriage Love",
+          "tmdb_id": "hiddenmarriageloves01",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2021"
+        },
+        {
+          "title": "I Can See You Shine",
+          "tmdb_id": "260423",
+          "imdb_id": "tt28277048",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Life",
+          "tmdb_id": "79991",
+          "imdb_id": "tt8243158",
+          "type": "tv",
+          "year": "2018"
+        },
+        {
+          "title": "Love in Time",
+          "tmdb_id": "110573",
+          "imdb_id": "tt13105700",
+          "type": "tv",
+          "year": "2020"
+        },
+        {
+          "title": "Melo Movie",
+          "tmdb_id": "243964",
+          "imdb_id": "tt35450649",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Mercy for None",
+          "tmdb_id": "232766",
+          "imdb_id": "tt29650530",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Mr. Insomnia Waiting for Love",
+          "tmdb_id": "227634",
+          "imdb_id": "tt28036984",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "Mr. Queen",
+          "tmdb_id": "108261",
+          "imdb_id": "tt13400006",
+          "type": "tv",
+          "year": "2020"
+        },
+        {
+          "title": "My Amazing Boyfriend",
+          "tmdb_id": "66349",
+          "imdb_id": "tt6227258",
+          "type": "tv",
+          "year": "2016"
+        },
+        {
+          "title": "My Annoying Roommate",
+          "tmdb_id": "234243",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "My Dear Lady",
+          "tmdb_id": "103809",
+          "imdb_id": "tt12357102",
+          "type": "tv",
+          "year": "2020"
+        },
+        {
+          "title": "My Eyes Are Full of You",
+          "tmdb_id": "155300",
+          "imdb_id": "tt18306798",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "My Love Eun Dong",
+          "tmdb_id": "62838",
+          "imdb_id": "tt4791426",
+          "type": "tv",
+          "year": "2015"
+        },
+        {
+          "title": "My Precious",
+          "tmdb_id": "235730",
+          "imdb_id": "tt29363110",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "My Roommate Ghost Diva",
+          "tmdb_id": "215984",
+          "imdb_id": "tt9109028",
+          "type": "tv",
+          "year": "2018"
+        },
+        {
+          "title": "Mysterious Love",
+          "tmdb_id": "123358",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2021"
+        },
+        {
+          "title": "Our Interpreter",
+          "tmdb_id": "240439",
+          "imdb_id": "tt29367046",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Out with a Bang",
+          "tmdb_id": "206416",
+          "imdb_id": "tt21617090",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "Pride and Prejudice",
+          "tmdb_id": "61786",
+          "imdb_id": "tt4284162",
+          "type": "tv",
+          "year": "2014"
+        },
+        {
+          "title": "Since I Met U",
+          "tmdb_id": "213351",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "Skip a Beat",
+          "tmdb_id": "228344",
+          "imdb_id": "tt28227698",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "Smile to Life",
+          "tmdb_id": "211332",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "Snow Fall",
+          "tmdb_id": "213086",
+          "imdb_id": "tt33044481",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Something in the Rain",
+          "tmdb_id": "78385",
+          "imdb_id": "tt8078816",
+          "type": "tv",
+          "year": "2018"
+        },
+        {
+          "title": "Thank You Doctor",
+          "tmdb_id": "95721",
+          "imdb_id": "tt11298622",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "The Devil's Plan",
+          "tmdb_id": "214582",
+          "imdb_id": "tt27995115",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "Wenderella's Diary",
+          "tmdb_id": "220344",
+          "imdb_id": "tt26733040",
+          "type": "tv",
+          "year": "2023"
+        }
+      ]
+    },
     {
       "batch_id": 2,
       "date_key": "2026-04-25",
