@@ -1,0 +1,57 @@
+{
+  "id": "215984",
+  "type": "tv",
+  "title": "My Roommate Ghost Diva",
+  "poster": "https://i.ibb.co/nMpHW6m2/Gemini-Generated-Image-b15w8wb15w8wb15w-1.png",
+  "backdrop": "",
+  "year": "2018",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "Episode 1",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2018-08-11",
+          "runtime": null,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/gwe2h7i1mk04/my-roommate-ghost-diva-s01e01-720p-hindi-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "name": "Episode 2",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2018-08-12",
+          "runtime": null,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/4r6pp4zb6km2/my-roommate-ghost-diva-s01e02-720p-hindi-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "name": "Episode 3",
+          "watch": "<iframe src=\"https://bysebuho.com/e/22s3tut1ujc6/my-roommate-ghost-diva-s01e03-720p-hindi-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 4,
+          "name": "Episode 4",
+          "watch": "<iframe src=\"https://bysebuho.com/e/nmefjyss88yy/my-roommate-ghost-diva-s01e04-720p-hindi-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        }
+      ]
+    }
+  ]
+}
