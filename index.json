@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-27T04:43:01.398Z",
-  "total": 1803,
+  "last_updated": "2026-04-29T19:20:35.102Z",
+  "total": 1804,
   "posts": [
     {
       "id": "1607762",
@@ -26074,6 +26074,30 @@
       "imdb_id": "tt13400006",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 20
+    },
+    {
+      "id": "108284",
+      "type": "tv",
+      "title": "Tale of the Nine Tailed",
+      "poster": "https://image.tmdb.org/t/p/w342/jXx9vLO9bwKxl81oVQnzEH7960V.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Comedy",
+        "Mystery"
+      ],
+      "imdb_id": "tt12879418",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 16
     },
     {
       "id": "108291",

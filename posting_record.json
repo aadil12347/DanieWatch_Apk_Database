@@ -1,8 +1,24 @@
 {
-  "last_updated": "2026-04-27T04:43:01.466Z",
-  "total_posts": 1803,
-  "total_batches": 3,
+  "last_updated": "2026-04-29T19:20:35.176Z",
+  "total_posts": 1804,
+  "total_batches": 4,
   "batches": [
+    {
+      "batch_id": 4,
+      "date_key": "2026-04-29",
+      "date": "April 29, 2026",
+      "timestamp": "2026-04-29T19:20:35.176Z",
+      "total_in_batch": 1,
+      "posts": [
+        {
+          "title": "Tale of the Nine Tailed",
+          "tmdb_id": "108284",
+          "imdb_id": "tt12879418",
+          "type": "tv",
+          "year": "2020"
+        }
+      ]
+    },
     {
       "batch_id": 3,
       "date_key": "2026-04-27",
