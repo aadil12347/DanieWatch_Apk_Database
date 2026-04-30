@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-29T19:20:35.102Z",
-  "total": 1804,
+  "last_updated": "2026-04-30T15:13:25.347Z",
+  "total": 1847,
   "posts": [
     {
       "id": "1607762",
@@ -4103,6 +4103,25 @@
       "total_uploaded_episodes": 6
     },
     {
+      "id": "225741",
+      "type": "tv",
+      "title": "Oppa, Saranghae",
+      "poster": "https://image.tmdb.org/t/p/w342/jozauAFAHMiVPoW7uDkCm2PEpNI.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "SG"
+      ],
+      "original_language": "zh",
+      "genres": [],
+      "imdb_id": "",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 13
+    },
+    {
       "id": "225891",
       "type": "tv",
       "title": "The Madison",
@@ -6048,6 +6067,28 @@
       "total_uploaded_episodes": 13
     },
     {
+      "id": "63435",
+      "type": "tv",
+      "title": "Silver Spoon",
+      "poster": "https://image.tmdb.org/t/p/w342/kDEpaBqnD40tI7XpRDUFWn4JWcA.jpg",
+      "year": "2014",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "RU"
+      ],
+      "original_language": "ru",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "imdb_id": "tt4426042",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 12
+    },
+    {
       "id": "64196",
       "type": "tv",
       "title": "Overlord",
@@ -6137,6 +6178,28 @@
       "total_uploaded_episodes": 1
     },
     {
+      "id": "71347",
+      "type": "tv",
+      "title": "My Sassy Girl",
+      "poster": "https://image.tmdb.org/t/p/w342/llSHPKnZWaFvvTKqslvUVeyrK4O.jpg",
+      "year": "2017",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt6175760",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 16
+    },
+    {
       "id": "73223",
       "type": "tv",
       "title": "Black Clover",
@@ -6182,6 +6245,28 @@
       "total_uploaded_episodes": 24
     },
     {
+      "id": "78797",
+      "type": "tv",
+      "title": "Wok of Love",
+      "poster": "https://image.tmdb.org/t/p/w342/dTh81YtdEzacHhnmLw1Tef7cBRl.jpg",
+      "year": "2018",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt8236528",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 19
+    },
+    {
       "id": "81745",
       "type": "tv",
       "title": "Hide and Seek",
@@ -6224,6 +6309,28 @@
       "imdb_id": "tt8801708",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 16
+    },
+    {
+      "id": "82642",
+      "type": "tv",
+      "title": "Sweet and Salty Office",
+      "poster": "https://image.tmdb.org/t/p/w342/oTdY3jgmjM8OHA0J41SMnsEKEXO.jpg",
+      "year": "2018",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt34422526",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 20
     },
     {
       "id": "86031",
@@ -6291,6 +6398,27 @@
       "imdb_id": "tt10433136",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 24
+    },
+    {
+      "id": "95212",
+      "type": "tv",
+      "title": "Love with Flaws",
+      "poster": "https://image.tmdb.org/t/p/w342/eq4ITUNT2SJTGuUkxO2aHyGyO96.jpg",
+      "year": "2019",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt11227980",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 16
     },
     {
       "id": "95479",
@@ -7479,6 +7607,27 @@
         "Drama"
       ],
       "imdb_id": "tt26095500"
+    },
+    {
+      "id": "1075676",
+      "type": "movie",
+      "title": "Uprising",
+      "poster": "https://image.tmdb.org/t/p/w342/hg9OeaCRSpazrfqYyEFr6BDaZW8.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Action",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": "tt27987046"
     },
     {
       "id": "1078600",
@@ -12181,6 +12330,27 @@
         "Thriller"
       ],
       "imdb_id": "tt32543884"
+    },
+    {
+      "id": "1304313",
+      "type": "movie",
+      "title": "Lee Cronin's The Mummy",
+      "poster": "https://image.tmdb.org/t/p/w342/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Cam Result"
+      ],
+      "country": [
+        "US",
+        "IE"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "imdb_id": "tt32612507"
     },
     {
       "id": "1306368",
@@ -18299,6 +18469,23 @@
       "imdb_id": "tt35769322"
     },
     {
+      "id": "1584813",
+      "type": "movie",
+      "title": "Usiru",
+      "poster": "https://image.tmdb.org/t/p/w342/wGFn6qJWI4VsJQhrVQsNtTESGZj.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "kn",
+      "genres": [
+        "Thriller"
+      ],
+      "imdb_id": "tt37996122"
+    },
+    {
       "id": "1585058",
       "type": "movie",
       "title": "Dining with the Kapoors",
@@ -19966,6 +20153,26 @@
       "imdb_id": "tt0499549"
     },
     {
+      "id": "20453",
+      "type": "movie",
+      "title": "3 Idiots",
+      "poster": "https://image.tmdb.org/t/p/w342/66A9MqXOyVFCssoloscw79z8Tew.jpg",
+      "year": "2009",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt1187043"
+    },
+    {
       "id": "212168",
       "type": "movie",
       "title": "Ghost in the Shell: Arise - Border 2: Ghost Whispers",
@@ -20336,6 +20543,28 @@
         "Drama"
       ],
       "imdb_id": "tt2039393"
+    },
+    {
+      "id": "287767",
+      "type": "movie",
+      "title": "Mardaani",
+      "poster": "https://image.tmdb.org/t/p/w342/fD1zfYXgMbDkgIt9ZrHfte6mWHE.jpg",
+      "year": "2014",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": "tt3495000"
     },
     {
       "id": "289214",
@@ -20799,6 +21028,27 @@
         "Drama"
       ],
       "imdb_id": "tt5071886"
+    },
+    {
+      "id": "366654",
+      "type": "movie",
+      "title": "The Magician",
+      "poster": "https://image.tmdb.org/t/p/w342/mlvCpomcyFB4OyYjUIAvJgZhtHV.jpg",
+      "year": "2015",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Fantasy"
+      ],
+      "imdb_id": "tt4471636"
     },
     {
       "id": "372058",
@@ -22452,6 +22702,27 @@
         "Thriller"
       ],
       "imdb_id": "tt12567088"
+    },
+    {
+      "id": "591101",
+      "type": "movie",
+      "title": "Mardaani 2",
+      "poster": "https://image.tmdb.org/t/p/w342/1oChaDVWUy5tfpKRYTPzrJxp3YC.jpg",
+      "year": "2019",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": "tt5668770"
     },
     {
       "id": "59421",
@@ -24519,7 +24790,7 @@
       "id": "840464",
       "type": "movie",
       "title": "Greenland 2: Migration",
-      "poster": "https://image.tmdb.org/t/p/w342/1mF4othta76CEXcL1YFInYudQ7K.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
       "year": "2026",
       "result": "HD",
       "language": [
@@ -24619,6 +24890,30 @@
         "Drama"
       ],
       "imdb_id": "tt15340724"
+    },
+    {
+      "id": "864692",
+      "type": "movie",
+      "title": "Pathaan",
+      "poster": "https://image.tmdb.org/t/p/w342/arf00BkwvXo0CFKbaD9OpqdE4Nu.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN",
+        "IT",
+        "ES",
+        "TR"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "imdb_id": "tt12844910"
     },
     {
       "id": "868668",
@@ -25142,6 +25437,28 @@
         "Thriller"
       ],
       "imdb_id": "tt5095076"
+    },
+    {
+      "id": "940551",
+      "type": "movie",
+      "title": "Migration",
+      "poster": "https://image.tmdb.org/t/p/w342/ldfCF9RhR40mppkzmftxapaHeTo.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Adventure",
+        "Animation"
+      ],
+      "imdb_id": "tt6495056"
     },
     {
       "id": "941109",
@@ -25940,6 +26257,51 @@
       "total_uploaded_episodes": 8
     },
     {
+      "id": "104431",
+      "type": "tv",
+      "title": "You Are My Destiny",
+      "poster": "https://image.tmdb.org/t/p/w342/a6wdKoGISGiTLkvaCXr2ujGkFJ3.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt12357958",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 36
+    },
+    {
+      "id": "104798",
+      "type": "tv",
+      "title": "Lost Romance",
+      "poster": "https://image.tmdb.org/t/p/w342/oQSJy0R2qwMuQqX2MK1Uwoy3P0p.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "TW"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdb_id": "tt12495978",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 31
+    },
+    {
       "id": "105009",
       "type": "tv",
       "title": "Tokyo Revengers",
@@ -26168,6 +26530,27 @@
       "total_uploaded_episodes": 24
     },
     {
+      "id": "109866",
+      "type": "tv",
+      "title": "Dating in the Kitchen",
+      "poster": "https://image.tmdb.org/t/p/w342/8hBqMTAAFkOjg2UJEWce70fKKj.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt13085996",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 24
+    },
+    {
       "id": "110267",
       "type": "tv",
       "title": "Strange School Tales",
@@ -26326,6 +26709,28 @@
       "total_uploaded_episodes": 24
     },
     {
+      "id": "111724",
+      "type": "tv",
+      "title": "Live On",
+      "poster": "https://image.tmdb.org/t/p/w342/dop9lujlpXaIGZImoTgUteHXt7a.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt13273946",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 8
+    },
+    {
       "id": "112119",
       "type": "tv",
       "title": "Kairos",
@@ -26370,6 +26775,29 @@
       "imdb_id": "tt12256822",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 35
+    },
+    {
+      "id": "112568",
+      "type": "tv",
+      "title": "Please Don't Date Him",
+      "poster": "https://image.tmdb.org/t/p/w342/sP0ioyDyG1U5P2Bs2ZTc7FNlUIp.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdb_id": "tt13394428",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 10
     },
     {
       "id": "112706",
@@ -26462,6 +26890,28 @@
       "total_uploaded_episodes": 24
     },
     {
+      "id": "116218",
+      "type": "tv",
+      "title": "The Most Beautiful You in the World",
+      "poster": "https://image.tmdb.org/t/p/w342/j9NM3gUqlF9kDWKmWQwq2uFqM0p.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 24
+    },
+    {
       "id": "116386",
       "type": "tv",
       "title": "Doom at Your Service",
@@ -26528,6 +26978,46 @@
       "imdb_id": "tt14196410",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 40
+    },
+    {
+      "id": "118105",
+      "type": "tv",
+      "title": "My Star Bride",
+      "poster": "https://image.tmdb.org/t/p/w342/8XkztQWLQIKhbK6PwzUdLbqZBjF.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "SG"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt14084266",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 20
+    },
+    {
+      "id": "118132",
+      "type": "tv",
+      "title": "Mister Flower",
+      "poster": "https://image.tmdb.org/t/p/w342/pe0pebP9dNmIawHAubhl0uNvEM0.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "SG"
+      ],
+      "original_language": "zh",
+      "genres": [],
+      "imdb_id": "",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 20
     },
     {
       "id": "118932",
@@ -27082,6 +27572,28 @@
       "total_uploaded_episodes": 8
     },
     {
+      "id": "132198",
+      "type": "tv",
+      "title": "Meet You",
+      "poster": "https://image.tmdb.org/t/p/w342/fE0qiisuxlVSJU7ytAozXx667dP.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Action & Adventure"
+      ],
+      "imdb_id": "",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 12
+    },
+    {
       "id": "133670",
       "type": "tv",
       "title": "Work Later, Drink Now",
@@ -27102,6 +27614,28 @@
       "imdb_id": "tt15548198",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 12
+    },
+    {
+      "id": "133748",
+      "type": "tv",
+      "title": "Twisted Metal",
+      "poster": "https://image.tmdb.org/t/p/w342/zMwMClR9y7RBeVWMEmNn8LwUJHz.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "English"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action & Adventure",
+        "Comedy"
+      ],
+      "imdb_id": "tt14261112",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 22
     },
     {
       "id": "133953",
@@ -27626,6 +28160,28 @@
       "imdb_id": "tt18306798",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 24
+    },
+    {
+      "id": "155459",
+      "type": "tv",
+      "title": "Unlock My Boss",
+      "poster": "https://image.tmdb.org/t/p/w342/8SmsIBU2v4AWNNhFi5qfSUOT4ZN.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt24082562",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 12
     },
     {
       "id": "156103",
@@ -28310,6 +28866,28 @@
       "total_uploaded_episodes": 16
     },
     {
+      "id": "205827",
+      "type": "tv",
+      "title": "I SWIM",
+      "poster": "https://image.tmdb.org/t/p/w342/20RGE22EOD6IGhBRwWqqQ2ANJby.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "HK"
+      ],
+      "original_language": "cn",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt16243234",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 10
+    },
+    {
       "id": "206416",
       "type": "tv",
       "title": "Out with a Bang",
@@ -28329,6 +28907,27 @@
       "imdb_id": "tt21617090",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 24
+    },
+    {
+      "id": "206715",
+      "type": "tv",
+      "title": "Joseon Attorney: A Morality",
+      "poster": "https://image.tmdb.org/t/p/w342/r9s6F4IgFyPyjSh7n7wGMRO6Mp0.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt26599669",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 16
     },
     {
       "id": "207332",
@@ -28423,6 +29022,28 @@
       "imdb_id": "tt28100731",
       "latest_uploaded_season": 2,
       "total_uploaded_episodes": 24
+    },
+    {
+      "id": "207668",
+      "type": "tv",
+      "title": "The Legend of ShenLi",
+      "poster": "https://image.tmdb.org/t/p/w342/cVlSN6xr9IsTwRSNvZqkLg8ZLnl.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdb_id": "tt27531070",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 80
     },
     {
       "id": "208825",
@@ -28718,6 +29339,27 @@
       "total_uploaded_episodes": 24
     },
     {
+      "id": "213213",
+      "type": "tv",
+      "title": "We Got Game",
+      "poster": "https://image.tmdb.org/t/p/w342/vfTUUZjQxxhAUGIJW5i5zEP3KmZ.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "HK"
+      ],
+      "original_language": "cn",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt29387995",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 15
+    },
+    {
       "id": "213331",
       "type": "tv",
       "title": "Berserk of Gluttony",
@@ -28893,6 +29535,27 @@
       "imdb_id": "",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 24
+    },
+    {
+      "id": "214656",
+      "type": "tv",
+      "title": "Rope a Dope",
+      "poster": "https://image.tmdb.org/t/p/w342/48yZCDVUb6zgNADYCbxY0tZDmm5.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "HK"
+      ],
+      "original_language": "cn",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt29082077",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 15
     },
     {
       "id": "214697",
@@ -29538,6 +30201,27 @@
       "total_uploaded_episodes": 8
     },
     {
+      "id": "225930",
+      "type": "tv",
+      "title": "Love Endures",
+      "poster": "https://image.tmdb.org/t/p/w342/q1ryxOH0JsPG0rYFdOiAg47m4NM.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt28151897",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 32
+    },
+    {
       "id": "226066",
       "type": "tv",
       "title": "Sweet and Cold",
@@ -30123,7 +30807,7 @@
       "year": "2025",
       "result": "HD",
       "language": [
-        "E-Subtitles"
+        "Hindi"
       ],
       "country": [
         "KR"
@@ -30336,6 +31020,27 @@
       "imdb_id": "",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 12
+    },
+    {
+      "id": "234674",
+      "type": "tv",
+      "title": "Beyond Goodbye",
+      "poster": "https://image.tmdb.org/t/p/w342/zfBIufqT9QcupV17pEqQuGk29Io.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt29103836",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 8
     },
     {
       "id": "234910",
@@ -30869,6 +31574,27 @@
       "imdb_id": "tt15977292",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 8
+    },
+    {
+      "id": "243322",
+      "type": "tv",
+      "title": "Castle in the Time",
+      "poster": "https://image.tmdb.org/t/p/w342/pQcVWrNn19cNV226j2tLjBQgpih.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt29723136",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 38
     },
     {
       "id": "243826",
@@ -35421,6 +36147,28 @@
       "total_uploaded_episodes": 54
     },
     {
+      "id": "35359",
+      "type": "tv",
+      "title": "My Princess",
+      "poster": "https://image.tmdb.org/t/p/w342/le1U5CbfKkOpuk4IIL0jREydXRf.jpg",
+      "year": "2011",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "imdb_id": "tt2375282",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 16
+    },
+    {
       "id": "38472",
       "type": "tv",
       "title": "Marvel's Jessica Jones",
@@ -35441,6 +36189,29 @@
       "imdb_id": "tt2357547",
       "latest_uploaded_season": 3,
       "total_uploaded_episodes": 39
+    },
+    {
+      "id": "43152",
+      "type": "tv",
+      "title": "Rooftop Prince",
+      "poster": "https://image.tmdb.org/t/p/w342/2bHHzWAMPxIVv7e0FgTQDTYd1y5.jpg",
+      "year": "2012",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdb_id": "tt2401162",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 20
     },
     {
       "id": "43348",
@@ -35695,6 +36466,28 @@
       "total_uploaded_episodes": 51
     },
     {
+      "id": "61197",
+      "type": "tv",
+      "title": "Emergency Couple",
+      "poster": "https://image.tmdb.org/t/p/w342/pvk9IYxxLNgsdXDhA1is3LFKeCC.jpg",
+      "year": "2014",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt3530644",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 21
+    },
+    {
       "id": "61550",
       "type": "tv",
       "title": "Marvel's Agent Carter",
@@ -35827,6 +36620,28 @@
       "imdb_id": "tt1399664",
       "latest_uploaded_season": 2,
       "total_uploaded_episodes": 12
+    },
+    {
+      "id": "61890",
+      "type": "tv",
+      "title": "Hyde, Jekyll, Me",
+      "poster": "https://image.tmdb.org/t/p/w342/pSus8FBfnEAGkrVNDkAW4L1qB5Y.jpg",
+      "year": "2015",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt4357294",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 20
     },
     {
       "id": "62266",
@@ -36050,6 +36865,28 @@
       "imdb_id": "tt6227258",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 28
+    },
+    {
+      "id": "66431",
+      "type": "tv",
+      "title": "Beautiful Gong Shim",
+      "poster": "https://image.tmdb.org/t/p/w342/peO3vXCws2bD7xz2rWxgJ1CHYC1.jpg",
+      "year": "2016",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt5705896",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 20
     },
     {
       "id": "66732",
@@ -36455,6 +37292,27 @@
       "imdb_id": "tt5180504",
       "latest_uploaded_season": 4,
       "total_uploaded_episodes": 32
+    },
+    {
+      "id": "72487",
+      "type": "tv",
+      "title": "The King's Woman",
+      "poster": "https://image.tmdb.org/t/p/w342/2w4iIlTZWKz10giIjMtgaGIQiZ8.jpg",
+      "year": "2017",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt7516210",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 48
     },
     {
       "id": "72517",
@@ -37077,6 +37935,28 @@
       "total_uploaded_episodes": 24
     },
     {
+      "id": "87398",
+      "type": "tv",
+      "title": "Hello Again!",
+      "poster": "https://image.tmdb.org/t/p/w342/u6whLrXrDrYU8SquPWEBC1DAQI6.jpg",
+      "year": "2019",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "TW"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt11323558",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 26
+    },
+    {
       "id": "87508",
       "type": "tv",
       "title": "Delhi Crime",
@@ -37410,6 +38290,29 @@
       "imdb_id": "tt10614024",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 16
+    },
+    {
+      "id": "92779",
+      "type": "tv",
+      "title": "My Girlfriend is an Alien",
+      "poster": "https://image.tmdb.org/t/p/w342/sOtUZ34xeQiEZh6n0tC8vkaTNQF.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Comedy",
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "imdb_id": "tt10874298",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 58
     },
     {
       "id": "92911",
@@ -37834,6 +38737,28 @@
       "imdb_id": "tt12867810",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 16
+    },
+    {
+      "id": "99493",
+      "type": "tv",
+      "title": "Sweet Munchies",
+      "poster": "https://image.tmdb.org/t/p/w342/nPVxUVnGf6jTqoHik14YreBDPQj.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt12401208",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 12
     },
     {
       "id": "99654",
