@@ -1,8 +1,24 @@
 {
-  "last_updated": "2026-04-30T15:13:25.409Z",
-  "total_posts": 1847,
-  "total_batches": 5,
+  "last_updated": "2026-05-01T18:17:09.779Z",
+  "total_posts": 1848,
+  "total_batches": 6,
   "batches": [
+    {
+      "batch_id": 6,
+      "date_key": "2026-05-01",
+      "date": "May 1, 2026",
+      "timestamp": "2026-05-01T18:17:09.779Z",
+      "total_in_batch": 1,
+      "posts": [
+        {
+          "title": "Project Y",
+          "tmdb_id": "1401542",
+          "imdb_id": "tt37658798",
+          "type": "movie",
+          "year": "2026"
+        }
+      ]
+    },
     {
       "batch_id": 5,
       "date_key": "2026-04-30",
