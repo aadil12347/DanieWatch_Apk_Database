@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-01T18:17:09.717Z",
-  "total": 1848,
+  "last_updated": "2026-05-02T06:37:56.781Z",
+  "total": 1886,
   "posts": [
     {
       "id": "1607762",
@@ -6288,6 +6288,28 @@
       "total_uploaded_episodes": 24
     },
     {
+      "id": "81957",
+      "type": "tv",
+      "title": "The Ghost Detective",
+      "poster": "https://image.tmdb.org/t/p/w342/bbGOIFF4QNyTDygDBqMQSc76Anr.jpg",
+      "year": "2018",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Action & Adventure",
+        "Crime"
+      ],
+      "imdb_id": "tt8784636",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 16
+    },
+    {
       "id": "82237",
       "type": "tv",
       "title": "The Beauty Inside",
@@ -6486,6 +6508,29 @@
       "imdb_id": "tt12451520",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 25
+    },
+    {
+      "id": "96677",
+      "type": "tv",
+      "title": "Lupin",
+      "poster": "https://image.tmdb.org/t/p/w342/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "FR"
+      ],
+      "original_language": "fr",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": "tt2531336",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 17
     },
     {
       "id": "97173",
@@ -8256,6 +8301,26 @@
         "Drama"
       ],
       "imdb_id": "tt27560723"
+    },
+    {
+      "id": "1117411",
+      "type": "movie",
+      "title": "The Kerala Story",
+      "poster": "https://image.tmdb.org/t/p/w342/g70f3hwn5jPaNzqPssoa9unlawo.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": "tt24268454"
     },
     {
       "id": "1117857",
@@ -11293,6 +11358,26 @@
       "imdb_id": "tt15097358"
     },
     {
+      "id": "1260210",
+      "type": "movie",
+      "title": "Aadu 3",
+      "poster": "https://image.tmdb.org/t/p/w342/3yqreNY1f4iOXX0vBAqY64ZvxiV.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ml",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "imdb_id": "tt8142672"
+    },
+    {
       "id": "1261825",
       "type": "movie",
       "title": "Oh. What. Fun.",
@@ -12891,6 +12976,27 @@
       "imdb_id": "tt33068674"
     },
     {
+      "id": "1327688",
+      "type": "movie",
+      "title": "One Mile: Chapter One",
+      "poster": "https://image.tmdb.org/t/p/w342/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "ENGLISH"
+      ],
+      "country": [
+        "US",
+        "CA"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "imdb_id": "tt24326458"
+    },
+    {
       "id": "1327690",
       "type": "movie",
       "title": "One Mile: Chapter Two",
@@ -13710,6 +13816,27 @@
         "Drama"
       ],
       "imdb_id": "tt34365591"
+    },
+    {
+      "id": "138832",
+      "type": "movie",
+      "title": "We're the Millers",
+      "poster": "https://image.tmdb.org/t/p/w342/qF2LJ0jwWrtXSuT4AFD5OS2IqaT.jpg",
+      "year": "2013",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "imdb_id": "tt1723121"
     },
     {
       "id": "1388451",
@@ -14724,6 +14851,26 @@
         "Drama"
       ],
       "imdb_id": ""
+    },
+    {
+      "id": "1423251",
+      "type": "movie",
+      "title": "Biker",
+      "poster": "https://image.tmdb.org/t/p/w342/aduDhtZAcV6OlZzr7zAFbLE5aWE.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "imdb_id": "tt31593809"
     },
     {
       "id": "1424138",
@@ -15890,6 +16037,27 @@
         "Romance"
       ],
       "imdb_id": "tt15333916"
+    },
+    {
+      "id": "1481041",
+      "type": "movie",
+      "title": "Ginny Wedss Sunny 2",
+      "poster": "https://image.tmdb.org/t/p/w342/8lovlbsow4B5KbznLYDNky8usgc.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "CAMERA RESULT"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt36277018"
     },
     {
       "id": "1481965",
@@ -19410,7 +19578,7 @@
       "year": "2026",
       "result": "HD",
       "language": [
-        "Cam"
+        "Hindi"
       ],
       "country": [
         "IN"
@@ -20193,6 +20361,26 @@
       "imdb_id": "tt1187043"
     },
     {
+      "id": "2105",
+      "type": "movie",
+      "title": "American Pie",
+      "poster": "https://image.tmdb.org/t/p/w342/5P68by2Thn8wHAziyWGEw2O7hco.jpg",
+      "year": "1999",
+      "result": "HD",
+      "language": [
+        "English"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "imdb_id": "tt0163651"
+    },
+    {
       "id": "212168",
       "type": "movie",
       "title": "Ghost in the Shell: Arise - Border 2: Ghost Whispers",
@@ -20234,6 +20422,27 @@
         "Crime"
       ],
       "imdb_id": "tt2461150"
+    },
+    {
+      "id": "214910",
+      "type": "movie",
+      "title": "Hwayi: A Monster Boy",
+      "poster": "https://image.tmdb.org/t/p/w342/cDffUvnm2TaLxQYWTy0PnohSGNP.jpg",
+      "year": "2013",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "imdb_id": "tt2972362"
     },
     {
       "id": "218381",
@@ -20398,6 +20607,25 @@
       "imdb_id": "tt2848292"
     },
     {
+      "id": "26123",
+      "type": "movie",
+      "title": "American Pie Presents: The Book of Love",
+      "poster": "https://image.tmdb.org/t/p/w342/hwP0GEP0zy8ar965Xaht19SmMd3.jpg",
+      "year": "2009",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt1407050"
+    },
+    {
       "id": "26389",
       "type": "movie",
       "title": "From Paris with Love",
@@ -20460,6 +20688,26 @@
         "Science Fiction"
       ],
       "imdb_id": "tt3498820"
+    },
+    {
+      "id": "2770",
+      "type": "movie",
+      "title": "American Pie 2",
+      "poster": "https://image.tmdb.org/t/p/w342/854ZZxXdeabAs90mrV72NqShJqR.jpg",
+      "year": "2001",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "imdb_id": "tt0252866"
     },
     {
       "id": "277685",
@@ -20903,6 +21151,29 @@
         "Thriller"
       ],
       "imdb_id": "tt2069797"
+    },
+    {
+      "id": "343611",
+      "type": "movie",
+      "title": "Jack Reacher: Never Go Back",
+      "poster": "https://image.tmdb.org/t/p/w342/cOg3UT2NYWHZxp41vpxAnVCOC4M.jpg",
+      "year": "2016",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "imdb_id": "tt3393786"
     },
     {
       "id": "34496",
@@ -21473,6 +21744,28 @@
       "imdb_id": "tt6017942"
     },
     {
+      "id": "426285",
+      "type": "movie",
+      "title": "Fullmetal Alchemist",
+      "poster": "https://image.tmdb.org/t/p/w342/kWJtS0XFHxH2ADkWX8P7WISDnX3.jpg",
+      "year": "2017",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "genres": [
+        "Fantasy",
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "imdb_id": "tt5607028"
+    },
+    {
       "id": "431580",
       "type": "movie",
       "title": "Abominable",
@@ -22004,6 +22297,26 @@
       "imdb_id": "tt8155288"
     },
     {
+      "id": "51540",
+      "type": "movie",
+      "title": "Horrible Bosses",
+      "poster": "https://image.tmdb.org/t/p/w342/uQkUwgyFHAm0jGQERPG6Z9o9Zbj.jpg",
+      "year": "2011",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "imdb_id": "tt1499658"
+    },
+    {
       "id": "517909",
       "type": "movie",
       "title": "The Laundromat",
@@ -22023,6 +22336,29 @@
         "Comedy"
       ],
       "imdb_id": "tt5865326"
+    },
+    {
+      "id": "520023",
+      "type": "movie",
+      "title": "Bodies Bodies Bodies",
+      "poster": "https://image.tmdb.org/t/p/w342/hSuTjDmqRdy7Dii8ymnF2WILTeP.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US",
+        "FR"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": "tt8110652"
     },
     {
       "id": "522495",
@@ -23402,6 +23738,30 @@
       "imdb_id": "tt10345590"
     },
     {
+      "id": "645788",
+      "type": "movie",
+      "title": "The Protégé",
+      "poster": "https://image.tmdb.org/t/p/w342/iQUj7MptHUlcXpaMLrqRNZRxGA9.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "BG",
+        "RO",
+        "GB",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "imdb_id": "tt6079772"
+    },
+    {
       "id": "64685",
       "type": "movie",
       "title": "Extremely Loud & Incredibly Close",
@@ -23481,6 +23841,25 @@
         "Thriller"
       ],
       "imdb_id": "tt11469744"
+    },
+    {
+      "id": "660982",
+      "type": "movie",
+      "title": "American Pie Presents: Girls' Rules",
+      "poster": "https://image.tmdb.org/t/p/w342/xqvX5A24dbIWaeYsMTxxKX5qOfz.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "English"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt11771594"
     },
     {
       "id": "663459",
@@ -24115,6 +24494,28 @@
       "imdb_id": "tt11092020"
     },
     {
+      "id": "75780",
+      "type": "movie",
+      "title": "Jack Reacher",
+      "poster": "https://image.tmdb.org/t/p/w342/uQBbjrLVsUibWxNDGA4Czzo8lwz.jpg",
+      "year": "2012",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller",
+        "Action"
+      ],
+      "imdb_id": "tt0790724"
+    },
+    {
       "id": "758323",
       "type": "movie",
       "title": "The Pope's Exorcist",
@@ -24721,6 +25122,105 @@
       "imdb_id": "tt14513804"
     },
     {
+      "id": "8247",
+      "type": "movie",
+      "title": "Jumper",
+      "poster": "https://image.tmdb.org/t/p/w342/3pPZ9JhNz3VMmASVir5SMHvTDUU.jpg",
+      "year": "2008",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "imdb_id": "tt0489099"
+    },
+    {
+      "id": "8273",
+      "type": "movie",
+      "title": "American Pie Presents American Wedding",
+      "poster": "https://image.tmdb.org/t/p/w342/pCO3lJv2PzPkJty29APxCVSjyoE.jpg",
+      "year": "2003",
+      "result": "HD",
+      "language": [
+        "ENGLISH"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "imdb_id": "tt0328828"
+    },
+    {
+      "id": "8274",
+      "type": "movie",
+      "title": "American Pie Presents: Band Camp",
+      "poster": "https://image.tmdb.org/t/p/w342/6BgKeWEGROpWwEWvpw7vwfTCr9C.jpg",
+      "year": "2005",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt0436058"
+    },
+    {
+      "id": "8275",
+      "type": "movie",
+      "title": "American Pie Presents: The Naked Mile",
+      "poster": "https://image.tmdb.org/t/p/w342/6CPJVJrqVjibP5Uub8yCg4FKtJi.jpg",
+      "year": "2006",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt0808146"
+    },
+    {
+      "id": "8277",
+      "type": "movie",
+      "title": "American Pie Presents: Beta House",
+      "poster": "https://image.tmdb.org/t/p/w342/j7eGbwVb9hTaRFWMlSa7C1OYp3T.jpg",
+      "year": "2007",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US",
+        "CA"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt0974959"
+    },
+    {
       "id": "832964",
       "type": "movie",
       "title": "Lee",
@@ -24957,6 +25457,25 @@
       "imdb_id": "tt14338246"
     },
     {
+      "id": "8699",
+      "type": "movie",
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "poster": "https://image.tmdb.org/t/p/w342/mhZIcRePT7U8viFQVjt1ZjYIsR4.jpg",
+      "year": "2004",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt0357413"
+    },
+    {
       "id": "872585",
       "type": "movie",
       "title": "Oppenheimer",
@@ -25077,6 +25596,48 @@
         "Drama"
       ],
       "imdb_id": "tt15397918"
+    },
+    {
+      "id": "889114",
+      "type": "movie",
+      "title": "Bhala Thandanana",
+      "poster": "https://image.tmdb.org/t/p/w342/egOh0HyQByqfwa1FM6qCZtCwkpZ.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "imdb_id": "tt14209750"
+    },
+    {
+      "id": "891699",
+      "type": "movie",
+      "title": "Silent Night",
+      "poster": "https://image.tmdb.org/t/p/w342/tlcuhdNMKNGEVpGqBZrAaOOf1A6.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": "tt15799866"
     },
     {
       "id": "893591",
@@ -25746,6 +26307,48 @@
       "imdb_id": "tt10515398"
     },
     {
+      "id": "960700",
+      "type": "movie",
+      "title": "Fullmetal Alchemist: The Revenge of Scar",
+      "poster": "https://image.tmdb.org/t/p/w342/c5OwwBNyJkwyroIOIJL9IiRjydR.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "genres": [
+        "Fantasy",
+        "Action",
+        "Adventure"
+      ],
+      "imdb_id": "tt18671386"
+    },
+    {
+      "id": "960704",
+      "type": "movie",
+      "title": "Fullmetal Alchemist: The Final Alchemy",
+      "poster": "https://image.tmdb.org/t/p/w342/AeyiuQUUs78bPkz18FY3AzNFF8b.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "imdb_id": "tt18671660"
+    },
+    {
       "id": "962851",
       "type": "movie",
       "title": "Kaal Trighori",
@@ -26389,6 +26992,28 @@
       "imdb_id": "tt12235718",
       "latest_uploaded_season": 2,
       "total_uploaded_episodes": 12
+    },
+    {
+      "id": "106697",
+      "type": "tv",
+      "title": "Lonely Enough to Love!",
+      "poster": "https://image.tmdb.org/t/p/w342/6qhKb5e9olZJ5XilDBkOdZpGXKq.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 20
     },
     {
       "id": "106935",
@@ -27062,6 +27687,28 @@
       "total_uploaded_episodes": 15
     },
     {
+      "id": "119369",
+      "type": "tv",
+      "title": "Remember My Boy",
+      "poster": "https://image.tmdb.org/t/p/w342/n56ykPIQwj4mbRkvs5hB0Guu29O.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt14018558",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 24
+    },
+    {
       "id": "119466",
       "type": "tv",
       "title": "Youth of May",
@@ -27505,6 +28152,28 @@
       "total_uploaded_episodes": 30
     },
     {
+      "id": "129889",
+      "type": "tv",
+      "title": "Moonshine",
+      "poster": "https://image.tmdb.org/t/p/w342/dJAlUCdFWAso5cowfv3vhI2QtZY.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt14609502",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 16
+    },
+    {
       "id": "130107",
       "type": "tv",
       "title": "Forever and Ever",
@@ -27546,6 +28215,28 @@
       "imdb_id": "tt22646564",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 50
+    },
+    {
+      "id": "131026",
+      "type": "tv",
+      "title": "Dali & Cocky Prince",
+      "poster": "https://image.tmdb.org/t/p/w342/r6X8JNFfgiq91MDtXBm3fzzmyGB.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt14730768",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 16
     },
     {
       "id": "131305",
@@ -28180,6 +28871,27 @@
       "imdb_id": "tt18306798",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 24
+    },
+    {
+      "id": "155421",
+      "type": "tv",
+      "title": "All the Light We Cannot See",
+      "poster": "https://image.tmdb.org/t/p/w342/5vctOvdEXakZWTJrP8bgPEoCbqS.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt15320362",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 4
     },
     {
       "id": "155459",
@@ -29643,6 +30355,25 @@
       "total_uploaded_episodes": 16
     },
     {
+      "id": "216266",
+      "type": "tv",
+      "title": "Love At First Bite",
+      "poster": "https://image.tmdb.org/t/p/w342/A8S4Btglmw1eJvcNwYoo7VqzLgD.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "SG"
+      ],
+      "original_language": "zh",
+      "genres": [],
+      "imdb_id": "",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 20
+    },
+    {
       "id": "216445",
       "type": "tv",
       "title": "Fireworks of My Heart",
@@ -30016,6 +30747,28 @@
         "Western"
       ],
       "imdb_id": "tt16280546",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 7
+    },
+    {
+      "id": "223386",
+      "type": "tv",
+      "title": "Man on Fire",
+      "poster": "https://image.tmdb.org/t/p/w342/9cZzmT8rhBXbZ1QFBPs3ggABYB3.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action & Adventure",
+        "Crime"
+      ],
+      "imdb_id": "tt27331527",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 7
     },
@@ -30972,6 +31725,30 @@
       "imdb_id": "tt28115920",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 36
+    },
+    {
+      "id": "233629",
+      "type": "tv",
+      "title": "Bodies",
+      "poster": "https://image.tmdb.org/t/p/w342/qWX71nLvoLsBNPEjddZMC75lq6I.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "imdb_id": "tt18347622",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 8
     },
     {
       "id": "233686",
@@ -36727,6 +37504,28 @@
         "Romance"
       ],
       "imdb_id": "tt4791426",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 16
+    },
+    {
+      "id": "62925",
+      "type": "tv",
+      "title": "The Time We Were Not in Love",
+      "poster": "https://image.tmdb.org/t/p/w342/kcmzZ5MI0f4NGaYOcHfHBQaIlio.jpg",
+      "year": "2015",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": "tt4817002",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 16
     },
