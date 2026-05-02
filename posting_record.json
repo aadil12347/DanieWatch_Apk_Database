@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T06:37:56.844Z",
+  "last_updated": "2026-05-02T21:16:31.586Z",
   "total_posts": 1886,
   "total_batches": 7,
   "batches": [
@@ -8,8 +8,15 @@
       "date_key": "2026-05-02",
       "date": "May 2, 2026",
       "timestamp": "2026-05-02T06:37:56.844Z",
-      "total_in_batch": 38,
+      "total_in_batch": 39,
       "posts": [
+        {
+          "title": "Money Heist",
+          "tmdb_id": "71446",
+          "imdb_id": "tt6468322",
+          "type": "tv",
+          "year": "2017"
+        },
         {
           "title": "Aadu 3",
           "tmdb_id": "1260210",
@@ -276,7 +283,8 @@
           "type": "movie",
           "year": "2013"
         }
-      ]
+      ],
+      "last_modified": "2026-05-02T21:16:31.586Z"
     },
     {
       "batch_id": 6,
@@ -1042,7 +1050,7 @@
       "date_key": "2026-04-24",
       "date": "April 24, 2026",
       "timestamp": "2026-04-24T05:59:49.220Z",
-      "total_in_batch": 174,
+      "total_in_batch": 173,
       "posts": [
         {
           "title": "A Perfect Planet",
@@ -1792,13 +1800,6 @@
           "imdb_id": "tt11712058",
           "type": "tv",
           "year": "2025"
-        },
-        {
-          "title": "Money Heist",
-          "tmdb_id": "71446",
-          "imdb_id": "tt6468322",
-          "type": "tv",
-          "year": "2021"
         },
         {
           "title": "My Life with the Walter Boys",
