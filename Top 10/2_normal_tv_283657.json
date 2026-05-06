@@ -1,0 +1,51 @@
+{
+  "id": "283657",
+  "type": "tv",
+  "title": "Glory",
+  "poster": "https://image.tmdb.org/t/p/w342/juAQ7fFQGu2n3A2gW5tfNub1cW8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/o9rD068PXoATK5H5Z3W2sJ4fA60.jpg",
+  "year": "2026",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/c8s9o69aqpri/glory-s01e01-720p-hindi-web-dl-5-1-esub-x264-hdhub4u-ms-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/4tsc96ueqyk2/glory-s01e02-720p-hindi-web-dl-5-1-esub-x264-hdhub4u-ms-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/54nj4ed5b49q/glory-s01e03-720p-hindi-web-dl-5-1-esub-x264-hdhub4u-ms-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/clzordyg6adx/glory-s01e04-720p-hindi-web-dl-5-1-esub-x264-hdhub4u-ms-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ifulzd2qeyrz/glory-s01e05-720p-hindi-web-dl-5-1-esub-x264-hdhub4u-ms-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/jvcpew4nt5jf/glory-s01e06-720p-hindi-web-dl-5-1-esub-x264-hdhub4u-ms-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/1ifgs0ptfweh/glory-s01e07-720p-hindi-web-dl-5-1-esub-x264-hdhub4u-ms-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episodes": []
+    }
+  ]
+}
