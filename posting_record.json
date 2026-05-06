@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T05:55:57.084Z",
+  "last_updated": "2026-05-06T06:37:37.315Z",
   "total_posts": 1923,
   "total_batches": 8,
   "batches": [
@@ -8,8 +8,15 @@
       "date_key": "2026-05-06",
       "date": "May 6, 2026",
       "timestamp": "2026-05-06T05:55:57.084Z",
-      "total_in_batch": 36,
+      "total_in_batch": 37,
       "posts": [
+        {
+          "title": "The Whirlwind",
+          "tmdb_id": "223329",
+          "imdb_id": "tt27368132",
+          "type": "tv",
+          "year": "2024"
+        },
         {
           "title": "Agnyathavasi",
           "tmdb_id": "1454376",
@@ -262,7 +269,8 @@
           "type": "tv",
           "year": "2021"
         }
-      ]
+      ],
+      "last_modified": "2026-05-06T06:37:37.315Z"
     },
     {
       "batch_id": 7,
