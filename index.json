@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-02T21:16:31.514Z",
-  "total": 1886,
+  "last_updated": "2026-05-06T05:55:57.018Z",
+  "total": 1923,
   "posts": [
     {
       "id": "1607762",
@@ -2939,6 +2939,26 @@
       "imdb_id": "tt4273886"
     },
     {
+      "id": "340912",
+      "type": "movie",
+      "title": "Enemies In-Law",
+      "poster": "https://image.tmdb.org/t/p/w342/xe2q5puzmFogp2i3fVla9Xcloc1.jpg",
+      "year": "2015",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "imdb_id": "tt5449088"
+    },
+    {
       "id": "399579",
       "type": "movie",
       "title": "Alita: Battle Angel",
@@ -2958,6 +2978,26 @@
         "Adventure"
       ],
       "imdb_id": "tt0437086"
+    },
+    {
+      "id": "422576",
+      "type": "movie",
+      "title": "Will You Be There",
+      "poster": "https://image.tmdb.org/t/p/w342/mFyWyuZ7H0cqxwGH8H3DgQbsbEj.jpg",
+      "year": "2016",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "imdb_id": "tt6434022"
     },
     {
       "id": "437109",
@@ -3063,6 +3103,26 @@
         "Thriller"
       ],
       "imdb_id": "tt10505918"
+    },
+    {
+      "id": "635996",
+      "type": "movie",
+      "title": "Wonderland",
+      "poster": "https://image.tmdb.org/t/p/w342/xGFjhFkqpOpFFUkEQjetKS11AWz.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "imdb_id": "tt31254554"
     },
     {
       "id": "76341",
@@ -6178,6 +6238,28 @@
       "total_uploaded_episodes": 1
     },
     {
+      "id": "70045",
+      "type": "tv",
+      "title": "The Starry Night, The Starry Sea",
+      "poster": "https://image.tmdb.org/t/p/w342/wOCgmU9mW7cfI6fJFgqh4DbhZ2B.jpg",
+      "year": "2017",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "imdb_id": "tt5594768",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 29
+    },
+    {
       "id": "71347",
       "type": "tv",
       "title": "My Sassy Girl",
@@ -6198,6 +6280,28 @@
       "imdb_id": "tt6175760",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 16
+    },
+    {
+      "id": "71446",
+      "type": "tv",
+      "title": "Money Heist",
+      "poster": "https://image.tmdb.org/t/p/w342/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+      "year": "2017",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "ES"
+      ],
+      "original_language": "es",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": "tt6468322",
+      "latest_uploaded_season": 5,
+      "total_uploaded_episodes": 48
     },
     {
       "id": "71446",
@@ -6287,6 +6391,30 @@
       "imdb_id": "tt8236528",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 19
+    },
+    {
+      "id": "80919",
+      "type": "tv",
+      "title": "Still 17",
+      "poster": "https://image.tmdb.org/t/p/w342/rufDz8f0SD86RyFwDNSQUROK51s.jpg",
+      "year": "2018",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Crime",
+        "Mystery"
+      ],
+      "imdb_id": "tt8648696",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 16
     },
     {
       "id": "81745",
@@ -6838,6 +6966,30 @@
         "Thriller"
       ],
       "imdb_id": "tt28996126"
+    },
+    {
+      "id": "1007757",
+      "type": "movie",
+      "title": "Swapped",
+      "poster": "https://image.tmdb.org/t/p/w342/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US",
+        "ES"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "imdb_id": "tt29552248"
     },
     {
       "id": "1010600",
@@ -7421,6 +7573,26 @@
         "Horror"
       ],
       "imdb_id": "tt20258220"
+    },
+    {
+      "id": "1059007",
+      "type": "movie",
+      "title": "Agra",
+      "poster": "https://image.tmdb.org/t/p/w342/biX8D3kSh4HuZzf1r0ynRgaEJte.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "FR",
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt11112532"
     },
     {
       "id": "10601",
@@ -9243,6 +9415,26 @@
       "imdb_id": "tt15484752"
     },
     {
+      "id": "1171094",
+      "type": "movie",
+      "title": "Ek Din",
+      "poster": "https://image.tmdb.org/t/p/w342/jpKXZyWh6WN55UJ3rqkwbzWeD5Q.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "CAM RESULT"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "imdb_id": "tt35682680"
+    },
+    {
       "id": "1171101",
       "type": "movie",
       "title": "Kuberaa",
@@ -9678,6 +9870,26 @@
       "imdb_id": "tt27656274"
     },
     {
+      "id": "1199869",
+      "type": "movie",
+      "title": "Eye for an Eye",
+      "poster": "https://image.tmdb.org/t/p/w342/lpepbfVziHJLhVoxTEKs8ok00iu.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US",
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror"
+      ],
+      "imdb_id": "tt28088571"
+    },
+    {
       "id": "120",
       "type": "movie",
       "title": "The Lord of the Rings: The Fellowship of the Ring",
@@ -9777,6 +9989,27 @@
         "Crime"
       ],
       "imdb_id": "tt1714918"
+    },
+    {
+      "id": "1209511",
+      "type": "movie",
+      "title": "Love Insurance Kompany",
+      "poster": "https://image.tmdb.org/t/p/w342/dTaHHJ9enIvoKeUPKA2GkhFk3OC.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Romance",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "imdb_id": "tt30460421"
     },
     {
       "id": "1211242",
@@ -10626,6 +10859,26 @@
       "imdb_id": "tt29540862"
     },
     {
+      "id": "1239198",
+      "type": "movie",
+      "title": "My Dearest Señorita",
+      "poster": "https://image.tmdb.org/t/p/w342/cTcJs2bEsJDhQEpeYSOZD3yayZI.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "ES"
+      ],
+      "original_language": "es",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": "tt31116965"
+    },
+    {
       "id": "1239655",
       "type": "movie",
       "title": "Friendship",
@@ -11031,6 +11284,27 @@
         "Romance"
       ],
       "imdb_id": "tt31434030"
+    },
+    {
+      "id": "1247165",
+      "type": "movie",
+      "title": "Raja Shivaji",
+      "poster": "https://image.tmdb.org/t/p/w342/9e2Wc6sbeU1YdBWLJIDyMcEWrN2.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "CAM RESULT"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "mr",
+      "genres": [
+        "Action",
+        "History",
+        "Drama"
+      ],
+      "imdb_id": "tt31390893"
     },
     {
       "id": "1247528",
@@ -12977,6 +13251,25 @@
         "Comedy"
       ],
       "imdb_id": "tt33029024"
+    },
+    {
+      "id": "1325678",
+      "type": "movie",
+      "title": "Sarah's Oil",
+      "poster": "https://image.tmdb.org/t/p/w342/Av1CK61z33v2OBFLD1yF5rdRxQ1.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt31727267"
     },
     {
       "id": "1325958",
@@ -15722,6 +16015,24 @@
       "imdb_id": "tt35217961"
     },
     {
+      "id": "1454376",
+      "type": "movie",
+      "title": "Agnyathavasi",
+      "poster": "https://image.tmdb.org/t/p/w342/ephTFUQNYhBmYjKqMoMazzHpVqu.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "kn",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "imdb_id": "tt27470862"
+    },
+    {
       "id": "1455239",
       "type": "movie",
       "title": "Jija Sala Jija",
@@ -16921,6 +17232,27 @@
       "imdb_id": "tt37670615"
     },
     {
+      "id": "1518247",
+      "type": "movie",
+      "title": "Happy Raj",
+      "poster": "https://image.tmdb.org/t/p/w342/hHJlk5VABzAyxUijIAeo8CzkfLa.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt39122419"
+    },
+    {
       "id": "1519168",
       "type": "movie",
       "title": "The Jester 2",
@@ -17389,6 +17721,26 @@
         "Action"
       ],
       "imdb_id": "tt37867075"
+    },
+    {
+      "id": "1534530",
+      "type": "movie",
+      "title": "The Whisper",
+      "poster": "https://image.tmdb.org/t/p/w342/sanKujWA3g7StpK9y7NU78FAJ6O.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "AR",
+        "UY"
+      ],
+      "original_language": "es",
+      "genres": [
+        "Horror"
+      ],
+      "imdb_id": "tt35956182"
     },
     {
       "id": "1534964",
@@ -19978,6 +20330,23 @@
       "imdb_id": "tt35022209"
     },
     {
+      "id": "1650939",
+      "type": "movie",
+      "title": "Pitt Siyapa",
+      "poster": "https://image.tmdb.org/t/p/w342/pee6fD1cudLr0Fbj4F37S49XjUH.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "CAM RESULT"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "pa",
+      "genres": [],
+      "imdb_id": "tt39387317"
+    },
+    {
       "id": "1657598",
       "type": "movie",
       "title": "The Call",
@@ -20192,6 +20561,23 @@
       "imdb_id": "tt1408253"
     },
     {
+      "id": "1687255",
+      "type": "movie",
+      "title": "Tapak",
+      "poster": "https://image.tmdb.org/t/p/w342/rKDlbvmbZOZRkrjAC12bwGjniSs.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "hi",
+      "genres": [
+        "Mystery"
+      ],
+      "imdb_id": "tt37106680"
+    },
+    {
       "id": "1693",
       "type": "movie",
       "title": "Monster Man",
@@ -20381,6 +20767,27 @@
         "Comedy"
       ],
       "imdb_id": "tt1187043"
+    },
+    {
+      "id": "209247",
+      "type": "movie",
+      "title": "The Art of the Steal",
+      "poster": "https://image.tmdb.org/t/p/w342/4R6ojBfyO8fj3WszLE9rog5qR4W.jpg",
+      "year": "2013",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CA",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "imdb_id": "tt2172985"
     },
     {
       "id": "2105",
@@ -21851,6 +22258,26 @@
         "Fantasy"
       ],
       "imdb_id": "tt6340500"
+    },
+    {
+      "id": "45202",
+      "type": "movie",
+      "title": "The Housemaid",
+      "poster": "https://image.tmdb.org/t/p/w342/acrlZuaS7ypiEUb3oZRA28Ox7TV.jpg",
+      "year": "2010",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "imdb_id": "tt1314652"
     },
     {
       "id": "452068",
@@ -26815,6 +27242,29 @@
       "total_uploaded_episodes": 32
     },
     {
+      "id": "101472",
+      "type": "tv",
+      "title": "Girlfriend",
+      "poster": "https://image.tmdb.org/t/p/w342/9WmZtqgS2uhTbD3HvgkA8Xetl7V.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Family",
+        "Comedy"
+      ],
+      "imdb_id": "tt12193174",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 36
+    },
+    {
       "id": "103469",
       "type": "tv",
       "title": "My Love, Enlighten Me",
@@ -26835,6 +27285,29 @@
       "imdb_id": "tt12274642",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 24
+    },
+    {
+      "id": "103596",
+      "type": "tv",
+      "title": "Leap Day",
+      "poster": "https://image.tmdb.org/t/p/w342/cLSLAtcFMLceRG7VkueNic6Csrn.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "HK"
+      ],
+      "original_language": "cn",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdb_id": "tt15964514",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 10
     },
     {
       "id": "103809",
@@ -27534,6 +28007,29 @@
       "total_uploaded_episodes": 5
     },
     {
+      "id": "116043",
+      "type": "tv",
+      "title": "L.U.C.A.: The Beginning",
+      "poster": "https://image.tmdb.org/t/p/w342/jcEikoCQsdKueYT20ekzhx6C6HY.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Mystery",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "imdb_id": "tt13752928",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 12
+    },
+    {
       "id": "116135",
       "type": "tv",
       "title": "Vikings: Valhalla",
@@ -27797,6 +28293,28 @@
       "total_uploaded_episodes": 22
     },
     {
+      "id": "122111",
+      "type": "tv",
+      "title": "Hello Mr. Gu",
+      "poster": "https://image.tmdb.org/t/p/w342/Mq7H1cnZctl52lX5mMeG2VfM7U.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt14407908",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 30
+    },
+    {
       "id": "122182",
       "type": "tv",
       "title": "The Long Ballad",
@@ -27995,6 +28513,27 @@
       "total_uploaded_episodes": 14
     },
     {
+      "id": "126698",
+      "type": "tv",
+      "title": "You Are My Spring",
+      "poster": "https://image.tmdb.org/t/p/w342/elwXwSRBJHxLqOtSYFztytB7vj.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt14169816",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 16
+    },
+    {
       "id": "127366",
       "type": "tv",
       "title": "Splinter Cell: Deathwatch",
@@ -28126,6 +28665,27 @@
       "imdb_id": "tt15037012",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 24
+    },
+    {
+      "id": "129244",
+      "type": "tv",
+      "title": "My Deskmate",
+      "poster": "https://image.tmdb.org/t/p/w342/4WCDG51r94hFjj6tfwfazV9Suz5.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 30
     },
     {
       "id": "129418",
@@ -28413,6 +28973,28 @@
       "imdb_id": "tt22096832",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 35
+    },
+    {
+      "id": "135286",
+      "type": "tv",
+      "title": "Live Your Life",
+      "poster": "https://image.tmdb.org/t/p/w342/n8iDqnNuUVSc4FUZsNDqyt2gsiJ.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt15738790",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 40
     },
     {
       "id": "136063",
@@ -29574,6 +30156,27 @@
       "total_uploaded_episodes": 30
     },
     {
+      "id": "204761",
+      "type": "tv",
+      "title": "Almost Famous",
+      "poster": "https://image.tmdb.org/t/p/w342/eWdHuZZ5OxOlfET3diadgf2Sx1u.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 24
+    },
+    {
       "id": "205082",
       "type": "tv",
       "title": "Vigilante",
@@ -29911,6 +30514,28 @@
       "imdb_id": "tt27206885",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 38
+    },
+    {
+      "id": "210732",
+      "type": "tv",
+      "title": "Mr. Bad",
+      "poster": "https://image.tmdb.org/t/p/w342/yyIzL3aZ8SqGIrzAeySYqyxIMSq.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 24
     },
     {
       "id": "210781",
@@ -31015,6 +31640,27 @@
       "imdb_id": "tt28151897",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 32
+    },
+    {
+      "id": "226002",
+      "type": "tv",
+      "title": "Gen Z",
+      "poster": "https://image.tmdb.org/t/p/w342/2C8LwBBCnU3uyKppMxIruEr7Zjp.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt27687545",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 40
     },
     {
       "id": "226066",
@@ -32263,6 +32909,27 @@
       "total_uploaded_episodes": 8
     },
     {
+      "id": "240983",
+      "type": "tv",
+      "title": "Sapne vs Everyone",
+      "poster": "https://image.tmdb.org/t/p/w342/ajBMZ9JNpfrecj4xpZz49tCONBm.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt30263074",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 10
+    },
+    {
       "id": "241065",
       "type": "tv",
       "title": "Got a Crush on You",
@@ -33277,6 +33944,27 @@
       "total_uploaded_episodes": 9
     },
     {
+      "id": "249906",
+      "type": "tv",
+      "title": "Tokyo Swindlers",
+      "poster": "https://image.tmdb.org/t/p/w342/892R0peQpBJP6VnAiQWtAGxRUr.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "genres": [
+        "Crime"
+      ],
+      "imdb_id": "tt31250132",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 7
+    },
+    {
       "id": "249972",
       "type": "tv",
       "title": "Blossom",
@@ -33784,6 +34472,28 @@
       "imdb_id": "tt32252887",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 6
+    },
+    {
+      "id": "258008",
+      "type": "tv",
+      "title": "Teenage Textbook",
+      "poster": "https://image.tmdb.org/t/p/w342/x19HWqPmP3vwIAYURrfDiT4clZJ.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "SG"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt14272532",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 13
     },
     {
       "id": "258025",
@@ -34798,6 +35508,29 @@
       "total_uploaded_episodes": 6
     },
     {
+      "id": "283657",
+      "type": "tv",
+      "title": "Glory",
+      "poster": "https://image.tmdb.org/t/p/w342/juAQ7fFQGu2n3A2gW5tfNub1cW8.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Action & Adventure"
+      ],
+      "imdb_id": "tt35668375",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 7
+    },
+    {
       "id": "283673",
       "type": "tv",
       "title": "That Night",
@@ -35763,6 +36496,27 @@
       "imdb_id": "tt34218696",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 8
+    },
+    {
+      "id": "300529",
+      "type": "tv",
+      "title": "Straight to Hell",
+      "poster": "https://image.tmdb.org/t/p/w342/fRgQ7noEDUoP6w2EEQlQgvnrpiy.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt38337374",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 9
     },
     {
       "id": "300594",
@@ -37394,6 +38148,30 @@
       "imdb_id": "tt3895150",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 22
+    },
+    {
+      "id": "61670",
+      "type": "tv",
+      "title": "Healer",
+      "poster": "https://image.tmdb.org/t/p/w342/4Zc0XtzXasrfgOyCH7wX8stqkEu.jpg",
+      "year": "2014",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Comedy",
+        "Action & Adventure",
+        "Mystery",
+        "Drama"
+      ],
+      "imdb_id": "tt4284216",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 20
     },
     {
       "id": "61786",

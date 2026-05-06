@@ -1,8 +1,269 @@
 {
-  "last_updated": "2026-05-02T21:16:31.586Z",
-  "total_posts": 1886,
-  "total_batches": 7,
+  "last_updated": "2026-05-06T05:55:57.084Z",
+  "total_posts": 1923,
+  "total_batches": 8,
   "batches": [
+    {
+      "batch_id": 8,
+      "date_key": "2026-05-06",
+      "date": "May 6, 2026",
+      "timestamp": "2026-05-06T05:55:57.084Z",
+      "total_in_batch": 36,
+      "posts": [
+        {
+          "title": "Agnyathavasi",
+          "tmdb_id": "1454376",
+          "imdb_id": "tt27470862",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Agra",
+          "tmdb_id": "1059007",
+          "imdb_id": "tt11112532",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Almost Famous",
+          "tmdb_id": "204761",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "Ek Din",
+          "tmdb_id": "1171094",
+          "imdb_id": "tt35682680",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Enemies In-Law",
+          "tmdb_id": "340912",
+          "imdb_id": "tt5449088",
+          "type": "movie",
+          "year": "2015"
+        },
+        {
+          "title": "Eye for an Eye",
+          "tmdb_id": "1199869",
+          "imdb_id": "tt28088571",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Gen Z",
+          "tmdb_id": "226002",
+          "imdb_id": "tt27687545",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "Girlfriend",
+          "tmdb_id": "101472",
+          "imdb_id": "tt12193174",
+          "type": "tv",
+          "year": "2020"
+        },
+        {
+          "title": "Glory",
+          "tmdb_id": "283657",
+          "imdb_id": "tt35668375",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Happy Raj",
+          "tmdb_id": "1518247",
+          "imdb_id": "tt39122419",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Healer",
+          "tmdb_id": "61670",
+          "imdb_id": "tt4284216",
+          "type": "tv",
+          "year": "2014"
+        },
+        {
+          "title": "Hello Mr. Gu",
+          "tmdb_id": "122111",
+          "imdb_id": "tt14407908",
+          "type": "tv",
+          "year": "2021"
+        },
+        {
+          "title": "L.U.C.A.: The Beginning",
+          "tmdb_id": "116043",
+          "imdb_id": "tt13752928",
+          "type": "tv",
+          "year": "2021"
+        },
+        {
+          "title": "Leap Day",
+          "tmdb_id": "103596",
+          "imdb_id": "tt15964514",
+          "type": "tv",
+          "year": "2020"
+        },
+        {
+          "title": "Live Your Life",
+          "tmdb_id": "135286",
+          "imdb_id": "tt15738790",
+          "type": "tv",
+          "year": "2021"
+        },
+        {
+          "title": "Love Insurance Kompany",
+          "tmdb_id": "1209511",
+          "imdb_id": "tt30460421",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Mr. Bad",
+          "tmdb_id": "210732",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "My Dearest Señorita",
+          "tmdb_id": "1239198",
+          "imdb_id": "tt31116965",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "My Deskmate",
+          "tmdb_id": "129244",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2021"
+        },
+        {
+          "title": "Pitt Siyapa",
+          "tmdb_id": "1650939",
+          "imdb_id": "tt39387317",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Raja Shivaji",
+          "tmdb_id": "1247165",
+          "imdb_id": "tt31390893",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Sapne vs Everyone",
+          "tmdb_id": "240983",
+          "imdb_id": "tt30263074",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Sarah's Oil",
+          "tmdb_id": "1325678",
+          "imdb_id": "tt31727267",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Still 17",
+          "tmdb_id": "80919",
+          "imdb_id": "tt8648696",
+          "type": "tv",
+          "year": "2018"
+        },
+        {
+          "title": "Straight to Hell",
+          "tmdb_id": "300529",
+          "imdb_id": "tt38337374",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Swapped",
+          "tmdb_id": "1007757",
+          "imdb_id": "tt29552248",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Tapak",
+          "tmdb_id": "1687255",
+          "imdb_id": "tt37106680",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Teenage Textbook",
+          "tmdb_id": "258008",
+          "imdb_id": "tt14272532",
+          "type": "tv",
+          "year": "2021"
+        },
+        {
+          "title": "The Art of the Steal",
+          "tmdb_id": "209247",
+          "imdb_id": "tt2172985",
+          "type": "movie",
+          "year": "2013"
+        },
+        {
+          "title": "The Housemaid",
+          "tmdb_id": "45202",
+          "imdb_id": "tt1314652",
+          "type": "movie",
+          "year": "2010"
+        },
+        {
+          "title": "The Starry Night, The Starry Sea",
+          "tmdb_id": "70045",
+          "imdb_id": "tt5594768",
+          "type": "tv",
+          "year": "2017"
+        },
+        {
+          "title": "The Whisper",
+          "tmdb_id": "1534530",
+          "imdb_id": "tt35956182",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Tokyo Swindlers",
+          "tmdb_id": "249906",
+          "imdb_id": "tt31250132",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Will You Be There",
+          "tmdb_id": "422576",
+          "imdb_id": "tt6434022",
+          "type": "movie",
+          "year": "2016"
+        },
+        {
+          "title": "Wonderland",
+          "tmdb_id": "635996",
+          "imdb_id": "tt31254554",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "You Are My Spring",
+          "tmdb_id": "126698",
+          "imdb_id": "tt14169816",
+          "type": "tv",
+          "year": "2021"
+        }
+      ]
+    },
     {
       "batch_id": 7,
       "date_key": "2026-05-02",
