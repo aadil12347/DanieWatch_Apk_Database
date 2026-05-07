@@ -1,0 +1,345 @@
+{
+  "id": "80331",
+  "type": "tv",
+  "title": "Dreaming Of You",
+  "poster": "https://image.tmdb.org/t/p/w342/iV0o83MRMSECBaXxakQ8UpJVcl4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/v4qy7wtah6OVWuclvs9F6nIlld6.jpg",
+  "year": "2018",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "Episode 1",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/mTaHrDmOtqwjSDt3whqlidChAPg.jpg",
+          "air_date": "2018-07-05",
+          "runtime": 120,
+          "vote_average": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/vxmxrg24mvrr/dreaming-of-you-s01e01-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "name": "Episode 2",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/3rcP3M8lKa14epMBxfboYXOvprs.jpg",
+          "air_date": "2018-07-12",
+          "runtime": 120,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/htsqnviwomqj/dreaming-of-you-s01e02-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "name": "Episode 3",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/sQF4wa8f7J14d1XgLf9xQ9fEuDa.jpg",
+          "air_date": "2018-07-19",
+          "runtime": 120,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/y5elq8edoxc2/dreaming-of-you-s01e03-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "name": "Episode 4",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/oaKHfJBAfBuSnuooAsN79QsZN0m.jpg",
+          "air_date": "2018-07-26",
+          "runtime": 120,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/hdonsa4jjd40/dreaming-of-you-s01e04-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "name": "Episode 5",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/1ffMcj2JJRB7Wb1ZyqGRXxxFao1.jpg",
+          "air_date": "2018-08-02",
+          "runtime": 120,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/akq1j08rjog4/dreaming-of-you-s01e05-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "name": "Episode 6",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/qiACvhnk4xKJznUg9Vq2rclTacn.jpg",
+          "air_date": "2018-08-09",
+          "runtime": 120,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/pn23ytn5qute/dreaming-of-you-s01e06-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "name": "Episode 7",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/fundl2rUUEWxPvujA5brDuciP1t.jpg",
+          "air_date": "2018-08-16",
+          "runtime": 120,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/tqvzn6mgzbut/dreaming-of-you-s01e07-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 8,
+          "name": "Episode 8",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/2XrTdd3lwyyaMRGRttOXgDTGgiv.jpg",
+          "air_date": "2018-08-30",
+          "runtime": 120,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/y8jcssqh2s75/dreaming-of-you-s01e08-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 9,
+          "name": "Episode 9",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/bjqbqK6PvMbEYSJgoJLlaTnFGhL.jpg",
+          "air_date": "2018-09-06",
+          "runtime": 120,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/2hukqr70lsfq/dreaming-of-you-s01e09-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 10,
+          "name": "Episode 10",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/1VtrHE9NNafF5SFeKgAXfD0xOxf.jpg",
+          "air_date": "2018-09-13",
+          "runtime": 120,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/9ubmqtydha0x/dreaming-of-you-s01e10-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 11,
+          "name": "Episode 11",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/dBUQ3WP1dSyn0V8r1hul7Di4fy8.jpg",
+          "air_date": "2018-09-20",
+          "runtime": 120,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/eit3lif0n68j/dreaming-of-you-s01e11-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 12,
+          "name": "Episode 12",
+          "watch": "<iframe src=\"https://bysebuho.com/e/kww9tp7u8kn8/dreaming-of-you-s01e12-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 13,
+          "name": "Episode 13",
+          "watch": "<iframe src=\"https://bysebuho.com/e/wqwwiv213lag/dreaming-of-you-s01e13-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 14,
+          "name": "Episode 14",
+          "watch": "<iframe src=\"https://bysebuho.com/e/qimrry2dqkt4/dreaming-of-you-s01e14-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 15,
+          "name": "Episode 15",
+          "watch": "<iframe src=\"https://bysebuho.com/e/5dwi9snpu969/dreaming-of-you-s01e15-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 16,
+          "name": "Episode 16",
+          "watch": "<iframe src=\"https://bysebuho.com/e/yxnt4yz4w4lx/dreaming-of-you-s01e16-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 17,
+          "name": "Episode 17",
+          "watch": "<iframe src=\"https://bysebuho.com/e/gqlxi3j66ggk/dreaming-of-you-s01e17-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 18,
+          "name": "Episode 18",
+          "watch": "<iframe src=\"https://bysebuho.com/e/cuqxxw3jw02p/dreaming-of-you-s01e18-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 19,
+          "name": "Episode 19",
+          "watch": "<iframe src=\"https://bysebuho.com/e/ucbweqa4aghd/dreaming-of-you-s01e19-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 20,
+          "name": "Episode 20",
+          "watch": "<iframe src=\"https://bysebuho.com/e/3fhcsqr6cksx/dreaming-of-you-s01e20-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 21,
+          "name": "Episode 21",
+          "watch": "<iframe src=\"https://bysebuho.com/e/0ohi72qg7wnz/dreaming-of-you-s01e21-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 22,
+          "name": "Episode 22",
+          "watch": "<iframe src=\"https://bysebuho.com/e/0kkd0ev9fyos/dreaming-of-you-s01e22-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 23,
+          "name": "Episode 23",
+          "watch": "<iframe src=\"https://bysebuho.com/e/1sa2nesqrui8/dreaming-of-you-s01e23-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 24,
+          "name": "Episode 24",
+          "watch": "<iframe src=\"https://bysebuho.com/e/0xru77ujxbbg/dreaming-of-you-s01e24-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 25,
+          "name": "Episode 25",
+          "watch": "<iframe src=\"https://bysebuho.com/e/rnxakr9n6yxc/dreaming-of-you-s01e25-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 26,
+          "name": "Episode 26",
+          "watch": "<iframe src=\"https://bysebuho.com/e/0zp1e3q3z6yv/dreaming-of-you-s01e26-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 27,
+          "name": "Episode 27",
+          "watch": "<iframe src=\"https://bysebuho.com/e/w0vh3xtecdqc/dreaming-of-you-s01e27-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 28,
+          "name": "Episode 28",
+          "watch": "<iframe src=\"https://bysebuho.com/e/y0105rz2gu7c/dreaming-of-you-s01e28-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 29,
+          "name": "Episode 29",
+          "watch": "<iframe src=\"https://bysebuho.com/e/mde40fwnug6n/dreaming-of-you-s01e29-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 30,
+          "name": "Episode 30",
+          "watch": "<iframe src=\"https://bysebuho.com/e/b5elqarnr9nh/dreaming-of-you-s01e30-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 31,
+          "name": "Episode 31",
+          "watch": "<iframe src=\"https://bysebuho.com/e/ixzit10wpd85/dreaming-of-you-s01e31-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 32,
+          "name": "Episode 32",
+          "watch": "<iframe src=\"https://bysebuho.com/e/ld6pwsxmq1q0/dreaming-of-you-s01e32-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 33,
+          "name": "Episode 33",
+          "watch": "<iframe src=\"https://bysebuho.com/e/sp0gkzvp7kjq/dreaming-of-you-s01e33-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 34,
+          "name": "Episode 34",
+          "watch": "<iframe src=\"https://bysebuho.com/e/6fhcsjbb04lu/dreaming-of-you-s01e34-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        },
+        {
+          "episode_number": 35,
+          "name": "Episode 35",
+          "watch": "<iframe src=\"https://bysebuho.com/e/2vl0pj22a7mu/dreaming-of-you-s01e35-720p-web-dl-h-265-ddp2-0-primefix-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": null
+        }
+      ]
+    }
+  ]
+}
