@@ -1,0 +1,39 @@
+{
+  "id": "121659",
+  "type": "tv",
+  "title": "Yu Yu Hakusho",
+  "poster": "https://image.tmdb.org/t/p/w342/t9WiCEnojzksL3crxiCt7HIda8p.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/5XVWHz5yiRoij9pW3Gb7qaeEYuu.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/k5utzqtoois3/yu-yu-hakusho-s01e01-720p-nf-web-dl-hin-jap-x264-daniewatchhd-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/699xmhw23ny7/yu-yu-hakusho-s01e02-720p-nf-web-dl-hin-jap-x264-daniewatchhd-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/58clggyvt2dl/yu-yu-hakusho-s01e03-720p-nf-web-dl-hin-jap-x264-daniewatchhd-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/43h906u41wp0/yu-yu-hakusho-s01e04-720p-nf-web-dl-hin-jap-x264-daniewatchhd-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/l0zc9e9m85hq/yu-yu-hakusho-s01e05-720p-nf-web-dl-hin-jap-x264-daniewatchhd-ready\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}
