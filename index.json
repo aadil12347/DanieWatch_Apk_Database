@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-07T03:54:54.801Z",
-  "total": 1967,
+  "last_updated": "2026-05-07T09:28:15.562Z",
+  "total": 1974,
   "posts": [
     {
       "id": "1607762",
@@ -6457,6 +6457,28 @@
       "imdb_id": "tt8236528",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 19
+    },
+    {
+      "id": "80331",
+      "type": "tv",
+      "title": "Dreaming Of You",
+      "poster": "https://image.tmdb.org/t/p/w342/iV0o83MRMSECBaXxakQ8UpJVcl4.jpg",
+      "year": "2018",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "TR"
+      ],
+      "original_language": "tr",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt8586316",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 35
     },
     {
       "id": "80919",
@@ -20461,7 +20483,10 @@
         "IN"
       ],
       "original_language": "pa",
-      "genres": [],
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
       "imdb_id": "tt39387317"
     },
     {
@@ -29528,6 +29553,28 @@
       "total_uploaded_episodes": 13
     },
     {
+      "id": "139105",
+      "type": "tv",
+      "title": "Switch On",
+      "poster": "https://image.tmdb.org/t/p/w342/vEqmYDkEs0dY32kCd5DV6usC14m.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "TH"
+      ],
+      "original_language": "th",
+      "genres": [
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdb_id": "tt15964544",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 24
+    },
+    {
       "id": "139547",
       "type": "tv",
       "title": "Goodbye Earth",
@@ -30357,6 +30404,28 @@
       "total_uploaded_episodes": 20
     },
     {
+      "id": "199908",
+      "type": "tv",
+      "title": "Simmer Down",
+      "poster": "https://image.tmdb.org/t/p/w342/n1wjHiqx2rgkNaPRJyOmazBIFyf.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": "",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 40
+    },
+    {
       "id": "200709",
       "type": "tv",
       "title": "Weak Hero",
@@ -30912,6 +30981,28 @@
         "Drama"
       ],
       "imdb_id": "tt37218592",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 12
+    },
+    {
+      "id": "209408",
+      "type": "tv",
+      "title": "Bad Prosecutor",
+      "poster": "https://image.tmdb.org/t/p/w342/zFH9Ze9RbviL3NcAfhi9DH3nH3W.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "imdb_id": "tt22353836",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 12
     },
@@ -31952,6 +32043,27 @@
       "total_uploaded_episodes": 16
     },
     {
+      "id": "221923",
+      "type": "tv",
+      "title": "The Way You Shine",
+      "poster": "https://image.tmdb.org/t/p/w342/cuOWj3LT2pBmkg3zzY9rfSRF5SR.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "TW"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt27705687",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 24
+    },
+    {
       "id": "221993",
       "type": "tv",
       "title": "I Belonged to Your World",
@@ -32217,6 +32329,27 @@
       "imdb_id": "tt27554348",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 11
+    },
+    {
+      "id": "225178",
+      "type": "tv",
+      "title": "The Love You Give Me",
+      "poster": "https://image.tmdb.org/t/p/w342/qL282eKyVyYanby06A4dzNNWsxK.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt27618756",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 28
     },
     {
       "id": "225361",
@@ -40263,6 +40396,30 @@
       "imdb_id": "tt8769260",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 16
+    },
+    {
+      "id": "84448",
+      "type": "tv",
+      "title": "Less than Evil",
+      "poster": "https://image.tmdb.org/t/p/w342/1nqKh4icqoFR4Wo5q9ULcyaDxDr.jpg",
+      "year": "2018",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery",
+        "Action & Adventure"
+      ],
+      "imdb_id": "tt9143820",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 32
     },
     {
       "id": "84773",

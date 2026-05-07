@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-07T03:54:54.863Z",
-  "total_posts": 1967,
+  "last_updated": "2026-05-07T09:28:15.628Z",
+  "total_posts": 1974,
   "total_batches": 9,
   "batches": [
     {
@@ -8,8 +8,57 @@
       "date_key": "2026-05-07",
       "date": "May 7, 2026",
       "timestamp": "2026-05-07T03:54:54.863Z",
-      "total_in_batch": 44,
+      "total_in_batch": 51,
       "posts": [
+        {
+          "title": "Bad Prosecutor",
+          "tmdb_id": "209408",
+          "imdb_id": "tt22353836",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "Dreaming Of You",
+          "tmdb_id": "80331",
+          "imdb_id": "tt8586316",
+          "type": "tv",
+          "year": "2018"
+        },
+        {
+          "title": "Less than Evil",
+          "tmdb_id": "84448",
+          "imdb_id": "tt9143820",
+          "type": "tv",
+          "year": "2018"
+        },
+        {
+          "title": "Simmer Down",
+          "tmdb_id": "199908",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "Switch On",
+          "tmdb_id": "139105",
+          "imdb_id": "tt15964544",
+          "type": "tv",
+          "year": "2021"
+        },
+        {
+          "title": "The Love You Give Me",
+          "tmdb_id": "225178",
+          "imdb_id": "tt27618756",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "The Way You Shine",
+          "tmdb_id": "221923",
+          "imdb_id": "tt27705687",
+          "type": "tv",
+          "year": "2023"
+        },
         {
           "title": "A Piece of Your Mind",
           "tmdb_id": "99112",
@@ -318,7 +367,8 @@
           "type": "tv",
           "year": "2023"
         }
-      ]
+      ],
+      "last_modified": "2026-05-07T09:28:15.628Z"
     },
     {
       "batch_id": 8,
