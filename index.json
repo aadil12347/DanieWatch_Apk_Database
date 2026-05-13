@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-13T13:36:53.453Z",
-  "total": 2004,
+  "last_updated": "2026-05-13T13:38:58.510Z",
+  "total": 2003,
   "posts": [
     {
       "id": "1607762",
@@ -28233,28 +28233,6 @@
       "imdb_id": "tt12235718",
       "latest_uploaded_season": 2,
       "total_uploaded_episodes": 12
-    },
-    {
-      "id": "106697",
-      "type": "tv",
-      "title": "Lonely Enough to Love!",
-      "poster": "https://image.tmdb.org/t/p/w342/6qhKb5e9olZJ5XilDBkOdZpGXKq.jpg",
-      "year": "2020",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "KR"
-      ],
-      "original_language": "ko",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "imdb_id": "",
-      "latest_uploaded_season": 1,
-      "total_uploaded_episodes": 20
     },
     {
       "id": "106935",
