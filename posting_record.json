@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-13T13:36:53.517Z",
-  "total_posts": 2004,
+  "last_updated": "2026-05-13T14:54:57.486Z",
+  "total_posts": 2002,
   "total_batches": 11,
   "batches": [
     {
@@ -229,7 +229,7 @@
       "date_key": "2026-05-07",
       "date": "May 7, 2026",
       "timestamp": "2026-05-07T03:54:54.863Z",
-      "total_in_batch": 51,
+      "total_in_batch": 50,
       "posts": [
         {
           "title": "Bad Prosecutor",
@@ -242,13 +242,6 @@
           "title": "Dreaming Of You",
           "tmdb_id": "80331",
           "imdb_id": "tt8586316",
-          "type": "tv",
-          "year": "2018"
-        },
-        {
-          "title": "Less than Evil",
-          "tmdb_id": "84448",
-          "imdb_id": "tt9143820",
           "type": "tv",
           "year": "2018"
         },

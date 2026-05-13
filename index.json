@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-13T13:38:58.510Z",
-  "total": 2003,
+  "last_updated": "2026-05-13T14:54:57.420Z",
+  "total": 2002,
   "posts": [
     {
       "id": "1607762",
@@ -41005,30 +41005,6 @@
       "imdb_id": "tt8769260",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 16
-    },
-    {
-      "id": "84448",
-      "type": "tv",
-      "title": "Less than Evil",
-      "poster": "https://image.tmdb.org/t/p/w342/1nqKh4icqoFR4Wo5q9ULcyaDxDr.jpg",
-      "year": "2018",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "KR"
-      ],
-      "original_language": "ko",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Mystery",
-        "Action & Adventure"
-      ],
-      "imdb_id": "tt9143820",
-      "latest_uploaded_season": 1,
-      "total_uploaded_episodes": 32
     },
     {
       "id": "84773",
