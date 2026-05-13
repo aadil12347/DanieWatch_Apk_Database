@@ -1,0 +1,43 @@
+{
+  "id": "301507",
+  "type": "tv",
+  "title": "Heated Rivalry",
+  "poster": "https://image.tmdb.org/t/p/w342/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/8x9qmg0wwo0q/heated-rivalry-s01e01-720p-web-dl-hin-eng-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/xcmby12zkm3h/heated-rivalry-s01e02-720p-web-dl-hin-eng-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/fioiq48rn8ej/heated-rivalry-s01e03-720p-web-dl-hin-eng-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/8y1ya4vdd1ce/heated-rivalry-s01e04-720p-web-dl-hin-eng-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/7adr1wh6h8yd/heated-rivalry-s01e05-720p-web-dl-hin-eng-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/4j1pvua83dyx/heated-rivalry-s01e06-720p-web-dl-hin-eng-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "id": "152296",
+  "type": "tv",
+  "title": "Love in 40 Days",
+  "poster": "https://image.tmdb.org/t/p/w342/bfp9iqf2eh8elqorJZPoCYEdgnM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wcbrJB42U6yQuwLC3icxJrjc52w.jpg",
+  "year": "2022",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "Not Your Plain Jane",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/7EIV4IcJiv7zl8WnlEzirqdjCfK.jpg",
+          "air_date": "2022-05-30",
+          "runtime": 30,
+          "vote_average": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/k4no2vlg7vh1/love-in-40-days-s01e01-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "name": "Meet Edward",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/nKSfMmFvoa9xDQOPlP7l8eatKCp.jpg",
+          "air_date": "2022-05-31",
+          "runtime": 28,
+          "vote_average": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/pjz6qtb5ticy/love-in-40-days-s01e02-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "name": "Welcome to the Evergreen Mansion",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/jAkGaNISZX411q1jqXMFjJ5lGGF.jpg",
+          "air_date": "2022-06-01",
+          "runtime": 23,
+          "vote_average": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/2pkq858kdszt/love-in-40-days-s01e03-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "name": "The Life After Life",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/nDoh6aTioIMGnqIDqgMeBZi8zOl.jpg",
+          "air_date": "2022-06-02",
+          "runtime": 30,
+          "vote_average": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/qu33q13wxdwy/love-in-40-days-s01e04-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "name": "Two Worlds Become One",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/vTCLNRY5mnacsTj7El68cpeYyP1.jpg",
+          "air_date": "2022-06-03",
+          "runtime": 23,
+          "vote_average": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/vy5e5gz336oz/love-in-40-days-s01e05-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "name": "The Haunt Begins",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/6CZ4KKd2GpZTBNaoLqojBnED7lo.jpg",
+          "air_date": "2022-06-06",
+          "runtime": 22,
+          "vote_average": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/jrhlxizvfn6p/love-in-40-days-s01e06-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "name": "Reversed Play Dead",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/aX1iHoWIs8SMvbJBjpHBDqgXAtW.jpg",
+          "air_date": "2022-06-07",
+          "runtime": 19,
+          "vote_average": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/o5sf1osxbwhs/love-in-40-days-s01e07-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 8,
+          "name": "Cold Body vs. Cold Heart",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/bX40Za84SeLe5Gw6dQgPgngEHcw.jpg",
+          "air_date": "2022-06-08",
+          "runtime": 20,
+          "vote_average": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/vw2q0sagpnmo/love-in-40-days-s01e08-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 9,
+          "name": "Jane's Heart Beats Again",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/heAbDPxW8TKQ1nEIjuoYP2xH8fz.jpg",
+          "air_date": "2022-06-09",
+          "runtime": 21,
+          "vote_average": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/3g6vvc4kzoru/love-in-40-days-s01e09-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 10,
+          "name": "A Date with the Dead",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/9FUggW3xsvYf6hoZHxxs7QIGLO6.jpg",
+          "air_date": "2022-06-10",
+          "runtime": 20,
+          "vote_average": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/7q4q22gm5arx/love-in-40-days-s01e10-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 11,
+          "name": "The Ensemble Act",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/1ku8w1oe2aeqLiwS9aE8MlSYffD.jpg",
+          "air_date": "2022-06-13",
+          "runtime": 19,
+          "vote_average": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/03udj3oaba1a/love-in-40-days-s01e11-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 12,
+          "name": "Lifeline Band",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/3MM08sMXsJALIxzl3cBCXD6L1nq.jpg",
+          "air_date": "2022-06-14",
+          "runtime": 19,
+          "vote_average": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/fcq6z38m9ioi/love-in-40-days-s01e12-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 13,
+          "name": "Fearsome Encounters",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/zdWgDtAohmBTN9GAZS55kN3Mexp.jpg",
+          "air_date": "2022-06-15",
+          "runtime": 19,
+          "vote_average": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/47b6pqosdjxe/love-in-40-days-s01e13-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 14,
+          "name": "The Great Pretender",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/fUIcy84pTpInW7amkz6v2DGiLCR.jpg",
+          "air_date": "2022-06-16",
+          "runtime": 20,
+          "vote_average": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/t6s380q0clge/love-in-40-days-s01e14-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 15,
+          "name": "Unwanted",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/5OMRErxVrsTkqpoplskOVnLAHsR.jpg",
+          "air_date": "2022-06-17",
+          "runtime": 19,
+          "vote_average": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/0spvv864j97j/love-in-40-days-s01e15-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 16,
+          "name": "Rest In Peace?",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/xqkSWFCOgewSw4q3tgsjsnSeUmy.jpg",
+          "air_date": "2022-06-20",
+          "runtime": 19,
+          "vote_average": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/mjn5rj67oakf/love-in-40-days-s01e16-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 17,
+          "name": "Jump Scare",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/nbMGXWTqJyWMtvPZli8GnDGyV2.jpg",
+          "air_date": "2022-06-21",
+          "runtime": 19,
+          "vote_average": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/p47qigigr13u/love-in-40-days-s01e17-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 18,
+          "name": "Bitter Reunion",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/eE6giJOTDajLCCLd1UISdlrGhX0.jpg",
+          "air_date": "2022-06-22",
+          "runtime": 18,
+          "vote_average": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/yx6lytat2423/love-in-40-days-s01e18-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 19,
+          "name": "Disbanded",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/1kPtElUKWYIUfX63pOuxYxck5o1.jpg",
+          "air_date": "2022-06-23",
+          "runtime": 20,
+          "vote_average": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/hgd31fl53ms2/love-in-40-days-s01e19-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 20,
+          "name": "The More You Hate…",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/7O0tIxQLF1lRbswFp6OCkcsj3vq.jpg",
+          "air_date": "2022-06-24",
+          "runtime": 18,
+          "vote_average": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/0fnnn6l56oai/love-in-40-days-s01e20-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 21,
+          "name": "Bar Turned Horror House",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/79KKihGoVzKq53VtrbcdkpQI3T3.jpg",
+          "air_date": "2022-06-27",
+          "runtime": 19,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/42ug0k2ti3d3/love-in-40-days-s01e21-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 22,
+          "name": "The Bargain",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/5fBZt8lok1mld2CW3Nw1jk5ej8D.jpg",
+          "air_date": "2022-06-28",
+          "runtime": 19,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/1hgsffpcdsyz/love-in-40-days-s01e22-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 23,
+          "name": "Hotheaded, Warmhearted",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/vSr5kwIlUxPRIQ6ykujX4PyzepY.jpg",
+          "air_date": "2022-06-29",
+          "runtime": 18,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/itdb4ys8zmc8/love-in-40-days-s01e23-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 24,
+          "name": "Truce",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/6agswlbIZiUEJJeSsMPZ87xBjAz.jpg",
+          "air_date": "2022-06-30",
+          "runtime": 19,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ct81imhx9lqb/love-in-40-days-s01e24-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 25,
+          "name": "The Link",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/4UPUW1pIOJuXD4lrHG2TJNCgUZu.jpg",
+          "air_date": "2022-07-01",
+          "runtime": 19,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/e7f73d59o48p/love-in-40-days-s01e25-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 26,
+          "name": "Locked Up",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/tkQh6uHXlN8atRSpa2emgH9KrbH.jpg",
+          "air_date": "2022-07-04",
+          "runtime": 19,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/o0u61c3ptct9/love-in-40-days-s01e26-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 27,
+          "name": "Half Sisters",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/eDneIZuszDhKLRrZ2o9xmpWJ5ve.jpg",
+          "air_date": "2022-07-05",
+          "runtime": 19,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/bgk26sxm2or3/love-in-40-days-s01e27-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 28,
+          "name": "Illegitimate",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/rrJrKW7y59SUivsEl0PF9z4VbEc.jpg",
+          "air_date": "2022-07-06",
+          "runtime": 19,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ept5lvq7hey2/love-in-40-days-s01e28-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 29,
+          "name": "Patching Things Up",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/dHGSfoOuB5GjM0Vbb4jO9Q3OVVY.jpg",
+          "air_date": "2022-07-07",
+          "runtime": 19,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ao4vrfuk5r46/love-in-40-days-s01e29-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 30,
+          "name": "The Lost Soul",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/3vYNnLtVHoor4gtUcUpYAbkXBqD.jpg",
+          "air_date": "2022-07-08",
+          "runtime": 19,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/huybu7ezn6sa/love-in-40-days-s01e30-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 31,
+          "name": "A Soul’s Judgement",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/rGIqYbq56aHzEhNRSCsRnLMagjK.jpg",
+          "air_date": "2022-07-11",
+          "runtime": 19,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/5d8m9ciwu3ua/love-in-40-days-s01e31-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 32,
+          "name": "Edward’s Happy Day",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/atGrHJjvF8kP3tO5E6xJm6V5zSX.jpg",
+          "air_date": "2022-07-12",
+          "runtime": 19,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/9bwgmptst6wk/love-in-40-days-s01e32-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 33,
+          "name": "Daydreaming",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/bX40Za84SeLe5Gw6dQgPgngEHcw.jpg",
+          "air_date": "2022-07-13",
+          "runtime": 19,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/xweoh2cdtcqe/love-in-40-days-s01e33-720p-web-dl-hin-x265-esub-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "293010",
+  "type": "tv",
+  "title": "Let's Play",
+  "poster": "https://image.tmdb.org/t/p/w342/tJbyOYE4befDE7SgV03aJzxt8Ja.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cG0aOH5hyqA81VfXMgMrkHB8BCe.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/w13ns9d4257g/lets-play-s01e01-1080p-web-dl-hin-eng-jap-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/s9o2f4555645/lets-play-s01e02-1080p-web-dl-hin-eng-jap-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/042t6cj7anyf/lets-play-s01e03-1080p-web-dl-hin-eng-jap-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/2q47lsgphqhb/lets-play-s01e04-1080p-web-dl-hin-eng-jap-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/airollx06bze/lets-play-s01e05-1080p-web-dl-hin-eng-jap-x265-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/5ds24u4qr18v/lets-play-s01e06-1080p-hevc-hin-eng-jap-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/a52k6z629ki5/lets-play-s01e07-1080p-x265-10bit-web-dl-multi-audio-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ulodkdmn3pz1/lets-play-s01e08-1080p-x265-10bit-web-dl-multi-audio-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 9,
+          "watch": "<iframe src=\"https://bysebuho.com/e/0zb0lvehsan0/lets-play-s01e09-1080p-x265-10bit-web-dl-multi-audio-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 10,
+          "watch": "<iframe src=\"https://bysebuho.com/e/uwoegev2mvkg/lets-play-s01e10-1080p-x265-10bit-web-dl-multi-audio-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 11,
+          "watch": "<iframe src=\"https://bysebuho.com/e/1ykwhiifobf6/lets-play-s01e11-1080p-x265-10bit-web-dl-hin-ta-te-jp-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 12,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ara9gwym7100/lets-play-s01e12-1080p-hevc-hin-eng-jap-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}
