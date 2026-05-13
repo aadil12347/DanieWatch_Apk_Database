@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-08T10:04:16.980Z",
-  "total": 1975,
+  "last_updated": "2026-05-13T13:36:53.453Z",
+  "total": 2004,
   "posts": [
     {
       "id": "1607762",
@@ -3526,6 +3526,25 @@
       "imdb_id": "tt20969586"
     },
     {
+      "id": "tt26773513",
+      "type": "movie",
+      "title": "Mining - Reyte te Kabzaa",
+      "poster": "https://i.ibb.co/zH5pwLqB/Gemini-Generated-Image-pe9s26pe9s26pe9s-1.png",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Punjabi"
+      ],
+      "country": [],
+      "original_language": "pa",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": "tt26773513"
+    },
+    {
       "id": "tt39380066",
       "type": "movie",
       "title": "Gamer",
@@ -3664,6 +3683,28 @@
       "imdb_id": "tt12809988",
       "latest_uploaded_season": 3,
       "total_uploaded_episodes": 24
+    },
+    {
+      "id": "106697",
+      "type": "tv",
+      "title": "Lonely Enough to Love!",
+      "poster": "https://image.tmdb.org/t/p/w342/6qhKb5e9olZJ5XilDBkOdZpGXKq.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 20
     },
     {
       "id": "114029",
@@ -8049,6 +8090,27 @@
       "imdb_id": "tt24060892"
     },
     {
+      "id": "1081208",
+      "type": "movie",
+      "title": "The Dogs",
+      "poster": "https://image.tmdb.org/t/p/w342/kz6oqKyKCjmR8V1JdnF9brp9DSn.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CA"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Mystery"
+      ],
+      "imdb_id": "tt7873304"
+    },
+    {
       "id": "1083433",
       "type": "movie",
       "title": "I Know What You Did Last Summer",
@@ -8700,6 +8762,28 @@
       "imdb_id": "tt27604215"
     },
     {
+      "id": "1119377",
+      "type": "movie",
+      "title": "Xeno",
+      "poster": "https://image.tmdb.org/t/p/w342/bXJD04oDre4ZiW6CapzBuJyyp4w.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "imdb_id": "tt27629220"
+    },
+    {
       "id": "1119878",
       "type": "movie",
       "title": "Ice Road: Vengeance",
@@ -8822,6 +8906,27 @@
         "Family"
       ],
       "imdb_id": "tt31956415"
+    },
+    {
+      "id": "1126336",
+      "type": "movie",
+      "title": "Anniversary",
+      "poster": "https://image.tmdb.org/t/p/w342/sSdpXGBNt3mQzjZZVK6eV5NcPdc.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US",
+        "IE"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "imdb_id": "tt12583926"
     },
     {
       "id": "1126915",
@@ -9469,6 +9574,26 @@
         "Thriller"
       ],
       "imdb_id": "tt23221336"
+    },
+    {
+      "id": "1165096",
+      "type": "movie",
+      "title": "F+",
+      "poster": "https://image.tmdb.org/t/p/w342/f0qeTgIcGZ6s3jz5xg8PQ7K0MZO.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "imdb_id": "tt28322249"
     },
     {
       "id": "1167271",
@@ -10893,6 +11018,27 @@
         "Action"
       ],
       "imdb_id": "tt7574556"
+    },
+    {
+      "id": "1235877",
+      "type": "movie",
+      "title": "Jana Nayagan",
+      "poster": "https://image.tmdb.org/t/p/w342/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Action",
+        "Drama",
+        "Science Fiction"
+      ],
+      "imdb_id": "tt33379543"
     },
     {
       "id": "1235922",
@@ -13102,6 +13248,28 @@
       "imdb_id": "tt31727191"
     },
     {
+      "id": "1314452",
+      "type": "movie",
+      "title": "Other",
+      "poster": "https://image.tmdb.org/t/p/w342/fo4Ew0RjP0FkFscmXbyJLGachOY.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "FR",
+        "BE"
+      ],
+      "original_language": "fr",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "imdb_id": "tt34207924"
+    },
+    {
       "id": "1314784",
       "type": "movie",
       "title": "Hridayapoorvam",
@@ -14017,6 +14185,26 @@
       "imdb_id": "tt33714084"
     },
     {
+      "id": "1368166",
+      "type": "movie",
+      "title": "The Housemaid",
+      "poster": "https://image.tmdb.org/t/p/w342/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": "tt27543632"
+    },
+    {
       "id": "1368930",
       "type": "movie",
       "title": "Tell Me What You Want",
@@ -14291,6 +14479,28 @@
         "Drama"
       ],
       "imdb_id": "tt34365591"
+    },
+    {
+      "id": "1386827",
+      "type": "movie",
+      "title": "Coyotes",
+      "poster": "https://image.tmdb.org/t/p/w342/fSzs9ZXYcrln0FRrjGIPCjuB6En.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US",
+        "GB",
+        "CO"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "imdb_id": "tt34581826"
     },
     {
       "id": "138832",
@@ -15328,6 +15538,27 @@
       "imdb_id": ""
     },
     {
+      "id": "1421977",
+      "type": "movie",
+      "title": "Fantasy Life",
+      "poster": "https://image.tmdb.org/t/p/w342/e0qtdCm7TJGRfMv0tmdP8DsOy3U.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "imdb_id": "tt35519497"
+    },
+    {
       "id": "1423251",
       "type": "movie",
       "title": "Biker",
@@ -15773,6 +16004,27 @@
       "imdb_id": ""
     },
     {
+      "id": "1439112",
+      "type": "movie",
+      "title": "Muzzle: City of Wolves",
+      "poster": "https://image.tmdb.org/t/p/w342/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Mystery"
+      ],
+      "imdb_id": "tt32395062"
+    },
+    {
       "id": "1439367",
       "type": "movie",
       "title": "Asthram",
@@ -15916,6 +16168,27 @@
       "imdb_id": "tt31307640"
     },
     {
+      "id": "1442975",
+      "type": "movie",
+      "title": "Bhartha Mahasayulaku Wignyapthi",
+      "poster": "https://image.tmdb.org/t/p/w342/3QoTnvsbIAAWVXpfHzQKeEQhUi7.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Family",
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt36017918"
+    },
+    {
       "id": "144336",
       "type": "movie",
       "title": "Sabotage",
@@ -15998,6 +16271,27 @@
         "Thriller"
       ],
       "imdb_id": "tt32813410"
+    },
+    {
+      "id": "1445033",
+      "type": "movie",
+      "title": "Kaalidas 2",
+      "poster": "https://image.tmdb.org/t/p/w342/fq2eQegiFy6JxyM2S2ctm9RbB2G.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Action"
+      ],
+      "imdb_id": "tt32873023"
     },
     {
       "id": "1445070",
@@ -16350,6 +16644,65 @@
       "imdb_id": "tt31587690"
     },
     {
+      "id": "1462471",
+      "type": "movie",
+      "title": "Wanted",
+      "poster": "https://image.tmdb.org/t/p/w342/s8fTavgqVsjXQNP048NaL7Q0EuP.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "imdb_id": "tt36617682"
+    },
+    {
+      "id": "1464795",
+      "type": "movie",
+      "title": "Daadi Ki Shaadi",
+      "poster": "https://image.tmdb.org/t/p/w342/hKbQjE5ZcZUpuzApEjyoVCUWwdx.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "CAM RESULT"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": "tt37161355"
+    },
+    {
+      "id": "1465245",
+      "type": "movie",
+      "title": "Ten Hours",
+      "poster": "https://image.tmdb.org/t/p/w342/5dYmfe3UtKyWZs4GNlLPS4pweEa.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "ta",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": "tt29456794"
+    },
+    {
       "id": "1465277",
       "type": "movie",
       "title": "The Demon Hunter",
@@ -16449,6 +16802,27 @@
         "Drama"
       ],
       "imdb_id": "tt36628923"
+    },
+    {
+      "id": "1472638",
+      "type": "movie",
+      "title": "Buen Camino",
+      "poster": "https://image.tmdb.org/t/p/w342/jUiGMecwhYLOwJJqVl1YovRMAFa.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IT"
+      ],
+      "original_language": "it",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Adventure"
+      ],
+      "imdb_id": "tt38350059"
     },
     {
       "id": "1473354",
@@ -17232,6 +17606,26 @@
         "Crime"
       ],
       "imdb_id": "tt37392885"
+    },
+    {
+      "id": "1510339",
+      "type": "movie",
+      "title": "Mark",
+      "poster": "https://image.tmdb.org/t/p/w342/6LTDv6XHiHN0N77QIFg2tidVvhh.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "FAN DUB"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "kn",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "imdb_id": "tt28961625"
     },
     {
       "id": "1511417",
@@ -20663,6 +21057,27 @@
       "imdb_id": "tt40720168"
     },
     {
+      "id": "1673393",
+      "type": "movie",
+      "title": "Krishnavataram Part 1: The Heart (Hridayam)",
+      "poster": "https://image.tmdb.org/t/p/w342/7AxJYvPWLlNiGH52A9eenDxQzu8.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "CAM RESULT"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Adventure",
+        "Romance",
+        "Drama"
+      ],
+      "imdb_id": "tt41804839"
+    },
+    {
       "id": "1673401",
       "type": "movie",
       "title": "Sorcerer Heavenly Master · Dark Hades",
@@ -23837,6 +24252,27 @@
       "imdb_id": "tt10276328"
     },
     {
+      "id": "604079",
+      "type": "movie",
+      "title": "The Long Walk",
+      "poster": "https://image.tmdb.org/t/p/w342/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Science Fiction",
+        "Thriller",
+        "Horror"
+      ],
+      "imdb_id": "tt10374610"
+    },
+    {
       "id": "604362",
       "type": "movie",
       "title": "Hitman: Agent Jun",
@@ -24350,6 +24786,26 @@
       "imdb_id": "tt10345590"
     },
     {
+      "id": "642889",
+      "type": "movie",
+      "title": "Psycho",
+      "poster": "https://image.tmdb.org/t/p/w342/cTHrUUSqTNc1nyBzVGD4SbpqaIe.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "imdb_id": "tt9109976"
+    },
+    {
       "id": "645788",
       "type": "movie",
       "title": "The Protégé",
@@ -24793,6 +25249,27 @@
         "Thriller"
       ],
       "imdb_id": "tt13345606"
+    },
+    {
+      "id": "715253",
+      "type": "movie",
+      "title": "Phantom",
+      "poster": "https://image.tmdb.org/t/p/w342/n1rxZ4wovf7BYhLNwCqde8I3I2N.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "imdb_id": "tt25503544"
     },
     {
       "id": "719221",
@@ -26212,11 +26689,11 @@
       "id": "878667",
       "type": "movie",
       "title": "Chal Mera Putt 3",
-      "poster": "https://image.tmdb.org/t/p/w342/bfWoizkLad2nrFSmqNr3eFcbPi5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/vhlwENeB4bDPl1YeSiPLNfDAJnz.jpg",
       "year": "2021",
       "result": "HD",
       "language": [
-        "Hindi"
+        "Punjabi"
       ],
       "country": [
         "IN"
@@ -26268,6 +26745,29 @@
         "Action"
       ],
       "imdb_id": "tt14209750"
+    },
+    {
+      "id": "891584",
+      "type": "movie",
+      "title": "The History of Sound",
+      "poster": "https://image.tmdb.org/t/p/w342/5tNr1CySiYQICRsQbWWSSsDiKjn.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB",
+        "US",
+        "SE"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Music"
+      ],
+      "imdb_id": "tt15799524"
     },
     {
       "id": "891699",
@@ -29113,6 +29613,28 @@
       "total_uploaded_episodes": 30
     },
     {
+      "id": "130655",
+      "type": "tv",
+      "title": "High Class",
+      "poster": "https://image.tmdb.org/t/p/w342/y12jFvgntlxyit2KMd94LmCQO1d.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": "tt14596714",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 16
+    },
+    {
       "id": "131009",
       "type": "tv",
       "title": "Demi-Gods and Semi-Devils",
@@ -30118,6 +30640,27 @@
       "total_uploaded_episodes": 26
     },
     {
+      "id": "194797",
+      "type": "tv",
+      "title": "Doona!",
+      "poster": "https://image.tmdb.org/t/p/w342/bQhiOkU3lCu5pwCqPdNVG5GBLlj.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt24245988",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 9
+    },
+    {
       "id": "195459",
       "type": "tv",
       "title": "Ragna Crimson",
@@ -30983,6 +31526,29 @@
       "total_uploaded_episodes": 6
     },
     {
+      "id": "208878",
+      "type": "tv",
+      "title": "Violet like the sea",
+      "poster": "https://image.tmdb.org/t/p/w342/AmGnTDwQxcL9y8NuX8XNF0ZDizp.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IT"
+      ],
+      "original_language": "it",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": "tt15472454",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 24
+    },
+    {
       "id": "209110",
       "type": "tv",
       "title": "The Price of Confession",
@@ -31580,6 +32146,28 @@
       "total_uploaded_episodes": 24
     },
     {
+      "id": "214734",
+      "type": "tv",
+      "title": "Warm Meet You",
+      "poster": "https://image.tmdb.org/t/p/w342/uIYyr11DtSiliQqCkwURk3x4Qyq.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt32035225",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 24
+    },
+    {
       "id": "214826",
       "type": "tv",
       "title": "Not A Murder Story",
@@ -31600,6 +32188,29 @@
       "imdb_id": "tt23472304",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 8
+    },
+    {
+      "id": "215001",
+      "type": "tv",
+      "title": "Destined with You",
+      "poster": "https://image.tmdb.org/t/p/w342/e21UFBbQStpqSkU4iyWwVJsb8DZ.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Comedy"
+      ],
+      "imdb_id": "tt27974068",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 16
     },
     {
       "id": "215320",
