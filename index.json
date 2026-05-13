@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-13T14:54:57.420Z",
-  "total": 2002,
+  "last_updated": "2026-05-13T14:58:43.865Z",
+  "total": 2016,
   "posts": [
     {
       "id": "1607762",
@@ -3908,6 +3908,28 @@
       "imdb_id": "tt1520211",
       "latest_uploaded_season": 10,
       "total_uploaded_episodes": 153
+    },
+    {
+      "id": "152296",
+      "type": "tv",
+      "title": "Love in 40 Days",
+      "poster": "https://image.tmdb.org/t/p/w342/bfp9iqf2eh8elqorJZPoCYEdgnM.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "PH"
+      ],
+      "original_language": "tl",
+      "genres": [
+        "Comedy",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdb_id": "",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 33
     },
     {
       "id": "1622",
@@ -28754,6 +28776,29 @@
       "total_uploaded_episodes": 12
     },
     {
+      "id": "114922",
+      "type": "tv",
+      "title": "Citadel",
+      "poster": "https://image.tmdb.org/t/p/w342/5MHtxPEfmN4b0rHzfEZRcm6v9WI.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Action & Adventure"
+      ],
+      "imdb_id": "tt9794044",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 13
+    },
+    {
       "id": "115194",
       "type": "tv",
       "title": "A Perfect Planet",
@@ -29435,6 +29480,28 @@
       "imdb_id": "tt26315487",
       "latest_uploaded_season": 2,
       "total_uploaded_episodes": 15
+    },
+    {
+      "id": "127865",
+      "type": "tv",
+      "title": "The Chestnut Man",
+      "poster": "https://image.tmdb.org/t/p/w342/naCYfDx93zfXT6MwmvTwBOkIUy9.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "DK"
+      ],
+      "original_language": "da",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "imdb_id": "tt10834220",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 12
     },
     {
       "id": "128002",
@@ -30552,6 +30619,28 @@
       "imdb_id": "tt14186672",
       "latest_uploaded_season": 2,
       "total_uploaded_episodes": 20
+    },
+    {
+      "id": "157744",
+      "type": "tv",
+      "title": "1923",
+      "poster": "https://image.tmdb.org/t/p/w342/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "imdb_id": "tt18335752",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 15
     },
     {
       "id": "158154",
@@ -34002,6 +34091,29 @@
       "total_uploaded_episodes": 40
     },
     {
+      "id": "235930",
+      "type": "tv",
+      "title": "Devil May Cry",
+      "poster": "https://image.tmdb.org/t/p/w342/mX9tqfpjqwreONJHhap7SnSSowe.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdb_id": "tt15716776",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 16
+    },
+    {
       "id": "236356",
       "type": "tv",
       "title": "Family Matters",
@@ -35392,6 +35504,29 @@
       "total_uploaded_episodes": 7
     },
     {
+      "id": "249907",
+      "type": "tv",
+      "title": "Sentenced to Be a Hero",
+      "poster": "https://image.tmdb.org/t/p/w342/k8bh5mvHDx3czHSF56v9lRyulLC.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "genres": [
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "imdb_id": "tt32536168",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 12
+    },
+    {
       "id": "249972",
       "type": "tv",
       "title": "Blossom",
@@ -36160,6 +36295,29 @@
         "Documentary"
       ],
       "imdb_id": "tt37981481",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 6
+    },
+    {
+      "id": "262280",
+      "type": "tv",
+      "title": "Legends",
+      "poster": "https://image.tmdb.org/t/p/w342/dGienbU1xNZJcbY8i8ubJusjDwD.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action & Adventure",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": "tt33265765",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 6
     },
@@ -36981,6 +37139,29 @@
       "total_uploaded_episodes": 6
     },
     {
+      "id": "284442",
+      "type": "tv",
+      "title": "A Gatherer's Adventure in Isekai",
+      "poster": "https://image.tmdb.org/t/p/w342/AtpIf9wnT6IaHoG31XsdqZEEf80.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdb_id": "tt37430949",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 12
+    },
+    {
       "id": "284445",
       "type": "tv",
       "title": "Takopi's Original Sin",
@@ -37135,6 +37316,29 @@
         "Sci-Fi & Fantasy"
       ],
       "imdb_id": "tt36600399",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 12
+    },
+    {
+      "id": "287278",
+      "type": "tv",
+      "title": "Mechanical Marie",
+      "poster": "https://image.tmdb.org/t/p/w342/vsH56qFI4GEjeIPcIFIBEF6aaT9.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdb_id": "tt36912922",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 12
     },
@@ -37360,6 +37564,28 @@
       "imdb_id": "tt37062070",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 6
+    },
+    {
+      "id": "293010",
+      "type": "tv",
+      "title": "Let's Play",
+      "poster": "https://image.tmdb.org/t/p/w342/tJbyOYE4befDE7SgV03aJzxt8Ja.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "imdb_id": "tt37532040",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 12
     },
     {
       "id": "293613",
@@ -38072,6 +38298,27 @@
       "imdb_id": "tt38501655",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 3
+    },
+    {
+      "id": "301507",
+      "type": "tv",
+      "title": "Heated Rivalry",
+      "poster": "https://image.tmdb.org/t/p/w342/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CA"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt35495073",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 6
     },
     {
       "id": "301547",
@@ -39038,6 +39285,27 @@
       "imdb_id": "tt40826311",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 4
+    },
+    {
+      "id": "316958",
+      "type": "tv",
+      "title": "Lukkhe",
+      "poster": "https://image.tmdb.org/t/p/w342/w8GLkht5ceCi7KQ3AMD77mzkxBc.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt40859434",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 8
     },
     {
       "id": "316973",
@@ -40115,6 +40383,28 @@
       "imdb_id": "tt1734135",
       "latest_uploaded_season": 3,
       "total_uploaded_episodes": 52
+    },
+    {
+      "id": "68349",
+      "type": "tv",
+      "title": "Weightlifting Fairy Kim Bok-joo",
+      "poster": "https://image.tmdb.org/t/p/w342/iLF6Jz6nL8uD8jKo6EvQ3XutDcR.jpg",
+      "year": "2016",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt6157148",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 16
     },
     {
       "id": "68398",
@@ -41387,6 +41677,28 @@
       "imdb_id": "tt10473780",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 32
+    },
+    {
+      "id": "90407",
+      "type": "tv",
+      "title": "At Eighteen",
+      "poster": "https://image.tmdb.org/t/p/w342/AbEoQOZO6xnXg52Ehrd8aXchpLF.jpg",
+      "year": "2019",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt10474124",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 16
     },
     {
       "id": "90706",
