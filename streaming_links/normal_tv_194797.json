@@ -1,0 +1,55 @@
+{
+  "id": "194797",
+  "type": "tv",
+  "title": "Doona!",
+  "poster": "https://image.tmdb.org/t/p/w342/bQhiOkU3lCu5pwCqPdNVG5GBLlj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/1aBYcDp9CVbwU4h6mOYkkUgMPEl.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/8fqmg438n44t/doona-s01e01-720p-nf-web-dl-hin-eng-esub-daniewatch-com\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/pl40rv3mjxld/doona-s01e02-720p-nf-web-dl-hin-eng-esub-daniewatch-com\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/g6sjghwy9clh/doona-s01e03-720p-nf-web-dl-hin-eng-esub-daniewatch-com\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/0d8rn133y2sh/doona-s01e04-720p-nf-web-dl-hin-eng-esub-daniewatch-com\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/9sf971pggc3e/doona-s01e05-720p-nf-web-dl-hin-eng-esub-daniewatch-com\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/syh3ydb4ahyn/doona-s01e06-720p-nf-web-dl-hin-eng-esub-daniewatch-com\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/7584z2l2smpe/doona-s01e07-720p-nf-web-dl-hin-eng-esub-daniewatch-com\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/janbhbb1q06a/doona-s01e08-720p-nf-web-dl-hin-eng-esub-daniewatch-com\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 9,
+          "watch": "<iframe src=\"https://bysebuho.com/e/80ezsikr55t9/doona-s01e09-720p-nf-web-dl-hin-eng-esub-daniewatch-com\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}
