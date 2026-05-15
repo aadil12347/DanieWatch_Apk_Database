@@ -1,0 +1,51 @@
+{
+  "id": "285807",
+  "type": "tv",
+  "title": "Nemesis",
+  "poster": "https://image.tmdb.org/t/p/w342/NY7ZwSMw5PjoJdK2CObqiTj7Bm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/pxnJeLSBdUikUOrWdNgrK1HQy2u.jpg",
+  "year": "2026",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/exm18jt5ppbn/nemesis-s01e01-720p-nf-web-dl-dual-ddp5-1-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/apj4h3ac25sm/nemesis-s01e02-720p-nf-web-dl-dual-ddp5-1-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/4f0cf4d0hva2/nemesis-s01e03-720p-nf-web-dl-dual-ddp5-1-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/r111hn6zpwfx/nemesis-s01e04-720p-nf-web-dl-dual-ddp5-1-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/o0dx9a3wggyi/nemesis-s01e05-720p-nf-web-dl-dual-ddp5-1-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/mkdv6zjy2vrg/nemesis-s01e06-720p-nf-web-dl-dual-ddp5-1-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/p50kd468k83a/nemesis-s01e07-720p-nf-web-dl-dual-ddp5-1-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ujv57gfoq6vn/nemesis-s01e08-720p-nf-web-dl-dual-ddp5-1-x264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}
