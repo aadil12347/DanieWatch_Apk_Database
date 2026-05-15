@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-15T03:19:49.527Z",
-  "total": 2036,
+  "last_updated": "2026-05-15T04:08:51.207Z",
+  "total": 2039,
   "posts": [
     {
       "id": "1607762",
@@ -19642,9 +19642,9 @@
       "id": "1582770",
       "type": "movie",
       "title": "Dhurandhar: The Revenge",
-      "poster": "https://image.tmdb.org/t/p/w342/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/dI7CjJA4cC92UcKMBnCh5BTDHVQ.jpg",
       "year": "2026",
-      "result": "CAM",
+      "result": "HD",
       "language": [
         "Hindi"
       ],
@@ -33450,6 +33450,28 @@
       "total_uploaded_episodes": 7
     },
     {
+      "id": "226707",
+      "type": "tv",
+      "title": "Inspector Avinash",
+      "poster": "https://image.tmdb.org/t/p/w342/cyX4lDfLOtejavCY5PbtRlk4C63.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Action & Adventure",
+        "Mystery"
+      ],
+      "imdb_id": "tt13847564",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 18
+    },
+    {
       "id": "227042",
       "type": "tv",
       "title": "Gangs of Galicia",
@@ -36415,6 +36437,27 @@
         "Sci-Fi & Fantasy"
       ],
       "imdb_id": "tt32937780",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 8
+    },
+    {
+      "id": "259702",
+      "type": "tv",
+      "title": "The House of the Spirits",
+      "poster": "https://image.tmdb.org/t/p/w342/yb682O0KCZlS5qRydxOytO5A6co.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt33022938",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 8
     },
@@ -39641,6 +39684,28 @@
       "imdb_id": "tt40859434",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 8
+    },
+    {
+      "id": "316965",
+      "type": "tv",
+      "title": "EXAM",
+      "poster": "https://image.tmdb.org/t/p/w342/9jt62J8sfq8pFFovZhEQmxjUqhb.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": "tt38856253",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 7
     },
     {
       "id": "316973",
