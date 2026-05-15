@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-13T14:58:43.865Z",
-  "total": 2016,
+  "last_updated": "2026-05-15T03:19:49.527Z",
+  "total": 2036,
   "posts": [
     {
       "id": "1607762",
@@ -7317,6 +7317,29 @@
       "imdb_id": "tt0087451"
     },
     {
+      "id": "10192",
+      "type": "movie",
+      "title": "Shrek Forever After",
+      "poster": "https://image.tmdb.org/t/p/w342/6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg",
+      "year": "2010",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Fantasy",
+        "Animation",
+        "Family"
+      ],
+      "imdb_id": "tt0892791"
+    },
+    {
       "id": "1022074",
       "type": "movie",
       "title": "Maareesan",
@@ -8455,6 +8478,25 @@
         "Thriller"
       ],
       "imdb_id": "tt26929966"
+    },
+    {
+      "id": "109443",
+      "type": "movie",
+      "title": "Anchorman 2: The Legend Continues",
+      "poster": "https://image.tmdb.org/t/p/w342/BAdmxMdCqzjs6hx3KuEtnoWP8d.jpg",
+      "year": "2013",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt1229340"
     },
     {
       "id": "1096417",
@@ -13374,6 +13416,26 @@
       "imdb_id": "tt33514451"
     },
     {
+      "id": "1317448",
+      "type": "movie",
+      "title": "No Place to Be Single",
+      "poster": "https://image.tmdb.org/t/p/w342/httlhu80GnOx3bCAXi4sYdbDny0.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IT"
+      ],
+      "original_language": "it",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "imdb_id": "tt34906817"
+    },
+    {
       "id": "1317672",
       "type": "movie",
       "title": "Love Me Love Me",
@@ -13805,6 +13867,26 @@
         "Fantasy"
       ],
       "imdb_id": "tt33312086"
+    },
+    {
+      "id": "1336770",
+      "type": "movie",
+      "title": "Vaazha II",
+      "poster": "https://image.tmdb.org/t/p/w342/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ml",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt33245761"
     },
     {
       "id": "1337562",
@@ -19456,6 +19538,26 @@
       "imdb_id": "tt38598593"
     },
     {
+      "id": "1576369",
+      "type": "movie",
+      "title": "Bharathanatyam 2 Mohiniyattam",
+      "poster": "https://image.tmdb.org/t/p/w342/lsg0IxNQCUxKqs63YjturEuY0qQ.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ml",
+      "genres": [
+        "Comedy",
+        "Thriller"
+      ],
+      "imdb_id": "tt37541677"
+    },
+    {
       "id": "1580286",
       "type": "movie",
       "title": "Nishaanchi 2",
@@ -20386,6 +20488,26 @@
       "imdb_id": "tt38283987"
     },
     {
+      "id": "1620034",
+      "type": "movie",
+      "title": "Marty, Life Is Short",
+      "poster": "https://image.tmdb.org/t/p/w342/z4QdUukg4FnbcwM6qeP6ZCoQZhf.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US",
+        "CA"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Documentary"
+      ],
+      "imdb_id": "tt39382052"
+    },
+    {
       "id": "1620551",
       "type": "movie",
       "title": "Feel My Voice",
@@ -20758,6 +20880,26 @@
       "imdb_id": "tt11173332"
     },
     {
+      "id": "1637212",
+      "type": "movie",
+      "title": "Second Case of Seetharam",
+      "poster": "https://image.tmdb.org/t/p/w342/89Tuu93NTJVef2Y4iATRwlyAO37.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "kn",
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "imdb_id": "tt39444607"
+    },
+    {
       "id": "1637367",
       "type": "movie",
       "title": "Udd Da Teer",
@@ -21120,6 +21262,25 @@
       "imdb_id": "tt35786199"
     },
     {
+      "id": "1678844",
+      "type": "movie",
+      "title": "The Bus: A French Football Mutiny",
+      "poster": "https://image.tmdb.org/t/p/w342/vLYxo8SDMLfroqT3fMVnbvddXRF.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "FR"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Documentary"
+      ],
+      "imdb_id": "tt37024319"
+    },
+    {
       "id": "168098",
       "type": "movie",
       "title": "Cell",
@@ -21139,6 +21300,26 @@
         "Thriller"
       ],
       "imdb_id": "tt0775440"
+    },
+    {
+      "id": "1684240",
+      "type": "movie",
+      "title": "Untold UK: Jamie Vardy",
+      "poster": "https://image.tmdb.org/t/p/w342/d0pODTh6FOwn87iOeXGb7nKOdNT.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US",
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Documentary"
+      ],
+      "imdb_id": "tt41777258"
     },
     {
       "id": "168530",
@@ -26152,6 +26333,29 @@
       "imdb_id": "tt14205554"
     },
     {
+      "id": "808",
+      "type": "movie",
+      "title": "Shrek",
+      "poster": "https://image.tmdb.org/t/p/w342/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+      "year": "2001",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Adventure",
+        "Family"
+      ],
+      "imdb_id": "tt0126029"
+    },
+    {
       "id": "8080",
       "type": "movie",
       "title": "Suspect Zero",
@@ -26174,6 +26378,29 @@
       "imdb_id": "tt0324127"
     },
     {
+      "id": "809",
+      "type": "movie",
+      "title": "Shrek 2",
+      "poster": "https://image.tmdb.org/t/p/w342/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+      "year": "2004",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "imdb_id": "tt0298148"
+    },
+    {
       "id": "809294",
       "type": "movie",
       "title": "Munduvareda Adhyaya",
@@ -26190,6 +26417,29 @@
         "Thriller"
       ],
       "imdb_id": "tt10415472"
+    },
+    {
+      "id": "810",
+      "type": "movie",
+      "title": "Shrek the Third",
+      "poster": "https://image.tmdb.org/t/p/w342/n4SexGGQzI26E269tfpa80MZaGV.jpg",
+      "year": "2007",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "imdb_id": "tt0413267"
     },
     {
       "id": "810693",
@@ -27047,6 +27297,27 @@
         "Horror"
       ],
       "imdb_id": "tt3954936"
+    },
+    {
+      "id": "931285",
+      "type": "movie",
+      "title": "Mortal Kombat II",
+      "poster": "https://image.tmdb.org/t/p/w342/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "CAM RESULT"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "imdb_id": "tt17490712"
     },
     {
       "id": "931940",
@@ -36081,6 +36352,27 @@
       "total_uploaded_episodes": 12
     },
     {
+      "id": "258063",
+      "type": "tv",
+      "title": "Soul Mate",
+      "poster": "https://image.tmdb.org/t/p/w342/koWJdCFLPLI2VSWQhssoF91k5al.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt32809226",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 8
+    },
+    {
       "id": "258348",
       "type": "tv",
       "title": "Clevatess",
@@ -36585,6 +36877,27 @@
       "imdb_id": "tt23139038",
       "latest_uploaded_season": 2,
       "total_uploaded_episodes": 24
+    },
+    {
+      "id": "273240",
+      "type": "tv",
+      "title": "Off Campus",
+      "poster": "https://image.tmdb.org/t/p/w342/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt33546863",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 8
     },
     {
       "id": "274048",
@@ -37273,6 +37586,28 @@
       "imdb_id": "tt37532319",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 24
+    },
+    {
+      "id": "285807",
+      "type": "tv",
+      "title": "Nemesis",
+      "poster": "https://image.tmdb.org/t/p/w342/NY7ZwSMw5PjoJdK2CObqiTj7Bm.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "imdb_id": "tt36022742",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 8
     },
     {
       "id": "285838",
@@ -39690,6 +40025,28 @@
       "total_uploaded_episodes": 85
     },
     {
+      "id": "60956",
+      "type": "tv",
+      "title": "Doctor Stranger",
+      "poster": "https://image.tmdb.org/t/p/w342/odH9cebqUNHKh1p6BKVSs0gsD34.jpg",
+      "year": "2014",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "imdb_id": "tt3693414",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 20
+    },
+    {
       "id": "60957",
       "type": "tv",
       "title": "My Love from the Star",
@@ -40720,6 +41077,29 @@
       "total_uploaded_episodes": 32
     },
     {
+      "id": "71915",
+      "type": "tv",
+      "title": "Good Omens",
+      "poster": "https://image.tmdb.org/t/p/w342/nO68XVx5of8hlBwEOGOkPC8Mveu.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdb_id": "tt1869454",
+      "latest_uploaded_season": 3,
+      "total_uploaded_episodes": 13
+    },
+    {
       "id": "72487",
       "type": "tv",
       "title": "The King's Woman",
@@ -41297,6 +41677,29 @@
       "total_uploaded_episodes": 16
     },
     {
+      "id": "84105",
+      "type": "tv",
+      "title": "Mirzapur",
+      "poster": "https://image.tmdb.org/t/p/w342/1rxLUFVrtTo82OxhbDXJDiJVkwL.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Crime",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "imdb_id": "tt6473300",
+      "latest_uploaded_season": 3,
+      "total_uploaded_episodes": 29
+    },
+    {
       "id": "84773",
       "type": "tv",
       "title": "The Lord of the Rings: The Rings of Power",
@@ -41631,6 +42034,28 @@
       "imdb_id": "tt8760932",
       "latest_uploaded_season": 2,
       "total_uploaded_episodes": 16
+    },
+    {
+      "id": "89334",
+      "type": "tv",
+      "title": "Princess Silver",
+      "poster": "https://image.tmdb.org/t/p/w342/nGHIcpN52RhRaW4UAb3jU46JSh3.jpg",
+      "year": "2019",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdb_id": "tt9537300",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 58
     },
     {
       "id": "90293",
