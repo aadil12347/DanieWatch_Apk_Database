@@ -1,0 +1,51 @@
+{
+  "id": "146176",
+  "type": "tv",
+  "title": "Berlin",
+  "poster": "https://image.tmdb.org/t/p/w342/69YuvoiWTtK6oyYH2Jl4Q6SgZ59.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wJxZLiPbXrU601c6e9A6kYLejso.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/cs3puztfxfpp/berlin-s01e01-the-energy-of-love-720p-hindi-english-spanish-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/f3atp8x298cs/berlin-s01e02-anchor-and-lobo-720p-hindi-english-spanish-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/f889hrhht4gc/berlin-s01e03-full-house-of-embryos-720p-hindi-english-spanish-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/32iwtv0ov3t1/berlin-s01e04-an-aquarium-on-your-back-720p-hindi-english-spanish-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/cehf5qjao2ko/berlin-s01e05-after-love-720p-hindi-english-spanish-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/v75gk44yagoa/berlin-s01e06-night-of-the-lemons-720p-hindi-english-spanish-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/cb3ptz4f1qil/berlin-s01e07-the-last-virgin-in-the-western-world-720p-hindi-english-spanish-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/8znvszpcyv5g/berlin-s01e08-an-endangered-elephant-720p-hindi-english-spanish-esubs-daniewatch\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}
