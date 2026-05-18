@@ -1,8 +1,332 @@
 {
-  "last_updated": "2026-05-15T20:35:38.042Z",
-  "total_posts": 2039,
-  "total_batches": 12,
+  "last_updated": "2026-05-18T07:29:22.133Z",
+  "total_posts": 2084,
+  "total_batches": 13,
   "batches": [
+    {
+      "batch_id": 13,
+      "date_key": "2026-05-18",
+      "date": "May 18, 2026",
+      "timestamp": "2026-05-18T07:29:22.133Z",
+      "total_in_batch": 45,
+      "posts": [
+        {
+          "title": "20th Century Boy and Girl",
+          "tmdb_id": "74000",
+          "imdb_id": "tt7208216",
+          "type": "tv",
+          "year": "2017"
+        },
+        {
+          "title": "Behind Your Touch",
+          "tmdb_id": "210107",
+          "imdb_id": "tt26314390",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "Berlin",
+          "tmdb_id": "146176",
+          "imdb_id": "tt16288804",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "Berlin and the Lady with an Ermine",
+          "tmdb_id": "308014",
+          "imdb_id": "tt42178219",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "BLACKFOX: Age of the Ninja",
+          "tmdb_id": "tt10052928",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2019"
+        },
+        {
+          "title": "Bodyguard",
+          "tmdb_id": "693900",
+          "imdb_id": "tt21362766",
+          "type": "movie",
+          "year": "2020"
+        },
+        {
+          "title": "Clean with Passion for Now",
+          "tmdb_id": "78869",
+          "imdb_id": "tt7981562",
+          "type": "tv",
+          "year": "2018"
+        },
+        {
+          "title": "Come and Hug Me",
+          "tmdb_id": "79238",
+          "imdb_id": "tt8269398",
+          "type": "tv",
+          "year": "2018"
+        },
+        {
+          "title": "Doraemon the Movie: Nobita's Sky Utopia",
+          "tmdb_id": "1030587",
+          "imdb_id": "tt21223380",
+          "type": "movie",
+          "year": "2023"
+        },
+        {
+          "title": "Doraemon: New Nobita's Great Demon - Peko and the Exploration Party of Five",
+          "tmdb_id": "285812",
+          "imdb_id": "tt3949650",
+          "type": "movie",
+          "year": "2014"
+        },
+        {
+          "title": "Doraemon: Nobita and the Birth of Japan",
+          "tmdb_id": "142527",
+          "imdb_id": "tt1147511",
+          "type": "movie",
+          "year": "1989"
+        },
+        {
+          "title": "Doraemon: Nobita and the Castle of the Undersea Devil",
+          "tmdb_id": "147576",
+          "imdb_id": "tt1147509",
+          "type": "movie",
+          "year": "1983"
+        },
+        {
+          "title": "Doraemon: Nobita and the Galaxy Super-express",
+          "tmdb_id": "106164",
+          "imdb_id": "tt1147522",
+          "type": "movie",
+          "year": "1996"
+        },
+        {
+          "title": "Doraemon: Nobita and the Green Giant Legend",
+          "tmdb_id": "136686",
+          "imdb_id": "tt1180304",
+          "type": "movie",
+          "year": "2008"
+        },
+        {
+          "title": "Doraemon: Nobita and the Island of Miracles – Animal Adventure",
+          "tmdb_id": "160642",
+          "imdb_id": "tt2271315",
+          "type": "movie",
+          "year": "2012"
+        },
+        {
+          "title": "Doraemon: Nobita and the Legend of the Sun King",
+          "tmdb_id": "31352",
+          "imdb_id": "tt1147513",
+          "type": "movie",
+          "year": "2000"
+        },
+        {
+          "title": "Doraemon: Nobita and the New Steel Troops: Winged Angels",
+          "tmdb_id": "137227",
+          "imdb_id": "tt1851909",
+          "type": "movie",
+          "year": "2011"
+        },
+        {
+          "title": "Doraemon: Nobita and the Space Heroes",
+          "tmdb_id": "350650",
+          "imdb_id": "tt4788602",
+          "type": "movie",
+          "year": "2015"
+        },
+        {
+          "title": "Doraemon: Nobita and the Windmasters",
+          "tmdb_id": "98613",
+          "imdb_id": "tt0473474",
+          "type": "movie",
+          "year": "2003"
+        },
+        {
+          "title": "Doraemon: Nobita's Chronicle of the Moon Exploration",
+          "tmdb_id": "575222",
+          "imdb_id": "tt9735672",
+          "type": "movie",
+          "year": "2019"
+        },
+        {
+          "title": "Doraemon: Nobita's Diary on the Creation of the World",
+          "tmdb_id": "162069",
+          "imdb_id": "tt1147512",
+          "type": "movie",
+          "year": "1995"
+        },
+        {
+          "title": "Doraemon: Nobita's Dinosaur",
+          "tmdb_id": "64789",
+          "imdb_id": "tt1147517",
+          "type": "movie",
+          "year": "1980"
+        },
+        {
+          "title": "Doraemon: Nobita's Dorabian Nights",
+          "tmdb_id": "188403",
+          "imdb_id": "tt1147508",
+          "type": "movie",
+          "year": "1991"
+        },
+        {
+          "title": "Doraemon: Nobita's Great Adventure in the Antarctic Kachi Kochi",
+          "tmdb_id": "462677",
+          "imdb_id": "tt5912470",
+          "type": "movie",
+          "year": "2017"
+        },
+        {
+          "title": "Doraemon: Nobita's Great Adventure in the South Seas",
+          "tmdb_id": "105444",
+          "imdb_id": "tt1147519",
+          "type": "movie",
+          "year": "1998"
+        },
+        {
+          "title": "Doraemon: Nobita's Great Battle of the Mermaid King",
+          "tmdb_id": "86184",
+          "imdb_id": "tt1613031",
+          "type": "movie",
+          "year": "2010"
+        },
+        {
+          "title": "Doraemon: Nobita's Secret Gadget Museum",
+          "tmdb_id": "218726",
+          "imdb_id": "tt2768084",
+          "type": "movie",
+          "year": "2013"
+        },
+        {
+          "title": "Doraemon: Nobita's Three Visionary Swordsmen",
+          "tmdb_id": "161715",
+          "imdb_id": "tt1147524",
+          "type": "movie",
+          "year": "1994"
+        },
+        {
+          "title": "Doraemon: Nobita's Treasure Island",
+          "tmdb_id": "495925",
+          "imdb_id": "tt8098546",
+          "type": "movie",
+          "year": "2018"
+        },
+        {
+          "title": "Familiar Wife",
+          "tmdb_id": "80741",
+          "imdb_id": "tt8487786",
+          "type": "tv",
+          "year": "2018"
+        },
+        {
+          "title": "Lighter and Princess",
+          "tmdb_id": "134331",
+          "imdb_id": "tt22460828",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "Lucky Romance",
+          "tmdb_id": "66271",
+          "imdb_id": "tt5646500",
+          "type": "tv",
+          "year": "2016"
+        },
+        {
+          "title": "Mistress",
+          "tmdb_id": "91827",
+          "imdb_id": "tt10552772",
+          "type": "tv",
+          "year": "2019"
+        },
+        {
+          "title": "Money Flower",
+          "tmdb_id": "74887",
+          "imdb_id": "tt7521802",
+          "type": "tv",
+          "year": "2017"
+        },
+        {
+          "title": "My Strange Hero",
+          "tmdb_id": "84464",
+          "imdb_id": "tt9165992",
+          "type": "tv",
+          "year": "2018"
+        },
+        {
+          "title": "ONE PIECE",
+          "tmdb_id": "111110",
+          "imdb_id": "tt11737520",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "One Piece: The Movie",
+          "tmdb_id": "19576",
+          "imdb_id": "tt0814243",
+          "type": "movie",
+          "year": "2000"
+        },
+        {
+          "title": "Pati Patni Aur Woh",
+          "tmdb_id": "104646",
+          "imdb_id": "tt12482544",
+          "type": "tv",
+          "year": "2020"
+        },
+        {
+          "title": "Song of the Bandits",
+          "tmdb_id": "136368",
+          "imdb_id": "tt21627436",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "Stand by Me Doraemon",
+          "tmdb_id": "265712",
+          "imdb_id": "tt3331846",
+          "type": "movie",
+          "year": "2014"
+        },
+        {
+          "title": "Stand by Me Doraemon 2",
+          "tmdb_id": "728754",
+          "imdb_id": "tt13428402",
+          "type": "movie",
+          "year": "2020"
+        },
+        {
+          "title": "The Cursed",
+          "tmdb_id": "97488",
+          "imdb_id": "tt11841276",
+          "type": "tv",
+          "year": "2020"
+        },
+        {
+          "title": "The Penthouse",
+          "tmdb_id": "99489",
+          "imdb_id": "tt13067118",
+          "type": "tv",
+          "year": "2021"
+        },
+        {
+          "title": "The Punisher: One Last Kill",
+          "tmdb_id": "1439930",
+          "imdb_id": "tt36042156",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "The Scholar Who Walks the Night",
+          "tmdb_id": "63106",
+          "imdb_id": "tt4846958",
+          "type": "tv",
+          "year": "2015"
+        }
+      ]
+    },
     {
       "batch_id": 12,
       "date_key": "2026-05-15",
