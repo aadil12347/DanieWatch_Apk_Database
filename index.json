@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-18T07:29:22.059Z",
-  "total": 2084,
+  "last_updated": "2026-05-19T05:24:05.564Z",
+  "total": 2086,
   "posts": [
     {
       "id": "1607762",
@@ -21106,6 +21106,27 @@
       "imdb_id": "tt39578551"
     },
     {
+      "id": "1628367",
+      "type": "movie",
+      "title": "Kartavya",
+      "poster": "https://image.tmdb.org/t/p/w342/doTwMyAphlDL5Z8WqE3elWWvj8M.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": "tt39664733"
+    },
+    {
       "id": "1629369",
       "type": "movie",
       "title": "The Truth and Tragedy of Moriah Wilson",
@@ -37393,6 +37414,30 @@
       "imdb_id": "tt32832435",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 12
+    },
+    {
+      "id": "259837",
+      "type": "tv",
+      "title": "The WONDERfools",
+      "poster": "https://image.tmdb.org/t/p/w342/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Action & Adventure",
+        "Comedy",
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "imdb_id": "tt34440854",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 8
     },
     {
       "id": "260423",
