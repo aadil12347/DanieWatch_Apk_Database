@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-19T05:24:05.633Z",
-  "total_posts": 2086,
+  "last_updated": "2026-05-19T10:59:56.379Z",
+  "total_posts": 2107,
   "total_batches": 14,
   "batches": [
     {
@@ -8,8 +8,155 @@
       "date_key": "2026-05-19",
       "date": "May 19, 2026",
       "timestamp": "2026-05-19T05:24:05.633Z",
-      "total_in_batch": 2,
+      "total_in_batch": 23,
       "posts": [
+        {
+          "title": "Aakhri Sawal",
+          "tmdb_id": "1600771",
+          "imdb_id": "tt41110859",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Agent Zero",
+          "tmdb_id": "1383247",
+          "imdb_id": "tt35526133",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Andhadhun",
+          "tmdb_id": "534780",
+          "imdb_id": "tt8108198",
+          "type": "movie",
+          "year": "2018"
+        },
+        {
+          "title": "Anecdotes of Ape Mountain",
+          "tmdb_id": "1621496",
+          "imdb_id": "tt40249388",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Believe Me: The Abduction of Lisa McVey",
+          "tmdb_id": "550776",
+          "imdb_id": "tt9072202",
+          "type": "movie",
+          "year": "2018"
+        },
+        {
+          "title": "Choo Mantar",
+          "tmdb_id": "1414578",
+          "imdb_id": "tt25506052",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Clika",
+          "tmdb_id": "1450257",
+          "imdb_id": "tt28334938",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "FROM",
+          "tmdb_id": "124364",
+          "imdb_id": "tt9813792",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Hathras",
+          "tmdb_id": "322565",
+          "imdb_id": "tt42638829",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Haye Ni Bebe Meriye",
+          "tmdb_id": "1694620",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "I Can Only Imagine 2",
+          "tmdb_id": "1405769",
+          "imdb_id": "tt34888646",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Indian Institute of Zombies",
+          "tmdb_id": "1657678",
+          "imdb_id": "tt41113860",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Marty Supreme",
+          "tmdb_id": "1317288",
+          "imdb_id": "tt32916440",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Pati Patni Aur Woh",
+          "tmdb_id": "590350",
+          "imdb_id": "tt9680136",
+          "type": "movie",
+          "year": "2019"
+        },
+        {
+          "title": "Pati Patni Aur Woh Do",
+          "tmdb_id": "1320660",
+          "imdb_id": "tt33054858",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Remarkably Bright Creatures",
+          "tmdb_id": "1330021",
+          "imdb_id": "tt33100314",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Should I Marry A Murderer?",
+          "tmdb_id": "318262",
+          "imdb_id": "tt41082351",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "The Boys",
+          "tmdb_id": "76479",
+          "imdb_id": "tt1190634",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "The Crash",
+          "tmdb_id": "1662317",
+          "imdb_id": "tt40792117",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "The Hunting Party",
+          "tmdb_id": "247723",
+          "imdb_id": "tt21906554",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Vimal Khanna",
+          "tmdb_id": "322558",
+          "imdb_id": "tt40617563",
+          "type": "tv",
+          "year": "2026"
+        },
         {
           "title": "Kartavya",
           "tmdb_id": "1628367",
@@ -24,7 +171,8 @@
           "type": "tv",
           "year": "2026"
         }
-      ]
+      ],
+      "last_modified": "2026-05-19T10:59:56.379Z"
     },
     {
       "batch_id": 13,

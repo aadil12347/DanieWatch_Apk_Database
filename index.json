@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-19T05:24:05.564Z",
-  "total": 2086,
+  "last_updated": "2026-05-19T10:59:56.310Z",
+  "total": 2107,
   "posts": [
     {
       "id": "1607762",
@@ -6159,6 +6159,28 @@
       "original_language": "en",
       "genres": [],
       "imdb_id": "tt40832405",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 1
+    },
+    {
+      "id": "322565",
+      "type": "tv",
+      "title": "Hathras",
+      "poster": "https://image.tmdb.org/t/p/w342/njA8C3SX84vDyQt8uXogWltXJmS.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Crime",
+        "Documentary"
+      ],
+      "imdb_id": "tt42638829",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 1
     },
@@ -13301,11 +13323,11 @@
       "id": "1304313",
       "type": "movie",
       "title": "Lee Cronin's The Mummy",
-      "poster": "https://image.tmdb.org/t/p/w342/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg",
       "year": "2026",
       "result": "HD",
       "language": [
-        "Cam Result"
+        "Hindi"
       ],
       "country": [
         "US",
@@ -13631,6 +13653,26 @@
       "imdb_id": "tt33514451"
     },
     {
+      "id": "1317288",
+      "type": "movie",
+      "title": "Marty Supreme",
+      "poster": "https://image.tmdb.org/t/p/w342/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": "tt32916440"
+    },
+    {
       "id": "1317448",
       "type": "movie",
       "title": "No Place to Be Single",
@@ -13734,6 +13776,25 @@
         "Science Fiction"
       ],
       "imdb_id": "tt29634843"
+    },
+    {
+      "id": "1320660",
+      "type": "movie",
+      "title": "Pati Patni Aur Woh Do",
+      "poster": "https://image.tmdb.org/t/p/w342/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "CAM RESULT"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt33054858"
     },
     {
       "id": "1321108",
@@ -14021,6 +14082,26 @@
         "Romance"
       ],
       "imdb_id": "tt31312310"
+    },
+    {
+      "id": "1330021",
+      "type": "movie",
+      "title": "Remarkably Bright Creatures",
+      "poster": "https://image.tmdb.org/t/p/w342/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": "tt33100314"
     },
     {
       "id": "1330592",
@@ -14848,6 +14929,26 @@
       "imdb_id": "tt34365591"
     },
     {
+      "id": "1383247",
+      "type": "movie",
+      "title": "Agent Zero",
+      "poster": "https://image.tmdb.org/t/p/w342/diDNHFfccBZxw0CmQoVQkSuJIri.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "FR"
+      ],
+      "original_language": "fr",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "imdb_id": "tt35526133"
+    },
+    {
       "id": "1386827",
       "type": "movie",
       "title": "Coyotes",
@@ -15412,6 +15513,26 @@
       "imdb_id": "tt35076553"
     },
     {
+      "id": "1405769",
+      "type": "movie",
+      "title": "I Can Only Imagine 2",
+      "poster": "https://image.tmdb.org/t/p/w342/qYBCs9nBmdNCLduw5BTlendq89z.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Music",
+        "Drama"
+      ],
+      "imdb_id": "tt34888646"
+    },
+    {
       "id": "1406657",
       "type": "movie",
       "title": "Scarlet",
@@ -15664,6 +15785,26 @@
         "Drama"
       ],
       "imdb_id": "tt35484972"
+    },
+    {
+      "id": "1414578",
+      "type": "movie",
+      "title": "Choo Mantar",
+      "poster": "https://image.tmdb.org/t/p/w342/niKNhXDy7rkvjxRoxgy31sMXQZg.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "kn",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "imdb_id": "tt25506052"
     },
     {
       "id": "1415974",
@@ -16838,6 +16979,26 @@
         "Family"
       ],
       "imdb_id": "tt27940347"
+    },
+    {
+      "id": "1450257",
+      "type": "movie",
+      "title": "Clika",
+      "poster": "https://image.tmdb.org/t/p/w342/82Vh8PSzWtBi0CLWrnJdRhGYxEr.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Music",
+        "Drama"
+      ],
+      "imdb_id": "tt28334938"
     },
     {
       "id": "1452351",
@@ -20440,6 +20601,26 @@
       "imdb_id": ""
     },
     {
+      "id": "1600771",
+      "type": "movie",
+      "title": "Aakhri Sawal",
+      "poster": "https://image.tmdb.org/t/p/w342/9CXBZH6sRJpFTMSaY3wj1jx98F4.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "CAM RESULT"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": "tt41110859"
+    },
+    {
       "id": "1600883",
       "type": "movie",
       "title": "Dhandoraa",
@@ -21005,6 +21186,27 @@
       "imdb_id": "tt23866180"
     },
     {
+      "id": "1621496",
+      "type": "movie",
+      "title": "Anecdotes of Ape Mountain",
+      "poster": "https://image.tmdb.org/t/p/w342/dhk4xNejRdGKr9b7XXAOX77MLkq.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "imdb_id": "tt40249388"
+    },
+    {
       "id": "1621842",
       "type": "movie",
       "title": "Bebe Main Badmash Banuga",
@@ -21512,6 +21714,26 @@
       "imdb_id": ""
     },
     {
+      "id": "1657678",
+      "type": "movie",
+      "title": "Indian Institute of Zombies",
+      "poster": "https://image.tmdb.org/t/p/w342/zSiNbahfCoezs5LQYNtJrvczngM.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "CAM RESULT"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "imdb_id": "tt41113860"
+    },
+    {
       "id": "1658163",
       "type": "movie",
       "title": "Suyodhana",
@@ -21642,6 +21864,26 @@
         "Romance"
       ],
       "imdb_id": "tt40720168"
+    },
+    {
+      "id": "1662317",
+      "type": "movie",
+      "title": "The Crash",
+      "poster": "https://image.tmdb.org/t/p/w342/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ],
+      "imdb_id": "tt40792117"
     },
     {
       "id": "1673393",
@@ -21800,6 +22042,24 @@
         "Comedy"
       ],
       "imdb_id": "tt0365513"
+    },
+    {
+      "id": "1694620",
+      "type": "movie",
+      "title": "Haye Ni Bebe Meriye",
+      "poster": "https://image.tmdb.org/t/p/w342/ymnx4qjPgi7pSpFaUou7ENRLqte.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "pa",
+      "genres": [
+        "Family",
+        "Comedy"
+      ],
+      "imdb_id": ""
     },
     {
       "id": "1771",
@@ -24416,6 +24676,28 @@
       "imdb_id": "tt6604188"
     },
     {
+      "id": "534780",
+      "type": "movie",
+      "title": "Andhadhun",
+      "poster": "https://image.tmdb.org/t/p/w342/dy3K6hNvwE05siGgiLJcEiwgpdO.jpg",
+      "year": "2018",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller",
+        "Comedy"
+      ],
+      "imdb_id": "tt8108198"
+    },
+    {
       "id": "535156",
       "type": "movie",
       "title": "Maanaadu",
@@ -24595,6 +24877,27 @@
         "Action"
       ],
       "imdb_id": "tt7668724"
+    },
+    {
+      "id": "550776",
+      "type": "movie",
+      "title": "Believe Me: The Abduction of Lisa McVey",
+      "poster": "https://image.tmdb.org/t/p/w342/qbJEzCzEKDHPZDiRvSSBiYEKaAH.jpg",
+      "year": "2018",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CA"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "TV Movie",
+        "Crime"
+      ],
+      "imdb_id": "tt9072202"
     },
     {
       "id": "552524",
@@ -24948,6 +25251,26 @@
         "Thriller"
       ],
       "imdb_id": "tt12567088"
+    },
+    {
+      "id": "590350",
+      "type": "movie",
+      "title": "Pati Patni Aur Woh",
+      "poster": "https://image.tmdb.org/t/p/w342/9sAegdBnkfucqhrsocR47zCKcez.jpg",
+      "year": "2019",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "imdb_id": "tt9680136"
     },
     {
       "id": "591101",
@@ -28035,7 +28358,7 @@
       "year": "2026",
       "result": "HD",
       "language": [
-        "CAM RESULT"
+        "Hindi"
       ],
       "country": [
         "US"
@@ -30308,6 +30631,29 @@
       "imdb_id": "tt14976292",
       "latest_uploaded_season": 3,
       "total_uploaded_episodes": 29
+    },
+    {
+      "id": "124364",
+      "type": "tv",
+      "title": "FROM",
+      "poster": "https://image.tmdb.org/t/p/w342/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdb_id": "tt9813792",
+      "latest_uploaded_season": 4,
+      "total_uploaded_episodes": 40
     },
     {
       "id": "124411",
@@ -36194,6 +36540,28 @@
       "total_uploaded_episodes": 8
     },
     {
+      "id": "247723",
+      "type": "tv",
+      "title": "The Hunting Party",
+      "poster": "https://image.tmdb.org/t/p/w342/mjJMOLr966Q78YUPu0pVA0ydBIP.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "imdb_id": "tt21906554",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 23
+    },
+    {
       "id": "247756",
       "type": "tv",
       "title": "The Monster of Florence",
@@ -40664,6 +41032,28 @@
       "total_uploaded_episodes": 8
     },
     {
+      "id": "318262",
+      "type": "tv",
+      "title": "Should I Marry A Murderer?",
+      "poster": "https://image.tmdb.org/t/p/w342/wu8iopmnuCDZ45FMD3Gh7IgQaCI.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ],
+      "imdb_id": "tt41082351",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 3
+    },
+    {
       "id": "318880",
       "type": "tv",
       "title": "Hulk Hogan: Real American",
@@ -40702,6 +41092,28 @@
       "imdb_id": "",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 7
+    },
+    {
+      "id": "322558",
+      "type": "tv",
+      "title": "Vimal Khanna",
+      "poster": "https://image.tmdb.org/t/p/w342/x46kt1DCCpDfwp5Xfr12uJtrPN1.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Action & Adventure",
+        "Crime"
+      ],
+      "imdb_id": "tt40617563",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 9
     },
     {
       "id": "333",
@@ -42296,6 +42708,28 @@
       "imdb_id": "tt1043813",
       "latest_uploaded_season": 4,
       "total_uploaded_episodes": 49
+    },
+    {
+      "id": "76479",
+      "type": "tv",
+      "title": "The Boys",
+      "poster": "https://image.tmdb.org/t/p/w342/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "imdb_id": "tt1190634",
+      "latest_uploaded_season": 5,
+      "total_uploaded_episodes": 40
     },
     {
       "id": "77284",
