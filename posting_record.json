@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-19T10:59:56.379Z",
-  "total_posts": 2107,
+  "last_updated": "2026-05-19T13:51:43.602Z",
+  "total_posts": 2112,
   "total_batches": 14,
   "batches": [
     {
@@ -8,8 +8,43 @@
       "date_key": "2026-05-19",
       "date": "May 19, 2026",
       "timestamp": "2026-05-19T05:24:05.633Z",
-      "total_in_batch": 23,
+      "total_in_batch": 28,
       "posts": [
+        {
+          "title": "Daredevil: Born Again",
+          "tmdb_id": "202555",
+          "imdb_id": "tt18923754",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Gone Girl",
+          "tmdb_id": "210577",
+          "imdb_id": "tt2267998",
+          "type": "movie",
+          "year": "2014"
+        },
+        {
+          "title": "Marvel's Daredevil",
+          "tmdb_id": "61889",
+          "imdb_id": "tt3322312",
+          "type": "tv",
+          "year": "2018"
+        },
+        {
+          "title": "Mili: Confronto Glacial",
+          "tmdb_id": "908397",
+          "imdb_id": "tt15257644",
+          "type": "movie",
+          "year": "2022"
+        },
+        {
+          "title": "Worst Ex Ever",
+          "tmdb_id": "259259",
+          "imdb_id": "tt32932523",
+          "type": "tv",
+          "year": "2026"
+        },
         {
           "title": "Aakhri Sawal",
           "tmdb_id": "1600771",
@@ -172,7 +207,7 @@
           "year": "2026"
         }
       ],
-      "last_modified": "2026-05-19T10:59:56.379Z"
+      "last_modified": "2026-05-19T13:51:43.602Z"
     },
     {
       "batch_id": 13,

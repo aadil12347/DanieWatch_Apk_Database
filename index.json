@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-19T10:59:56.310Z",
-  "total": 2107,
+  "last_updated": "2026-05-19T13:51:43.534Z",
+  "total": 2112,
   "posts": [
     {
       "id": "1607762",
@@ -6272,6 +6272,29 @@
       "imdb_id": "tt3111906",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 13
+    },
+    {
+      "id": "61889",
+      "type": "tv",
+      "title": "Marvel's Daredevil",
+      "poster": "https://image.tmdb.org/t/p/w342/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
+      "year": "2018",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "imdb_id": "tt3322312",
+      "latest_uploaded_season": 3,
+      "total_uploaded_episodes": 17
     },
     {
       "id": "63106",
@@ -22320,6 +22343,27 @@
       "imdb_id": "tt0163651"
     },
     {
+      "id": "210577",
+      "type": "movie",
+      "title": "Gone Girl",
+      "poster": "https://image.tmdb.org/t/p/w342/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "year": "2014",
+      "result": "HD",
+      "language": [
+        "English"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ],
+      "imdb_id": "tt2267998"
+    },
+    {
       "id": "212168",
       "type": "movie",
       "title": "Ghost in the Shell: Arise - Border 2: Ghost Whispers",
@@ -28199,6 +28243,25 @@
       "imdb_id": "tt15416342"
     },
     {
+      "id": "908397",
+      "type": "movie",
+      "title": "Mili: Confronto Glacial",
+      "poster": "https://image.tmdb.org/t/p/w342/eJ36QCd5SPRpivJkVgZMqKyfgCz.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Thriller"
+      ],
+      "imdb_id": "tt15257644"
+    },
+    {
       "id": "911430",
       "type": "movie",
       "title": "F1",
@@ -32577,6 +32640,29 @@
       "imdb_id": "tt22189294",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 16
+    },
+    {
+      "id": "202555",
+      "type": "tv",
+      "title": "Daredevil: Born Again",
+      "poster": "https://image.tmdb.org/t/p/w342/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Crime"
+      ],
+      "imdb_id": "tt18923754",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 17
     },
     {
       "id": "202625",
@@ -37650,6 +37736,28 @@
       "total_uploaded_episodes": 13
     },
     {
+      "id": "259259",
+      "type": "tv",
+      "title": "Worst Ex Ever",
+      "poster": "https://image.tmdb.org/t/p/w342/s7D1qWOGSFyicpToIfXL0HRMCT7.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Crime",
+        "Documentary"
+      ],
+      "imdb_id": "tt32932523",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 8
+    },
+    {
       "id": "259265",
       "type": "tv",
       "title": "Something Very Bad Is Going to Happen",
@@ -41162,7 +41270,7 @@
       "id": "38472",
       "type": "tv",
       "title": "Marvel's Jessica Jones",
-      "poster": "https://image.tmdb.org/t/p/w342/paf9wL3mOW9LT3ZjRxXqJcjeMEv.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/1ghmaDw650NuUpGI7mYq6xE2QE2.jpg",
       "year": "2019",
       "result": "HD",
       "language": [
