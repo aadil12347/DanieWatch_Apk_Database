@@ -1,0 +1,29 @@
+{
+  "id": "322565",
+  "type": "tv",
+  "title": "Hathras",
+  "poster": "https://image.tmdb.org/t/p/w342/njA8C3SX84vDyQt8uXogWltXJmS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/hbGHlOgkbGGhyON51LQT2YnA7ND.jpg",
+  "year": "2026",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes Combined",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/yVdQZaI3wfVBzS8gqd5xyi7sXJW.jpg",
+          "air_date": "2026-05-15",
+          "runtime": 34,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/42p572i7qkqk/hathras-s01\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}
