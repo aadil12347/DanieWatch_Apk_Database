@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-20T17:04:43.133Z",
-  "total": 2253,
+  "last_updated": "2026-05-20T17:08:46.911Z",
+  "total": 2386,
   "posts": [
     {
       "id": "1607762",
@@ -7454,6 +7454,27 @@
       "imdb_id": "tt29552248"
     },
     {
+      "id": "1010581",
+      "type": "movie",
+      "title": "My Fault",
+      "poster": "https://image.tmdb.org/t/p/w342/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "ES"
+      ],
+      "original_language": "es",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "imdb_id": "tt21909764"
+    },
+    {
       "id": "1010600",
       "type": "movie",
       "title": "The Strangers: Chapter 1",
@@ -7723,6 +7744,27 @@
         "Adventure"
       ],
       "imdb_id": "tt16427902"
+    },
+    {
+      "id": "1027356",
+      "type": "movie",
+      "title": "Girls on Film",
+      "poster": "https://image.tmdb.org/t/p/w342/dsJJtg51dJC3WtRlb1ht5m19xhF.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "imdb_id": "tt28225049"
     },
     {
       "id": "1028725",
@@ -8039,6 +8081,28 @@
       "imdb_id": "tt22874848"
     },
     {
+      "id": "10497",
+      "type": "movie",
+      "title": "Bitter Moon",
+      "poster": "https://image.tmdb.org/t/p/w342/bW7E4cLWh0elRRbp2VCrtXrY1if.jpg",
+      "year": "1992",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "FR",
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": "tt0104779"
+    },
+    {
       "id": "1049942",
       "type": "movie",
       "title": "Bambi: The Reckoning",
@@ -8168,6 +8232,25 @@
         "Romance"
       ],
       "imdb_id": "tt27162102"
+    },
+    {
+      "id": "1057491",
+      "type": "movie",
+      "title": "Naughty",
+      "poster": "https://image.tmdb.org/t/p/w342/9vUEWR3LjQcPqaev2Rfm5uKvV9i.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "RU"
+      ],
+      "original_language": "ru",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt23806182"
     },
     {
       "id": "10580",
@@ -8449,6 +8532,27 @@
       "imdb_id": "tt29941083"
     },
     {
+      "id": "106646",
+      "type": "movie",
+      "title": "The Wolf of Wall Street",
+      "poster": "https://image.tmdb.org/t/p/w342/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "year": "2013",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt0993846"
+    },
+    {
       "id": "1069905",
       "type": "movie",
       "title": "Jay Kelly",
@@ -8488,6 +8592,44 @@
         "Mystery"
       ],
       "imdb_id": "tt36616410"
+    },
+    {
+      "id": "1073079",
+      "type": "movie",
+      "title": "Kill Her Goats",
+      "poster": "https://image.tmdb.org/t/p/w342/mFzyMEQvKwf2rXxB1GsSocJfL11.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror"
+      ],
+      "imdb_id": "tt13174108"
+    },
+    {
+      "id": "1073087",
+      "type": "movie",
+      "title": "Scrambled",
+      "poster": "https://image.tmdb.org/t/p/w342/yzwERLkcxNh9uve42IAUBHckU0s.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt21270966"
     },
     {
       "id": "1074619",
@@ -8549,6 +8691,46 @@
         "Drama"
       ],
       "imdb_id": "tt26452781"
+    },
+    {
+      "id": "1078642",
+      "type": "movie",
+      "title": "Bihter: A Forbidden Passion",
+      "poster": "https://image.tmdb.org/t/p/w342/80LYrmrs3EcW0hj9aXAwglmXtJF.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "TR"
+      ],
+      "original_language": "tr",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": "tt26258488"
+    },
+    {
+      "id": "10802",
+      "type": "movie",
+      "title": "Showgirls",
+      "poster": "https://image.tmdb.org/t/p/w342/o4HT3Ap5c99W4FYpdXUtTvxGgPc.jpg",
+      "year": "1995",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US",
+        "FR"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt0114436"
     },
     {
       "id": "1080365",
@@ -9448,6 +9630,26 @@
       "imdb_id": "tt27171077"
     },
     {
+      "id": "1120911",
+      "type": "movie",
+      "title": "Saturday Night",
+      "poster": "https://image.tmdb.org/t/p/w342/oCf5O6uxooTvRwKVnLHwGqZUifq.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt27657135"
+    },
+    {
       "id": "1121899",
       "type": "movie",
       "title": "Hard Copy",
@@ -9761,6 +9963,25 @@
         "Thriller"
       ],
       "imdb_id": "tt35851026"
+    },
+    {
+      "id": "11397",
+      "type": "movie",
+      "title": "Not Another Teen Movie",
+      "poster": "https://image.tmdb.org/t/p/w342/9ZaGxvj1mqdKVLpSloq4mzS7SK6.jpg",
+      "year": "2001",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt0277371"
     },
     {
       "id": "11398",
@@ -10077,6 +10298,27 @@
       "imdb_id": "tt37718411"
     },
     {
+      "id": "1152306",
+      "type": "movie",
+      "title": "The Comeback",
+      "poster": "https://image.tmdb.org/t/p/w342/hNnrtEEcDE0kHnUzzUmEGzY2eny.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "imdb_id": "tt28482763"
+    },
+    {
       "id": "1153399",
       "type": "movie",
       "title": "Coolie",
@@ -10157,6 +10399,27 @@
         "Romance"
       ],
       "imdb_id": "tt28510079"
+    },
+    {
+      "id": "1156594",
+      "type": "movie",
+      "title": "Our Fault",
+      "poster": "https://image.tmdb.org/t/p/w342/yzqHt4m1SeY9FbPrfZ0C2Hi9x1s.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "ES",
+        "US"
+      ],
+      "original_language": "es",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "imdb_id": "tt33311244"
     },
     {
       "id": "1157408",
@@ -10490,6 +10753,27 @@
       "imdb_id": "tt32430579"
     },
     {
+      "id": "11718",
+      "type": "movie",
+      "title": "Who's Harry Crumb?",
+      "poster": "https://image.tmdb.org/t/p/w342/6iUoyyaMklULVoGJDyHcN4nGgSX.jpg",
+      "year": "1989",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+      ],
+      "imdb_id": "tt0098645"
+    },
+    {
       "id": "1172012",
       "type": "movie",
       "title": "Death Stranding",
@@ -10574,6 +10858,26 @@
       "imdb_id": "tt19223248"
     },
     {
+      "id": "117942",
+      "type": "movie",
+      "title": "Girls Gone Dead",
+      "poster": "https://image.tmdb.org/t/p/w342/h4fkp6KuY55vocpkInbFeXOSrgT.jpg",
+      "year": "2012",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "imdb_id": "tt1884318"
+    },
+    {
       "id": "1180831",
       "type": "movie",
       "title": "Troll 2",
@@ -10593,6 +10897,46 @@
         "Thriller"
       ],
       "imdb_id": "tt29232158"
+    },
+    {
+      "id": "1181540",
+      "type": "movie",
+      "title": "Guns Up",
+      "poster": "https://image.tmdb.org/t/p/w342/3RokBWEkQqJRZEVP3DPwGm5MYh6.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "imdb_id": "tt28026215"
+    },
+    {
+      "id": "1184495",
+      "type": "movie",
+      "title": "Joy",
+      "poster": "https://image.tmdb.org/t/p/w342/inL3nv3hAqlvoBSIWFMYydlwULE.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt10243672"
     },
     {
       "id": "1185528",
@@ -11338,6 +11682,27 @@
       "imdb_id": "tt30425872"
     },
     {
+      "id": "1217647",
+      "type": "movie",
+      "title": "Iconic",
+      "poster": "https://image.tmdb.org/t/p/w342/62GtFUBzKGrVi5ta26izATtuFBH.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Horror"
+      ],
+      "imdb_id": "tt31565932"
+    },
+    {
       "id": "1218602",
       "type": "movie",
       "title": "Sarzameen",
@@ -11661,6 +12026,27 @@
         "Thriller"
       ],
       "imdb_id": "tt30274401"
+    },
+    {
+      "id": "122857",
+      "type": "movie",
+      "title": "Universal Soldier: Day of Reckoning",
+      "poster": "https://image.tmdb.org/t/p/w342/4pefZa0U5h0avmdvRwWB4xjMFl6.jpg",
+      "year": "2012",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "imdb_id": "tt1659343"
     },
     {
       "id": "1228827",
@@ -12733,6 +13119,26 @@
       "imdb_id": "tt31495504"
     },
     {
+      "id": "1252309",
+      "type": "movie",
+      "title": "Tell Me What You Want",
+      "poster": "https://image.tmdb.org/t/p/w342/yZXYCiZQPB7Ui6D5206W1zDKv8P.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "ES"
+      ],
+      "original_language": "es",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "imdb_id": "tt31723358"
+    },
+    {
       "id": "1252382",
       "type": "movie",
       "title": "Tyler Perry's Finding Joy",
@@ -13100,6 +13506,26 @@
       "imdb_id": "tt33255286"
     },
     {
+      "id": "1267217",
+      "type": "movie",
+      "title": "Sugar Baby",
+      "poster": "https://image.tmdb.org/t/p/w342/kcREsnVDEFFXmt5GuPwyGqyDuDJ.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "RU"
+      ],
+      "original_language": "ru",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "imdb_id": "tt30225465"
+    },
+    {
       "id": "1267319",
       "type": "movie",
       "title": "Mantis",
@@ -13140,6 +13566,30 @@
         "Drama"
       ],
       "imdb_id": "tt32606470"
+    },
+    {
+      "id": "12685",
+      "type": "movie",
+      "title": "BloodRayne: The Third Reich",
+      "poster": "https://image.tmdb.org/t/p/w342/kS48eBvmVXtNJGXWW5QMQmm1JbO.jpg",
+      "year": "2010",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CA",
+        "DE",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Horror"
+      ],
+      "imdb_id": "tt1153546"
     },
     {
       "id": "1269024",
@@ -14780,6 +15230,26 @@
       "imdb_id": "tt33068674"
     },
     {
+      "id": "1326059",
+      "type": "movie",
+      "title": "Pimpinero: Blood and Oil",
+      "poster": "https://image.tmdb.org/t/p/w342/kukotsflOSVGXQezuXohj41dbfL.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CO"
+      ],
+      "original_language": "es",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "imdb_id": "tt27660061"
+    },
+    {
       "id": "1327688",
       "type": "movie",
       "title": "One Mile: Chapter One",
@@ -14885,6 +15355,27 @@
         "Drama"
       ],
       "imdb_id": "tt33088452"
+    },
+    {
+      "id": "13282",
+      "type": "movie",
+      "title": "Death Race 2000",
+      "poster": "https://image.tmdb.org/t/p/w342/kwM8kkNGtv62gfPWVhD6qFxjDzg.jpg",
+      "year": "1975",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "imdb_id": "tt0072856"
     },
     {
       "id": "1329271",
@@ -15636,6 +16127,27 @@
       "imdb_id": "tt32306048"
     },
     {
+      "id": "1371540",
+      "type": "movie",
+      "title": "Umjolo: The Gone Girl",
+      "poster": "https://image.tmdb.org/t/p/w342/3h6SyezeKyT7VpEHyLqckbBZuoM.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "ZA"
+      ],
+      "original_language": "zu",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt33812405"
+    },
+    {
       "id": "137227",
       "type": "movie",
       "title": "Doraemon: Nobita and the New Steel Troops: Winged Angels",
@@ -15715,6 +16227,21 @@
         "Drama"
       ],
       "imdb_id": "tt33558791"
+    },
+    {
+      "id": "1375538",
+      "type": "movie",
+      "title": "Evil Dead is Back",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDExMDMwNWUtOTY3NS00NWI1LWJlY2YtODE4MGMzNGQ0MDJiXkEyXkFqcGc@._V1_.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "en",
+      "genres": [],
+      "imdb_id": ""
     },
     {
       "id": "1376870",
@@ -16772,6 +17299,26 @@
         "Drama"
       ],
       "imdb_id": "tt35484972"
+    },
+    {
+      "id": "14144",
+      "type": "movie",
+      "title": "Daddy Day Camp",
+      "poster": "https://image.tmdb.org/t/p/w342/fhuhSVb3j8SShe6FhnVUAfSRg6h.jpg",
+      "year": "2007",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Family",
+        "Comedy"
+      ],
+      "imdb_id": "tt0462244"
     },
     {
       "id": "1414578",
@@ -18028,6 +18575,25 @@
       "imdb_id": "tt28334938"
     },
     {
+      "id": "14503",
+      "type": "movie",
+      "title": "Bachelor Party 2: The Last Temptation",
+      "poster": "https://image.tmdb.org/t/p/w342/5jYCn53G4oqNnGLh6TThQduJqxT.jpg",
+      "year": "2008",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt0954541"
+    },
+    {
       "id": "1452351",
       "type": "movie",
       "title": "Nite Road",
@@ -19149,6 +19715,27 @@
       "imdb_id": "tt37432084"
     },
     {
+      "id": "15092",
+      "type": "movie",
+      "title": "Crank: High Voltage",
+      "poster": "https://image.tmdb.org/t/p/w342/tzTC4EEvF0OPL63frEiogxL2T8M.jpg",
+      "year": "2009",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "imdb_id": "tt1121931"
+    },
+    {
       "id": "1509350",
       "type": "movie",
       "title": "Yaadhum Ariyaan",
@@ -20105,6 +20692,26 @@
         "Drama"
       ],
       "imdb_id": "tt36328115"
+    },
+    {
+      "id": "15420",
+      "type": "movie",
+      "title": "The Plague",
+      "poster": "https://image.tmdb.org/t/p/w342/oC1IDjpUXbWwmJnWGb9FBldinoG.jpg",
+      "year": "2006",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "imdb_id": "tt0479125"
     },
     {
       "id": "1542352",
@@ -23149,6 +23756,47 @@
       "imdb_id": ""
     },
     {
+      "id": "17124",
+      "type": "movie",
+      "title": "Wild Things: Diamonds in the Rough",
+      "poster": "https://image.tmdb.org/t/p/w342/1O01MpwB6eV0ars0Jxk0yh4x5ED.jpg",
+      "year": "2005",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": "tt0448179"
+    },
+    {
+      "id": "17166",
+      "type": "movie",
+      "title": "Insanitarium",
+      "poster": "https://image.tmdb.org/t/p/w342/osefLZ4RWntoKHbut9bwphsCRDX.jpg",
+      "year": "2008",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "imdb_id": "tt1103984"
+    },
+    {
       "id": "17609",
       "type": "movie",
       "title": "Antichrist",
@@ -23194,6 +23842,50 @@
         "Science Fiction"
       ],
       "imdb_id": "tt0458339"
+    },
+    {
+      "id": "18167",
+      "type": "movie",
+      "title": "Another 9 1/2 Weeks",
+      "poster": "https://image.tmdb.org/t/p/w342/lbQjiB1KTCX1Tmrby7CV7tP5Yq5.jpg",
+      "year": "1997",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "FR",
+        "GB",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": "tt0119576"
+    },
+    {
+      "id": "18392",
+      "type": "movie",
+      "title": "Embrace of the Vampire",
+      "poster": "https://image.tmdb.org/t/p/w342/3amk8h3a4xVdt3f5LG8Mo7TrAn0.jpg",
+      "year": "1995",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Romance",
+        "Drama"
+      ],
+      "imdb_id": "tt0109723"
     },
     {
       "id": "188403",
@@ -23431,6 +24123,46 @@
       "imdb_id": "tt1187043"
     },
     {
+      "id": "206013",
+      "type": "movie",
+      "title": "Spirit Bear: The Simon Jackson Story",
+      "poster": "https://image.tmdb.org/t/p/w342/qHUUEa0pfeSAnqqzVihke8unuQj.jpg",
+      "year": "2005",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Family",
+        "Adventure"
+      ],
+      "imdb_id": "tt0432088"
+    },
+    {
+      "id": "207768",
+      "type": "movie",
+      "title": "I Spit on Your Grave 2",
+      "poster": "https://image.tmdb.org/t/p/w342/wit1VRI9sAbCstuwm3KPgxfYYqo.jpg",
+      "year": "2013",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Crime"
+      ],
+      "imdb_id": "tt2537176"
+    },
+    {
       "id": "209247",
       "type": "movie",
       "title": "The Art of the Steal",
@@ -23577,6 +24309,27 @@
       "imdb_id": "tt0079074"
     },
     {
+      "id": "216015",
+      "type": "movie",
+      "title": "Fifty Shades of Grey",
+      "poster": "https://image.tmdb.org/t/p/w342/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg",
+      "year": "2015",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "imdb_id": "tt2322441"
+    },
+    {
       "id": "216358",
       "type": "movie",
       "title": "Secret Games 3",
@@ -23640,6 +24393,25 @@
       "imdb_id": "tt2768084"
     },
     {
+      "id": "21915",
+      "type": "movie",
+      "title": "Booty Call",
+      "poster": "https://image.tmdb.org/t/p/w342/1pQpHVm3AXIwbBUnwGEQ0q95E0L.jpg",
+      "year": "1997",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt0118750"
+    },
+    {
       "id": "2193",
       "type": "movie",
       "title": "My Tutor",
@@ -23659,6 +24431,25 @@
         "Romance"
       ],
       "imdb_id": "tt0085980"
+    },
+    {
+      "id": "225886",
+      "type": "movie",
+      "title": "Sex Tape",
+      "poster": "https://image.tmdb.org/t/p/w342/pFdS7SIdjcrYXtf141dabWVly9B.jpg",
+      "year": "2014",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt1956620"
     },
     {
       "id": "230846",
@@ -23742,6 +24533,25 @@
       "imdb_id": "tt3579524"
     },
     {
+      "id": "241251",
+      "type": "movie",
+      "title": "The Boy Next Door",
+      "poster": "https://image.tmdb.org/t/p/w342/gicmSeLG6Uh7BF1r1mxZHUQ8r26.jpg",
+      "year": "2015",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Thriller"
+      ],
+      "imdb_id": "tt3181822"
+    },
+    {
       "id": "242",
       "type": "movie",
       "title": "The Godfather Part III",
@@ -23784,6 +24594,26 @@
       "imdb_id": "tt0878647"
     },
     {
+      "id": "251783",
+      "type": "movie",
+      "title": "Pleasure or Pain",
+      "poster": "https://image.tmdb.org/t/p/w342/hPsB2NZozctyxl9juWPZzdIpHxa.jpg",
+      "year": "2013",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": "tt2091327"
+    },
+    {
       "id": "252264",
       "type": "movie",
       "title": "Eyes of the Serpent",
@@ -23801,6 +24631,46 @@
         "Fantasy"
       ],
       "imdb_id": "tt0109764"
+    },
+    {
+      "id": "25239",
+      "type": "movie",
+      "title": "Day of the Woman",
+      "poster": "https://image.tmdb.org/t/p/w342/nMCkOo26GtISoxJmpkTAJyMqBO8.jpg",
+      "year": "1978",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror"
+      ],
+      "imdb_id": "tt0077713"
+    },
+    {
+      "id": "253046",
+      "type": "movie",
+      "title": "Jailbait",
+      "poster": "https://image.tmdb.org/t/p/w342/bNaKWcYARKnvDBCFEIc0uOQxX2v.jpg",
+      "year": "2014",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": "tt3290276"
     },
     {
       "id": "254470",
@@ -23821,6 +24691,48 @@
         "Music"
       ],
       "imdb_id": "tt2848292"
+    },
+    {
+      "id": "25920",
+      "type": "movie",
+      "title": "Born of Fire",
+      "poster": "https://image.tmdb.org/t/p/w342/j3Rs1fT2bpGTs1cRVtA1AlG9rNi.jpg",
+      "year": "1987",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "TR",
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Drama"
+      ],
+      "imdb_id": "tt0092691"
+    },
+    {
+      "id": "26011",
+      "type": "movie",
+      "title": "Hard Ticket to Hawaii",
+      "poster": "https://image.tmdb.org/t/p/w342/yZBHqhCZYAAihDBgMvQziITtLUO.jpg",
+      "year": "1987",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "imdb_id": "tt0093146"
     },
     {
       "id": "26123",
@@ -24055,6 +24967,46 @@
       "imdb_id": "tt4016942"
     },
     {
+      "id": "279576",
+      "type": "movie",
+      "title": "Body of Influence 2",
+      "poster": "https://image.tmdb.org/t/p/w342/wiWaTOWmVrr9XmK0uNAvnKtmXQu.jpg",
+      "year": "1996",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Thriller"
+      ],
+      "imdb_id": "tt0115723"
+    },
+    {
+      "id": "28340",
+      "type": "movie",
+      "title": "The Invisible Maniac",
+      "poster": "https://image.tmdb.org/t/p/w342/t04IPymimKl1uK5dblZzuQIJIjL.jpg",
+      "year": "1990",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Science Fiction",
+        "Comedy",
+        "Horror"
+      ],
+      "imdb_id": "tt0099856"
+    },
+    {
       "id": "284536",
       "type": "movie",
       "title": "The Gambler",
@@ -24074,6 +25026,27 @@
         "Drama"
       ],
       "imdb_id": "tt2039393"
+    },
+    {
+      "id": "28529",
+      "type": "movie",
+      "title": "Sorceress",
+      "poster": "https://image.tmdb.org/t/p/w342/4yTPpffXf0WA33rgweZ1Y7PUe0L.jpg",
+      "year": "1995",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Thriller"
+      ],
+      "imdb_id": "tt0111244"
     },
     {
       "id": "285812",
@@ -24098,6 +25071,26 @@
         "Science Fiction"
       ],
       "imdb_id": "tt3949650"
+    },
+    {
+      "id": "286554",
+      "type": "movie",
+      "title": "Two Night Stand",
+      "poster": "https://image.tmdb.org/t/p/w342/rz0YnlHieXP9SBuJU4ANBW8ttIw.jpg",
+      "year": "2014",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "imdb_id": "tt2140619"
     },
     {
       "id": "287767",
@@ -24144,6 +25137,26 @@
       "imdb_id": "tt2571362"
     },
     {
+      "id": "29795",
+      "type": "movie",
+      "title": "Beach Babes from Beyond",
+      "poster": "https://image.tmdb.org/t/p/w342/v5TXbzoPvjsU1JAM8mS7E0gMJro.jpg",
+      "year": "1993",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Science Fiction",
+        "Comedy"
+      ],
+      "imdb_id": "tt0106366"
+    },
+    {
       "id": "299537",
       "type": "movie",
       "title": "Captain Marvel",
@@ -24186,10 +25199,32 @@
       "imdb_id": "tt0074501"
     },
     {
+      "id": "300673",
+      "type": "movie",
+      "title": "The Finest Hours",
+      "poster": "https://image.tmdb.org/t/p/w342/6UG91TJ4DKI6FGdqXZfDBeRZHX8.jpg",
+      "year": "2016",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "imdb_id": "tt2025690"
+    },
+    {
       "id": "301728",
       "type": "movie",
       "title": "Infini",
-      "poster": "https://image.tmdb.org/t/p/w342/uDxbsPqH2451rlG8aRjUQCWh5gN.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/3RpZabrzEKiwoG5Y74HkX4rMQHM.jpg",
       "year": "2015",
       "result": "HD",
       "language": [
@@ -24229,6 +25264,27 @@
       "imdb_id": "tt3174376"
     },
     {
+      "id": "302",
+      "type": "movie",
+      "title": "Swimming Pool",
+      "poster": "https://image.tmdb.org/t/p/w342/10xMAznUxI0LZPYyPxA9WjJsThr.jpg",
+      "year": "2003",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "FR",
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": "tt0324133"
+    },
+    {
       "id": "30494",
       "type": "movie",
       "title": "Top Model",
@@ -24246,6 +25302,46 @@
         "Drama"
       ],
       "imdb_id": "tt0094167"
+    },
+    {
+      "id": "308453",
+      "type": "movie",
+      "title": "The Bronze",
+      "poster": "https://image.tmdb.org/t/p/w342/Ah2nD3Kml59svErVsz6DUsxlJ8.jpg",
+      "year": "2016",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt3859304"
+    },
+    {
+      "id": "308529",
+      "type": "movie",
+      "title": "Kickboxer: Vengeance",
+      "poster": "https://image.tmdb.org/t/p/w342/9suFyXDE1MhZ8I8tuhmTd0fJ7G8.jpg",
+      "year": "2016",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "imdb_id": "tt3082898"
     },
     {
       "id": "30877",
@@ -24313,6 +25409,27 @@
       "imdb_id": "tt1147513"
     },
     {
+      "id": "31646",
+      "type": "movie",
+      "title": "Piranha II: The Spawning",
+      "poster": "https://image.tmdb.org/t/p/w342/rbcbLYbhc8ZmQmNHAt8E8knij88.jpg",
+      "year": "1982",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IT",
+        "NL",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror"
+      ],
+      "imdb_id": "tt0082910"
+    },
+    {
       "id": "316654",
       "type": "movie",
       "title": "Bombay Velvet",
@@ -24333,6 +25450,49 @@
       "imdb_id": "tt2979920"
     },
     {
+      "id": "318781",
+      "type": "movie",
+      "title": "Colonia",
+      "poster": "https://image.tmdb.org/t/p/w342/p7oGFkMGaQR27R1olN9RoMzg4vS.jpg",
+      "year": "2016",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "DE",
+        "LU",
+        "GB",
+        "FR"
+      ],
+      "original_language": "de",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "imdb_id": "tt4005402"
+    },
+    {
+      "id": "321015",
+      "type": "movie",
+      "title": "Name Me",
+      "poster": "https://image.tmdb.org/t/p/w342/kWXcLTt0Qn9iQ1nppTkjbHlg92r.jpg",
+      "year": "2014",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "RU"
+      ],
+      "original_language": "ru",
+      "genres": [
+        "Drama",
+        "Adventure"
+      ],
+      "imdb_id": "tt4058346"
+    },
+    {
       "id": "323675",
       "type": "movie",
       "title": "Ride Along 2",
@@ -24351,6 +25511,25 @@
         "Comedy"
       ],
       "imdb_id": "tt2869728"
+    },
+    {
+      "id": "327358",
+      "type": "movie",
+      "title": "Kiss of Death",
+      "poster": "https://image.tmdb.org/t/p/w342/35Y9TVqqYkB4hHzZw00Okp7fF9S.jpg",
+      "year": "1997",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Thriller"
+      ],
+      "imdb_id": "tt0403203"
     },
     {
       "id": "328589",
@@ -24419,6 +25598,25 @@
       "imdb_id": "tt3503840"
     },
     {
+      "id": "33301",
+      "type": "movie",
+      "title": "Confessions of a Driving Instructor",
+      "poster": "https://image.tmdb.org/t/p/w342/vMTf2j4cvAOMZU9rgpipqnGoe9O.jpg",
+      "year": "1976",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt0074343"
+    },
+    {
       "id": "334376",
       "type": "movie",
       "title": "Ghost in the Shell: The New Movie",
@@ -24458,6 +25656,26 @@
         "Mystery"
       ],
       "imdb_id": "tt4158096"
+    },
+    {
+      "id": "337167",
+      "type": "movie",
+      "title": "Fifty Shades Freed",
+      "poster": "https://image.tmdb.org/t/p/w342/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg",
+      "year": "2018",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": "tt4477536"
     },
     {
       "id": "33743",
@@ -24523,6 +25741,26 @@
       "imdb_id": "tt2069797"
     },
     {
+      "id": "341174",
+      "type": "movie",
+      "title": "Fifty Shades Darker",
+      "poster": "https://image.tmdb.org/t/p/w342/w3qa274gvca9t8pkUoG8nfQgTU3.jpg",
+      "year": "2017",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": "tt4465564"
+    },
+    {
       "id": "343611",
       "type": "movie",
       "title": "Jack Reacher: Never Go Back",
@@ -24585,6 +25823,27 @@
         "Thriller"
       ],
       "imdb_id": "tt1223893"
+    },
+    {
+      "id": "34601",
+      "type": "movie",
+      "title": "Three Way",
+      "poster": "https://image.tmdb.org/t/p/w342/4sDNvHPwnCy6dQBU4FjSawNhrow.jpg",
+      "year": "2004",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": "tt0368343"
     },
     {
       "id": "346364",
@@ -24715,6 +25974,47 @@
       "imdb_id": "tt1608777"
     },
     {
+      "id": "357096",
+      "type": "movie",
+      "title": "I Spit on Your Grave III: Vengeance Is Mine",
+      "poster": "https://image.tmdb.org/t/p/w342/qosIFCddpZjoMdsrkcQWB4UGm3o.jpg",
+      "year": "2015",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror"
+      ],
+      "imdb_id": "tt4530884"
+    },
+    {
+      "id": "361539",
+      "type": "movie",
+      "title": "Deep Trap",
+      "poster": "https://image.tmdb.org/t/p/w342/3kmLrAWu0qgBRoNviC52DKEkHcl.jpg",
+      "year": "2015",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime",
+        "Horror"
+      ],
+      "imdb_id": "tt4922028"
+    },
+    {
       "id": "366080",
       "type": "movie",
       "title": "Kabali",
@@ -24796,6 +26096,87 @@
         "Drama"
       ],
       "imdb_id": "tt5311514"
+    },
+    {
+      "id": "37333",
+      "type": "movie",
+      "title": "Lake Consequence",
+      "poster": "https://image.tmdb.org/t/p/w342/mU6CwKO7QwxRlutmUSIS4hjJJUa.jpg",
+      "year": "1995",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": "tt0107357"
+    },
+    {
+      "id": "37795",
+      "type": "movie",
+      "title": "Taboo II",
+      "poster": "https://image.tmdb.org/t/p/w342/cxu0vWX5rXLA9oZXSfl8sgpctkg.jpg",
+      "year": "1982",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Horror"
+      ],
+      "imdb_id": "tt0084755"
+    },
+    {
+      "id": "37958",
+      "type": "movie",
+      "title": "Immortals",
+      "poster": "https://image.tmdb.org/t/p/w342/4SPPX5KIyaQ9O8n5rLvvUIiIhpF.jpg",
+      "year": "2011",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Fantasy",
+        "Action",
+        "Drama"
+      ],
+      "imdb_id": "tt1253864"
+    },
+    {
+      "id": "38173",
+      "type": "movie",
+      "title": "Up Your Anchor",
+      "poster": "https://image.tmdb.org/t/p/w342/eWjtuV9FQ3UBDjOtTgxZbrFUnW2.jpg",
+      "year": "1985",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IL"
+      ],
+      "original_language": "he",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt0089473"
     },
     {
       "id": "382614",
@@ -24907,6 +26288,27 @@
       "imdb_id": "tt2909396"
     },
     {
+      "id": "39479",
+      "type": "movie",
+      "title": "Love Crimes",
+      "poster": "https://image.tmdb.org/t/p/w342/l2zE5VYf3SlC66GTpR80bwcWDn4.jpg",
+      "year": "1992",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "imdb_id": "tt0102340"
+    },
+    {
       "id": "395817",
       "type": "movie",
       "title": "The Thicket",
@@ -24949,6 +26351,28 @@
         "Adventure"
       ],
       "imdb_id": "tt5700672"
+    },
+    {
+      "id": "399173",
+      "type": "movie",
+      "title": "The Assignment",
+      "poster": "https://image.tmdb.org/t/p/w342/3wx83iGCATiIAyrZHI6AeeNfiAT.jpg",
+      "year": "2016",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US",
+        "FR"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": "tt5034474"
     },
     {
       "id": "400649",
@@ -25032,6 +26456,26 @@
         "Thriller"
       ],
       "imdb_id": "tt4526546"
+    },
+    {
+      "id": "405815",
+      "type": "movie",
+      "title": "The Sex Trip",
+      "poster": "https://image.tmdb.org/t/p/w342/y0hqdbBvKcDIue4rQLOgzdGqwEA.jpg",
+      "year": "2017",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "imdb_id": "tt4357714"
     },
     {
       "id": "411442",
@@ -25218,6 +26662,25 @@
       "imdb_id": "tt0108052"
     },
     {
+      "id": "4248",
+      "type": "movie",
+      "title": "Scary Movie 2",
+      "poster": "https://image.tmdb.org/t/p/w342/7Eb1JWK0Cb0rbfsYjwfc9g0PbQH.jpg",
+      "year": "2001",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt0257106"
+    },
+    {
       "id": "425274",
       "type": "movie",
       "title": "Now You See Me: Now You Don't",
@@ -25306,6 +26769,26 @@
       "imdb_id": "tt6324278"
     },
     {
+      "id": "43593",
+      "type": "movie",
+      "title": "Piranha 3D",
+      "poster": "https://image.tmdb.org/t/p/w342/lMLS2OFBbNYMSB1ZbVp4q2S4zTU.jpg",
+      "year": "2010",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "imdb_id": "tt0464154"
+    },
+    {
       "id": "437557",
       "type": "movie",
       "title": "Blockers",
@@ -25323,6 +26806,87 @@
         "Comedy"
       ],
       "imdb_id": "tt2531344"
+    },
+    {
+      "id": "43947",
+      "type": "movie",
+      "title": "I Spit on Your Grave",
+      "poster": "https://image.tmdb.org/t/p/w342/xDbNbIqsdA1D0W2gve2QRTp4z83.jpg",
+      "year": "2010",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Horror"
+      ],
+      "imdb_id": "tt1242432"
+    },
+    {
+      "id": "44014",
+      "type": "movie",
+      "title": "Groupie",
+      "poster": "https://image.tmdb.org/t/p/w342/nTRKVxWXA1R1xOsKQmVPpN0fUZa.jpg",
+      "year": "2010",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "imdb_id": "tt1422653"
+    },
+    {
+      "id": "44114",
+      "type": "movie",
+      "title": "3some",
+      "poster": "https://image.tmdb.org/t/p/w342/h61c54Dc5Ax6PbCVNxr3aIywKLA.jpg",
+      "year": "2009",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "ES"
+      ],
+      "original_language": "es",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "imdb_id": "tt1188985"
+    },
+    {
+      "id": "443109",
+      "type": "movie",
+      "title": "Oceans Rising",
+      "poster": "https://image.tmdb.org/t/p/w342/3PzeV1qxvSQnu5BdG5tbTmEszDz.jpg",
+      "year": "2017",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Science Fiction"
+      ],
+      "imdb_id": "tt6215044"
     },
     {
       "id": "447743",
@@ -25347,6 +26911,26 @@
       "imdb_id": "tt6340500"
     },
     {
+      "id": "4478",
+      "type": "movie",
+      "title": "Indecent Proposal",
+      "poster": "https://image.tmdb.org/t/p/w342/a39WoiTJEG5kNLIrr3kOMwg3LFg.jpg",
+      "year": "1993",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "imdb_id": "tt0107211"
+    },
+    {
       "id": "448358",
       "type": "movie",
       "title": "Darker Shades of Elise",
@@ -25365,6 +26949,27 @@
         "Drama"
       ],
       "imdb_id": "tt4208432"
+    },
+    {
+      "id": "45029",
+      "type": "movie",
+      "title": "Fit to Kill",
+      "poster": "https://image.tmdb.org/t/p/w342/tdaqSdk4FCrRAuslGjCDhwWPhik.jpg",
+      "year": "1993",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Romance",
+        "Thriller"
+      ],
+      "imdb_id": "tt0106922"
     },
     {
       "id": "45030",
@@ -25424,6 +27029,74 @@
         "Thriller"
       ],
       "imdb_id": "tt5352846"
+    },
+    {
+      "id": "452551",
+      "type": "movie",
+      "title": "The Adventurers",
+      "poster": "https://image.tmdb.org/t/p/w342/iVKVucELauvZGsNUd37LgSusQWb.jpg",
+      "year": "2017",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN",
+        "CZ",
+        "HK",
+        "US"
+      ],
+      "original_language": "cn",
+      "genres": [
+        "Action",
+        "Crime",
+        "Adventure"
+      ],
+      "imdb_id": "tt5866930"
+    },
+    {
+      "id": "4556",
+      "type": "movie",
+      "title": "Nightwatching",
+      "poster": "https://image.tmdb.org/t/p/w342/vcwa1RqvoYLQIKOA4EjjPNhrkJx.jpg",
+      "year": "2007",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CA",
+        "NL",
+        "PL",
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "imdb_id": "tt0446750"
+    },
+    {
+      "id": "45722",
+      "type": "movie",
+      "title": "Don't Look Down",
+      "poster": "https://image.tmdb.org/t/p/w342/s7igxMxtKQKHdnDxnSAJej7RTGp.jpg",
+      "year": "2008",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "AR",
+        "FR"
+      ],
+      "original_language": "es",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": "tt1233487"
     },
     {
       "id": "457837",
@@ -25539,6 +27212,27 @@
       "imdb_id": "tt7134096"
     },
     {
+      "id": "469722",
+      "type": "movie",
+      "title": "Trauma",
+      "poster": "https://image.tmdb.org/t/p/w342/wbtU44cXUa57LV4rCIVuFBSBRql.jpg",
+      "year": "2017",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CL"
+      ],
+      "original_language": "es",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Drama"
+      ],
+      "imdb_id": "tt6705640"
+    },
+    {
       "id": "4705",
       "type": "movie",
       "title": "The Sensuous Nurse",
@@ -25575,6 +27269,28 @@
         "Comedy"
       ],
       "imdb_id": "tt6944936"
+    },
+    {
+      "id": "47327",
+      "type": "movie",
+      "title": "Drive Angry",
+      "poster": "https://image.tmdb.org/t/p/w342/nx2pChi41Xv4dsXsfSG3gnKcWaY.jpg",
+      "year": "2011",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Fantasy",
+        "Thriller",
+        "Action",
+        "Crime"
+      ],
+      "imdb_id": "tt1502404"
     },
     {
       "id": "474350",
@@ -25661,6 +27377,27 @@
         "Crime"
       ],
       "imdb_id": "tt6574480"
+    },
+    {
+      "id": "487437",
+      "type": "movie",
+      "title": "White as Snow",
+      "poster": "https://image.tmdb.org/t/p/w342/vOo0cXSb5c5B4SJFRJwXosuYpJV.jpg",
+      "year": "2019",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "FR",
+        "BE"
+      ],
+      "original_language": "fr",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt8054066"
     },
     {
       "id": "487558",
@@ -25814,6 +27551,26 @@
       "imdb_id": "tt0120689"
     },
     {
+      "id": "49983",
+      "type": "movie",
+      "title": "Enemy Gold",
+      "poster": "https://image.tmdb.org/t/p/w342/bW3wf5KncLoMolW55k1Uvrrrs9d.jpg",
+      "year": "1994",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "imdb_id": "tt0106819"
+    },
+    {
       "id": "500664",
       "type": "movie",
       "title": "Upgrade",
@@ -25921,6 +27678,26 @@
       "imdb_id": "tt7984766"
     },
     {
+      "id": "50544",
+      "type": "movie",
+      "title": "Friends with Benefits",
+      "poster": "https://image.tmdb.org/t/p/w342/nKhhDFCdzxeJ3GUunQ570LDpUkz.jpg",
+      "year": "2011",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "imdb_id": "tt1632708"
+    },
+    {
       "id": "507244",
       "type": "movie",
       "title": "Afterburn",
@@ -25963,6 +27740,25 @@
         "Science Fiction"
       ],
       "imdb_id": "tt8155288"
+    },
+    {
+      "id": "514885",
+      "type": "movie",
+      "title": "Strangers of Patience",
+      "poster": "https://image.tmdb.org/t/p/w342/yLuHbglmsqvOXCULRTDYTUSAYZm.jpg",
+      "year": "2018",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "RU"
+      ],
+      "original_language": "ru",
+      "genres": [
+        "Thriller"
+      ],
+      "imdb_id": "tt9715742"
     },
     {
       "id": "51540",
@@ -26029,6 +27825,26 @@
       "imdb_id": "tt8110652"
     },
     {
+      "id": "5203",
+      "type": "movie",
+      "title": "Wild Orchid",
+      "poster": "https://image.tmdb.org/t/p/w342/6UfS8J9Ixn0BAv1aeuAFWom5YEk.jpg",
+      "year": "1989",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": "tt0100934"
+    },
+    {
       "id": "522495",
       "type": "movie",
       "title": "B Tech",
@@ -26070,6 +27886,25 @@
         "Science Fiction"
       ],
       "imdb_id": "tt7737786"
+    },
+    {
+      "id": "52449",
+      "type": "movie",
+      "title": "Bad Teacher",
+      "poster": "https://image.tmdb.org/t/p/w342/zpIY4qUSX91J9XpPgr0hFrk1eKr.jpg",
+      "year": "2011",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt1284575"
     },
     {
       "id": "524736",
@@ -26133,6 +27968,28 @@
         "Science Fiction"
       ],
       "imdb_id": "tt8574252"
+    },
+    {
+      "id": "530385",
+      "type": "movie",
+      "title": "Midsommar",
+      "poster": "https://image.tmdb.org/t/p/w342/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "year": "2019",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "SE",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": "tt8772262"
     },
     {
       "id": "531309",
@@ -26237,6 +28094,27 @@
       "imdb_id": "tt6604188"
     },
     {
+      "id": "5336",
+      "type": "movie",
+      "title": "Salò, or the 120 Days of Sodom",
+      "poster": "https://image.tmdb.org/t/p/w342/xnaDdiRfZlJaTf6JRc4in40eaeI.jpg",
+      "year": "1976",
+      "result": "HD",
+      "language": [
+        "English"
+      ],
+      "country": [
+        "IT",
+        "FR"
+      ],
+      "original_language": "it",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "imdb_id": "tt0073650"
+    },
+    {
       "id": "534780",
       "type": "movie",
       "title": "Andhadhun",
@@ -26280,6 +28158,23 @@
       "imdb_id": "tt4983780"
     },
     {
+      "id": "535285",
+      "type": "movie",
+      "title": "Naked Run",
+      "poster": "https://image.tmdb.org/t/p/w342/axPZFjm4R5xiUd9riKMr8afmrcA.jpg",
+      "year": "2011",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "en",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt0852986"
+    },
+    {
       "id": "535389",
       "type": "movie",
       "title": "The Great Battle",
@@ -26299,6 +28194,26 @@
         "Action"
       ],
       "imdb_id": "tt6931414"
+    },
+    {
+      "id": "537915",
+      "type": "movie",
+      "title": "After",
+      "poster": "https://image.tmdb.org/t/p/w342/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg",
+      "year": "2019",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": "tt4126476"
     },
     {
       "id": "541671",
@@ -26381,6 +28296,44 @@
       "imdb_id": "tt7559180"
     },
     {
+      "id": "5458",
+      "type": "movie",
+      "title": "Cruel Intentions 2",
+      "poster": "https://image.tmdb.org/t/p/w342/soO0nrnh9lEdTgGFBT0IIvejwcK.jpg",
+      "year": "2000",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt0196267"
+    },
+    {
+      "id": "5460",
+      "type": "movie",
+      "title": "Cruel Intentions 3",
+      "poster": "https://image.tmdb.org/t/p/w342/pxjJf3QnZxe3EO8NuwEeK0Yldcd.jpg",
+      "year": "2004",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt0391891"
+    },
+    {
       "id": "547026",
       "type": "movie",
       "title": "FryDay",
@@ -26440,6 +28393,26 @@
       "imdb_id": "tt7668724"
     },
     {
+      "id": "549514",
+      "type": "movie",
+      "title": "Fatale",
+      "poster": "https://image.tmdb.org/t/p/w342/tGFXEyESXIuei5tZWXRkSRSFSxi.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": "tt8829830"
+    },
+    {
       "id": "550776",
       "type": "movie",
       "title": "Believe Me: The Abduction of Lisa McVey",
@@ -26480,6 +28453,27 @@
         "Comedy"
       ],
       "imdb_id": "tt11655566"
+    },
+    {
+      "id": "555020",
+      "type": "movie",
+      "title": "Legend of the Ancient Sword",
+      "poster": "https://image.tmdb.org/t/p/w342/1QHwlirJb7MJJcvTICMJvfG3oyh.jpg",
+      "year": "2018",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "imdb_id": "tt5806792"
     },
     {
       "id": "55680",
@@ -27405,6 +29399,49 @@
       "imdb_id": "tt15838850"
     },
     {
+      "id": "619979",
+      "type": "movie",
+      "title": "Deep Water",
+      "poster": "https://image.tmdb.org/t/p/w342/6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": "tt2180339"
+    },
+    {
+      "id": "6282",
+      "type": "movie",
+      "title": "Coyote Ugly",
+      "poster": "https://image.tmdb.org/t/p/w342/xYM0laKrEqjiRSQNvqRrXPXN3iL.jpg",
+      "year": "2000",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "imdb_id": "tt0200550"
+    },
+    {
       "id": "628704",
       "type": "movie",
       "title": "Midnight",
@@ -27765,6 +29802,27 @@
       "imdb_id": "tt1147517"
     },
     {
+      "id": "64883",
+      "type": "movie",
+      "title": "Faust: Love of the Damned",
+      "poster": "https://image.tmdb.org/t/p/w342/qewddAmFcD2XoGc4w1YwNdw8YXy.jpg",
+      "year": "2000",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "ES"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Action"
+      ],
+      "imdb_id": "tt0223268"
+    },
+    {
       "id": "65",
       "type": "movie",
       "title": "8 Mile",
@@ -27784,6 +29842,28 @@
         "Music"
       ],
       "imdb_id": "tt0298203"
+    },
+    {
+      "id": "65347",
+      "type": "movie",
+      "title": "Cold Fusion",
+      "poster": "https://image.tmdb.org/t/p/w342/j7KilE5raWHR58udQnCacFfr1t7.jpg",
+      "year": "2011",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US",
+        "BG"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "TV Movie"
+      ],
+      "imdb_id": "tt1678042"
     },
     {
       "id": "656113",
@@ -28014,6 +30094,25 @@
       "imdb_id": "tt0127759"
     },
     {
+      "id": "67398",
+      "type": "movie",
+      "title": "The Dallas Connection",
+      "poster": "https://image.tmdb.org/t/p/w342/yHrd3gMBi5VgZZEpxixtQpbNZEh.jpg",
+      "year": "1994",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action"
+      ],
+      "imdb_id": "tt0112782"
+    },
+    {
       "id": "680956",
       "type": "movie",
       "title": "Chal Mera Putt 2",
@@ -28120,6 +30219,31 @@
       "imdb_id": "tt21362766"
     },
     {
+      "id": "6968",
+      "type": "movie",
+      "title": "The Baader Meinhof Complex",
+      "poster": "https://image.tmdb.org/t/p/w342/36Y0UT6bXnkHBGmmVFWGEnEh8nI.jpg",
+      "year": "2008",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CZ",
+        "FR",
+        "DE"
+      ],
+      "original_language": "de",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "imdb_id": "tt0765432"
+    },
+    {
       "id": "698948",
       "type": "movie",
       "title": "Thirteen Lives",
@@ -28160,6 +30284,26 @@
         "Action"
       ],
       "imdb_id": "tt1754264"
+    },
+    {
+      "id": "70024",
+      "type": "movie",
+      "title": "Bats: Human Harvest",
+      "poster": "https://image.tmdb.org/t/p/w342/ykRiMerjJPWeVlPamivyWhBgnM0.jpg",
+      "year": "2007",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US",
+        "BG"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror"
+      ],
+      "imdb_id": "tt0482163"
     },
     {
       "id": "701387",
@@ -28204,6 +30348,26 @@
         "Comedy"
       ],
       "imdb_id": "tt4949388"
+    },
+    {
+      "id": "71325",
+      "type": "movie",
+      "title": "With Every Heartbeat",
+      "poster": "https://image.tmdb.org/t/p/w342/rYThXhsiDKWoFcxqMSvV2jZHSws.jpg",
+      "year": "2011",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "SE"
+      ],
+      "original_language": "sv",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "imdb_id": "tt1859522"
     },
     {
       "id": "713704",
@@ -28268,6 +30432,26 @@
         "Romance"
       ],
       "imdb_id": "tt0099395"
+    },
+    {
+      "id": "71880",
+      "type": "movie",
+      "title": "Jack and Jill",
+      "poster": "https://image.tmdb.org/t/p/w342/kFeAxmZvu0TE4iuLRHQD6Cej8Wf.jpg",
+      "year": "2011",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "imdb_id": "tt0810913"
     },
     {
       "id": "718821",
@@ -28397,6 +30581,28 @@
       "imdb_id": "tt13428402"
     },
     {
+      "id": "7295",
+      "type": "movie",
+      "title": "8MM 2",
+      "poster": "https://image.tmdb.org/t/p/w342/bSikt4O0ZrR8xVrsP8wliGybZwU.jpg",
+      "year": "2005",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "HU",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Drama"
+      ],
+      "imdb_id": "tt0448172"
+    },
+    {
       "id": "729713",
       "type": "movie",
       "title": "Mom",
@@ -28439,6 +30645,49 @@
         "Adventure"
       ],
       "imdb_id": "tt12851396"
+    },
+    {
+      "id": "733049",
+      "type": "movie",
+      "title": "The Pizzagate Massacre",
+      "poster": "https://image.tmdb.org/t/p/w342/4MRYyz3CAzXsuUNDgt6L04GxP8H.jpg",
+      "year": "2020",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Crime",
+        "Horror"
+      ],
+      "imdb_id": "tt10725448"
+    },
+    {
+      "id": "73567",
+      "type": "movie",
+      "title": "Killer Joe",
+      "poster": "https://image.tmdb.org/t/p/w342/6Tt1TQeOI4TpXu1cBUgNGNGeznW.jpg",
+      "year": "2012",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "imdb_id": "tt1726669"
     },
     {
       "id": "736526",
@@ -28745,6 +30994,26 @@
       "imdb_id": "tt13375076"
     },
     {
+      "id": "758330",
+      "type": "movie",
+      "title": "Good Luck to You, Leo Grande",
+      "poster": "https://image.tmdb.org/t/p/w342/dxxOmTq4LgQxiyU4rW53qdj9FoN.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "imdb_id": "tt13352968"
+    },
+    {
       "id": "758923",
       "type": "movie",
       "title": "Baaghi 4",
@@ -28907,6 +31176,29 @@
       "imdb_id": "tt34574758"
     },
     {
+      "id": "772445",
+      "type": "movie",
+      "title": "Jezabel",
+      "poster": "https://image.tmdb.org/t/p/w342/4zBkbAXsx5IUx97ndJm18UoxIKd.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "MX",
+        "VE"
+      ],
+      "original_language": "es",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "imdb_id": "tt9339850"
+    },
+    {
       "id": "776909",
       "type": "movie",
       "title": "Sounds Like Love",
@@ -28925,6 +31217,25 @@
         "Romance"
       ],
       "imdb_id": "tt11698662"
+    },
+    {
+      "id": "77805",
+      "type": "movie",
+      "title": "Lovelace",
+      "poster": "https://image.tmdb.org/t/p/w342/ibt7chnBsaDbE6ZVwyneuZwYfsC.jpg",
+      "year": "2013",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt1426329"
     },
     {
       "id": "784978",
@@ -29099,6 +31410,27 @@
       "imdb_id": "tt0139134"
     },
     {
+      "id": "797271",
+      "type": "movie",
+      "title": "Counterattack",
+      "poster": "https://image.tmdb.org/t/p/w342/ayoqy3twWdKvUvbolbfoJToxUfl.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Action",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": "tt13784650"
+    },
+    {
       "id": "7980",
       "type": "movie",
       "title": "The Lovely Bones",
@@ -29271,6 +31603,47 @@
       "imdb_id": "tt14205554"
     },
     {
+      "id": "804406",
+      "type": "movie",
+      "title": "The Piano Lesson",
+      "poster": "https://image.tmdb.org/t/p/w342/cgampq63AqCrza6bnvmWqCcvCzY.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "imdb_id": "tt15507512"
+    },
+    {
+      "id": "805",
+      "type": "movie",
+      "title": "Rosemary's Baby",
+      "poster": "https://image.tmdb.org/t/p/w342/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
+      "year": "1968",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "imdb_id": "tt0063522"
+    },
+    {
       "id": "808",
       "type": "movie",
       "title": "Shrek",
@@ -29419,6 +31792,27 @@
       "imdb_id": "tt14364480"
     },
     {
+      "id": "814338",
+      "type": "movie",
+      "title": "Lady Chatterley's Lover",
+      "poster": "https://image.tmdb.org/t/p/w342/aSgl2DxPG3DuQXoaHr500KeULmT.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": "tt14369780"
+    },
+    {
       "id": "814952",
       "type": "movie",
       "title": "Kuriyan Jawan Bapu Preshaan",
@@ -29435,6 +31829,27 @@
         "Drama"
       ],
       "imdb_id": "tt14303124"
+    },
+    {
+      "id": "818647",
+      "type": "movie",
+      "title": "Through My Window",
+      "poster": "https://image.tmdb.org/t/p/w342/jmkpZvMVIRrMFevxzOubSBfG0s0.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "ES"
+      ],
+      "original_language": "es",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt14463484"
     },
     {
       "id": "822119",
@@ -29578,6 +31993,46 @@
       "imdb_id": "tt0974959"
     },
     {
+      "id": "829557",
+      "type": "movie",
+      "title": "365 Days: This Day",
+      "poster": "https://image.tmdb.org/t/p/w342/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "PL"
+      ],
+      "original_language": "pl",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "imdb_id": "tt12996154"
+    },
+    {
+      "id": "829560",
+      "type": "movie",
+      "title": "The Next 365 Days",
+      "poster": "https://image.tmdb.org/t/p/w342/8AWm7iMcsCI3DdGz4YEJtiMDp8Z.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "PL"
+      ],
+      "original_language": "pl",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "imdb_id": "tt21106646"
+    },
+    {
       "id": "832964",
       "type": "movie",
       "title": "Lee",
@@ -29707,6 +32162,49 @@
         "Fantasy"
       ],
       "imdb_id": "tt0259534"
+    },
+    {
+      "id": "84194",
+      "type": "movie",
+      "title": "Excision",
+      "poster": "https://image.tmdb.org/t/p/w342/3aLgB6FTQlNanER0RpckbKdwyh9.jpg",
+      "year": "2012",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Comedy"
+      ],
+      "imdb_id": "tt1984153"
+    },
+    {
+      "id": "84305",
+      "type": "movie",
+      "title": "Lay the Favorite",
+      "poster": "https://image.tmdb.org/t/p/w342/n57AyhFm5Jhe2qu0yuShYlokPmQ.jpg",
+      "year": "2012",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "FR",
+        "GB",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt1132449"
     },
     {
       "id": "8456",
@@ -30040,6 +32538,46 @@
       "imdb_id": "tt14156154"
     },
     {
+      "id": "881764",
+      "type": "movie",
+      "title": "Girls to Buy",
+      "poster": "https://image.tmdb.org/t/p/w342/oAdg6estkW0Ud9yBxEPPpHflszZ.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "PL"
+      ],
+      "original_language": "pl",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime",
+        "Action"
+      ],
+      "imdb_id": "tt11871074"
+    },
+    {
+      "id": "882251",
+      "type": "movie",
+      "title": "Silent Hours",
+      "poster": "https://image.tmdb.org/t/p/w342/re09M47jDGgoumSBrKtaOpIeLp7.jpg",
+      "year": "2021",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "en",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "imdb_id": "tt10360104"
+    },
+    {
       "id": "888479",
       "type": "movie",
       "title": "Game of Love",
@@ -30146,6 +32684,25 @@
       "imdb_id": "tt15816336"
     },
     {
+      "id": "89492",
+      "type": "movie",
+      "title": "This Is 40",
+      "poster": "https://image.tmdb.org/t/p/w342/mzUuOIFoVkRTHACRb58vm6mkbBN.jpg",
+      "year": "2012",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt1758830"
+    },
+    {
       "id": "8975",
       "type": "movie",
       "title": "The Marine",
@@ -30188,6 +32745,27 @@
       "imdb_id": "tt14454876"
     },
     {
+      "id": "8997",
+      "type": "movie",
+      "title": "Hollow Man II",
+      "poster": "https://image.tmdb.org/t/p/w342/c6Ga1AUGPe3GwlpX3qDYrD9y3EZ.jpg",
+      "year": "2006",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "imdb_id": "tt0469916"
+    },
+    {
       "id": "900838",
       "type": "movie",
       "title": "The Bengal Files",
@@ -30209,6 +32787,25 @@
       "imdb_id": "tt15416342"
     },
     {
+      "id": "901454",
+      "type": "movie",
+      "title": "Dirty Games",
+      "poster": "https://image.tmdb.org/t/p/w342/j7bBSUzJq9m6hGEVSqLmyq4ilUw.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Romance"
+      ],
+      "imdb_id": "tt14421754"
+    },
+    {
       "id": "908397",
       "type": "movie",
       "title": "Mili: Confronto Glacial",
@@ -30226,6 +32823,27 @@
         "Thriller"
       ],
       "imdb_id": "tt15257644"
+    },
+    {
+      "id": "910571",
+      "type": "movie",
+      "title": "Fair Play",
+      "poster": "https://image.tmdb.org/t/p/w342/tGgojtD6vJKYeCfktAhhA1pmH0n.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Romance"
+      ],
+      "imdb_id": "tt16304446"
     },
     {
       "id": "911430",
@@ -30712,6 +33330,29 @@
       "imdb_id": "tt22001978"
     },
     {
+      "id": "94603",
+      "type": "movie",
+      "title": "Strippers vs. Werewolves",
+      "poster": "https://image.tmdb.org/t/p/w342/OscWRpUcnqhgqxMJQCxVCwa5ss.jpg",
+      "year": "2012",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Action",
+        "Crime",
+        "Fantasy"
+      ],
+      "imdb_id": "tt1702009"
+    },
+    {
       "id": "946040",
       "type": "movie",
       "title": "Theeyavar Kulaigal Nadunga",
@@ -30814,6 +33455,26 @@
         "Adventure"
       ],
       "imdb_id": "tt3566834"
+    },
+    {
+      "id": "95084",
+      "type": "movie",
+      "title": "Body of Influence",
+      "poster": "https://image.tmdb.org/t/p/w342/b6rMLugMP6WAHNqdTNBcLoxyNhp.jpg",
+      "year": "1994",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Thriller",
+        "Romance"
+      ],
+      "imdb_id": "tt0106454"
     },
     {
       "id": "955555",
@@ -31064,6 +33725,46 @@
       "imdb_id": "tt23644054"
     },
     {
+      "id": "976576",
+      "type": "movie",
+      "title": "Emmanuelle",
+      "poster": "https://image.tmdb.org/t/p/w342/s9gmKus9YPTDzdMKZQJYPh0VoGk.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "FR"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": "tt20247888"
+    },
+    {
+      "id": "979806",
+      "type": "movie",
+      "title": "Shades of Desire",
+      "poster": "https://image.tmdb.org/t/p/w342/qLW0ufxvu4Xl4k1gZXNxiRXnsos.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "imdb_id": "tt27444133"
+    },
+    {
       "id": "979971",
       "type": "movie",
       "title": "Dakuaan Da Munda 2",
@@ -31168,6 +33869,27 @@
         "Science Fiction"
       ],
       "imdb_id": "tt0473474"
+    },
+    {
+      "id": "988078",
+      "type": "movie",
+      "title": "Through My Window: Across the Sea",
+      "poster": "https://image.tmdb.org/t/p/w342/3kULr3y7ZhdY3oCHKwwNT2hqys0.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "ES"
+      ],
+      "original_language": "es",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt21245882"
     },
     {
       "id": "9884",
