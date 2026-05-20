@@ -1,0 +1,88 @@
+{
+  "id": "87020",
+  "type": "tv",
+  "title": "Hey Prabhu!",
+  "poster": "https://image.tmdb.org/t/p/w342/2RaKZP3rjeIT8HePte2bbLF39Mw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/183g4pf6g8BSwLU2DET8gTbuUjd.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/1l69e8r5o2qq/hey-prabhu-s01e01-hindi-720p-web-dl-bollyflix\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/mwbkttvsi9k2/hey-prabhu-s01e02-hindi-720p-web-dl-bollyflix\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/q6ohywun414y/hey-prabhu-s01e03-hindi-720p-web-dl-bollyflix\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/1c0jidl3jni9/hey-prabhu-s01e04-hindi-720p-web-dl-bollyflix\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/p6gxptqcdqg6/hey-prabhu-s01e05-hindi-720p-web-dl-bollyflix\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/z2qvcgh03kj6/hey-prabhu-s01e06-hindi-720p-web-dl-bollyflix\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": ""
+        },
+        {
+          "episode_number": 2,
+          "watch": ""
+        },
+        {
+          "episode_number": 3,
+          "watch": ""
+        },
+        {
+          "episode_number": 4,
+          "watch": ""
+        },
+        {
+          "episode_number": 5,
+          "watch": ""
+        },
+        {
+          "episode_number": 6,
+          "watch": ""
+        },
+        {
+          "episode_number": 7,
+          "watch": ""
+        },
+        {
+          "episode_number": 8,
+          "watch": ""
+        },
+        {
+          "episode_number": 9,
+          "watch": ""
+        },
+        {
+          "episode_number": 10,
+          "watch": ""
+        }
+      ]
+    }
+  ]
+}
