@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-20T17:08:46.911Z",
-  "total": 2386,
+  "last_updated": "2026-05-20T17:10:20.546Z",
+  "total": 2385,
   "posts": [
     {
       "id": "1607762",
@@ -483,27 +483,6 @@
         "Drama"
       ],
       "imdb_id": ""
-    },
-    {
-      "id": "1181540",
-      "type": "movie",
-      "title": "Guns Up",
-      "poster": "https://image.tmdb.org/t/p/w342/3RokBWEkQqJRZEVP3DPwGm5MYh6.jpg",
-      "year": "2025",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "US"
-      ],
-      "original_language": "en",
-      "genres": [
-        "Action",
-        "Comedy",
-        "Crime"
-      ],
-      "imdb_id": "tt28026215"
     },
     {
       "id": "1183761",
