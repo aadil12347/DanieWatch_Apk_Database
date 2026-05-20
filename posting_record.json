@@ -1,8 +1,339 @@
 {
-  "last_updated": "2026-05-19T13:51:43.602Z",
-  "total_posts": 2112,
-  "total_batches": 14,
+  "last_updated": "2026-05-20T17:03:02.245Z",
+  "total_posts": 2158,
+  "total_batches": 15,
   "batches": [
+    {
+      "batch_id": 15,
+      "date_key": "2026-05-20",
+      "date": "May 20, 2026",
+      "timestamp": "2026-05-20T17:03:02.245Z",
+      "total_in_batch": 46,
+      "posts": [
+        {
+          "title": "365 Days",
+          "tmdb_id": "664413",
+          "imdb_id": "tt10886166",
+          "type": "movie",
+          "year": "2020"
+        },
+        {
+          "title": "Antichrist",
+          "tmdb_id": "17609",
+          "imdb_id": "tt0870984",
+          "type": "movie",
+          "year": "2009"
+        },
+        {
+          "title": "Basic Instinct",
+          "tmdb_id": "402",
+          "imdb_id": "tt0103772",
+          "type": "movie",
+          "year": "1992"
+        },
+        {
+          "title": "Below Her Mouth",
+          "tmdb_id": "370663",
+          "imdb_id": "tt5073620",
+          "type": "movie",
+          "year": "2017"
+        },
+        {
+          "title": "Black Cobra",
+          "tmdb_id": "29955",
+          "imdb_id": "tt0074501",
+          "type": "movie",
+          "year": "1976"
+        },
+        {
+          "title": "Candy Stripers",
+          "tmdb_id": "53335",
+          "imdb_id": "tt0463935",
+          "type": "movie",
+          "year": "2006"
+        },
+        {
+          "title": "Cruel Intentions",
+          "tmdb_id": "796",
+          "imdb_id": "tt0139134",
+          "type": "movie",
+          "year": "1999"
+        },
+        {
+          "title": "Cut and Run",
+          "tmdb_id": "30877",
+          "imdb_id": "tt0089338",
+          "type": "movie",
+          "year": "1985"
+        },
+        {
+          "title": "Def by Temptation",
+          "tmdb_id": "71853",
+          "imdb_id": "tt0099395",
+          "type": "movie",
+          "year": "1990"
+        },
+        {
+          "title": "Dirty Work",
+          "tmdb_id": "592041",
+          "imdb_id": "tt7243754",
+          "type": "movie",
+          "year": "2018"
+        },
+        {
+          "title": "Don Jon",
+          "tmdb_id": "138697",
+          "imdb_id": "tt2229499",
+          "type": "movie",
+          "year": "2013"
+        },
+        {
+          "title": "Dracula Sucks",
+          "tmdb_id": "215746",
+          "imdb_id": "tt0079074",
+          "type": "movie",
+          "year": "1978"
+        },
+        {
+          "title": "Eaten Alive!",
+          "tmdb_id": "8690",
+          "imdb_id": "tt0081112",
+          "type": "movie",
+          "year": "1980"
+        },
+        {
+          "title": "Erotic Ghost Story",
+          "tmdb_id": "60898",
+          "imdb_id": "tt0100014",
+          "type": "movie",
+          "year": "1990"
+        },
+        {
+          "title": "Eyes of the Serpent",
+          "tmdb_id": "252264",
+          "imdb_id": "tt0109764",
+          "type": "movie",
+          "year": "1994"
+        },
+        {
+          "title": "Hard Hunted",
+          "tmdb_id": "45030",
+          "imdb_id": "tt0104391",
+          "type": "movie",
+          "year": "1992"
+        },
+        {
+          "title": "Hostel",
+          "tmdb_id": "1690",
+          "imdb_id": "tt0450278",
+          "type": "movie",
+          "year": "2006"
+        },
+        {
+          "title": "Hostel: Part II",
+          "tmdb_id": "1691",
+          "imdb_id": "tt0498353",
+          "type": "movie",
+          "year": "2007"
+        },
+        {
+          "title": "Huntress: Spirit of the Night",
+          "tmdb_id": "58965",
+          "imdb_id": "tt0113361",
+          "type": "movie",
+          "year": "1995"
+        },
+        {
+          "title": "Killing Me Softly",
+          "tmdb_id": "14365",
+          "imdb_id": "tt0250468",
+          "type": "movie",
+          "year": "2002"
+        },
+        {
+          "title": "Knock Knock",
+          "tmdb_id": "263472",
+          "imdb_id": "tt3605418",
+          "type": "movie",
+          "year": "2015"
+        },
+        {
+          "title": "L.E.T.H.A.L. Ladies: Return to Savage Beach",
+          "tmdb_id": "67395",
+          "imdb_id": "tt0127759",
+          "type": "movie",
+          "year": "1998"
+        },
+        {
+          "title": "Lady Voyeur",
+          "tmdb_id": "135814",
+          "imdb_id": "tt15525658",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "Lemon Popsicle",
+          "tmdb_id": "10580",
+          "imdb_id": "tt0079118",
+          "type": "movie",
+          "year": "1978"
+        },
+        {
+          "title": "Lie with Me",
+          "tmdb_id": "14174",
+          "imdb_id": "tt0418832",
+          "type": "movie",
+          "year": "2005"
+        },
+        {
+          "title": "Little Thirteen",
+          "tmdb_id": "138735",
+          "imdb_id": "tt2215267",
+          "type": "movie",
+          "year": "2012"
+        },
+        {
+          "title": "Lust, Caution",
+          "tmdb_id": "4588",
+          "imdb_id": "tt0808357",
+          "type": "movie",
+          "year": "2007"
+        },
+        {
+          "title": "Malena",
+          "tmdb_id": "10867",
+          "imdb_id": "tt0213847",
+          "type": "movie",
+          "year": "2000"
+        },
+        {
+          "title": "My Tutor",
+          "tmdb_id": "2193",
+          "imdb_id": "tt0085980",
+          "type": "movie",
+          "year": "1983"
+        },
+        {
+          "title": "No Strings Attached",
+          "tmdb_id": "41630",
+          "imdb_id": "tt1411238",
+          "type": "movie",
+          "year": "2011"
+        },
+        {
+          "title": "Orange Is the New Black",
+          "tmdb_id": "1424",
+          "imdb_id": "tt2372162",
+          "type": "tv",
+          "year": "2019"
+        },
+        {
+          "title": "Robotrix",
+          "tmdb_id": "64348",
+          "imdb_id": "tt0102562",
+          "type": "movie",
+          "year": "1991"
+        },
+        {
+          "title": "Secret Games",
+          "tmdb_id": "164660",
+          "imdb_id": "tt0105338",
+          "type": "movie",
+          "year": "1992"
+        },
+        {
+          "title": "Secret Games 3",
+          "tmdb_id": "216358",
+          "imdb_id": "tt0111104",
+          "type": "movie",
+          "year": "1994"
+        },
+        {
+          "title": "Sounds Like Love",
+          "tmdb_id": "776909",
+          "imdb_id": "tt11698662",
+          "type": "movie",
+          "year": "2021"
+        },
+        {
+          "title": "Taboo",
+          "tmdb_id": "42019",
+          "imdb_id": "tt0081593",
+          "type": "movie",
+          "year": "1980"
+        },
+        {
+          "title": "The Dictator",
+          "tmdb_id": "76493",
+          "imdb_id": "tt1645170",
+          "type": "movie",
+          "year": "2012"
+        },
+        {
+          "title": "The Exterminating Angels",
+          "tmdb_id": "19976",
+          "imdb_id": "tt0792948",
+          "type": "movie",
+          "year": "2006"
+        },
+        {
+          "title": "The Sensuous Nurse",
+          "tmdb_id": "4705",
+          "imdb_id": "tt0074682",
+          "type": "movie",
+          "year": "1975"
+        },
+        {
+          "title": "The Trees Have Eyes",
+          "tmdb_id": "737586",
+          "imdb_id": "tt2990352",
+          "type": "movie",
+          "year": "2020"
+        },
+        {
+          "title": "The Woman Who Keeps a Murderer",
+          "tmdb_id": "585747",
+          "imdb_id": "tt9844358",
+          "type": "movie",
+          "year": "2019"
+        },
+        {
+          "title": "The Young Pope",
+          "tmdb_id": "62699",
+          "imdb_id": "tt3655448",
+          "type": "tv",
+          "year": "2016"
+        },
+        {
+          "title": "Tiger, Blood in the Mouth",
+          "tmdb_id": "419446",
+          "imdb_id": "tt4791322",
+          "type": "movie",
+          "year": "2016"
+        },
+        {
+          "title": "Women of the Night",
+          "tmdb_id": "80847",
+          "imdb_id": "tt0177997",
+          "type": "movie",
+          "year": "2001"
+        },
+        {
+          "title": "Yu Pui Tsuen III",
+          "tmdb_id": "191561",
+          "imdb_id": "tt0118208",
+          "type": "movie",
+          "year": "1996"
+        },
+        {
+          "title": "Zombie Strippers!",
+          "tmdb_id": "13009",
+          "imdb_id": "tt0960890",
+          "type": "movie",
+          "year": "2008"
+        }
+      ]
+    },
     {
       "batch_id": 14,
       "date_key": "2026-05-19",
