@@ -1,8 +1,598 @@
 {
-  "last_updated": "2026-05-23T12:27:05.589Z",
-  "total_posts": 2409,
-  "total_batches": 16,
+  "last_updated": "2026-05-24T07:47:46.556Z",
+  "total_posts": 2495,
+  "total_batches": 17,
   "batches": [
+    {
+      "batch_id": 17,
+      "date_key": "2026-05-24",
+      "date": "May 24, 2026",
+      "timestamp": "2026-05-24T07:47:46.556Z",
+      "total_in_batch": 83,
+      "posts": [
+        {
+          "title": "10 Endrathukulla",
+          "tmdb_id": "330414",
+          "imdb_id": "tt5128266",
+          "type": "movie",
+          "year": "2015"
+        },
+        {
+          "title": "2 Jhalle Kithe Challe",
+          "tmdb_id": "tt39045080",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "84 Toh Baad",
+          "tmdb_id": "298387",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "A1 Express",
+          "tmdb_id": "799991",
+          "imdb_id": "tt11214972",
+          "type": "movie",
+          "year": "2021"
+        },
+        {
+          "title": "Aa Okkati Adakku",
+          "tmdb_id": "1282465",
+          "imdb_id": "tt27216842",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Aandavan Kattalai",
+          "tmdb_id": "410432",
+          "imdb_id": "tt6076366",
+          "type": "movie",
+          "year": "2016"
+        },
+        {
+          "title": "Aayushmati Geeta Matric Pass",
+          "tmdb_id": "1373129",
+          "imdb_id": "tt27252585",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Akkad Bakkad Bambbe Bo Assi Nabbe Poore So",
+          "tmdb_id": "1419903",
+          "imdb_id": "tt28820711",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Asi Desi",
+          "tmdb_id": "1555258",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2022"
+        },
+        {
+          "title": "Athiran",
+          "tmdb_id": "592545",
+          "imdb_id": "tt9793334",
+          "type": "movie",
+          "year": "2019"
+        },
+        {
+          "title": "Badnaam",
+          "tmdb_id": "1439583",
+          "imdb_id": "tt34927582",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Campus Beats",
+          "tmdb_id": "236445",
+          "imdb_id": "tt29261323",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Challe Yaar Coachella",
+          "tmdb_id": "1451523",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Class of '83",
+          "tmdb_id": "730428",
+          "imdb_id": "tt10230422",
+          "type": "movie",
+          "year": "2020"
+        },
+        {
+          "title": "Deor De Viaah Vich Nach Lain De",
+          "tmdb_id": "0MHLQOHTUQKBC8IDBEYVM03LN8",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Doosri Maa",
+          "tmdb_id": "TO01568195",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Ek Anjaan Rishtey Ka Guilt",
+          "tmdb_id": "895206",
+          "imdb_id": "tt32333879",
+          "type": "movie",
+          "year": "2021"
+        },
+        {
+          "title": "Ek Anjaan Rishtey Ka Guilt 2",
+          "tmdb_id": "1144071",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2022"
+        },
+        {
+          "title": "Ek Anjaan Rishtey Ka Guilt 3",
+          "tmdb_id": "tt32333949",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2022"
+        },
+        {
+          "title": "Ek Anjaan Rishtey Ka Guilt 4",
+          "tmdb_id": "tt35803698",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2015"
+        },
+        {
+          "title": "Gangland: The City of Crime",
+          "tmdb_id": "1469422",
+          "imdb_id": "tt36591053",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Gangster",
+          "tmdb_id": "1575056",
+          "imdb_id": "tt33531981",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "GodFather",
+          "tmdb_id": "863931",
+          "imdb_id": "tt13130308",
+          "type": "movie",
+          "year": "2022"
+        },
+        {
+          "title": "Hasratein",
+          "tmdb_id": "216284",
+          "imdb_id": "tt24060452",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Heartless",
+          "tmdb_id": "255495",
+          "imdb_id": "tt3334348",
+          "type": "movie",
+          "year": "2014"
+        },
+        {
+          "title": "Hello Guru Prema Kosame",
+          "tmdb_id": "517508",
+          "imdb_id": "tt8072400",
+          "type": "movie",
+          "year": "2018"
+        },
+        {
+          "title": "Illti",
+          "tmdb_id": "1425640",
+          "imdb_id": "tt33044997",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Jab Khuli Kitaab",
+          "tmdb_id": "918785",
+          "imdb_id": "tt28023902",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Jawai No. 3",
+          "tmdb_id": "0U8W8YVJK5KLOWSHFUS7R3YFLW",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Kesariya @100",
+          "tmdb_id": "tt39946605",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Khilre Hoye Warke Kudrat",
+          "tmdb_id": "1438871",
+          "imdb_id": "tt35977316",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Kho Kho",
+          "tmdb_id": "818871",
+          "imdb_id": "tt12988104",
+          "type": "movie",
+          "year": "2021"
+        },
+        {
+          "title": "Khotachi Wadi - Ek Shapit Vaastu",
+          "tmdb_id": "312139",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Kotha Kothaga",
+          "tmdb_id": "1024989",
+          "imdb_id": "tt21908892",
+          "type": "movie",
+          "year": "2022"
+        },
+        {
+          "title": "Looteri Dulhan",
+          "tmdb_id": "322867",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Love Mouli",
+          "tmdb_id": "1302585",
+          "imdb_id": "tt29120615",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Madhaniyan",
+          "tmdb_id": "1568195",
+          "imdb_id": "tt34052201",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Main Tenu Phir Milangi",
+          "tmdb_id": "1526240",
+          "imdb_id": "tt16733792",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Majhail",
+          "tmdb_id": "1420505",
+          "imdb_id": "tt34615536",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Manchalo Ki Masti",
+          "tmdb_id": "tt35266868",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Master Scheme Singh",
+          "tmdb_id": "1500627",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Memories",
+          "tmdb_id": "945106",
+          "imdb_id": "tt14962838",
+          "type": "movie",
+          "year": "2023"
+        },
+        {
+          "title": "Meri Pyari Dadi",
+          "tmdb_id": "0HHVROFDOD9M80V12IHZQ345F2",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Mr & Mrs 420 Again",
+          "tmdb_id": "1488859",
+          "imdb_id": "tt36109502",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Naadi Dosh",
+          "tmdb_id": "988716",
+          "imdb_id": "tt20251716",
+          "type": "movie",
+          "year": "2022"
+        },
+        {
+          "title": "Once Upon a Time in Mumbaai",
+          "tmdb_id": "42966",
+          "imdb_id": "tt1395054",
+          "type": "movie",
+          "year": "2010"
+        },
+        {
+          "title": "One Not Five Minuttess",
+          "tmdb_id": "922636",
+          "imdb_id": "tt15290106",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Panchhi",
+          "tmdb_id": "869062",
+          "imdb_id": "tt15307258",
+          "type": "movie",
+          "year": "2021"
+        },
+        {
+          "title": "Pappa Padhayi",
+          "tmdb_id": "tt34898866",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Pinjra",
+          "tmdb_id": "1499835",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Policy",
+          "tmdb_id": "1533188",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Pyaar Taan Hai Na",
+          "tmdb_id": "1405301",
+          "imdb_id": "tt35077028",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Raat Ka Raag",
+          "tmdb_id": "0IB3V5BJ2FJ4M0ANZBGDYIWNCO",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Rajdhani - The Capital of Crime",
+          "tmdb_id": "308057",
+          "imdb_id": "tt39140364",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Rangoli",
+          "tmdb_id": "1167842",
+          "imdb_id": "tt21328202",
+          "type": "movie",
+          "year": "2023"
+        },
+        {
+          "title": "Redrum",
+          "tmdb_id": "483670",
+          "imdb_id": "tt4682128",
+          "type": "movie",
+          "year": "2018"
+        },
+        {
+          "title": "Restarted Fate",
+          "tmdb_id": "0FBG4QXMDNZHQ39OYZ6H4YBQFW",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Rishte Naate",
+          "tmdb_id": "1458487",
+          "imdb_id": "tt35126350",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Road Of Life",
+          "tmdb_id": "1499848",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Sardaarji 3",
+          "tmdb_id": "1487113",
+          "imdb_id": "tt33022037",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Sardar",
+          "tmdb_id": "858080",
+          "imdb_id": "tt14526318",
+          "type": "movie",
+          "year": "2022"
+        },
+        {
+          "title": "Sarileru Neekevvaru",
+          "tmdb_id": "607313",
+          "imdb_id": "tt10773090",
+          "type": "movie",
+          "year": "2020"
+        },
+        {
+          "title": "Saunkan Saunkanay 2",
+          "tmdb_id": "1457306",
+          "imdb_id": "tt34037996",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Saunkan Saunkne",
+          "tmdb_id": "957997",
+          "imdb_id": "tt14230846",
+          "type": "movie",
+          "year": "2022"
+        },
+        {
+          "title": "Sayonee",
+          "tmdb_id": "1487110",
+          "imdb_id": "tt12055210",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Secret",
+          "tmdb_id": "tt27494298",
+          "imdb_id": "tt27494298",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Shrimati Bhayankari",
+          "tmdb_id": "0Q35CUSPE6D5BLDE4JX13JRZC1",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Sister Midnight",
+          "tmdb_id": "1275248",
+          "imdb_id": "tt32060445",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Sulthan",
+          "tmdb_id": "792334",
+          "imdb_id": "tt11502940",
+          "type": "movie",
+          "year": "2021"
+        },
+        {
+          "title": "Surya Vs Surya",
+          "tmdb_id": "332832",
+          "imdb_id": "tt4505168",
+          "type": "movie",
+          "year": "2015"
+        },
+        {
+          "title": "Teda Meda Chal Canada",
+          "tmdb_id": "1527769",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Tenu Ghodi Kinney Chadaya",
+          "tmdb_id": "1487767",
+          "imdb_id": "tt36041937",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Tera Bhanna Mitha Laage",
+          "tmdb_id": "1602459",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Thaanara",
+          "tmdb_id": "1121822",
+          "imdb_id": "tt27411215",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "The Hunt: The Rajiv Gandhi Assassination Case",
+          "tmdb_id": "294187",
+          "imdb_id": "tt37365626",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "The Indrani Mukerjea Story: Buried Truth",
+          "tmdb_id": "246178",
+          "imdb_id": "tt31069611",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "The Toys",
+          "tmdb_id": "1454352",
+          "imdb_id": "tt29417889",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "The White Tiger",
+          "tmdb_id": "628534",
+          "imdb_id": "tt6571548",
+          "type": "movie",
+          "year": "2021"
+        },
+        {
+          "title": "Vair",
+          "tmdb_id": "1472956",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Ve Koi Lai Chaleya Muklave",
+          "tmdb_id": "1676328",
+          "imdb_id": "tt37790370",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Walter",
+          "tmdb_id": "613022",
+          "imdb_id": "tt10300704",
+          "type": "movie",
+          "year": "2020"
+        },
+        {
+          "title": "Watchman",
+          "tmdb_id": "591086",
+          "imdb_id": "tt9378320",
+          "type": "movie",
+          "year": "2019"
+        },
+        {
+          "title": "Wife peke Husband Theke",
+          "tmdb_id": "1523505",
+          "imdb_id": "tt37517552",
+          "type": "movie",
+          "year": "2025"
+        }
+      ]
+    },
     {
       "batch_id": 16,
       "date_key": "2026-05-23",
@@ -4812,7 +5402,7 @@
       "date_key": "2026-04-24",
       "date": "April 24, 2026",
       "timestamp": "2026-04-24T05:59:49.220Z",
-      "total_in_batch": 173,
+      "total_in_batch": 172,
       "posts": [
         {
           "title": "A Perfect Planet",
@@ -5247,13 +5837,6 @@
           "imdb_id": "tt8740790",
           "type": "tv",
           "year": "2026"
-        },
-        {
-          "title": "Campus Beats",
-          "tmdb_id": "236445",
-          "imdb_id": "tt29261323",
-          "type": "tv",
-          "year": "2024"
         },
         {
           "title": "Classroom of the Elite",
