@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-24T07:47:46.556Z",
-  "total_posts": 2495,
+  "last_updated": "2026-05-24T08:02:09.681Z",
+  "total_posts": 2498,
   "total_batches": 17,
   "batches": [
     {
@@ -8,8 +8,29 @@
       "date_key": "2026-05-24",
       "date": "May 24, 2026",
       "timestamp": "2026-05-24T07:47:46.556Z",
-      "total_in_batch": 83,
+      "total_in_batch": 86,
       "posts": [
+        {
+          "title": "Anusandhan - The Search",
+          "tmdb_id": "305133",
+          "imdb_id": "tt38745313",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Guilty Minds",
+          "tmdb_id": "196847",
+          "imdb_id": "tt19355272",
+          "type": "tv",
+          "year": "2022"
+        },
+        {
+          "title": "Indu / Indrani",
+          "tmdb_id": "135152",
+          "imdb_id": "tt15502918",
+          "type": "tv",
+          "year": "2025"
+        },
         {
           "title": "10 Endrathukulla",
           "tmdb_id": "330414",
@@ -591,7 +612,8 @@
           "type": "movie",
           "year": "2025"
         }
-      ]
+      ],
+      "last_modified": "2026-05-24T08:02:09.681Z"
     },
     {
       "batch_id": 16,
