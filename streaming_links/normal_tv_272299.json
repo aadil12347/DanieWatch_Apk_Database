@@ -1,0 +1,31 @@
+{
+  "id": "272299",
+  "type": "tv",
+  "title": "This Is the Zodiac Speaking",
+  "poster": "https://image.tmdb.org/t/p/w342/crvYcZTN7TTEa85nClY3JqL2F0O.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/rissCZ7z06Zm41q1KDc2TDDJRf.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/agaticipf8w8/this-is-the-zodiac-speaking-s01e01-we-called-him-mr-allen-720p-hindi-english-esubs-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/2t1n70k20hi7/this-is-the-zodiac-speaking-s01e02-are-you-the-zodiac-720p-hindi-english-esubs-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/vgv5tueiowc1/this-is-the-zodiac-speaking-s01e03-box-of-secrets-720p-hindi-english-esubs-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}
