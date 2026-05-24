@@ -1,0 +1,29 @@
+{
+  "id": "305307",
+  "type": "tv",
+  "title": "Sweat Aur Secrets",
+  "poster": "https://image.tmdb.org/t/p/w342/vE7YROgIOCqx2iiUBMOqFxvTRH1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lfrwUJU2bB1SesKKq9HlYAjSuQv.jpg",
+  "year": "2025",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2025-09-30",
+          "runtime": 121,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/phqjs0q4bs2h/sweat-aur-secrets-s01-720p-web-dl-hindi-vegamovie\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "0IB3V5BJ2FJ4M0ANZBGDYIWNCO",
+  "type": "tv",
+  "title": "Raat Ka Raag",
+  "poster": "https://m.media-amazon.com/images/S/pv-target-images/2434c35a800ebb9375d33b9aca2f0b0105212cf2e9d4cab731ce4dcaa480a172.jpg",
+  "backdrop": "https://qqcdnpictest.mxplay.com/pic/f0e13ec4d55916cd384206e375b0036e/en/16x9/1600x900/test_pic1770016540494.jpg",
+  "year": "2026",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes",
+          "overview": "",
+          "still_path": "",
+          "air_date": "2026-02-22",
+          "runtime": 134,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/b5twntwjepkx/raat-ka-raag-s01-720p-hevc-web-dl-hindi-dub\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}
