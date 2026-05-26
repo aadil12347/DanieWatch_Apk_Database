@@ -1,0 +1,29 @@
+{
+  "id": "261646",
+  "type": "tv",
+  "title": "What's Next? The Future with Bill Gates",
+  "poster": "https://image.tmdb.org/t/p/w342/s2uNbATWA2qZTVgsrJeqWmQPb4V.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cRLp4PsE2O1vFvRSYjkUIh4R7yW.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/xEdWCL5wvK7La3SGlqM4lhZu4wg.jpg",
+          "air_date": "2024-09-18",
+          "runtime": 229,
+          "vote_average": 5.5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/sjns32dff74f/whats-next-the-future-with-bill-gates-2024-s01\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

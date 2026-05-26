@@ -1,0 +1,51 @@
+{
+  "id": "234034",
+  "type": "tv",
+  "title": "Bad Boy",
+  "poster": "https://image.tmdb.org/t/p/w342/900OfLil2NMGnzvMXmBSEkXVW8Q.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/aDlM7M9PQuIwZr6vA4d5n7AYn3F.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/d2knldwlc8fh/bad-boy-s01e01-720p-web-dl-hin-eng-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/xjfuw1roltwh/bad-boy-s01e02-720p-web-dl-hin-eng-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/uei68ac3g3bc/bad-boy-s01e03-720p-web-dl-hin-eng-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/o8opuclp7ven/bad-boy-s01e04-720p-web-dl-hin-eng-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/9wk84qbbal6c/bad-boy-s01e05-720p-web-dl-hin-eng-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/5incfmossa72/bad-boy-s01e06-720p-web-dl-hin-eng-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "watch": "<iframe src=\"https://bysebuho.com/e/rugw1wdvauew/bad-boy-s01e07-720p-web-dl-hin-eng-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 8,
+          "watch": "<iframe src=\"https://bysebuho.com/e/crqz6lgpy3uf/bad-boy-s01e08-720p-web-dl-hin-eng-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

@@ -3,8 +3,8 @@
   "type": "tv",
   "title": "Campus Beats",
   "poster": "https://image.tmdb.org/t/p/original/tf8NUHqEw75HyHHbvYZefzKplXf.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/original/7zEzDAhgcS8D8u0NEgZpg3GxsiI.jpg",
-  "year": "2026",
+  "backdrop": "https://image.tmdb.org/t/p/original/d7PdOq58bf4EdzT2RHs2g3EOrMF.jpg",
+  "year": "2023",
   "result": "HD",
   "language": [
     "Hindi"
@@ -305,13 +305,113 @@
       "episodes": [
         {
           "episode_number": 1,
-          "name": "All Episodes",
+          "name": "Pyaar And Waar",
           "overview": "",
           "still_path": "https://image.tmdb.org/t/p/w300/fTZNviLpLDBgKJ4FTLxqsviD0Or.jpg",
           "air_date": "2025-04-10",
           "runtime": 38,
           "vote_average": 9,
-          "watch": "link here"
+          "watch": "<iframe src=\"https://bysebuho.com/e/nwdykdwvvdqv/campus-beats-s05-e01\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "name": "Let The Games Begin",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/ybjYNVsXrnw4ovtJFSe0WjdsYc0.jpg",
+          "air_date": "2025-04-10",
+          "runtime": 35,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/v1pynla3rukr/campus-beats-s05-e02\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "name": "All Is Fair In Love And Dance",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/a91f96XuTZkr2PVM3PUdloG5xDh.jpg",
+          "air_date": "2025-04-10",
+          "runtime": 27,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/rjd71nrz6atv/campus-beats-s05-e03\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "name": "WDC Round 01- Solos",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/5BAAPAk19lJnGq0ZG5QxGibeJhn.jpg",
+          "air_date": "2025-04-10",
+          "runtime": 37,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/bftq9c7n4qbu/campus-beats-s05-e04\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "name": "Tit For Tat",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/gXtN7Ie0WEDH2EcZKgiKQiIKGH.jpg",
+          "air_date": "2025-04-10",
+          "runtime": 29,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/s7felhnn1pbs/campus-beats-s05-e05\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "name": "Do The Duet",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/5iiGw54Y5ZDJ421fIooz3TUc7Kb.jpg",
+          "air_date": "2025-04-10",
+          "runtime": 25,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/lqoka5ye30ok/campus-beats-s05-e06\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 7,
+          "name": "The Misunderstanding",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/hB5IDPmjmuvywsB5CTMmshvR2Y2.jpg",
+          "air_date": "2025-04-10",
+          "runtime": 32,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ma0jkwx6xpg0/campus-beats-s05-e07\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 8,
+          "name": "The Complaint",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/h6l8PhNx4SIHhBVrZ4l2O9Cpq3g.jpg",
+          "air_date": "2025-04-10",
+          "runtime": 26,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/h56272hj346h/campus-beats-s05-e08\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 9,
+          "name": "Lovers Tiff",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/slZl2M1bBrcUuPiaVN46Vvkp0ot.jpg",
+          "air_date": "2025-04-10",
+          "runtime": 34,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ch6ryagb7ygi/campus-beats-s05-e09\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 10,
+          "name": "The Reunioun",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/tEaRLcDnzziVtTntY9Idjs74f17.jpg",
+          "air_date": "2025-04-10",
+          "runtime": 29,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/us4aynbau262/campus-beats-s05-e10\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 11,
+          "name": "Ishaan VS Rihanna",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/eEQjsaDmMI2frKpQOQyuBlzGgmt.jpg",
+          "air_date": "2025-04-10",
+          "runtime": 30,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/0rs1ta6xj956/campus-beats-s05-e11\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
         }
       ]
     },
