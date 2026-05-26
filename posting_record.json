@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26T13:47:59.331Z",
-  "total_posts": 2854,
+  "last_updated": "2026-05-26T13:58:04.472Z",
+  "total_posts": 2950,
   "total_batches": 18,
   "batches": [
     {
@@ -8,8 +8,680 @@
       "date_key": "2026-05-26",
       "date": "May 26, 2026",
       "timestamp": "2026-05-26T06:28:46.944Z",
-      "total_in_batch": 157,
+      "total_in_batch": 253,
       "posts": [
+        {
+          "title": "A Family Affair",
+          "tmdb_id": "987686",
+          "imdb_id": "tt21051906",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "A Good Girl's Guide to Murder",
+          "tmdb_id": "218342",
+          "imdb_id": "tt28118211",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "A Journey",
+          "tmdb_id": "1260916",
+          "imdb_id": "tt31805808",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "A Killer Paradox",
+          "tmdb_id": "202783",
+          "imdb_id": "tt28642796",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "A Man in Full",
+          "tmdb_id": "225120",
+          "imdb_id": "tt15845610",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Acid",
+          "tmdb_id": "852445",
+          "imdb_id": "tt17569526",
+          "type": "movie",
+          "year": "2023"
+        },
+        {
+          "title": "Alienoid: Return to the Future",
+          "tmdb_id": "626412",
+          "imdb_id": "tt20201212",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Anthracite",
+          "tmdb_id": "244431",
+          "imdb_id": "tt31609000",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Aquaman and the Lost Kingdom",
+          "tmdb_id": "572802",
+          "imdb_id": "tt9663764",
+          "type": "movie",
+          "year": "2023"
+        },
+        {
+          "title": "Arcadian",
+          "tmdb_id": "1051896",
+          "imdb_id": "tt22939186",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Art of Love",
+          "tmdb_id": "1248795",
+          "imdb_id": "tt28355490",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Arthur the King",
+          "tmdb_id": "618588",
+          "imdb_id": "tt10720352",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Ashley Madison: Sex, Lies & Scandal",
+          "tmdb_id": "253249",
+          "imdb_id": "tt32307741",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Avatar the Last Airbender",
+          "tmdb_id": "82452",
+          "imdb_id": "tt9018736",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Baby Reindeer",
+          "tmdb_id": "241259",
+          "imdb_id": "tt13649112",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Bad Boys: Ride or Die",
+          "tmdb_id": "573435",
+          "imdb_id": "tt4919268",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Barbie and Stacie to the Rescue",
+          "tmdb_id": "1170657",
+          "imdb_id": "tt31181357",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Batman: Caped Crusader",
+          "tmdb_id": "125909",
+          "imdb_id": "tt14681596",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Beautiful Wedding",
+          "tmdb_id": "1096342",
+          "imdb_id": "tt26546123",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Beverly Hills Cop: Axel F",
+          "tmdb_id": "280180",
+          "imdb_id": "tt3083016",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Black Barbie",
+          "tmdb_id": "1081709",
+          "imdb_id": "tt26593387",
+          "type": "movie",
+          "year": "2023"
+        },
+        {
+          "title": "Blame the Game",
+          "tmdb_id": "1172648",
+          "imdb_id": "tt28301898",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Bodkin",
+          "tmdb_id": "241257",
+          "imdb_id": "tt21072112",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Boy Swallows Universe",
+          "tmdb_id": "209332",
+          "imdb_id": "tt10399902",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Brave Citizen",
+          "tmdb_id": "897160",
+          "imdb_id": "tt22505214",
+          "type": "movie",
+          "year": "2023"
+        },
+        {
+          "title": "Buying London",
+          "tmdb_id": "249046",
+          "imdb_id": "tt31806036",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "City Hunter",
+          "tmdb_id": "1061990",
+          "imdb_id": "tt24478470",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Contagion of Fear",
+          "tmdb_id": "1223272",
+          "imdb_id": "tt27219087",
+          "type": "movie",
+          "year": "2023"
+        },
+        {
+          "title": "Dead Boy Detectives",
+          "tmdb_id": "132750",
+          "imdb_id": "tt15358446",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Desperate Lies",
+          "tmdb_id": "224633",
+          "imdb_id": "tt27505298",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Despicable Me 3",
+          "tmdb_id": "324852",
+          "imdb_id": "tt3469046",
+          "type": "movie",
+          "year": "2017"
+        },
+        {
+          "title": "Despicable Me 4",
+          "tmdb_id": "519182",
+          "imdb_id": "tt7510222",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "DOM",
+          "tmdb_id": "123377",
+          "imdb_id": "tt13354188",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Echo",
+          "tmdb_id": "122226",
+          "imdb_id": "tt13966962",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Fear the Walking Dead",
+          "tmdb_id": "62286",
+          "imdb_id": "tt3743822",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "Files of the Unexplained",
+          "tmdb_id": "248795",
+          "imdb_id": "tt31638758",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Find Me Falling",
+          "tmdb_id": "1255350",
+          "imdb_id": "tt19862722",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Fool Me Once",
+          "tmdb_id": "220801",
+          "imdb_id": "tt5611024",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Garouden: The Way of the Lone Wolf",
+          "tmdb_id": "252425",
+          "imdb_id": "tt32178759",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Ghostbusters: Frozen Empire",
+          "tmdb_id": "967847",
+          "imdb_id": "tt21235248",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Goyo",
+          "tmdb_id": "1191610",
+          "imdb_id": "tt32598483",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Griselda",
+          "tmdb_id": "137893",
+          "imdb_id": "tt15837600",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Heart of the Hunter",
+          "tmdb_id": "1181548",
+          "imdb_id": "tt28943278",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Hit Man",
+          "tmdb_id": "974635",
+          "imdb_id": "tt20215968",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "How to Rob a Bank",
+          "tmdb_id": "1291143",
+          "imdb_id": "tt32308418",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "IF",
+          "tmdb_id": "639720",
+          "imdb_id": "tt11152168",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "In Good Hands 2",
+          "tmdb_id": "1230550",
+          "imdb_id": "tt28567745",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Irish Wish",
+          "tmdb_id": "1019420",
+          "imdb_id": "tt21957774",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Iron Reign",
+          "tmdb_id": "242875",
+          "imdb_id": "tt23806252",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Kingdom of the Planet of the Apes",
+          "tmdb_id": "653346",
+          "imdb_id": "tt11389872",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Kleks Academy",
+          "tmdb_id": "1026999",
+          "imdb_id": "tt20857676",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Kleo",
+          "tmdb_id": "206010",
+          "imdb_id": "tt15135104",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Madame Web",
+          "tmdb_id": "634492",
+          "imdb_id": "tt11057302",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Marcel the Shell with Shoes On",
+          "tmdb_id": "869626",
+          "imdb_id": "tt15339456",
+          "type": "movie",
+          "year": "2022"
+        },
+        {
+          "title": "Maxton Hall – The World Between Us",
+          "tmdb_id": "250670",
+          "imdb_id": "tt27792190",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Mean Girls",
+          "tmdb_id": "673593",
+          "imdb_id": "tt11762114",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Monkey King: Hero Is Back",
+          "tmdb_id": "351694",
+          "imdb_id": "tt4644382",
+          "type": "movie",
+          "year": "2015"
+        },
+        {
+          "title": "Mr. & Mrs. Smith",
+          "tmdb_id": "118642",
+          "imdb_id": "tt14044212",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "My Lady Jane",
+          "tmdb_id": "203413",
+          "imdb_id": "tt11379456",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "My Spy The Eternal City",
+          "tmdb_id": "1048241",
+          "imdb_id": "tt12930350",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Mysteries of the Terracotta Warriors",
+          "tmdb_id": "1255028",
+          "imdb_id": "tt32451344",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Música",
+          "tmdb_id": "968441",
+          "imdb_id": "tt19853698",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "One Day",
+          "tmdb_id": "240667",
+          "imdb_id": "tt16283804",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Our Living World",
+          "tmdb_id": "213612",
+          "imdb_id": "tt23181418",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Red Queen",
+          "tmdb_id": "203667",
+          "imdb_id": "tt20883126",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "RIPLEY",
+          "tmdb_id": "94028",
+          "imdb_id": "tt11016042",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Sayen: The Huntress",
+          "tmdb_id": "850888",
+          "imdb_id": "tt32063728",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Secret World of Sound",
+          "tmdb_id": "245782",
+          "imdb_id": "tt31186319",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Sonic Prime",
+          "tmdb_id": "115577",
+          "imdb_id": "tt13961348",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Spaceman",
+          "tmdb_id": "636706",
+          "imdb_id": "tt11097384",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Testament: The Story of Moses",
+          "tmdb_id": "247441",
+          "imdb_id": "tt31589872",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "The Beast",
+          "tmdb_id": "914206",
+          "imdb_id": "tt14407336",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "The Beekeeper",
+          "tmdb_id": "866398",
+          "imdb_id": "tt15314262",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "The Brothers Sun",
+          "tmdb_id": "227004",
+          "imdb_id": "tt17632862",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "The Decameron",
+          "tmdb_id": "250162",
+          "imdb_id": "tt21831910",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "The Garfield Movie",
+          "tmdb_id": "748783",
+          "imdb_id": "tt5779228",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "The Gentlemen",
+          "tmdb_id": "236235",
+          "imdb_id": "tt13210838",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "The Grimm Variations",
+          "tmdb_id": "249812",
+          "imdb_id": "tt14872196",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "The Hijacking of Flight 601",
+          "tmdb_id": "249548",
+          "imdb_id": "tt28240840",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "The Idea of You",
+          "tmdb_id": "843527",
+          "imdb_id": "tt9466114",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "The Imaginary",
+          "tmdb_id": "913001",
+          "imdb_id": "tt16369708",
+          "type": "movie",
+          "year": "2023"
+        },
+        {
+          "title": "The Life You Wanted",
+          "tmdb_id": "253361",
+          "imdb_id": "tt28019927",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "The Man with 1000 Kids",
+          "tmdb_id": "257207",
+          "imdb_id": "tt27712032",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "The Ministry of Ungentlemanly Warfare",
+          "tmdb_id": "799583",
+          "imdb_id": "tt5177120",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "The Second Best Hospital in the Galaxy",
+          "tmdb_id": "202667",
+          "imdb_id": "tt11828386",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "The Signal",
+          "tmdb_id": "241473",
+          "imdb_id": "tt25375256",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "The Umbrella Academy",
+          "tmdb_id": "75006",
+          "imdb_id": "tt1312171",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "The Walking Dead",
+          "tmdb_id": "1402",
+          "imdb_id": "tt1520211",
+          "type": "tv",
+          "year": "2021"
+        },
+        {
+          "title": "Them",
+          "tmdb_id": "120462",
+          "imdb_id": "tt9064858",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Trigger Warning",
+          "tmdb_id": "704673",
+          "imdb_id": "tt5834874",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Ultraman: Rising",
+          "tmdb_id": "829402",
+          "imdb_id": "tt9471678",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Vampire Dormitory",
+          "tmdb_id": "238903",
+          "imdb_id": "tt31976012",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "What Jennifer Did",
+          "tmdb_id": "1261924",
+          "imdb_id": "tt31747163",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Wonka",
+          "tmdb_id": "787699",
+          "imdb_id": "tt6166392",
+          "type": "movie",
+          "year": "2023"
+        },
+        {
+          "title": "Young Royals",
+          "tmdb_id": "125910",
+          "imdb_id": "tt14664414",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Young Royals Forever",
+          "tmdb_id": "1247154",
+          "imdb_id": "tt31402962",
+          "type": "movie",
+          "year": "2024"
+        },
         {
           "title": "A Part of You",
           "tmdb_id": "1127108",
@@ -1110,7 +1782,7 @@
           "year": "2024"
         }
       ],
-      "last_modified": "2026-05-26T13:47:59.331Z"
+      "last_modified": "2026-05-26T13:58:04.472Z"
     },
     {
       "batch_id": 17,
@@ -7905,7 +8577,7 @@
       "date_key": "2026-04-24",
       "date": "April 24, 2026",
       "timestamp": "2026-04-24T05:59:49.220Z",
-      "total_in_batch": 172,
+      "total_in_batch": 171,
       "posts": [
         {
           "title": "A Perfect Planet",
@@ -8984,13 +9656,6 @@
           "imdb_id": "tt21993130",
           "type": "tv",
           "year": "2025"
-        },
-        {
-          "title": "The Walking Dead",
-          "tmdb_id": "1402",
-          "imdb_id": "tt1520211",
-          "type": "tv",
-          "year": "2019"
         },
         {
           "title": "The Witcher",
