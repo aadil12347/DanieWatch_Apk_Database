@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26T06:28:46.944Z",
-  "total_posts": 2749,
+  "last_updated": "2026-05-26T06:43:51.461Z",
+  "total_posts": 2799,
   "total_batches": 18,
   "batches": [
     {
@@ -8,8 +8,358 @@
       "date_key": "2026-05-26",
       "date": "May 26, 2026",
       "timestamp": "2026-05-26T06:28:46.944Z",
-      "total_in_batch": 53,
+      "total_in_batch": 103,
       "posts": [
+        {
+          "title": "AMERICA'S SWEETHEARTS: Dallas Cowboys Cheerleaders",
+          "tmdb_id": "252257",
+          "imdb_id": "tt32146518",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Bad Boy",
+          "tmdb_id": "234034",
+          "imdb_id": "tt28688946",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Bandidos",
+          "tmdb_id": "241269",
+          "imdb_id": "tt11262142",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Billionaire Island",
+          "tmdb_id": "223785",
+          "imdb_id": "tt29306091",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Bleach: Thousand-Year Blood War",
+          "tmdb_id": "308329",
+          "imdb_id": "tt14986406",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "BUCCHIGIRI?!",
+          "tmdb_id": "226905",
+          "imdb_id": "tt28454318",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Bye Bye, Earth",
+          "tmdb_id": "214587",
+          "imdb_id": "tt23844810",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Caddo Lake",
+          "tmdb_id": "863873",
+          "imdb_id": "tt15552142",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Campus Beats",
+          "tmdb_id": "236445",
+          "imdb_id": "tt29261323",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Chand Mera Dil",
+          "tmdb_id": "1371023",
+          "imdb_id": "tt34498111",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Citadel: Diana",
+          "tmdb_id": "214032",
+          "imdb_id": "tt22754212",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Cobra Kai",
+          "tmdb_id": "77169",
+          "imdb_id": "tt7221388",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Deceitful Love",
+          "tmdb_id": "265156",
+          "imdb_id": "tt27031470",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Demise",
+          "tmdb_id": "1243186",
+          "imdb_id": "tt15558362",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Devil In Dune",
+          "tmdb_id": "911972",
+          "imdb_id": "tt23780438",
+          "type": "movie",
+          "year": "2021"
+        },
+        {
+          "title": "Dune",
+          "tmdb_id": "438631",
+          "imdb_id": "tt1160419",
+          "type": "movie",
+          "year": "2021"
+        },
+        {
+          "title": "Dune",
+          "tmdb_id": "841",
+          "imdb_id": "tt0087182",
+          "type": "movie",
+          "year": "1984"
+        },
+        {
+          "title": "Dune: Part Two",
+          "tmdb_id": "693134",
+          "imdb_id": "tt15239678",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "I Love You",
+          "tmdb_id": "240947",
+          "imdb_id": "tt30577526",
+          "type": "tv",
+          "year": "2023"
+        },
+        {
+          "title": "Into the Fire: The Lost Daughter",
+          "tmdb_id": "261649",
+          "imdb_id": "tt33163756",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "It Ends with Us",
+          "tmdb_id": "1079091",
+          "imdb_id": "tt10655524",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Jackdaw",
+          "tmdb_id": "1081680",
+          "imdb_id": "tt26594543",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "KAOS",
+          "tmdb_id": "102621",
+          "imdb_id": "tt8550732",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Killer Heat",
+          "tmdb_id": "1108566",
+          "imdb_id": "tt27419292",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Mona Lisa Smile",
+          "tmdb_id": "11820",
+          "imdb_id": "tt0304415",
+          "type": "movie",
+          "year": "2003"
+        },
+        {
+          "title": "Monsters: The Lyle and Erik Menendez Story",
+          "tmdb_id": "225634",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Mr. McMahon",
+          "tmdb_id": "263089",
+          "imdb_id": "tt33301469",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Panda Bear in Africa",
+          "tmdb_id": "676685",
+          "imdb_id": "tt13616980",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Parinda Paar Geyaa",
+          "tmdb_id": "1181534",
+          "imdb_id": "tt29932702",
+          "type": "movie",
+          "year": "2023"
+        },
+        {
+          "title": "Raising Voices",
+          "tmdb_id": "242876",
+          "imdb_id": "tt22188654",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Rez Ball",
+          "tmdb_id": "858414",
+          "imdb_id": "tt15181360",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Sathi Leelavathi",
+          "tmdb_id": "1522079",
+          "imdb_id": "tt35027300",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Secret Level",
+          "tmdb_id": "261579",
+          "imdb_id": "tt33204697",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Selling the City",
+          "tmdb_id": "255728",
+          "imdb_id": "tt32501221",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Solo Leveling",
+          "tmdb_id": "127532",
+          "imdb_id": "tt21209876",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Steal My Heart",
+          "tmdb_id": "245597",
+          "imdb_id": "tt3694790",
+          "type": "movie",
+          "year": "2013"
+        },
+        {
+          "title": "The Dunes",
+          "tmdb_id": "641213",
+          "imdb_id": "tt4681432",
+          "type": "movie",
+          "year": "2019"
+        },
+        {
+          "title": "The Last Stop in Yuma County",
+          "tmdb_id": "1047020",
+          "imdb_id": "tt11674730",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "The Strongest Magician in the Demon Lord's Army Was a Human",
+          "tmdb_id": "248951",
+          "imdb_id": "tt32333026",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "The Sympathizer",
+          "tmdb_id": "129398",
+          "imdb_id": "tt14404618",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Tires",
+          "tmdb_id": "247522",
+          "imdb_id": "tt31491435",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Tomb Raider: The Legend of Lara Croft",
+          "tmdb_id": "117830",
+          "imdb_id": "tt13930822",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Tower of God",
+          "tmdb_id": "97860",
+          "imdb_id": "tt12057106",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Twilight of the Gods",
+          "tmdb_id": "97333",
+          "imdb_id": "tt10625492",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Uglies",
+          "tmdb_id": "748167",
+          "imdb_id": "tt13186604",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Unstoppable",
+          "tmdb_id": "1101448",
+          "imdb_id": "tt3864060",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "What If...?",
+          "tmdb_id": "91363",
+          "imdb_id": "tt10168312",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "What's Next? The Future with Bill Gates",
+          "tmdb_id": "261646",
+          "imdb_id": "tt33184626",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "You Can't Run Forever",
+          "tmdb_id": "879412",
+          "imdb_id": "tt15451150",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "ZENSHU",
+          "tmdb_id": "249882",
+          "imdb_id": "tt31863730",
+          "type": "tv",
+          "year": "2025"
+        },
         {
           "title": "A Quiet Place: Day One",
           "tmdb_id": "762441",
@@ -381,14 +731,15 @@
           "type": "movie",
           "year": "2024"
         }
-      ]
+      ],
+      "last_modified": "2026-05-26T06:43:51.461Z"
     },
     {
       "batch_id": 17,
       "date_key": "2026-05-24",
       "date": "May 24, 2026",
       "timestamp": "2026-05-24T07:47:46.556Z",
-      "total_in_batch": 283,
+      "total_in_batch": 282,
       "posts": [
         {
           "title": "1992",
@@ -1866,13 +2217,6 @@
           "imdb_id": "tt34927582",
           "type": "movie",
           "year": "2025"
-        },
-        {
-          "title": "Campus Beats",
-          "tmdb_id": "236445",
-          "imdb_id": "tt29261323",
-          "type": "tv",
-          "year": "2026"
         },
         {
           "title": "Challe Yaar Coachella",
