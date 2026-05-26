@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26T06:43:51.382Z",
-  "total": 2799,
+  "last_updated": "2026-05-26T06:48:33.620Z",
+  "total": 2800,
   "posts": [
     {
       "id": "0HHVROFDOD9M80V12IHZQ345F2",
@@ -41972,6 +41972,29 @@
       "imdb_id": "tt13696452",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 12
+    },
+    {
+      "id": "114479",
+      "type": "tv",
+      "title": "The Acolyte",
+      "poster": "https://image.tmdb.org/t/p/w342/mztdt3y6GBsJR69zHtszFezTCLT.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Mystery",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "imdb_id": "tt12262202",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 8
     },
     {
       "id": "114922",

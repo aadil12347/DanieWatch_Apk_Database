@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26T06:43:51.461Z",
-  "total_posts": 2799,
+  "last_updated": "2026-05-26T06:48:33.688Z",
+  "total_posts": 2800,
   "total_batches": 18,
   "batches": [
     {
@@ -8,8 +8,15 @@
       "date_key": "2026-05-26",
       "date": "May 26, 2026",
       "timestamp": "2026-05-26T06:28:46.944Z",
-      "total_in_batch": 103,
+      "total_in_batch": 104,
       "posts": [
+        {
+          "title": "The Acolyte",
+          "tmdb_id": "114479",
+          "imdb_id": "tt12262202",
+          "type": "tv",
+          "year": "2024"
+        },
         {
           "title": "AMERICA'S SWEETHEARTS: Dallas Cowboys Cheerleaders",
           "tmdb_id": "252257",
@@ -732,7 +739,7 @@
           "year": "2024"
         }
       ],
-      "last_modified": "2026-05-26T06:43:51.461Z"
+      "last_modified": "2026-05-26T06:48:33.688Z"
     },
     {
       "batch_id": 17,
