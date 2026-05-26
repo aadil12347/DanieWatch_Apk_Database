@@ -1,8 +1,388 @@
 {
-  "last_updated": "2026-05-24T17:32:45.120Z",
-  "total_posts": 2695,
-  "total_batches": 17,
+  "last_updated": "2026-05-26T06:28:46.944Z",
+  "total_posts": 2749,
+  "total_batches": 18,
   "batches": [
+    {
+      "batch_id": 18,
+      "date_key": "2026-05-26",
+      "date": "May 26, 2026",
+      "timestamp": "2026-05-26T06:28:46.944Z",
+      "total_in_batch": 53,
+      "posts": [
+        {
+          "title": "A Quiet Place: Day One",
+          "tmdb_id": "762441",
+          "imdb_id": "tt13433802",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Afraid",
+          "tmdb_id": "1062215",
+          "imdb_id": "tt24577462",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Agent Recon",
+          "tmdb_id": "1198899",
+          "imdb_id": "tt26743864",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Apollo 13: Survival",
+          "tmdb_id": "1249216",
+          "imdb_id": "tt31852716",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Atlas",
+          "tmdb_id": "614933",
+          "imdb_id": "tt14856980",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Bangkok Breaking: Heaven and Hell",
+          "tmdb_id": "1337309",
+          "imdb_id": "tt31158592",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Blink Twice",
+          "tmdb_id": "840705",
+          "imdb_id": "tt14858658",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Blood for Dust",
+          "tmdb_id": "1025596",
+          "imdb_id": "tt10669888",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Boxer",
+          "tmdb_id": "1280440",
+          "imdb_id": "tt32244931",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Burning Betrayal",
+          "tmdb_id": "1173558",
+          "imdb_id": "tt26787296",
+          "type": "movie",
+          "year": "2023"
+        },
+        {
+          "title": "Charm School",
+          "tmdb_id": "20223",
+          "imdb_id": "tt0806940",
+          "type": "movie",
+          "year": "2007"
+        },
+        {
+          "title": "Colors of Evil: Red",
+          "tmdb_id": "1115395",
+          "imdb_id": "tt27578157",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Consumed",
+          "tmdb_id": "1280990",
+          "imdb_id": "tt13374480",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Drive-Away Dolls",
+          "tmdb_id": "957304",
+          "imdb_id": "tt19356262",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "House of Spoils",
+          "tmdb_id": "1014661",
+          "imdb_id": "tt21830836",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Immaculate",
+          "tmdb_id": "1041613",
+          "imdb_id": "tt23137390",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "In the Land of Saints and Sinners",
+          "tmdb_id": "1027073",
+          "imdb_id": "tt15782690",
+          "type": "movie",
+          "year": "2023"
+        },
+        {
+          "title": "Incoming",
+          "tmdb_id": "1008953",
+          "imdb_id": "tt21284218",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Inside the Mind of a Dog",
+          "tmdb_id": "1266321",
+          "imdb_id": "tt32907397",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "It's What's Inside",
+          "tmdb_id": "1052280",
+          "imdb_id": "tt14577874",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Jackpot!",
+          "tmdb_id": "1094138",
+          "imdb_id": "tt26940324",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Land of Bad",
+          "tmdb_id": "969492",
+          "imdb_id": "tt19864802",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Lisa Frankenstein",
+          "tmdb_id": "993784",
+          "imdb_id": "tt21188080",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Lonely Planet",
+          "tmdb_id": "959429",
+          "imdb_id": "tt20194882",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Longlegs",
+          "tmdb_id": "1226578",
+          "imdb_id": "tt23468450",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Lucky Hearts",
+          "tmdb_id": "1104435",
+          "imdb_id": "tt27199056",
+          "type": "movie",
+          "year": "2023"
+        },
+        {
+          "title": "Miller's Girl",
+          "tmdb_id": "1026436",
+          "imdb_id": "tt8310486",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Mission: Cross",
+          "tmdb_id": "1002088",
+          "imdb_id": "tt30515931",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Motives",
+          "tmdb_id": "39291",
+          "imdb_id": "tt0365519",
+          "type": "movie",
+          "year": "2004"
+        },
+        {
+          "title": "Mutant",
+          "tmdb_id": "1295415",
+          "imdb_id": "tt32386443",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Nightwatch: Demons Are Forever",
+          "tmdb_id": "1029880",
+          "imdb_id": "tt6318608",
+          "type": "movie",
+          "year": "2023"
+        },
+        {
+          "title": "One Fast Move",
+          "tmdb_id": "1281826",
+          "imdb_id": "tt21096576",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Rebel Ridge",
+          "tmdb_id": "646097",
+          "imdb_id": "tt11301886",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Secret Lives of Orangutans",
+          "tmdb_id": "1239121",
+          "imdb_id": "tt33038092",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Space Cadet",
+          "tmdb_id": "1019411",
+          "imdb_id": "tt21469794",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Speak No Evil",
+          "tmdb_id": "1114513",
+          "imdb_id": "tt27534307",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Still Alice",
+          "tmdb_id": "284293",
+          "imdb_id": "tt3316960",
+          "type": "movie",
+          "year": "2014"
+        },
+        {
+          "title": "Striking The Palace",
+          "tmdb_id": "978090",
+          "imdb_id": "tt27722491",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "That's Life!",
+          "tmdb_id": "52961",
+          "imdb_id": "tt0092079",
+          "type": "movie",
+          "year": "1986"
+        },
+        {
+          "title": "The American Society of Magical Negroes",
+          "tmdb_id": "1039773",
+          "imdb_id": "tt30007864",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "The Bad Guys: Haunted Heist",
+          "tmdb_id": "1329336",
+          "imdb_id": "tt33130902",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "The Bikeriders",
+          "tmdb_id": "1008409",
+          "imdb_id": "tt21454134",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "The Deliverance",
+          "tmdb_id": "930600",
+          "imdb_id": "tt4196566",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "The Diary",
+          "tmdb_id": "1359153",
+          "imdb_id": "tt28576307",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "The Fighter",
+          "tmdb_id": "45317",
+          "imdb_id": "tt0964517",
+          "type": "movie",
+          "year": "2010"
+        },
+        {
+          "title": "The Killer",
+          "tmdb_id": "970347",
+          "imdb_id": "tt1121948",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "The Menendez Brothers",
+          "tmdb_id": "1360610",
+          "imdb_id": "tt33481094",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "The Platform 2",
+          "tmdb_id": "1125510",
+          "imdb_id": "tt27729779",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "The Wrong Babysitter",
+          "tmdb_id": "453296",
+          "imdb_id": "tt6145232",
+          "type": "movie",
+          "year": "2017"
+        },
+        {
+          "title": "Too Close",
+          "tmdb_id": "447305",
+          "imdb_id": "tt5964258",
+          "type": "movie",
+          "year": "2017"
+        },
+        {
+          "title": "Trouble",
+          "tmdb_id": "1210794",
+          "imdb_id": "tt30217143",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Unsung Hero",
+          "tmdb_id": "1115009",
+          "imdb_id": "tt23638614",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Woman of the Hour",
+          "tmdb_id": "835113",
+          "imdb_id": "tt7737800",
+          "type": "movie",
+          "year": "2024"
+        }
+      ]
+    },
     {
       "batch_id": 17,
       "date_key": "2026-05-24",
