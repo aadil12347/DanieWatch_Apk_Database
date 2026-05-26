@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26T19:38:26.259Z",
-  "total": 2945,
+  "last_updated": "2026-05-26T19:38:50.015Z",
+  "total": 2944,
   "posts": [
     {
       "id": "0HHVROFDOD9M80V12IHZQ345F2",
@@ -57915,25 +57915,6 @@
       "imdb_id": "tt41508977",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 4
-    },
-    {
-      "id": "319059",
-      "type": "tv",
-      "title": "Adalat: Insaaf Ki Jung",
-      "poster": "https://image.tmdb.org/t/p/w342/5BVhF1GRtaInMFJrtA9uzTkx0To.jpg",
-      "year": "2026",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "US"
-      ],
-      "original_language": "hi",
-      "genres": [],
-      "imdb_id": "",
-      "latest_uploaded_season": 1,
-      "total_uploaded_episodes": 7
     },
     {
       "id": "322558",
