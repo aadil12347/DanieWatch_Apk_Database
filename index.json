@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26T19:35:35.415Z",
-  "total": 2949,
+  "last_updated": "2026-05-26T19:37:23.474Z",
+  "total": 2948,
   "posts": [
     {
       "id": "0HHVROFDOD9M80V12IHZQ345F2",
@@ -4164,29 +4164,6 @@
       "imdb_id": "tt7950716",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 12
-    },
-    {
-      "id": "1402",
-      "type": "tv",
-      "title": "The Walking Dead",
-      "poster": "https://image.tmdb.org/t/p/w342/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg",
-      "year": "2019",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "US"
-      ],
-      "original_language": "en",
-      "genres": [
-        "Action & Adventure",
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "imdb_id": "tt1520211",
-      "latest_uploaded_season": 10,
-      "total_uploaded_episodes": 153
     },
     {
       "id": "152296",
