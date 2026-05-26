@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26T19:37:52.690Z",
-  "total": 2947,
+  "last_updated": "2026-05-26T19:38:26.259Z",
+  "total": 2945,
   "posts": [
     {
       "id": "0HHVROFDOD9M80V12IHZQ345F2",
@@ -56346,25 +56346,6 @@
       "total_uploaded_episodes": 7
     },
     {
-      "id": "296547",
-      "type": "tv",
-      "title": "Rose Garden",
-      "poster": "https://image.tmdb.org/t/p/w342/7usDnfowGZn9tXQddl6SQb5eZ2d.jpg",
-      "year": "2025",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "US"
-      ],
-      "original_language": "en",
-      "genres": [],
-      "imdb_id": "tt37618499",
-      "latest_uploaded_season": 1,
-      "total_uploaded_episodes": 6
-    },
-    {
       "id": "297181",
       "type": "tv",
       "title": "Pyaar Yaa Paap",
@@ -57143,28 +57124,6 @@
       "imdb_id": "tt38745313",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 7
-    },
-    {
-      "id": "305307",
-      "type": "tv",
-      "title": "Sweat Aur Secrets",
-      "poster": "https://image.tmdb.org/t/p/w342/vE7YROgIOCqx2iiUBMOqFxvTRH1.jpg",
-      "year": "2025",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "IN"
-      ],
-      "original_language": "hi",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "imdb_id": "",
-      "latest_uploaded_season": 1,
-      "total_uploaded_episodes": 6
     },
     {
       "id": "305449",
