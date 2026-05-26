@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26T06:48:33.620Z",
-  "total": 2800,
+  "last_updated": "2026-05-26T13:47:59.246Z",
+  "total": 2854,
   "posts": [
     {
       "id": "0HHVROFDOD9M80V12IHZQ345F2",
@@ -5094,6 +5094,27 @@
       "total_uploaded_episodes": 14
     },
     {
+      "id": "253913",
+      "type": "tv",
+      "title": "Toughest Forces on Earth",
+      "poster": "https://image.tmdb.org/t/p/w342/4Ncb3dfoJCUNE2UGlmmVZdqeua7.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Documentary"
+      ],
+      "imdb_id": "tt25166726",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 1
+    },
+    {
       "id": "254071",
       "type": "tv",
       "title": "Steal",
@@ -8174,6 +8195,27 @@
       "imdb_id": "tt13161934"
     },
     {
+      "id": "1014590",
+      "type": "movie",
+      "title": "Upgraded",
+      "poster": "https://image.tmdb.org/t/p/w342/uhOXS17gRpTwA85WsZLlYFK3rz0.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "imdb_id": "tt21830902"
+    },
+    {
       "id": "1014661",
       "type": "movie",
       "title": "House of Spoils",
@@ -8301,6 +8343,27 @@
       "imdb_id": "tt0892791"
     },
     {
+      "id": "1019317",
+      "type": "movie",
+      "title": "Stolen",
+      "poster": "https://image.tmdb.org/t/p/w342/ovUBfip0EgyqHZYhVx4K0ZjFkgn.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "SE"
+      ],
+      "original_language": "sv",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": "tt21955196"
+    },
+    {
       "id": "1019411",
       "type": "movie",
       "title": "Space Cadet",
@@ -8360,6 +8423,27 @@
         "Fantasy"
       ],
       "imdb_id": "tt23790696"
+    },
+    {
+      "id": "1022690",
+      "type": "movie",
+      "title": "Ricky Stanicky",
+      "poster": "https://image.tmdb.org/t/p/w342/oJQdLfrpl4CQsHAKIxd3DJqYTVq.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "AU",
+        "GB",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt1660648"
     },
     {
       "id": "1022787",
@@ -8804,6 +8888,26 @@
       "imdb_id": "tt3402138"
     },
     {
+      "id": "1036619",
+      "type": "movie",
+      "title": "Good Grief",
+      "poster": "https://image.tmdb.org/t/p/w342/wJFHUglmh7xlY7g9Ql85QAJBZ6n.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt19887550"
+    },
+    {
       "id": "1037113",
       "type": "movie",
       "title": "Snack Shack",
@@ -8860,6 +8964,26 @@
         "Comedy"
       ],
       "imdb_id": "tt30007864"
+    },
+    {
+      "id": "1039882",
+      "type": "movie",
+      "title": "My Name Is Loh Kiwan",
+      "poster": "https://image.tmdb.org/t/p/w342/x4BkphLO6abbGhceYEMhJERkvHo.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "imdb_id": "tt26672512"
     },
     {
       "id": "1041613",
@@ -9836,6 +9960,26 @@
       "imdb_id": "tt36616410"
     },
     {
+      "id": "1072342",
+      "type": "movie",
+      "title": "Night Swim",
+      "poster": "https://image.tmdb.org/t/p/w342/gSkfBGdxdialBMM7P02V4hcI6Ij.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "imdb_id": "tt9682428"
+    },
+    {
       "id": "1073079",
       "type": "movie",
       "title": "Kill Her Goats",
@@ -10187,6 +10331,26 @@
         "Fantasy"
       ],
       "imdb_id": "tt26439764"
+    },
+    {
+      "id": "1083658",
+      "type": "movie",
+      "title": "Scoop",
+      "poster": "https://image.tmdb.org/t/p/w342/ib3H2ZSeVRTAmd7EtGWV31LswaZ.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "TV Movie"
+      ],
+      "imdb_id": "tt21279806"
     },
     {
       "id": "1083968",
@@ -10579,6 +10743,27 @@
       "imdb_id": "tt26899693"
     },
     {
+      "id": "1093231",
+      "type": "movie",
+      "title": "Mother of the Bride",
+      "poster": "https://image.tmdb.org/t/p/w342/vdTvwykMWvVgdaViBVRh8IFTku5.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "TH",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "imdb_id": "tt26926267"
+    },
+    {
       "id": "1093237",
       "type": "movie",
       "title": "Hurry Up Tomorrow",
@@ -10720,6 +10905,27 @@
         "Thriller"
       ],
       "imdb_id": "tt28129054"
+    },
+    {
+      "id": "1096197",
+      "type": "movie",
+      "title": "No Way Up",
+      "poster": "https://image.tmdb.org/t/p/w342/hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Action"
+      ],
+      "imdb_id": "tt16253418"
     },
     {
       "id": "1096417",
@@ -11119,6 +11325,26 @@
         "Adventure"
       ],
       "imdb_id": "tt13566172"
+    },
+    {
+      "id": "1111873",
+      "type": "movie",
+      "title": "Abigail",
+      "poster": "https://image.tmdb.org/t/p/w342/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "imdb_id": "tt27489557"
     },
     {
       "id": "1112175",
@@ -11698,6 +11924,25 @@
       "imdb_id": "tt27721490"
     },
     {
+      "id": "1127108",
+      "type": "movie",
+      "title": "A Part of You",
+      "poster": "https://image.tmdb.org/t/p/w342/rv3FLJ4kLoeFpL6sLSB3tCWLO9f.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "SE"
+      ],
+      "original_language": "sv",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt27411270"
+    },
+    {
       "id": "1127110",
       "type": "movie",
       "title": "Diablo",
@@ -11971,6 +12216,27 @@
       "imdb_id": "tt28015403"
     },
     {
+      "id": "1139566",
+      "type": "movie",
+      "title": "Through My Window 3: Looking at You",
+      "poster": "https://image.tmdb.org/t/p/w342/gwpTgtwVAwmvivBN8rAQABpx9Am.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "ES"
+      ],
+      "original_language": "es",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt28105944"
+    },
+    {
       "id": "11397",
       "type": "movie",
       "title": "Not Another Teen Movie",
@@ -12030,6 +12296,29 @@
         "Crime"
       ],
       "imdb_id": "tt28494829"
+    },
+    {
+      "id": "1139829",
+      "type": "movie",
+      "title": "Orion and the Dark",
+      "poster": "https://image.tmdb.org/t/p/w342/N2ddXhBX5kqwA9flbm2yqFtX6b.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Fantasy",
+        "Adventure"
+      ],
+      "imdb_id": "tt28066777"
     },
     {
       "id": "1140535",
@@ -13055,6 +13344,26 @@
       "imdb_id": "tt27751957"
     },
     {
+      "id": "1175156",
+      "type": "movie",
+      "title": "The Price of Nonna's Inheritance",
+      "poster": "https://image.tmdb.org/t/p/w342/azv9ekvJr1Vz6gNZa6QyaIbeiHG.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IT"
+      ],
+      "original_language": "it",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "imdb_id": "tt30494321"
+    },
+    {
       "id": "1175942",
       "type": "movie",
       "title": "The Bad Guys 2",
@@ -13569,6 +13878,30 @@
         "Thriller"
       ],
       "imdb_id": "tt31702278"
+    },
+    {
+      "id": "1192209",
+      "type": "movie",
+      "title": "Noah's Ark",
+      "poster": "https://image.tmdb.org/t/p/w342/x6wH1kowr6uNFJ12CVKsRHzC0cm.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "BR",
+        "IN"
+      ],
+      "original_language": "pt",
+      "genres": [
+        "Animation",
+        "Music",
+        "Comedy",
+        "Fantasy",
+        "Family"
+      ],
+      "imdb_id": "tt8637446"
     },
     {
       "id": "1193824",
@@ -14174,6 +14507,29 @@
       "imdb_id": "tt4726640"
     },
     {
+      "id": "1212073",
+      "type": "movie",
+      "title": "Sixty Minutes",
+      "poster": "https://image.tmdb.org/t/p/w342/jojfbnIHGsRpodIood3OQoqA45Y.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "DE"
+      ],
+      "original_language": "de",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": "tt29538571"
+    },
+    {
       "id": "1212742",
       "type": "movie",
       "title": "The Rule of Jenny Pen",
@@ -14253,6 +14609,26 @@
         "War"
       ],
       "imdb_id": "tt30387012"
+    },
+    {
+      "id": "1213997",
+      "type": "movie",
+      "title": "Bitconned",
+      "poster": "https://image.tmdb.org/t/p/w342/dDHpIF5mcAkeiv3r8KlMkksr7b9.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ],
+      "imdb_id": "tt30317302"
     },
     {
       "id": "1214484",
@@ -14379,6 +14755,27 @@
       "imdb_id": "tt4853290"
     },
     {
+      "id": "1216268",
+      "type": "movie",
+      "title": "The Heartbreak Agency",
+      "poster": "https://image.tmdb.org/t/p/w342/zkLo1lMjqloUqhnAji4YbnSH2vb.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "DE"
+      ],
+      "original_language": "de",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt28288477"
+    },
+    {
       "id": "1216385",
       "type": "movie",
       "title": "Toofan",
@@ -14397,6 +14794,27 @@
         "Action"
       ],
       "imdb_id": "tt30415138"
+    },
+    {
+      "id": "1216512",
+      "type": "movie",
+      "title": "The Casagrandes Movie",
+      "poster": "https://image.tmdb.org/t/p/w342/1ZHetsKD44xB63ZjTjqryC0CtoL.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "imdb_id": "tt31123288"
     },
     {
       "id": "1217602",
@@ -14572,6 +14990,26 @@
         "Romance"
       ],
       "imdb_id": "tt30050756"
+    },
+    {
+      "id": "1221388",
+      "type": "movie",
+      "title": "From the Ashes",
+      "poster": "https://image.tmdb.org/t/p/w342/8GwRZHBW4YCGhFsDkY7L8OIGW1x.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "SA"
+      ],
+      "original_language": "ar",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "imdb_id": "tt30629563"
     },
     {
       "id": "1221404",
@@ -14997,6 +15435,27 @@
       "imdb_id": "tt32200215"
     },
     {
+      "id": "1231953",
+      "type": "movie",
+      "title": "Five Blind Dates",
+      "poster": "https://image.tmdb.org/t/p/w342/nMFByoqAxTpiY7Irbvq4ugjjC0y.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "AU",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "imdb_id": "tt21236048"
+    },
+    {
       "id": "1232232",
       "type": "movie",
       "title": "Kannappa",
@@ -15038,6 +15497,26 @@
         "Thriller"
       ],
       "imdb_id": "tt13098590"
+    },
+    {
+      "id": "1232943",
+      "type": "movie",
+      "title": "Kill Me If You Dare",
+      "poster": "https://image.tmdb.org/t/p/w342/wbfDIr5dKx4fri5by7NSIht0Y7M.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "PL"
+      ],
+      "original_language": "pl",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "imdb_id": "tt30959158"
     },
     {
       "id": "1234603",
@@ -15352,6 +15831,27 @@
       "imdb_id": "tt29540862"
     },
     {
+      "id": "1239146",
+      "type": "movie",
+      "title": "Woody Woodpecker Goes to Camp",
+      "poster": "https://image.tmdb.org/t/p/w342/gaINMBMGIow4kd8Dq06aytoomtS.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Animation"
+      ],
+      "imdb_id": "tt20221690"
+    },
+    {
       "id": "1239198",
       "type": "movie",
       "title": "My Dearest Señorita",
@@ -15534,6 +16034,25 @@
         "Drama"
       ],
       "imdb_id": "tt29768334"
+    },
+    {
+      "id": "1242384",
+      "type": "movie",
+      "title": "The Antisocial Network: Memes to Mayhem",
+      "poster": "https://image.tmdb.org/t/p/w342/AlJKsIzkSU629hEhbRzRb1cSxA1.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Documentary"
+      ],
+      "imdb_id": "tt31189868"
     },
     {
       "id": "1242404",
@@ -16249,6 +16768,27 @@
       "imdb_id": "tt32323733"
     },
     {
+      "id": "1255030",
+      "type": "movie",
+      "title": "Secrets of the Neanderthals",
+      "poster": "https://image.tmdb.org/t/p/w342/j0CWLFH50qVjEbPZ1TowFxjOVFW.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Documentary",
+        "Mystery",
+        "History"
+      ],
+      "imdb_id": "tt32065103"
+    },
+    {
       "id": "1255775",
       "type": "movie",
       "title": "Merv",
@@ -16490,6 +17030,27 @@
         "Thriller"
       ],
       "imdb_id": "tt31852038"
+    },
+    {
+      "id": "1263421",
+      "type": "movie",
+      "title": "Baki Hanma VS Kengan Ashura",
+      "poster": "https://image.tmdb.org/t/p/w342/etbHJxil0wHvYOCmibzFLsMcl2C.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "genres": [
+        "Animation",
+        "Action",
+        "Fantasy"
+      ],
+      "imdb_id": "tt31869664"
     },
     {
       "id": "1265063",
@@ -21653,6 +22214,27 @@
         "Drama"
       ],
       "imdb_id": "tt35519497"
+    },
+    {
+      "id": "1422120",
+      "type": "movie",
+      "title": "Mermaid",
+      "poster": "https://image.tmdb.org/t/p/w342/qHpurzepx8ERBtAiGq7bSXpMnDD.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Horror"
+      ],
+      "imdb_id": "tt34435532"
     },
     {
       "id": "1423251",
@@ -28470,6 +29052,28 @@
       "imdb_id": "tt1103984"
     },
     {
+      "id": "17209",
+      "type": "movie",
+      "title": "Madhouse",
+      "poster": "https://image.tmdb.org/t/p/w342/ug2DwSZ5WCgMUJcWfEPn7wIHtpn.jpg",
+      "year": "2004",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US",
+        "GB",
+        "RO"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "imdb_id": "tt0363276"
+    },
+    {
       "id": "17609",
       "type": "movie",
       "title": "Antichrist",
@@ -28793,6 +29397,29 @@
         "Comedy"
       ],
       "imdb_id": "tt0806940"
+    },
+    {
+      "id": "20352",
+      "type": "movie",
+      "title": "Despicable Me",
+      "poster": "https://image.tmdb.org/t/p/w342/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg",
+      "year": "2010",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Family",
+        "Science Fiction"
+      ],
+      "imdb_id": "tt1323594"
     },
     {
       "id": "20453",
@@ -29779,6 +30406,27 @@
         "Drama"
       ],
       "imdb_id": "tt3316960"
+    },
+    {
+      "id": "284296",
+      "type": "movie",
+      "title": "Top Five",
+      "poster": "https://image.tmdb.org/t/p/w342/nM5zWv6zpWHsrKNMrPKg23UHZCA.jpg",
+      "year": "2014",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "imdb_id": "tt2784678"
     },
     {
       "id": "284536",
@@ -30829,6 +31477,27 @@
       "imdb_id": "tt4530884"
     },
     {
+      "id": "359410",
+      "type": "movie",
+      "title": "Road House",
+      "poster": "https://image.tmdb.org/t/p/w342/fDEdtS4P0gJsxHDIt8dG8TR5dx1.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
+      "imdb_id": "tt3359350"
+    },
+    {
       "id": "361539",
       "type": "movie",
       "title": "Deep Trap",
@@ -31709,6 +32378,25 @@
         "Fantasy"
       ],
       "imdb_id": "tt6324278"
+    },
+    {
+      "id": "433819",
+      "type": "movie",
+      "title": "Beyond Redemption",
+      "poster": "https://image.tmdb.org/t/p/w342/bms90luw8wFh11IddXdKjiK2Ky2.jpg",
+      "year": "2016",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CA"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action"
+      ],
+      "imdb_id": "tt4059112"
     },
     {
       "id": "43593",
@@ -35494,6 +36182,25 @@
       "imdb_id": "tt10886166"
     },
     {
+      "id": "666035",
+      "type": "movie",
+      "title": "Wanted Man",
+      "poster": "https://image.tmdb.org/t/p/w342/pmdgdb8biQLLzTjySZLPdK13KwM.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action"
+      ],
+      "imdb_id": "tt15791574"
+    },
+    {
       "id": "668391",
       "type": "movie",
       "title": "Seeru",
@@ -36382,6 +37089,27 @@
       "imdb_id": "tt2990352"
     },
     {
+      "id": "739547",
+      "type": "movie",
+      "title": "Thelma the Unicorn",
+      "poster": "https://image.tmdb.org/t/p/w342/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Family"
+      ],
+      "imdb_id": "tt10442352"
+    },
+    {
       "id": "743815",
       "type": "movie",
       "title": "Following",
@@ -36463,6 +37191,28 @@
         "Drama"
       ],
       "imdb_id": "tt11731768"
+    },
+    {
+      "id": "746036",
+      "type": "movie",
+      "title": "The Fall Guy",
+      "poster": "https://image.tmdb.org/t/p/w342/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US",
+        "AU"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Romance"
+      ],
+      "imdb_id": "tt1684562"
     },
     {
       "id": "746817",
@@ -37174,6 +37924,26 @@
       "imdb_id": "tt0380510"
     },
     {
+      "id": "798612",
+      "type": "movie",
+      "title": "Shirley",
+      "poster": "https://image.tmdb.org/t/p/w342/ooo4D4kyZyFee5aiNfwZ43oKOkc.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "imdb_id": "tt14077516"
+    },
+    {
       "id": "798645",
       "type": "movie",
       "title": "The Running Man",
@@ -37300,6 +38070,27 @@
         "Thriller"
       ],
       "imdb_id": "tt34508974"
+    },
+    {
+      "id": "802219",
+      "type": "movie",
+      "title": "Bob Marley: One Love",
+      "poster": "https://image.tmdb.org/t/p/w342/1lQftpEARVVB9op4TaYiIbactzG.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Music",
+        "History",
+        "Drama"
+      ],
+      "imdb_id": "tt8521778"
     },
     {
       "id": "802403",
@@ -37530,6 +38321,27 @@
         "Fantasy"
       ],
       "imdb_id": "tt14331144"
+    },
+    {
+      "id": "812025",
+      "type": "movie",
+      "title": "The Silent Twins",
+      "poster": "https://image.tmdb.org/t/p/w342/44zhSoVvpLDye6rJmU63TIpasUg.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB",
+        "PL",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt11052678"
     },
     {
       "id": "812583",
@@ -37875,6 +38687,28 @@
       "imdb_id": "tt21106646"
     },
     {
+      "id": "831815",
+      "type": "movie",
+      "title": "Saving Bikini Bottom: The Sandy Cheeks Movie",
+      "poster": "https://image.tmdb.org/t/p/w342/30YnfZdMNIV7noWLdvmcJS0cbnQ.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Adventure",
+        "Animation"
+      ],
+      "imdb_id": "tt23063732"
+    },
+    {
       "id": "832964",
       "type": "movie",
       "title": "Lee",
@@ -38132,6 +38966,26 @@
       "imdb_id": "tt1132449"
     },
     {
+      "id": "843617",
+      "type": "movie",
+      "title": "Players",
+      "poster": "https://image.tmdb.org/t/p/w342/eA94hAGntLm7Lfol5FQJNxd53Hw.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "imdb_id": "tt14833464"
+    },
+    {
       "id": "844075",
       "type": "movie",
       "title": "New Gods: Yang Jian",
@@ -38155,6 +39009,26 @@
       "imdb_id": "tt19757204"
     },
     {
+      "id": "844185",
+      "type": "movie",
+      "title": "Unfrosted",
+      "poster": "https://image.tmdb.org/t/p/w342/zxcpbkiyv81u1frI7b0f6qaYufE.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "History"
+      ],
+      "imdb_id": "tt14914430"
+    },
+    {
       "id": "8456",
       "type": "movie",
       "title": "Never Back Down",
@@ -38173,6 +39047,25 @@
         "Action"
       ],
       "imdb_id": "tt1023111"
+    },
+    {
+      "id": "845643",
+      "type": "movie",
+      "title": "The Piper",
+      "poster": "https://image.tmdb.org/t/p/w342/A92IidYEd25UHJGh4baSsTcJ650.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror"
+      ],
+      "imdb_id": "tt14197038"
     },
     {
       "id": "845781",
@@ -38235,6 +39128,28 @@
         "Adventure"
       ],
       "imdb_id": "tt14998742"
+    },
+    {
+      "id": "848538",
+      "type": "movie",
+      "title": "Argylle",
+      "poster": "https://image.tmdb.org/t/p/w342/siduVKgOnABO4WH4lOwPQwaGwJp.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": "tt15009428"
     },
     {
       "id": "851644",
@@ -39279,6 +40194,26 @@
       "imdb_id": "tt15478046"
     },
     {
+      "id": "927107",
+      "type": "movie",
+      "title": "The Bricklayer",
+      "poster": "https://image.tmdb.org/t/p/w342/36pYugctLa70NmwMEgXTR1G31Kq.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "imdb_id": "tt2016303"
+    },
+    {
       "id": "927254",
       "type": "movie",
       "title": "The Twits",
@@ -39452,6 +40387,28 @@
       "imdb_id": "tt10273738"
     },
     {
+      "id": "933131",
+      "type": "movie",
+      "title": "Badland Hunters",
+      "poster": "https://image.tmdb.org/t/p/w342/zVMyvNowgbsBAL6O6esWfRpAcOb.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller",
+        "Horror"
+      ],
+      "imdb_id": "tt29722855"
+    },
+    {
       "id": "934456",
       "type": "movie",
       "title": "Americana",
@@ -39474,6 +40431,27 @@
         "Action"
       ],
       "imdb_id": "tt17676734"
+    },
+    {
+      "id": "93456",
+      "type": "movie",
+      "title": "Despicable Me 2",
+      "poster": "https://image.tmdb.org/t/p/w342/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg",
+      "year": "2013",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "imdb_id": "tt1690953"
     },
     {
       "id": "934632",
@@ -39554,6 +40532,27 @@
         "Action"
       ],
       "imdb_id": "tt28479285"
+    },
+    {
+      "id": "937287",
+      "type": "movie",
+      "title": "Challengers",
+      "poster": "https://image.tmdb.org/t/p/w342/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IT",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": "tt16426418"
     },
     {
       "id": "9378",
@@ -40033,6 +41032,30 @@
       "imdb_id": "tt21364552"
     },
     {
+      "id": "956262",
+      "type": "movie",
+      "title": "The Kitchen",
+      "poster": "https://image.tmdb.org/t/p/w342/tV0hK1BiqYrYlehChv4WJXIWgmZ.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Science Fiction",
+        "Thriller",
+        "Drama",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdb_id": "tt4460800"
+    },
+    {
       "id": "957119",
       "type": "movie",
       "title": "Sidelined: The QB and Me",
@@ -40410,6 +41433,46 @@
       "imdb_id": "tt1121948"
     },
     {
+      "id": "973468",
+      "type": "movie",
+      "title": "WILL",
+      "poster": "https://image.tmdb.org/t/p/w342/qAhD2oipCFMUXcZ5YDtQg0pwbUY.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "BE"
+      ],
+      "original_language": "nl",
+      "genres": [
+        "Drama",
+        "War",
+        "History"
+      ],
+      "imdb_id": "tt26067432"
+    },
+    {
+      "id": "974036",
+      "type": "movie",
+      "title": "Ordinary Angels",
+      "poster": "https://image.tmdb.org/t/p/w342/wdi9kEU4W2UeBTtdqOPZISGMtDR.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt4996328"
+    },
+    {
       "id": "974250",
       "type": "movie",
       "title": "Greedy People",
@@ -40513,6 +41576,29 @@
       "imdb_id": "tt27722491"
     },
     {
+      "id": "978592",
+      "type": "movie",
+      "title": "Sleeping Dogs",
+      "poster": "https://image.tmdb.org/t/p/w342/5DwQhh1HvTo7edaOeMX49NUyZqy.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US",
+        "AU"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": "tt8542964"
+    },
+    {
       "id": "978796",
       "type": "movie",
       "title": "Bagman",
@@ -40592,6 +41678,26 @@
         "Drama"
       ],
       "imdb_id": "tt29927663"
+    },
+    {
+      "id": "984324",
+      "type": "movie",
+      "title": "The Wages of Fear",
+      "poster": "https://image.tmdb.org/t/p/w342/jFK2ZLQUzo9pea0jfMCHDfvWsx7.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "BE",
+        "FR"
+      ],
+      "original_language": "fr",
+      "genres": [
+        "Action"
+      ],
+      "imdb_id": "tt27487473"
     },
     {
       "id": "985379",
@@ -40827,6 +41933,28 @@
         "Romance"
       ],
       "imdb_id": "tt21188080"
+    },
+    {
+      "id": "994052",
+      "type": "movie",
+      "title": "Romance in Style",
+      "poster": "https://image.tmdb.org/t/p/w342/gYcVRws4Hu5B36ji7BheKDnSbfP.jpg",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CA",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "TV Movie",
+        "Comedy",
+        "Romance"
+      ],
+      "imdb_id": "tt21653744"
     },
     {
       "id": "997113",
