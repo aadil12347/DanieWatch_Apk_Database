@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26T13:58:04.389Z",
-  "total": 2950,
+  "last_updated": "2026-05-26T19:35:35.415Z",
+  "total": 2949,
   "posts": [
     {
       "id": "0HHVROFDOD9M80V12IHZQ345F2",
@@ -1252,27 +1252,6 @@
         "Comedy"
       ],
       "imdb_id": "tt31868189"
-    },
-    {
-      "id": "1263421",
-      "type": "movie",
-      "title": "Baki Hanma VS Kengan Ashura",
-      "poster": "https://image.tmdb.org/t/p/w342/etbHJxil0wHvYOCmibzFLsMcl2C.jpg",
-      "year": "2024",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "JP"
-      ],
-      "original_language": "ja",
-      "genres": [
-        "Animation",
-        "Action",
-        "Fantasy"
-      ],
-      "imdb_id": "tt31869664"
     },
     {
       "id": "1265827",
