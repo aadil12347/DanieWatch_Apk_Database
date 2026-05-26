@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26T19:37:23.474Z",
-  "total": 2948,
+  "last_updated": "2026-05-26T19:37:52.690Z",
+  "total": 2947,
   "posts": [
     {
       "id": "0HHVROFDOD9M80V12IHZQ345F2",
@@ -5863,27 +5863,6 @@
       "imdb_id": "",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 0
-    },
-    {
-      "id": "289656",
-      "type": "tv",
-      "title": "Kodai Diaries",
-      "poster": "https://image.tmdb.org/t/p/w342/sG90D0atz26PcWVFcUYSbL2mUtu.jpg",
-      "year": "2025",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "IN"
-      ],
-      "original_language": "hi",
-      "genres": [
-        "Crime"
-      ],
-      "imdb_id": "",
-      "latest_uploaded_season": 1,
-      "total_uploaded_episodes": 1
     },
     {
       "id": "290138",
