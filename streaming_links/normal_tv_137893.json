@@ -1,0 +1,43 @@
+{
+  "id": "137893",
+  "type": "tv",
+  "title": "Griselda",
+  "poster": "https://image.tmdb.org/t/p/w342/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/nj06Yo0yVzI7jx6novjyGOyNQKC.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/6h7b9jho1qq6/griselda-s01e01-lady-comes-to-town-720p-hindi-english-esubs-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/8awfznrbh4n9/griselda-s01e02-rich-white-people-720p-hindi-english-esubs-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/22ij71gy33ri/griselda-s01e03-mutiny-720p-hindi-english-esubs-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/gp7i6k8exit4/griselda-s01e04-middle-management-720p-hindi-english-esubs-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/luf2zm3o36np/griselda-s01e05-paradise-lost-720p-hindi-english-esubs-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/01sitql804tz/griselda-s01e06-adios-miami-720p-hindi-english-esubs-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

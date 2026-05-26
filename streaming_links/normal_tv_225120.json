@@ -1,0 +1,43 @@
+{
+  "id": "225120",
+  "type": "tv",
+  "title": "A Man in Full",
+  "poster": "https://image.tmdb.org/t/p/w342/o6iM2JDs15CwEGEcNMUU8HtLivE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kyXWvG24MurOMed9ij2KrcgWOkG.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/jl94wfvjph1z/a-man-in-full-s01e01-saddlebags-720p-10bit-hindi-english-esubs-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/44d9xhf23djq/a-man-in-full-s01e02-the-big-squash-720p-10bit-hindi-english-esubs-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/yky79fgk514l/a-man-in-full-s01e03-the-takedown-720p-10bit-hindi-english-esubs-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/8loshxoedctq/a-man-in-full-s01e04-tick-tick-720p-10bit-hindi-english-esubs-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/p7wwyhjulvjk/a-man-in-full-s01e05-push-comes-to-shove-720p-10bit-hindi-english-esubs-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 6,
+          "watch": "<iframe src=\"https://bysebuho.com/e/76wvt8jqt8fs/a-man-in-full-s01e06-judgment-day-720p-10bit-hindi-english-esubs-daniewatch-to\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}
