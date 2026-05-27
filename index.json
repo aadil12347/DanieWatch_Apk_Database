@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-27T13:18:29.615Z",
-  "total": 2956,
+  "last_updated": "2026-05-27T17:02:04.543Z",
+  "total": 2978,
   "posts": [
     {
       "id": "0HHVROFDOD9M80V12IHZQ345F2",
@@ -3211,6 +3211,29 @@
       "imdb_id": "tt12037194"
     },
     {
+      "id": "809787",
+      "type": "movie",
+      "title": "Mafia - Game for Life",
+      "poster": "https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5790150/portrait/1920x770439f2a7462e348c7aef35d253d26175d6e41b5e6ca024f638766da39229d181e82b4fdc9e20f4f1e9c890b2c5bdcbf13.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB",
+        "US",
+        "IT"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Action"
+      ],
+      "imdb_id": "tt13923456"
+    },
+    {
       "id": "811944",
       "type": "movie",
       "title": "Game Changer",
@@ -3562,6 +3585,70 @@
       "imdb_id": ""
     },
     {
+      "id": "mkinth3ziql6",
+      "type": "movie",
+      "title": "",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXdIoHlyn8FSl54YBbzT7rl-EfvaSGdztCBA&s",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "PUNJABI"
+      ],
+      "country": [],
+      "original_language": "en",
+      "genres": [],
+      "imdb_id": ""
+    },
+    {
+      "id": "s31f4x8mk0z3",
+      "type": "movie",
+      "title": "Lockdown Wedding",
+      "poster": "https://play-lh.googleusercontent.com/1P8BD5wwWpsXENsD1poMHZGke6NspJtBQ14sLkHqhlq4DlC_2NRYx-MIhBLTPXzrDSiJOJBPLmbl-o3F8Po",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "en",
+      "genres": [],
+      "imdb_id": ""
+    },
+    {
+      "id": "tt12531976",
+      "type": "movie",
+      "title": "Mafia - Game for Life",
+      "poster": "https://akamaividz2.zee5.com/image/upload/w_336,h_504,c_scale,f_webp,q_auto:eco/resources/0-0-1z5790150/portrait/1920x770439f2a7462e348c7aef35d253d26175d6e41b5e6ca024f638766da39229d181e82b4fdc9e20f4f1e9c890b2c5bdcbf13.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "en",
+      "genres": [],
+      "imdb_id": ""
+    },
+    {
+      "id": "tt23321482",
+      "type": "movie",
+      "title": "Baghi Di Dhee",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfk095Am9zwiv11HDvX8a6uyGP2hywSYmZeQ&s",
+      "year": "2022",
+      "result": "HD",
+      "language": [
+        "PUNJABI"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt23321482"
+    },
+    {
       "id": "tt26773513",
       "type": "movie",
       "title": "Mining - Reyte te Kabzaa",
@@ -3647,6 +3734,21 @@
       "imdb_id": ""
     },
     {
+      "id": "tt38164921",
+      "type": "movie",
+      "title": "India Pride Imli - The Archer",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHWlE2M8Vp7axEkfdctHSwsHMxuiHvgNxPuA&s",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "CAM RESULT"
+      ],
+      "country": [],
+      "original_language": "en",
+      "genres": [],
+      "imdb_id": ""
+    },
+    {
       "id": "tt39380066",
       "type": "movie",
       "title": "Gamer",
@@ -3677,6 +3779,21 @@
       "imdb_id": ""
     },
     {
+      "id": "tt42194096",
+      "type": "movie",
+      "title": "Online Pyaar",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjVmMDU0Y2EtZjkzMi00ZTQ3LWExODgtYTRiOGYyZjIzMTkwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "en",
+      "genres": [],
+      "imdb_id": ""
+    },
+    {
       "id": "tt9430578",
       "type": "movie",
       "title": "Rocky",
@@ -3690,6 +3807,21 @@
       "original_language": "mr",
       "genres": [],
       "imdb_id": "tt9430578"
+    },
+    {
+      "id": "vz57wiu5bdye",
+      "type": "movie",
+      "title": "Laarha Faraar",
+      "poster": "https://tomindia.s3.ap-south-1.amazonaws.com/prod/post/ogImage/1757678380071_c136e0ccf0a24d8eb66bc01b96f4966d_Laarha-Faraar-punjabimovies-2025-tomorrowsindia.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "PUNJABI"
+      ],
+      "country": [],
+      "original_language": "en",
+      "genres": [],
+      "imdb_id": ""
     },
     {
       "id": "0FBG4QXMDNZHQ39OYZ6H4YBQFW",
@@ -5514,6 +5646,27 @@
       "total_uploaded_episodes": 1
     },
     {
+      "id": "281540",
+      "type": "tv",
+      "title": "Ek Farzi Love Story",
+      "poster": "https://image.tmdb.org/t/p/w342/gSw0C30olqEClgZNa5UYR89Lrq3.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt35310553",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 2
+    },
+    {
       "id": "282171",
       "type": "tv",
       "title": "Griha Laxmi",
@@ -5928,6 +6081,28 @@
       "imdb_id": "tt36838547",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 10
+    },
+    {
+      "id": "290374",
+      "type": "tv",
+      "title": "Black, White & Gray - Love Kills",
+      "poster": "https://image.tmdb.org/t/p/w342/6PXpJDC6wRhD6H8OCGPjSLpaXoZ.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": "tt35822727",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 1
     },
     {
       "id": "290802",
@@ -6612,6 +6787,27 @@
       "imdb_id": "tt39601175",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 10
+    },
+    {
+      "id": "313956",
+      "type": "tv",
+      "title": "Dil Dhokha Aur Desire",
+      "poster": "https://image.tmdb.org/t/p/w342/rKpQmijH1afO8QdeeR3efiFiN7a.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt39779938",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 1
     },
     {
       "id": "315036",
@@ -7643,6 +7839,23 @@
       "total_uploaded_episodes": 6
     },
     {
+      "id": "lhifp4987",
+      "type": "tv",
+      "title": "The Trap",
+      "poster": "https://i.ytimg.com/vi/ED3VIXcwjm4/maxresdefault.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "en",
+      "genres": [],
+      "imdb_id": "",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 1
+    },
+    {
       "id": "tt10052928",
       "type": "tv",
       "title": "BLACKFOX: Age of the Ninja",
@@ -7711,6 +7924,23 @@
       "total_uploaded_episodes": 1
     },
     {
+      "id": "tt40385146",
+      "type": "tv",
+      "title": "Dil Dhokha Aur Desire",
+      "poster": "https://i.ibb.co/8TZ3VJ7/bloody-babu-hindi-dubbed-2025.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "en",
+      "genres": [],
+      "imdb_id": "",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 1
+    },
+    {
       "id": "tt8160178",
       "type": "tv",
       "title": "Lawless Lawyer",
@@ -7726,6 +7956,40 @@
       "imdb_id": "",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 16
+    },
+    {
+      "id": "wf73s1omj3cq",
+      "type": "tv",
+      "title": "Anyaa",
+      "poster": "https://dttwujf0m9qv6.cloudfront.net/POSTER/yelrp3xzbsf_PORTRAIT_HD.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "en",
+      "genres": [],
+      "imdb_id": "",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 1
+    },
+    {
+      "id": "yr6sukeuw9v6",
+      "type": "tv",
+      "title": "Jal Sazi",
+      "poster": "https://xstreamcp-assets-msp.streamready.in/assets/CHAUPAL/SERIES/697cab5d87edfa796630c5c5/images/SQUARE/tvshows-square-with-logo-11-835wxixsgng.jpeg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "PUNJABI"
+      ],
+      "country": [],
+      "original_language": "en",
+      "genres": [],
+      "imdb_id": "",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 1
     },
     {
       "id": "0TYLI7RYYWO1AQTX446IEOFIX3",
@@ -12951,6 +13215,26 @@
       "imdb_id": "tt32627540"
     },
     {
+      "id": "1156202",
+      "type": "movie",
+      "title": "Stolen",
+      "poster": "https://image.tmdb.org/t/p/w342/xR5Endhjm4soY6fPgXY0jrpDZvL.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": "tt28494851"
+    },
+    {
       "id": "1156593",
       "type": "movie",
       "title": "Your Fault",
@@ -15448,6 +15732,25 @@
         "Drama"
       ],
       "imdb_id": "tt32491690"
+    },
+    {
+      "id": "12259",
+      "type": "movie",
+      "title": "Sholay: The Final Cut",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMmRkN2I4MGUtYjAwMC00NjNjLWIxNWItYTMzZWViNDc0NDVhXkEyXkFqcGc@._V1_.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "CAM RESULT"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Action"
+      ],
+      "imdb_id": "tt0073707"
     },
     {
       "id": "1226354",
@@ -22706,6 +23009,25 @@
       "imdb_id": "tt34435532"
     },
     {
+      "id": "1422575",
+      "type": "movie",
+      "title": "Gurmukh",
+      "poster": "https://image.tmdb.org/t/p/w342/jLaycshCtw5RSRGErVHfpi3a7rp.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "PUNJABI"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "pa",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt11493600"
+    },
+    {
       "id": "1423251",
       "type": "movie",
       "title": "Biker",
@@ -22910,6 +23232,21 @@
         "Drama"
       ],
       "imdb_id": "tt37049996"
+    },
+    {
+      "id": "1427943",
+      "type": "movie",
+      "title": "Hasrat (An Uncommon Love Story)",
+      "poster": "https://image.tmdb.org/t/p/w342/saPuClJqmOvzDcDJrCuVHMUiqhn.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "PUNJABI"
+      ],
+      "country": [],
+      "original_language": "pa",
+      "genres": [],
+      "imdb_id": "tt35335552"
     },
     {
       "id": "1428213",
@@ -23617,6 +23954,25 @@
       "imdb_id": "tt34896026"
     },
     {
+      "id": "1446585",
+      "type": "movie",
+      "title": "Fikar Karo-Na",
+      "poster": "https://image.tmdb.org/t/p/w342/tGNZhc67OzMNVrsbyJAqwmYD4aq.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "PUNJABI"
+      ],
+      "country": [],
+      "original_language": "pa",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "imdb_id": "tt18286468"
+    },
+    {
       "id": "1446616",
       "type": "movie",
       "title": "Tu Yaa Main",
@@ -23888,6 +24244,25 @@
       "imdb_id": "tt35887869"
     },
     {
+      "id": "1455440",
+      "type": "movie",
+      "title": "Ajey: The Untold Story of a Yogi",
+      "poster": "https://image.tmdb.org/t/p/w342/dW4rKpAMTYSw9YvBrTX2FaKIQpv.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "CAM RESULT"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt36376123"
+    },
+    {
       "id": "1456459",
       "type": "movie",
       "title": "Leg Piece",
@@ -23904,6 +24279,24 @@
         "Drama"
       ],
       "imdb_id": "tt35769446"
+    },
+    {
+      "id": "1457238",
+      "type": "movie",
+      "title": "Taron Paar",
+      "poster": "https://image.tmdb.org/t/p/w342/6wdHCzUgUD9X0znUyyrCAVicmy9.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "PUNJABI"
+      ],
+      "country": [],
+      "original_language": "pa",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": "tt36257781"
     },
     {
       "id": "1457306",

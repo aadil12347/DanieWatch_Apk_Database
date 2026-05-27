@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-27T13:18:29.686Z",
-  "total_posts": 2956,
+  "last_updated": "2026-05-27T17:02:04.623Z",
+  "total_posts": 2978,
   "total_batches": 19,
   "batches": [
     {
@@ -8,8 +8,162 @@
       "date_key": "2026-05-27",
       "date": "May 27, 2026",
       "timestamp": "2026-05-27T13:18:29.686Z",
-      "total_in_batch": 13,
+      "total_in_batch": 35,
       "posts": [
+        {
+          "title": "Ajey: The Untold Story of a Yogi",
+          "tmdb_id": "1455440",
+          "imdb_id": "tt36376123",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Anyaa",
+          "tmdb_id": "wf73s1omj3cq",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Baghi Di Dhee",
+          "tmdb_id": "tt23321482",
+          "imdb_id": "tt23321482",
+          "type": "movie",
+          "year": "2022"
+        },
+        {
+          "title": "Black, White & Gray - Love Kills",
+          "tmdb_id": "290374",
+          "imdb_id": "tt35822727",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Dil Dhokha Aur Desire",
+          "tmdb_id": "313956",
+          "imdb_id": "tt39779938",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Dil Dhokha Aur Desire",
+          "tmdb_id": "tt40385146",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Ek Farzi Love Story",
+          "tmdb_id": "281540",
+          "imdb_id": "tt35310553",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Fikar Karo-Na",
+          "tmdb_id": "1446585",
+          "imdb_id": "tt18286468",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Gurmukh",
+          "tmdb_id": "1422575",
+          "imdb_id": "tt11493600",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Hasrat (An Uncommon Love Story)",
+          "tmdb_id": "1427943",
+          "imdb_id": "tt35335552",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "India Pride Imli - The Archer",
+          "tmdb_id": "tt38164921",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Jal Sazi",
+          "tmdb_id": "yr6sukeuw9v6",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Laarha Faraar",
+          "tmdb_id": "vz57wiu5bdye",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Lockdown Wedding",
+          "tmdb_id": "s31f4x8mk0z3",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Mafia - Game for Life",
+          "tmdb_id": "809787",
+          "imdb_id": "tt13923456",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Mafia - Game for Life",
+          "tmdb_id": "tt12531976",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Online Pyaar",
+          "tmdb_id": "tt42194096",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Sholay: The Final Cut",
+          "tmdb_id": "12259",
+          "imdb_id": "tt0073707",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Stolen",
+          "tmdb_id": "1156202",
+          "imdb_id": "tt28494851",
+          "type": "movie",
+          "year": "2023"
+        },
+        {
+          "title": "Taron Paar",
+          "tmdb_id": "1457238",
+          "imdb_id": "tt36257781",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "The Trap",
+          "tmdb_id": "lhifp4987",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2025"
+        },
+        {
+          "title": "Unknown Title",
+          "tmdb_id": "mkinth3ziql6",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2025"
+        },
         {
           "title": "A Good Girl's Guide to Murder",
           "tmdb_id": "218342",
@@ -101,7 +255,8 @@
           "type": "tv",
           "year": "2026"
         }
-      ]
+      ],
+      "last_modified": "2026-05-27T17:02:04.623Z"
     },
     {
       "batch_id": 18,
