@@ -1,0 +1,29 @@
+{
+  "id": "313956",
+  "type": "tv",
+  "title": "Dil Dhokha Aur Desire",
+  "poster": "https://image.tmdb.org/t/p/w342/rKpQmijH1afO8QdeeR3efiFiN7a.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/AnnucFNhk6aTa2YFDnJ9OKOJC5b.jpg",
+  "year": "2026",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/hOZu0hdmjVmni7dGOCoiUF0EXpJ.jpg",
+          "air_date": "2026-02-12",
+          "runtime": 189,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/x26y7wqn8a72/dil-dhokha-aur-desire-2026-hindi-season-1-complete\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}
