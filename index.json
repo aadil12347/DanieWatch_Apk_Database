@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-27T12:53:51.307Z",
-  "total": 2943,
+  "last_updated": "2026-05-27T13:18:29.615Z",
+  "total": 2956,
   "posts": [
     {
       "id": "0HHVROFDOD9M80V12IHZQ345F2",
@@ -4721,6 +4721,28 @@
       "total_uploaded_episodes": 60
     },
     {
+      "id": "235963",
+      "type": "tv",
+      "title": "Who's Your Gynac",
+      "poster": "https://image.tmdb.org/t/p/w342/vVZRh4ta94udBeoWAm6mzl8q9HT.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt29261298",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 6
+    },
+    {
       "id": "236445",
       "type": "tv",
       "title": "Campus Beats",
@@ -8274,6 +8296,28 @@
         "Comedy"
       ],
       "imdb_id": "tt0087451"
+    },
+    {
+      "id": "1018",
+      "type": "movie",
+      "title": "Mulholland Drive",
+      "poster": "https://image.tmdb.org/t/p/w342/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+      "year": "2001",
+      "result": "HD",
+      "language": [
+        "ENGLISH"
+      ],
+      "country": [
+        "FR",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Mystery"
+      ],
+      "imdb_id": "tt0166924"
     },
     {
       "id": "10192",
@@ -12274,6 +12318,26 @@
         "Crime"
       ],
       "imdb_id": "tt23182472"
+    },
+    {
+      "id": "1134048",
+      "type": "movie",
+      "title": "Marshmallow",
+      "poster": "https://image.tmdb.org/t/p/w342/qZseaOw1BgLkJsfiEmNpS1KhH8d.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "imdb_id": "tt15220066"
     },
     {
       "id": "1137179",
@@ -17567,6 +17631,26 @@
       "imdb_id": "tt1153546"
     },
     {
+      "id": "1268919",
+      "type": "movie",
+      "title": "The Botanist",
+      "poster": "https://image.tmdb.org/t/p/w342/6lBR3uDf0uOHrBmNf4NSaxtkhlX.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "imdb_id": "tt28549378"
+    },
+    {
       "id": "1269024",
       "type": "movie",
       "title": "A Game in the Woods",
@@ -17812,6 +17896,27 @@
         "Drama"
       ],
       "imdb_id": "tt32155665"
+    },
+    {
+      "id": "127711",
+      "type": "movie",
+      "title": "Sueno",
+      "poster": "https://image.tmdb.org/t/p/w342/huJxYV08PB3uxrBNbhE2e5msT4f.jpg",
+      "year": "2005",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "imdb_id": "tt0383648"
     },
     {
       "id": "1277172",
@@ -23937,6 +24042,27 @@
       "imdb_id": "tt1712261"
     },
     {
+      "id": "14620",
+      "type": "movie",
+      "title": "The Butterfly Effect 2",
+      "poster": "https://image.tmdb.org/t/p/w342/g87nPhHf2xfENBV6PCbkO88sthd.jpg",
+      "year": "2006",
+      "result": "HD",
+      "language": [
+        "ENGLISH"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Drama",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "imdb_id": "tt0457297"
+    },
+    {
       "id": "1462245",
       "type": "movie",
       "title": "Saaree",
@@ -28447,6 +28573,28 @@
       "imdb_id": "tt39310158"
     },
     {
+      "id": "16258",
+      "type": "movie",
+      "title": "The Butterfly Effect 3: Revelations",
+      "poster": "https://image.tmdb.org/t/p/w342/7utgDyfae053YExAuUKcwkzUKMs.jpg",
+      "year": "2009",
+      "result": "HD",
+      "language": [
+        "ENGLISH"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Science Fiction",
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "imdb_id": "tt1234541"
+    },
+    {
       "id": "1626312",
       "type": "movie",
       "title": "Paro Pinaki Ki Kahani",
@@ -29616,6 +29764,27 @@
       "imdb_id": "tt0374089"
     },
     {
+      "id": "1954",
+      "type": "movie",
+      "title": "The Butterfly Effect",
+      "poster": "https://image.tmdb.org/t/p/w342/ea5iv7TWMh18fOKoRGgmtcg85Gx.jpg",
+      "year": "2004",
+      "result": "HD",
+      "language": [
+        "English"
+      ],
+      "country": [
+        "CA",
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "imdb_id": "tt0289879"
+    },
+    {
       "id": "19576",
       "type": "movie",
       "title": "One Piece: The Movie",
@@ -30523,6 +30692,26 @@
       "imdb_id": "tt1179034"
     },
     {
+      "id": "26466",
+      "type": "movie",
+      "title": "Triangle",
+      "poster": "https://image.tmdb.org/t/p/w342/cRlMrbc4Iof7vN0ZqHwJnMBYBLi.jpg",
+      "year": "2009",
+      "result": "HD",
+      "language": [
+        "ENGLISH"
+      ],
+      "country": [
+        "AU",
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Horror"
+      ],
+      "imdb_id": "tt1187064"
+    },
+    {
       "id": "265712",
       "type": "movie",
       "title": "Stand by Me Doraemon",
@@ -30566,6 +30755,27 @@
         "Drama"
       ],
       "imdb_id": "tt3697566"
+    },
+    {
+      "id": "26686",
+      "type": "movie",
+      "title": "California Suite",
+      "poster": "https://image.tmdb.org/t/p/w342/2IlgL7m1ByY3RIghbXNGGNvYfEE.jpg",
+      "year": "1978",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": "tt0077289"
     },
     {
       "id": "271110",
@@ -42211,6 +42421,27 @@
       "imdb_id": "tt18671660"
     },
     {
+      "id": "9626",
+      "type": "movie",
+      "title": "Red Sonja",
+      "poster": "https://image.tmdb.org/t/p/w342/83v0W5cCSFsWpI0cAj8DRlihySN.jpg",
+      "year": "1985",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ],
+      "imdb_id": "tt0089893"
+    },
+    {
       "id": "962851",
       "type": "movie",
       "title": "Kaal Trighori",
@@ -48962,6 +49193,29 @@
       "total_uploaded_episodes": 24
     },
     {
+      "id": "218342",
+      "type": "tv",
+      "title": "A Good Girl's Guide to Murder",
+      "poster": "https://image.tmdb.org/t/p/w342/mzkstyDSsTRswCMRvoBD5ULPnIt.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Drama"
+      ],
+      "imdb_id": "tt28118211",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 12
+    },
+    {
       "id": "218539",
       "type": "tv",
       "title": "My Demon",
@@ -49092,6 +49346,29 @@
       "imdb_id": "tt26732402",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 36
+    },
+    {
+      "id": "220102",
+      "type": "tv",
+      "title": "Spider-Noir",
+      "poster": "https://image.tmdb.org/t/p/w342/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Action & Adventure",
+        "Crime",
+        "Mystery"
+      ],
+      "imdb_id": "tt30460310",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 8
     },
     {
       "id": "220344",

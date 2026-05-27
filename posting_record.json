@@ -1,8 +1,108 @@
 {
-  "last_updated": "2026-05-27T12:53:51.390Z",
-  "total_posts": 2943,
-  "total_batches": 18,
+  "last_updated": "2026-05-27T13:18:29.686Z",
+  "total_posts": 2956,
+  "total_batches": 19,
   "batches": [
+    {
+      "batch_id": 19,
+      "date_key": "2026-05-27",
+      "date": "May 27, 2026",
+      "timestamp": "2026-05-27T13:18:29.686Z",
+      "total_in_batch": 13,
+      "posts": [
+        {
+          "title": "A Good Girl's Guide to Murder",
+          "tmdb_id": "218342",
+          "imdb_id": "tt28118211",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "California Suite",
+          "tmdb_id": "26686",
+          "imdb_id": "tt0077289",
+          "type": "movie",
+          "year": "1978"
+        },
+        {
+          "title": "Marshmallow",
+          "tmdb_id": "1134048",
+          "imdb_id": "tt15220066",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Mulholland Drive",
+          "tmdb_id": "1018",
+          "imdb_id": "tt0166924",
+          "type": "movie",
+          "year": "2001"
+        },
+        {
+          "title": "Red Sonja",
+          "tmdb_id": "9626",
+          "imdb_id": "tt0089893",
+          "type": "movie",
+          "year": "1985"
+        },
+        {
+          "title": "Spider-Noir",
+          "tmdb_id": "220102",
+          "imdb_id": "tt30460310",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Sueno",
+          "tmdb_id": "127711",
+          "imdb_id": "tt0383648",
+          "type": "movie",
+          "year": "2005"
+        },
+        {
+          "title": "The Botanist",
+          "tmdb_id": "1268919",
+          "imdb_id": "tt28549378",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "The Butterfly Effect",
+          "tmdb_id": "1954",
+          "imdb_id": "tt0289879",
+          "type": "movie",
+          "year": "2004"
+        },
+        {
+          "title": "The Butterfly Effect 2",
+          "tmdb_id": "14620",
+          "imdb_id": "tt0457297",
+          "type": "movie",
+          "year": "2006"
+        },
+        {
+          "title": "The Butterfly Effect 3: Revelations",
+          "tmdb_id": "16258",
+          "imdb_id": "tt1234541",
+          "type": "movie",
+          "year": "2009"
+        },
+        {
+          "title": "Triangle",
+          "tmdb_id": "26466",
+          "imdb_id": "tt1187064",
+          "type": "movie",
+          "year": "2009"
+        },
+        {
+          "title": "Who's Your Gynac",
+          "tmdb_id": "235963",
+          "imdb_id": "tt29261298",
+          "type": "tv",
+          "year": "2026"
+        }
+      ]
+    },
     {
       "batch_id": 18,
       "date_key": "2026-05-26",
