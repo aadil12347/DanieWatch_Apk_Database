@@ -1,0 +1,84 @@
+{
+  "id": "235963",
+  "type": "tv",
+  "title": "Who's Your Gynac",
+  "poster": "https://image.tmdb.org/t/p/w342/vVZRh4ta94udBeoWAm6mzl8q9HT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/cfjZvVBTax4mR4KWqXwzpiJyd92.jpg",
+  "year": "2023",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/olCRmJpZF6PCJ8ktMugWMu9nzW0.jpg",
+          "air_date": "2023-09-28",
+          "runtime": 108,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/n6f0ky4px0g8/who-s-your-gynac-2023-hindi-season-1-episode-1-to-5\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "Doctorpreneur",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/gJKa3iJzNUFs76GyvIsHe2Stmfz.jpg",
+          "air_date": "2026-05-22",
+          "runtime": 25,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ouhgdyke4mzc/whos-your-gynac-s02e01-doctorpreneur-720p-amzn-web-dl-hindi-ddp5-1-h-264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "name": "Take A Chill On The Pill",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/1EYY9oZVPWrXrweFf8GljMPNNh8.jpg",
+          "air_date": "2026-05-22",
+          "runtime": 25,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/tk6vjgld25b5/whos-your-gynac-s02e02-take-a-chill-on-the-pill-720p-amzn-web-dl-hindi-ddp5-1-h-264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "name": "Lost In Translation",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/46Llm2PPygXW9saqnxuXkfArB5p.jpg",
+          "air_date": "2026-05-22",
+          "runtime": 25,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/cqt75umszerq/whos-your-gynac-s02e03-lost-in-translation-720p-amzn-web-dl-hindi-ddp5-1-h-264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "name": "Hard Calls",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/71pL0ElyACDZ6npqCbxHszBXdiX.jpg",
+          "air_date": "2026-05-22",
+          "runtime": 23,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/5jhg4aaeap1v/whos-your-gynac-s02e04-hard-calls-720p-amzn-web-dl-hindi-ddp5-1-h-264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "name": "It Takes A Village",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/eUGDBXb1Xj8iKcwTQ3VbStjKeft.jpg",
+          "air_date": "2026-05-22",
+          "runtime": 23,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/1ar250ltrs0a/whos-your-gynac-s02e05-it-takes-a-village-720p-amzn-web-dl-hindi-ddp5-1-h-264-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}
