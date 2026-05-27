@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26T13:58:04.472Z",
-  "total_posts": 2950,
+  "last_updated": "2026-05-27T12:53:51.390Z",
+  "total_posts": 2943,
   "total_batches": 18,
   "batches": [
     {
@@ -8,20 +8,13 @@
       "date_key": "2026-05-26",
       "date": "May 26, 2026",
       "timestamp": "2026-05-26T06:28:46.944Z",
-      "total_in_batch": 253,
+      "total_in_batch": 252,
       "posts": [
         {
           "title": "A Family Affair",
           "tmdb_id": "987686",
           "imdb_id": "tt21051906",
           "type": "movie",
-          "year": "2024"
-        },
-        {
-          "title": "A Good Girl's Guide to Murder",
-          "tmdb_id": "218342",
-          "imdb_id": "tt28118211",
-          "type": "tv",
           "year": "2024"
         },
         {

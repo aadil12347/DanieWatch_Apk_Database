@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26T19:40:23.203Z",
-  "total": 2944,
+  "last_updated": "2026-05-27T12:53:51.307Z",
+  "total": 2943,
   "posts": [
     {
       "id": "0HHVROFDOD9M80V12IHZQ345F2",
@@ -4410,29 +4410,6 @@
       "imdb_id": "tt24060452",
       "latest_uploaded_season": 3,
       "total_uploaded_episodes": 3
-    },
-    {
-      "id": "218342",
-      "type": "tv",
-      "title": "A Good Girl's Guide to Murder",
-      "poster": "https://image.tmdb.org/t/p/w342/mzkstyDSsTRswCMRvoBD5ULPnIt.jpg",
-      "year": "2024",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "GB"
-      ],
-      "original_language": "en",
-      "genres": [
-        "Crime",
-        "Mystery",
-        "Drama"
-      ],
-      "imdb_id": "tt28118211",
-      "latest_uploaded_season": 1,
-      "total_uploaded_episodes": 6
     },
     {
       "id": "219080",
