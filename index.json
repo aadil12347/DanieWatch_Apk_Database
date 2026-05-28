@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-28T04:16:36.408Z",
-  "total": 2979,
+  "last_updated": "2026-05-28T04:20:47.775Z",
+  "total": 3078,
   "posts": [
     {
       "id": "0HHVROFDOD9M80V12IHZQ345F2",
@@ -3585,6 +3585,36 @@
       "imdb_id": ""
     },
     {
+      "id": "ahgh34g9hz8d",
+      "type": "movie",
+      "title": "Killer Talkies",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd_uzdx_jKK-WuTNe4by3xjJL0UsBmKal6eQ&s",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "en",
+      "genres": [],
+      "imdb_id": ""
+    },
+    {
+      "id": "cc0dwkcs81wz",
+      "type": "movie",
+      "title": "Gundaygiri",
+      "poster": "https://m.media-amazon.com/images/S/pv-target-images/6dbe35d264aa35496056a5645c64dfa72692ab433551eb0ba3b2faf690989610.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "en",
+      "genres": [],
+      "imdb_id": ""
+    },
+    {
       "id": "mkinth3ziql6",
       "type": "movie",
       "title": "",
@@ -3593,6 +3623,21 @@
       "result": "HD",
       "language": [
         "PUNJABI"
+      ],
+      "country": [],
+      "original_language": "en",
+      "genres": [],
+      "imdb_id": ""
+    },
+    {
+      "id": "mr2o1bskc4oy",
+      "type": "movie",
+      "title": "Kismat Ki Lag Gayi",
+      "poster": "https://dttwujf0m9qv6.cloudfront.net/POSTER/6ybzsaqd96b_PORTRAIT_HD.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
       ],
       "country": [],
       "original_language": "en",
@@ -3628,6 +3673,46 @@
       "original_language": "en",
       "genres": [],
       "imdb_id": ""
+    },
+    {
+      "id": "tt14142772",
+      "type": "movie",
+      "title": "Kaalapatthar",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjRkMGZlNDktMWU2Ni00YjY0LWEwYzMtNTM4OGU5MDcwNWM5XkEyXkFqcGc@._V1_.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "kn",
+      "genres": [],
+      "imdb_id": "tt14142772"
+    },
+    {
+      "id": "tt15437986",
+      "type": "movie",
+      "title": "The Shameless",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGNlZWQ3YTUtZTU2Zi00ZTk3LWJlZGItNjNiZDA3NjgwZDY1XkEyXkFqcGc@._V1_.jpg",
+      "year": "2015",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "FR",
+        "IN",
+        "CH",
+        "TW"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": "tt15437986"
     },
     {
       "id": "tt23321482",
@@ -3689,6 +3774,21 @@
       "imdb_id": "tt27494298"
     },
     {
+      "id": "tt31272285",
+      "type": "movie",
+      "title": "5D",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmZmNWE5OTktNGNlZS00YTFiLWJkMDAtM2Q0NTQyMjAwMDExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "en",
+      "genres": [],
+      "imdb_id": ""
+    },
+    {
       "id": "tt32333949",
       "type": "movie",
       "title": "Ek Anjaan Rishtey Ka Guilt 3",
@@ -3702,6 +3802,21 @@
       "original_language": "en",
       "genres": [],
       "imdb_id": ""
+    },
+    {
+      "id": "tt33240751",
+      "type": "movie",
+      "title": "Rewind",
+      "poster": "https://image.tmdb.org/t/p/original/g5GFIN5ytxkttKO5PIwbGLGzlWe.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "en",
+      "genres": [],
+      "imdb_id": "tt33240751"
     },
     {
       "id": "tt35266868",
@@ -5753,6 +5868,28 @@
       "imdb_id": "tt35465105",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 8
+    },
+    {
+      "id": "284354",
+      "type": "tv",
+      "title": "Pyar Ka Professor",
+      "poster": "https://image.tmdb.org/t/p/w342/iWQILNeiR1scoJpChFeTXrM34Xz.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt35671338",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 1
     },
     {
       "id": "284644",
@@ -8668,6 +8805,27 @@
       "imdb_id": "tt21957774"
     },
     {
+      "id": "1020354",
+      "type": "movie",
+      "title": "Viduthalai: Part II",
+      "poster": "https://image.tmdb.org/t/p/w342/l2LVYzhCuwfPfN80v6lic55DIAc.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
+      "imdb_id": "tt25434834"
+    },
+    {
       "id": "1022074",
       "type": "movie",
       "title": "Maareesan",
@@ -9192,6 +9350,27 @@
         "Crime"
       ],
       "imdb_id": "tt3402138"
+    },
+    {
+      "id": "1035998",
+      "type": "movie",
+      "title": "Zebra",
+      "poster": "https://image.tmdb.org/t/p/w342/rCGgmmMD63pKH7lnmVJ5MMLQfOm.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Crime",
+        "Action",
+        "Thriller"
+      ],
+      "imdb_id": "tt27757690"
     },
     {
       "id": "1036619",
@@ -9765,6 +9944,26 @@
       "imdb_id": "tt27162102"
     },
     {
+      "id": "1054770",
+      "type": "movie",
+      "title": "Boomer Uncle",
+      "poster": "https://image.tmdb.org/t/p/w342/8oTGnxlMzU1QprZnTybTZqoAQs7.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "imdb_id": "tt23857200"
+    },
+    {
       "id": "1057491",
       "type": "movie",
       "title": "Naughty",
@@ -10269,6 +10468,25 @@
       "imdb_id": "tt21398192"
     },
     {
+      "id": "1068344",
+      "type": "movie",
+      "title": "Bheema",
+      "poster": "https://image.tmdb.org/t/p/w342/nv8rsLyTQldLdFdcglMLFkCeZEz.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "kn",
+      "genres": [
+        "Action"
+      ],
+      "imdb_id": "tt26733322"
+    },
+    {
       "id": "1069387",
       "type": "movie",
       "title": "Pedro Páramo",
@@ -10475,6 +10693,26 @@
       "imdb_id": "tt21909366"
     },
     {
+      "id": "1078495",
+      "type": "movie",
+      "title": "Virunnu",
+      "poster": "https://image.tmdb.org/t/p/w342/hr1FeIHdB5NbdRFjYuYO7lAhH6x.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ml",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": ""
+    },
+    {
       "id": "1078600",
       "type": "movie",
       "title": "Marked Men: Rule + Shaw",
@@ -10575,6 +10813,27 @@
       "imdb_id": "tt24060892"
     },
     {
+      "id": "1080808",
+      "type": "movie",
+      "title": "Ishq Vishk Rebound",
+      "poster": "https://image.tmdb.org/t/p/w342/bJ9fGn0t9XO2Mjz1P05OQh76AaI.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt20854856"
+    },
+    {
       "id": "1081208",
       "type": "movie",
       "title": "The Dogs",
@@ -10658,6 +10917,28 @@
         "Thriller"
       ],
       "imdb_id": "tt26625693"
+    },
+    {
+      "id": "1083241",
+      "type": "movie",
+      "title": "Baby John",
+      "poster": "https://image.tmdb.org/t/p/w342/5Oqsh17dq0cIRFPynPNy5elmyxW.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "imdb_id": "tt27757805"
     },
     {
       "id": "1083324",
@@ -11218,6 +11499,27 @@
       "imdb_id": "tt8959084"
     },
     {
+      "id": "1093966",
+      "type": "movie",
+      "title": "Vettaiyan",
+      "poster": "https://image.tmdb.org/t/p/w342/yEEyhQaW7cEb0IDJstoMBmEtPND.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": "tt26936666"
+    },
+    {
       "id": "1093995",
       "type": "movie",
       "title": "Chief of Station",
@@ -11500,6 +11802,25 @@
         "Drama"
       ],
       "imdb_id": "tt27191250"
+    },
+    {
+      "id": "1103593",
+      "type": "movie",
+      "title": "Footage",
+      "poster": "https://image.tmdb.org/t/p/w342/vleGjacXbZzgRJJdSXNpONYSU7n.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ml",
+      "genres": [
+        "Thriller"
+      ],
+      "imdb_id": "tt27219011"
     },
     {
       "id": "1104171",
@@ -12063,6 +12384,27 @@
         "Horror"
       ],
       "imdb_id": "tt27599851"
+    },
+    {
+      "id": "1119067",
+      "type": "movie",
+      "title": "Vithaikkaaran",
+      "poster": "https://image.tmdb.org/t/p/w342/sgKDoOi1xSpyesf4BdhVIfNQGu3.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt26345670"
     },
     {
       "id": "1119377",
@@ -12982,6 +13324,26 @@
       "imdb_id": "tt9104736"
     },
     {
+      "id": "1147058",
+      "type": "movie",
+      "title": "MAX",
+      "poster": "https://image.tmdb.org/t/p/w342/wrkPOgbJpqCRqY0Z8cbltxLGwzl.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "kn",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "imdb_id": "tt27853611"
+    },
+    {
       "id": "1147546",
       "type": "movie",
       "title": "The Diplomat",
@@ -13071,6 +13433,45 @@
       "imdb_id": "tt28857853"
     },
     {
+      "id": "1150401",
+      "type": "movie",
+      "title": "Kalvan",
+      "poster": "https://image.tmdb.org/t/p/w342/bI0jXFPXszHjp6AB6DRVzGcQVGz.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt25813550"
+    },
+    {
+      "id": "1150478",
+      "type": "movie",
+      "title": "Eagle",
+      "poster": "https://image.tmdb.org/t/p/w342/mjQN27x0Dfkmsi3SRRkAIatOr2p.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "imdb_id": "tt28074691"
+    },
+    {
       "id": "1150622",
       "type": "movie",
       "title": "Extra Ordinary Man",
@@ -13089,6 +13490,27 @@
         "Drama"
       ],
       "imdb_id": "tt23846664"
+    },
+    {
+      "id": "1151612",
+      "type": "movie",
+      "title": "Kadha Innuvare",
+      "poster": "https://image.tmdb.org/t/p/w342/rva44wdp5NsJwL6QY9U6U2nNSfr.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ml",
+      "genres": [
+        "Family",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": "tt28372186"
     },
     {
       "id": "1151766",
@@ -13690,6 +14112,26 @@
       "imdb_id": "tt29260436"
     },
     {
+      "id": "1171732",
+      "type": "movie",
+      "title": "Tiragabadara Saami",
+      "poster": "https://image.tmdb.org/t/p/w342/sA5YAHQPaZQo0Ll7fC1q63SKKsN.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Action",
+        "Romance"
+      ],
+      "imdb_id": "tt23875402"
+    },
+    {
       "id": "11718",
       "type": "movie",
       "title": "Who's Harry Crumb?",
@@ -13731,6 +14173,28 @@
         "Thriller"
       ],
       "imdb_id": "tt29571399"
+    },
+    {
+      "id": "1172241",
+      "type": "movie",
+      "title": "Pepe",
+      "poster": "https://image.tmdb.org/t/p/w342/kp48PDp0fdsBPYLXJ6VUiYBzJfV.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "DO",
+        "FR",
+        "DE",
+        "NA"
+      ],
+      "original_language": "es",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt10781034"
     },
     {
       "id": "1172648",
@@ -13898,6 +14362,26 @@
         "Thriller"
       ],
       "imdb_id": "tt28763074"
+    },
+    {
+      "id": "1177623",
+      "type": "movie",
+      "title": "Rifle Club",
+      "poster": "https://image.tmdb.org/t/p/w342/k1czxgmnH63A7old7hL4oNzqYMw.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ml",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "imdb_id": "tt31188121"
     },
     {
       "id": "1179085",
@@ -14229,6 +14713,27 @@
       "imdb_id": "tt28131433"
     },
     {
+      "id": "1186350",
+      "type": "movie",
+      "title": "Marco",
+      "poster": "https://image.tmdb.org/t/p/w342/il3ao5gcF6fZNqo1o9o7lusmEyU.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ml",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": "tt29383379"
+    },
+    {
       "id": "1186532",
       "type": "movie",
       "title": "The Forge",
@@ -14457,6 +14962,26 @@
         "Fantasy"
       ],
       "imdb_id": "tt29567402"
+    },
+    {
+      "id": "1194788",
+      "type": "movie",
+      "title": "Pani",
+      "poster": "https://image.tmdb.org/t/p/w342/1JQpkfOIrIXhTTbTmzryVX3GZZK.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ml",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "imdb_id": "tt29461220"
     },
     {
       "id": "1194963",
@@ -14929,6 +15454,26 @@
         "Comedy"
       ],
       "imdb_id": "tt30460421"
+    },
+    {
+      "id": "1210466",
+      "type": "movie",
+      "title": "Razakar: The Silent Genocide of Hyderabad",
+      "poster": "https://image.tmdb.org/t/p/w342/ieplpESS4twYnlRTXZTyFxBzpi9.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "imdb_id": "tt29224742"
     },
     {
       "id": "1210794",
@@ -15712,6 +16257,27 @@
       "imdb_id": "tt31844586"
     },
     {
+      "id": "1224364",
+      "type": "movie",
+      "title": "Shivrayancha Chhava",
+      "poster": "https://image.tmdb.org/t/p/w342/6sQzGwxf3FoJMgmUdBTEjHsctJJ.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "mr",
+      "genres": [
+        "History",
+        "Drama",
+        "Action"
+      ],
+      "imdb_id": "tt30497782"
+    },
+    {
       "id": "1224993",
       "type": "movie",
       "title": "Dark Nuns",
@@ -15732,6 +16298,23 @@
         "Drama"
       ],
       "imdb_id": "tt32491690"
+    },
+    {
+      "id": "1225458",
+      "type": "movie",
+      "title": "Sevappi",
+      "poster": "https://image.tmdb.org/t/p/w342/kDdiOgmMXmnjH8zwisJTpAzK6ho.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "ta",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt30828158"
     },
     {
       "id": "12259",
@@ -15772,6 +16355,27 @@
         "Comedy"
       ],
       "imdb_id": "tt33996113"
+    },
+    {
+      "id": "1226572",
+      "type": "movie",
+      "title": "Superboys of Malegaon",
+      "poster": "https://image.tmdb.org/t/p/w342/kLMLaZa0Mu4BqPhA2eYbduFjcD0.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": "tt28007064"
     },
     {
       "id": "1226578",
@@ -16046,6 +16650,27 @@
         "Romance"
       ],
       "imdb_id": "tt21236048"
+    },
+    {
+      "id": "1232219",
+      "type": "movie",
+      "title": "Mr Bachchan",
+      "poster": "https://image.tmdb.org/t/p/w342/55TWpe9GvJEx2dq8fWoroIbJRvI.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Action",
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": "tt28282872"
     },
     {
       "id": "1232232",
@@ -16384,6 +17009,27 @@
       "imdb_id": "tt6540996"
     },
     {
+      "id": "1238603",
+      "type": "movie",
+      "title": "Bhamakalapam 2",
+      "poster": "https://image.tmdb.org/t/p/w342/9RLR4ox1yastJ1x74m8koUZBInt.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Comedy"
+      ],
+      "imdb_id": "tt28755712"
+    },
+    {
       "id": "1239121",
       "type": "movie",
       "title": "Secret Lives of Orangutans",
@@ -16462,6 +17108,25 @@
         "Romance"
       ],
       "imdb_id": "tt31116965"
+    },
+    {
+      "id": "1239576",
+      "type": "movie",
+      "title": "E-Mail",
+      "poster": "https://image.tmdb.org/t/p/w342/gTqW5D4qyPkKL6qFzA1gWsPyff3.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Action"
+      ],
+      "imdb_id": "tt31149938"
     },
     {
       "id": "1239655",
@@ -16626,6 +17291,26 @@
         "Drama"
       ],
       "imdb_id": "tt29768334"
+    },
+    {
+      "id": "1242191",
+      "type": "movie",
+      "title": "Chaari 111",
+      "poster": "https://image.tmdb.org/t/p/w342/xM5jJxwAr01MFqV8nMbVUCgZZfG.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "imdb_id": "tt29996716"
     },
     {
       "id": "1242384",
@@ -17094,6 +17779,46 @@
       "imdb_id": "tt30742355"
     },
     {
+      "id": "1248457",
+      "type": "movie",
+      "title": "OutHouse",
+      "poster": "https://image.tmdb.org/t/p/w342/thZAl6v5rZGXIwrQcypwMoM5v49.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": "tt34869601"
+    },
+    {
+      "id": "1248487",
+      "type": "movie",
+      "title": "Om Bheem Bush",
+      "poster": "https://image.tmdb.org/t/p/w342/x1dtomYuwo0vkeXyu6GY1OSxO7L.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "imdb_id": "tt31435642"
+    },
+    {
       "id": "1248753",
       "type": "movie",
       "title": "Amber Alert",
@@ -17358,6 +18083,46 @@
       "imdb_id": "tt11668530"
     },
     {
+      "id": "1252457",
+      "type": "movie",
+      "title": "Vijay 69",
+      "poster": "https://image.tmdb.org/t/p/w342/tSQzRaYyKEjM8gEyhqayU4rhbdU.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt27671792"
+    },
+    {
+      "id": "1252542",
+      "type": "movie",
+      "title": "Swag",
+      "poster": "https://image.tmdb.org/t/p/w342/59j909O4PVE7vZxFU0JzuDzLuo7.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "imdb_id": "tt28351127"
+    },
+    {
       "id": "1254590",
       "type": "movie",
       "title": "Kalamkaval",
@@ -17560,6 +18325,24 @@
         "Fantasy"
       ],
       "imdb_id": "tt8142672"
+    },
+    {
+      "id": "1260448",
+      "type": "movie",
+      "title": "Kerebete",
+      "poster": "https://image.tmdb.org/t/p/w342/poOgDC53Q2pqiUfxjseKnTuqbfu.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "kn",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "imdb_id": "tt29626195"
     },
     {
       "id": "1260916",
@@ -18199,6 +18982,26 @@
         "Drama"
       ],
       "imdb_id": "tt32155665"
+    },
+    {
+      "id": "1276778",
+      "type": "movie",
+      "title": "Jhamkudi",
+      "poster": "https://image.tmdb.org/t/p/w342/WV1qNsQFUKdP4bdUIyWkUVAV8W.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "gu",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "imdb_id": "tt32151957"
     },
     {
       "id": "127711",
@@ -19157,6 +19960,27 @@
       "imdb_id": "tt32278140"
     },
     {
+      "id": "1298116",
+      "type": "movie",
+      "title": "Hit List",
+      "poster": "https://image.tmdb.org/t/p/w342/vkuvf6tx5cyJbW2t4WnfY80cPXp.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": "tt27730067"
+    },
+    {
       "id": "1299652",
       "type": "movie",
       "title": "Watchmen: Chapter II",
@@ -19241,6 +20065,26 @@
       "imdb_id": "tt0960890"
     },
     {
+      "id": "1302212",
+      "type": "movie",
+      "title": "Rakshana",
+      "poster": "https://image.tmdb.org/t/p/w342/xLlByx2Yn6maBjEVbOHPlwBMiMK.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": "tt32423978"
+    },
+    {
       "id": "1302585",
       "type": "movie",
       "title": "Love Mouli",
@@ -19299,6 +20143,44 @@
         "Mystery"
       ],
       "imdb_id": "tt32612507"
+    },
+    {
+      "id": "1304474",
+      "type": "movie",
+      "title": "Music Shop Murthy",
+      "poster": "https://image.tmdb.org/t/p/w342/rBWdVurS2VxXisCWEVNPCPVHnHG.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "te",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": "tt32189369"
+    },
+    {
+      "id": "1305009",
+      "type": "movie",
+      "title": "Kotee",
+      "poster": "https://image.tmdb.org/t/p/w342/LSy90qkpgs336Cxc7jovvSqsIo.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "kn",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": "tt27494630"
     },
     {
       "id": "1305016",
@@ -19400,6 +20282,25 @@
       "imdb_id": "tt32389619"
     },
     {
+      "id": "1306961",
+      "type": "movie",
+      "title": "Aho Vikramaarka!",
+      "poster": "https://image.tmdb.org/t/p/w342/8BO1QGOsRGdYJ2ASzKbpXyUd2ua.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Action"
+      ],
+      "imdb_id": "tt21938826"
+    },
+    {
       "id": "1308757",
       "type": "movie",
       "title": "Dead Sea",
@@ -19438,6 +20339,21 @@
         "Horror"
       ],
       "imdb_id": "tt32639175"
+    },
+    {
+      "id": "1309913",
+      "type": "movie",
+      "title": "Jog 101",
+      "poster": "https://image.tmdb.org/t/p/w342/533eRykaSaBX7g1YJFkpryUzQiL.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "kn",
+      "genres": [],
+      "imdb_id": "tt28938866"
     },
     {
       "id": "1310779",
@@ -19941,6 +20857,64 @@
       "imdb_id": "tt27736430"
     },
     {
+      "id": "1321718",
+      "type": "movie",
+      "title": "Purushothamudu",
+      "poster": "https://image.tmdb.org/t/p/w342/axtUeYtmVF14hPeQrZHx5PJGjMl.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "te",
+      "genres": [
+        "Family",
+        "Action",
+        "Romance"
+      ],
+      "imdb_id": "tt32308382"
+    },
+    {
+      "id": "1321821",
+      "type": "movie",
+      "title": "Pechi",
+      "poster": "https://image.tmdb.org/t/p/w342/6Pla6xHgD0kep7S9z6KfXzi6B4l.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Horror"
+      ],
+      "imdb_id": "tt33034505"
+    },
+    {
+      "id": "1321835",
+      "type": "movie",
+      "title": "Park",
+      "poster": "https://image.tmdb.org/t/p/w342/iKXvvz1P6fyZdHTJwISmkRFbmNC.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "imdb_id": "tt33041909"
+    },
+    {
       "id": "1321937",
       "type": "movie",
       "title": "Chal Zindagi",
@@ -19977,6 +20951,28 @@
         "Crime"
       ],
       "imdb_id": "tt33089386"
+    },
+    {
+      "id": "1323267",
+      "type": "movie",
+      "title": "Sorgavaasal",
+      "poster": "https://image.tmdb.org/t/p/w342/9poph8OdbAo2XUy9dJZpZGtOI6W.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "imdb_id": "tt27179695"
     },
     {
       "id": "1323475",
@@ -20019,6 +21015,25 @@
         "Comedy"
       ],
       "imdb_id": "tt33029024"
+    },
+    {
+      "id": "1324173",
+      "type": "movie",
+      "title": "Shivam Bhaje",
+      "poster": "https://image.tmdb.org/t/p/w342/gmmXxCKT4E24PMfnMGRm7xPNuc7.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "te",
+      "genres": [
+        "Action",
+        "Mystery",
+        "Thriller"
+      ],
+      "imdb_id": "tt31711525"
     },
     {
       "id": "1324947",
@@ -20427,6 +21442,26 @@
       "imdb_id": "tt33183872"
     },
     {
+      "id": "1335741",
+      "type": "movie",
+      "title": "Adharma Kadhaigal",
+      "poster": "https://image.tmdb.org/t/p/w342/7fWjMAffZhe2b8ecDkFwbQpkuKw.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "imdb_id": "tt33075455"
+    },
+    {
       "id": "1336283",
       "type": "movie",
       "title": "Tara And Akash: Love Beyond Realms",
@@ -20529,6 +21564,26 @@
       "imdb_id": "tt33242025"
     },
     {
+      "id": "1338721",
+      "type": "movie",
+      "title": "Ardaas Sarbat De Bhale Di",
+      "poster": "https://image.tmdb.org/t/p/w342/ns9fR4y3mY9kHPyWyJmxlboq3Bi.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "pa",
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": "tt16867396"
+    },
+    {
       "id": "1339055",
       "type": "movie",
       "title": "Ronth",
@@ -20589,6 +21644,48 @@
         "Drama"
       ],
       "imdb_id": "tt33307516"
+    },
+    {
+      "id": "1339975",
+      "type": "movie",
+      "title": "Gandhi 3",
+      "poster": "https://image.tmdb.org/t/p/w342/bDKqB6eR1WHXHMWvgSufJ9BCQNU.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "PUNJABI"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "pa",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "imdb_id": "tt32868294"
+    },
+    {
+      "id": "1341476",
+      "type": "movie",
+      "title": "Binny and Family",
+      "poster": "https://image.tmdb.org/t/p/w342/lXmsRFM9Ih6yLu0jsxarTyAfWH3.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN",
+        "GB"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "imdb_id": "tt20452454"
     },
     {
       "id": "1341538",
@@ -20713,6 +21810,26 @@
       "imdb_id": "tt33335602"
     },
     {
+      "id": "1353436",
+      "type": "movie",
+      "title": "KA",
+      "poster": "https://image.tmdb.org/t/p/w342/4Gj7cWuKmWXu1CxwtrzclBlnlm8.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "imdb_id": "tt32887285"
+    },
+    {
       "id": "1354069",
       "type": "movie",
       "title": "Sarangapani Jathakam",
@@ -20730,6 +21847,23 @@
         "Romance"
       ],
       "imdb_id": "tt32327480"
+    },
+    {
+      "id": "1355445",
+      "type": "movie",
+      "title": "Balu Gani Talkies",
+      "poster": "https://image.tmdb.org/t/p/w342/gYzUDI29vEegFWPpqn6s4OfuflS.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "te",
+      "genres": [
+        "Thriller"
+      ],
+      "imdb_id": "tt27479184"
     },
     {
       "id": "1355666",
@@ -20773,6 +21907,26 @@
       "imdb_id": "tt27866781"
     },
     {
+      "id": "1356796",
+      "type": "movie",
+      "title": "Gumasthan",
+      "poster": "https://image.tmdb.org/t/p/w342/qa3YyhlnFyAg1z65AtPiCOV2Z0C.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ml",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": "tt29608092"
+    },
+    {
       "id": "1357414",
       "type": "movie",
       "title": "Maa Nanna Superhero",
@@ -20790,6 +21944,23 @@
         "Drama"
       ],
       "imdb_id": "tt28115572"
+    },
+    {
+      "id": "1357662",
+      "type": "movie",
+      "title": "Janaka Aithe Ganaka",
+      "poster": "https://image.tmdb.org/t/p/w342/aAMn1DhI9lRlKNoLrLMTh3kU6iB.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "te",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt32843331"
     },
     {
       "id": "1359153",
@@ -20947,6 +22118,25 @@
         "Crime"
       ],
       "imdb_id": "tt31137117"
+    },
+    {
+      "id": "1363622",
+      "type": "movie",
+      "title": "Tabaah",
+      "poster": "https://image.tmdb.org/t/p/w342/wHW4O5eJ7j0hSEZSHEPewkMuP99.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "PUNJABI"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "pa",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt33674620"
     },
     {
       "id": "1364608",
@@ -21134,6 +22324,25 @@
       "imdb_id": "tt33040390"
     },
     {
+      "id": "1369080",
+      "type": "movie",
+      "title": "Mittran Da Challeya Truck Ni",
+      "poster": "https://image.tmdb.org/t/p/w342/atc9JqQkvDn2GFqmOtIMeUD2NIU.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "pa",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt33395924"
+    },
+    {
       "id": "1369679",
       "type": "movie",
       "title": "Get Fast",
@@ -21193,6 +22402,25 @@
         "Drama"
       ],
       "imdb_id": "tt34498111"
+    },
+    {
+      "id": "1371030",
+      "type": "movie",
+      "title": "Vanvaas",
+      "poster": "https://image.tmdb.org/t/p/w342/rMFHWTeMeBB6xr6eIfoWfsqzito.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt29120307"
     },
     {
       "id": "1371151",
@@ -21278,6 +22506,26 @@
         "Music"
       ],
       "imdb_id": "tt33999453"
+    },
+    {
+      "id": "1372090",
+      "type": "movie",
+      "title": "Love Reddy",
+      "poster": "https://image.tmdb.org/t/p/w342/A6JcxUu70P1ylx77BjoJdq98GSD.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "imdb_id": "tt29491755"
     },
     {
       "id": "137227",
@@ -21473,6 +22721,27 @@
       "imdb_id": "tt34038181"
     },
     {
+      "id": "1379273",
+      "type": "movie",
+      "title": "Sector 17",
+      "poster": "https://image.tmdb.org/t/p/w342/tlJlod9Rps5ZcIXy5knfnreJUde.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "PUNJABI"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "pa",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "imdb_id": "tt33044935"
+    },
+    {
       "id": "1380291",
       "type": "movie",
       "title": "Tom Clancy's Jack Ryan: Ghost War",
@@ -21513,6 +22782,43 @@
         "Thriller"
       ],
       "imdb_id": "tt32135720"
+    },
+    {
+      "id": "1381436",
+      "type": "movie",
+      "title": "Chanchal Haseena",
+      "poster": "https://image.tmdb.org/t/p/w342/gmNomUR5bCI7fQ6rvQo8OKv6CW1.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "hi",
+      "genres": [
+        "Romance"
+      ],
+      "imdb_id": "tt33266114"
+    },
+    {
+      "id": "1381727",
+      "type": "movie",
+      "title": "Operation Raavan",
+      "poster": "https://image.tmdb.org/t/p/w342/4CwSAsz66GjF4nRcCMoKFkazj3p.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": "tt28629230"
     },
     {
       "id": "1382160",
@@ -21633,6 +22939,21 @@
         "Thriller"
       ],
       "imdb_id": "tt13358302"
+    },
+    {
+      "id": "1383695",
+      "type": "movie",
+      "title": "Dhoom Dhaam",
+      "poster": "https://image.tmdb.org/t/p/w342/2feELU5f90AKGpEIpp3O9YSIFfw.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "te",
+      "genres": [],
+      "imdb_id": "tt32546023"
     },
     {
       "id": "1386827",
@@ -21819,6 +23140,27 @@
       "imdb_id": "tt39631179"
     },
     {
+      "id": "1389152",
+      "type": "movie",
+      "title": "Hisaab Barabar",
+      "poster": "https://image.tmdb.org/t/p/w342/zgyRlHt99KiBq7ZxY3tfoFQ5rLJ.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Comedy"
+      ],
+      "imdb_id": "tt27620861"
+    },
+    {
       "id": "1389158",
       "type": "movie",
       "title": "Maa",
@@ -21895,6 +23237,44 @@
         "Drama"
       ],
       "imdb_id": "tt28769460"
+    },
+    {
+      "id": "1390695",
+      "type": "movie",
+      "title": "Devaki Nandana Vasudeva",
+      "poster": "https://image.tmdb.org/t/p/w342/2mXXuHkXfZrMjdCzbo2fo8E3bkn.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Action",
+        "Family",
+        "Romance"
+      ],
+      "imdb_id": "tt26637593"
+    },
+    {
+      "id": "1390957",
+      "type": "movie",
+      "title": "Raduaa Returns",
+      "poster": "https://image.tmdb.org/t/p/w342/8ecsv0KyTBKr3mCrEokqJJMM469.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "pa",
+      "genres": [
+        "Science Fiction"
+      ],
+      "imdb_id": "tt22330520"
     },
     {
       "id": "1391013",
@@ -22034,6 +23414,21 @@
       "imdb_id": "tt34619564"
     },
     {
+      "id": "1395930",
+      "type": "movie",
+      "title": "Bapu Ni Manda Mera",
+      "poster": "https://image.tmdb.org/t/p/w342/3OkzguYJxCaDmLkONJZWS3GQFq8.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "pa",
+      "genres": [],
+      "imdb_id": "tt34139284"
+    },
+    {
       "id": "1396869",
       "type": "movie",
       "title": "Diés Iraé",
@@ -22074,6 +23469,25 @@
       "imdb_id": "tt1233571"
     },
     {
+      "id": "1398967",
+      "type": "movie",
+      "title": "Once Upon a Time in Madras",
+      "poster": "https://image.tmdb.org/t/p/w342/waJePev0h6x1zORqCm4A54rfS8p.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Thriller"
+      ],
+      "imdb_id": "tt32110451"
+    },
+    {
       "id": "1399654",
       "type": "movie",
       "title": "Soothravakyam",
@@ -22092,6 +23506,48 @@
         "Thriller"
       ],
       "imdb_id": "tt34335405"
+    },
+    {
+      "id": "1399754",
+      "type": "movie",
+      "title": "Panjab Files",
+      "poster": "https://image.tmdb.org/t/p/w342/28bCMDJP1ZaEFHVIupy6JLcbX1I.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "PUNJABI"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "pa",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "History"
+      ],
+      "imdb_id": "tt32308591"
+    },
+    {
+      "id": "1399790",
+      "type": "movie",
+      "title": "Bachhala Malli",
+      "poster": "https://image.tmdb.org/t/p/w342/tLLtI62EYtuflXw3IjnyLaUZ2tG.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "imdb_id": "tt27611340"
     },
     {
       "id": "1400782",
@@ -22132,6 +23588,23 @@
         "Comedy"
       ],
       "imdb_id": "tt34992378"
+    },
+    {
+      "id": "1401487",
+      "type": "movie",
+      "title": "Babu",
+      "poster": "https://image.tmdb.org/t/p/w342/cjsf4H3N1pUsBwkQb8m8iN8XOHx.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "mr",
+      "genres": [
+        "Action"
+      ],
+      "imdb_id": "tt15554382"
     },
     {
       "id": "1401542",
@@ -22375,6 +23848,25 @@
         "Science Fiction"
       ],
       "imdb_id": "tt35114460"
+    },
+    {
+      "id": "1406816",
+      "type": "movie",
+      "title": "Srikakulam SherlockHolmes",
+      "poster": "https://image.tmdb.org/t/p/w342/5uFqY6ksaKQVC3DdV1mA5IjMlgr.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Thriller"
+      ],
+      "imdb_id": "tt32495402"
     },
     {
       "id": "1407016",
@@ -23048,6 +24540,27 @@
       "imdb_id": "tt11493600"
     },
     {
+      "id": "1422735",
+      "type": "movie",
+      "title": "Fear",
+      "poster": "https://image.tmdb.org/t/p/w342/9qMCS0PBtbv6wpsp1vee5847aMo.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Drama",
+        "Family",
+        "Thriller"
+      ],
+      "imdb_id": ""
+    },
+    {
       "id": "1423251",
       "type": "movie",
       "title": "Biker",
@@ -23406,6 +24919,25 @@
         "Thriller"
       ],
       "imdb_id": "tt36201830"
+    },
+    {
+      "id": "1431530",
+      "type": "movie",
+      "title": "Woh Kaun Thi",
+      "poster": "https://image.tmdb.org/t/p/w342/vfbr07hKqYothqNYbJdofIxA9R7.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Horror"
+      ],
+      "imdb_id": ""
     },
     {
       "id": "1433545",
@@ -25183,6 +26715,21 @@
       "imdb_id": "tt37172278"
     },
     {
+      "id": "1493423",
+      "type": "movie",
+      "title": "The Lost Girl",
+      "poster": "https://image.tmdb.org/t/p/w342/mPPfEY70sUoUmvGduKOYayCyQje.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "hi",
+      "genres": [],
+      "imdb_id": "tt31612810"
+    },
+    {
       "id": "1494159",
       "type": "movie",
       "title": "Maadeva",
@@ -26093,6 +27640,25 @@
       "imdb_id": "tt33044546"
     },
     {
+      "id": "1525025",
+      "type": "movie",
+      "title": "A Stranger by the Hill",
+      "poster": "https://image.tmdb.org/t/p/w342/1DK8gt7H99ctCPKt57lyoDG5dpe.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Thriller"
+      ],
+      "imdb_id": "tt32606791"
+    },
+    {
       "id": "1525091",
       "type": "movie",
       "title": "All the Empty Rooms",
@@ -26414,6 +27980,24 @@
         "Drama"
       ],
       "imdb_id": "tt36812916"
+    },
+    {
+      "id": "1533182",
+      "type": "movie",
+      "title": "Hanji Kaun",
+      "poster": "https://image.tmdb.org/t/p/w342/dWEYAaH7n1CxcjkjzZT2fQCTvRl.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "PUNJABI"
+      ],
+      "country": [],
+      "original_language": "pa",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "imdb_id": ""
     },
     {
       "id": "1533188",
@@ -36707,6 +38291,28 @@
       "imdb_id": "tt20201212"
     },
     {
+      "id": "627304",
+      "type": "movie",
+      "title": "Barroz: Guardian of Treasures",
+      "poster": "https://image.tmdb.org/t/p/w342/uv0MQn1EYH9qK7bO8jZG0Cu8R4P.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ml",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Thriller"
+      ],
+      "imdb_id": "tt10345546"
+    },
+    {
       "id": "6282",
       "type": "movie",
       "title": "Coyote Ugly",
@@ -40059,6 +41665,26 @@
       "imdb_id": "tt21106646"
     },
     {
+      "id": "831244",
+      "type": "movie",
+      "title": "Paani",
+      "poster": "https://image.tmdb.org/t/p/w342/qR2FY0KoNVktSl3ztawQfkLxKxj.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN",
+        "US"
+      ],
+      "original_language": "mr",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt8484582"
+    },
+    {
       "id": "831815",
       "type": "movie",
       "title": "Saving Bikini Bottom: The Sandy Cheeks Movie",
@@ -40609,6 +42235,28 @@
       "imdb_id": "tt17569526"
     },
     {
+      "id": "857598",
+      "type": "movie",
+      "title": "Pushpa 2 - The Rule",
+      "poster": "https://image.tmdb.org/t/p/w342/bhxZj3y59cK7JtGdV285dhDRaMe.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "imdb_id": "tt16539454"
+    },
+    {
       "id": "858017",
       "type": "movie",
       "title": "I Saw the TV Glow",
@@ -40666,6 +42314,27 @@
         "Drama"
       ],
       "imdb_id": "tt15181360"
+    },
+    {
+      "id": "861451",
+      "type": "movie",
+      "title": "Martin",
+      "poster": "https://image.tmdb.org/t/p/w342/rmCJCFrEwPC0u0Y1smihwDo4Cf1.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "kn",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": "tt15334030"
     },
     {
       "id": "86184",
@@ -41635,6 +43304,25 @@
       "imdb_id": "tt28023902"
     },
     {
+      "id": "922360",
+      "type": "movie",
+      "title": "Nirangal Moondru",
+      "poster": "https://image.tmdb.org/t/p/w342/sGzSgkWpNIXooUaiXRObhKqdtaN.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Thriller"
+      ],
+      "imdb_id": "tt23646278"
+    },
+    {
       "id": "922636",
       "type": "movie",
       "title": "One Not Five Minuttess",
@@ -41675,6 +43363,26 @@
         "Thriller"
       ],
       "imdb_id": "tt20316748"
+    },
+    {
+      "id": "926027",
+      "type": "movie",
+      "title": "Vasco Da Gama",
+      "poster": "https://image.tmdb.org/t/p/w342/qYOdDztFRDumlUObHyv4csKytXT.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Comedy",
+        "Thriller"
+      ],
+      "imdb_id": "tt15380500"
     },
     {
       "id": "926606",
@@ -42143,6 +43851,26 @@
       "imdb_id": "tt5095076"
     },
     {
+      "id": "938890",
+      "type": "movie",
+      "title": "Hunt",
+      "poster": "https://image.tmdb.org/t/p/w342/6QnfT7zunSxKwbQmmT9FoxccwZe.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "imdb_id": "tt21946058"
+    },
+    {
       "id": "939243",
       "type": "movie",
       "title": "Sonic the Hedgehog 3",
@@ -42267,6 +43995,28 @@
         "Horror"
       ],
       "imdb_id": "tt15027550"
+    },
+    {
+      "id": "942386",
+      "type": "movie",
+      "title": "The Smile Man",
+      "poster": "https://image.tmdb.org/t/p/w342/p8J4IroY8tzRrtEckuetnMKLc42.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ],
+      "imdb_id": "tt18305194"
     },
     {
       "id": "942411",
@@ -42493,6 +44243,27 @@
       "imdb_id": "tt18750866"
     },
     {
+      "id": "950075",
+      "type": "movie",
+      "title": "Sookshmadarshini",
+      "poster": "https://image.tmdb.org/t/p/w342/rOZt5FVZC51keFRRUSzWGE5y1Rt.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ml",
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Comedy"
+      ],
+      "imdb_id": "tt32495687"
+    },
+    {
       "id": "9502",
       "type": "movie",
       "title": "Kung Fu Panda",
@@ -42602,6 +44373,26 @@
         "Comedy"
       ],
       "imdb_id": "tt4460800"
+    },
+    {
+      "id": "956704",
+      "type": "movie",
+      "title": "Gam Gam Ganesha",
+      "poster": "https://image.tmdb.org/t/p/w342/mjMJPzneGJzsBqh5XdWHVKififI.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "imdb_id": "tt29041237"
     },
     {
       "id": "957119",
@@ -42832,6 +44623,26 @@
         "Fantasy"
       ],
       "imdb_id": "tt18671660"
+    },
+    {
+      "id": "962108",
+      "type": "movie",
+      "title": "Bhaje Vaayu Vegam",
+      "poster": "https://image.tmdb.org/t/p/w342/7KU5wBjO2ByCFdF9x23sKImMYVD.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "imdb_id": "tt32118013"
     },
     {
       "id": "9626",
@@ -43251,6 +45062,26 @@
       "imdb_id": "tt21201300"
     },
     {
+      "id": "979250",
+      "type": "movie",
+      "title": "Demonte Colony 2",
+      "poster": "https://image.tmdb.org/t/p/w342/lZmH9hea8fstTK49fplSQS0NWUd.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "imdb_id": "tt25151410"
+    },
+    {
       "id": "979806",
       "type": "movie",
       "title": "Shades of Desire",
@@ -43330,6 +45161,26 @@
         "Action"
       ],
       "imdb_id": "tt27487473"
+    },
+    {
+      "id": "984500",
+      "type": "movie",
+      "title": "UI",
+      "poster": "https://image.tmdb.org/t/p/w342/tWoeysV4ro6wn4TE0QgqMuo6Val.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "kn",
+      "genres": [
+        "Thriller",
+        "Fantasy"
+      ],
+      "imdb_id": "tt23875550"
     },
     {
       "id": "985379",
@@ -47074,6 +48925,28 @@
       "imdb_id": "tt30423279",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 8
+    },
+    {
+      "id": "156903",
+      "type": "tv",
+      "title": "Mithya",
+      "poster": "https://image.tmdb.org/t/p/w342/36aeKw3ZzzHZJlXDJ4JIJzEPPfJ.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "imdb_id": "tt17494264",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 12
     },
     {
       "id": "157239",
@@ -54146,6 +56019,27 @@
       "total_uploaded_episodes": 12
     },
     {
+      "id": "251711",
+      "type": "tv",
+      "title": "Adv. Achinta Aich",
+      "poster": "https://image.tmdb.org/t/p/w342/gYRoYjNkRQDilLGubAsZ7l4gl4e.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "bn",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt31975566",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 14
+    },
+    {
       "id": "251883",
       "type": "tv",
       "title": "Thank You, Next",
@@ -54786,6 +56680,28 @@
       "imdb_id": "tt32991344",
       "latest_uploaded_season": 2,
       "total_uploaded_episodes": 13
+    },
+    {
+      "id": "258427",
+      "type": "tv",
+      "title": "Freedom at Midnight",
+      "poster": "https://image.tmdb.org/t/p/w342/gCId3CjVHGePMYtu1pYzhZDXtEc.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama",
+        "War & Politics"
+      ],
+      "imdb_id": "tt28102595",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 14
     },
     {
       "id": "258579",
@@ -55880,6 +57796,28 @@
         "Mystery"
       ],
       "imdb_id": "tt34719392",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 6
+    },
+    {
+      "id": "278073",
+      "type": "tv",
+      "title": "Harikatha: Sambhavami Yuge Yuge",
+      "poster": "https://image.tmdb.org/t/p/w342/bqxMBsuMud8jzt9dktgOG3MH297.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "imdb_id": "tt34733919",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 6
     },
