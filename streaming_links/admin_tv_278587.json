@@ -1,0 +1,29 @@
+{
+  "id": "278587",
+  "type": "tv",
+  "title": "Mohrey",
+  "poster": "https://image.tmdb.org/t/p/w342/dN10HVesglHe0dXpP9NE4sX14uo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/sdSBcvd775oyZGjOStYFgwT8n8w.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/y4Mh6zWSvEPbpBscRbZNy0h3kjn.jpg",
+          "air_date": "2024-12-06",
+          "runtime": 270,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/pm079j04fzxm/mohrey-s01-720p\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

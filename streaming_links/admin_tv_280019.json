@@ -1,0 +1,29 @@
+{
+  "id": "280019",
+  "type": "tv",
+  "title": "Party Till I Die",
+  "poster": "https://image.tmdb.org/t/p/w342/tLIJSsQHfjBupgdklrfZb3kFAUl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/kbIwlPfqI9uILAJjl0sQNci3KpA.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/6ix4vSG3reqEGItbOayr6ZNmXJf.jpg",
+          "air_date": "2024-12-24",
+          "runtime": 133,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/u9qfylmvaruh/party-till-i-die-s01-720p\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

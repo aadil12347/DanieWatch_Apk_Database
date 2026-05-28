@@ -1,0 +1,28 @@
+{
+  "id": "278332",
+  "type": "tv",
+  "title": "Maeri",
+  "poster": "https://image.tmdb.org/t/p/w342/yI5dWf81zPSMgC8w4BPrfDFliRL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/r4kD8bXSx2WxcWKsQZ8xyWFd1H4.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes",
+          "watch": "<iframe src=\"https://bysebuho.com/e/8rew9cj5njuz/maeri-s01-720p-hevc-web-dl-hindi\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>",
+          "overview": "",
+          "still_path": "",
+          "air_date": "",
+          "runtime": 168
+        }
+      ]
+    }
+  ]
+}

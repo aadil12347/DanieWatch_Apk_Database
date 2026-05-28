@@ -1,0 +1,114 @@
+{
+  "id": "96312",
+  "type": "tv",
+  "title": "Cubicles",
+  "poster": "https://image.tmdb.org/t/p/w342/vfjIBMXJK8rmvJ3SrAInlhM7v5e.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/pZsdCRo0gXJoR0EGpRNzzZjiPxj.jpg",
+  "year": "2019",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/lHdPRPKewkkMPRxDa1anzijXggq.jpg",
+          "air_date": "2019-10-12",
+          "runtime": 137,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/f1xjif2u020m/cubicles-2019-720p-hdrip-s01\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/1K2vT8LdwCsXRiJTtcjCBRhkRis.jpg",
+          "air_date": "2022-01-06",
+          "runtime": 162,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ob4ibt8j9hra/cubicles-2022-hindi-season-2\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/xQtsqchcN4dVyhwwctA9k5ENLJS.jpg",
+          "air_date": "2024-01-04",
+          "runtime": 166,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/6kab5bzmhwrb/cubicles-2024-hndi-season-3\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    },
+    {
+      "season_number": 4,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "99.9 Percent",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/fTnNUSySet8tlFT6I6uv2L9wpxJ.jpg",
+          "air_date": "2024-12-19",
+          "runtime": 29,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/j1bscv4pizwc/cubicles-s04e01-hindi-720p-web-dl-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "name": "Compliance",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/pRQTwldi6feEWzPyGLGq03VtR4n.jpg",
+          "air_date": "2024-12-19",
+          "runtime": 24,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/qwf353hplnsi/cubicles-s04e02-hindi-720p-web-dl-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "name": "Firewall",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/ogXEyBUmdJq20dM7iXfiIaDisCG.jpg",
+          "air_date": "2024-12-19",
+          "runtime": 26,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/rh0qqbh4nuk7/cubicles-s04e03-hindi-720p-web-dl-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "name": "Breach",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/jWUQYyvGAlaUUnZV9KNSNv3yyDt.jpg",
+          "air_date": "2024-12-20",
+          "runtime": 30,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/0d66z89lyepu/cubicles-s04e04-hindi-720p-web-dl-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "name": "Restart",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/m08ClC2PYUzj7oHiLzGPJ5qG1j0.jpg",
+          "air_date": "2024-12-20",
+          "runtime": 35,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/e6payqc6vrop/cubicles-s04e05-hindi-720p-web-dl-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

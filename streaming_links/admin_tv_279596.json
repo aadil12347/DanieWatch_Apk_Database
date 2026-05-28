@@ -1,0 +1,29 @@
+{
+  "id": "279596",
+  "type": "tv",
+  "title": "Swipe Crime",
+  "poster": "https://image.tmdb.org/t/p/w342/3jJw0Aop5mr4Ov47bjIuaFrlUsX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/4aL8tcpVKZlJ2QHK2ByYJ9h1klC.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/cEV18kua4wBYkU4d36f4QoIXCXR.jpg",
+          "air_date": "2024-12-20",
+          "runtime": 353,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/pvyggmhczbgj/swipe-crime-s01-2024-hindi-completed-web-series\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}
