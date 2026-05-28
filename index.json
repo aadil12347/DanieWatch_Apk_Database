@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-27T17:02:04.543Z",
-  "total": 2978,
+  "last_updated": "2026-05-28T04:16:36.408Z",
+  "total": 2979,
   "posts": [
     {
       "id": "0HHVROFDOD9M80V12IHZQ345F2",
@@ -8,6 +8,21 @@
       "title": "Meri Pyari Dadi",
       "poster": "https://m.media-amazon.com/images/S/pv-target-images/d50ddfd64fb2a2e590f409562ba69cf0fdbb2d5e812ab3ba82a083fd03bd90e5.png",
       "year": "2025",
+      "result": "HD",
+      "language": [
+        "PUNJABI"
+      ],
+      "country": [],
+      "original_language": "en",
+      "genres": [],
+      "imdb_id": ""
+    },
+    {
+      "id": "0MHLQOHTUQKBC8IDBEYVM03LN8",
+      "type": "movie",
+      "title": "Deor De Viaah Vich Nach Lain De",
+      "poster": "https://m.media-amazon.com/images/S/pv-target-images/5dc69db5b7a0cdd534b7fcef4656937ae8809e7cda33059055f361e61ba164c6.jpg",
+      "year": "2026",
       "result": "HD",
       "language": [
         "PUNJABI"
@@ -34,6 +49,21 @@
         "Thriller"
       ],
       "imdb_id": "tt39302439"
+    },
+    {
+      "id": "0U8W8YVJK5KLOWSHFUS7R3YFLW",
+      "type": "movie",
+      "title": "Jawai No. 3",
+      "poster": "https://m.media-amazon.com/images/S/pv-target-images/96eb3607986fc6d171af95503e703c8d3dbcc4ce247e352dbad1ac260d00056f.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "PUNJABI"
+      ],
+      "country": [],
+      "original_language": "en",
+      "genres": [],
+      "imdb_id": ""
     },
     {
       "id": "1000438",
@@ -3619,6 +3649,25 @@
       "imdb_id": "tt23321482"
     },
     {
+      "id": "tt26773513",
+      "type": "movie",
+      "title": "Mining - Reyte te Kabzaa",
+      "poster": "https://i.ibb.co/zH5pwLqB/Gemini-Generated-Image-pe9s26pe9s26pe9s-1.png",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Punjabi"
+      ],
+      "country": [],
+      "original_language": "pa",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdb_id": "tt26773513"
+    },
+    {
       "id": "tt27494298",
       "type": "movie",
       "title": "Secret",
@@ -3780,6 +3829,23 @@
       "title": "Restarted Fate",
       "poster": "https://i.ibb.co/yn4zhjSK/Screenshot-2026-05-24-110531.png",
       "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "en",
+      "genres": [],
+      "imdb_id": "",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 1
+    },
+    {
+      "id": "0IB3V5BJ2FJ4M0ANZBGDYIWNCO",
+      "type": "tv",
+      "title": "Raat Ka Raag",
+      "poster": "https://m.media-amazon.com/images/S/pv-target-images/2434c35a800ebb9375d33b9aca2f0b0105212cf2e9d4cab731ce4dcaa480a172.jpg",
+      "year": "2026",
       "result": "HD",
       "language": [
         "Hindi"
@@ -6721,6 +6787,27 @@
       "imdb_id": "tt39601175",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 10
+    },
+    {
+      "id": "313956",
+      "type": "tv",
+      "title": "Dil Dhokha Aur Desire",
+      "poster": "https://image.tmdb.org/t/p/w342/rKpQmijH1afO8QdeeR3efiFiN7a.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt39779938",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 1
     },
     {
       "id": "315036",
@@ -22561,6 +22648,26 @@
       "imdb_id": "tt25506052"
     },
     {
+      "id": "1414609",
+      "type": "movie",
+      "title": "Zabt",
+      "poster": "https://image.tmdb.org/t/p/w342/yZ2A7HQxDXRKLifibWDE3BI7f7U.jpg",
+      "year": "2024",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": "tt35305733"
+    },
+    {
       "id": "1415974",
       "type": "movie",
       "title": "Raat Akeli Hai - The Bansal Murders",
@@ -37438,27 +37545,6 @@
         "Action"
       ],
       "imdb_id": "tt11374902"
-    },
-    {
-      "id": "313956",
-      "type": "tv",
-      "title": "Dil Dhokha Aur Desire",
-      "poster": "https://image.tmdb.org/t/p/w342/rKpQmijH1afO8QdeeR3efiFiN7a.jpg",
-      "year": "2026",
-      "result": "HD",
-      "language": [
-        "Hindi"
-      ],
-      "country": [
-        "IN"
-      ],
-      "original_language": "hi",
-      "genres": [
-        "Drama"
-      ],
-      "imdb_id": "tt39779938",
-      "latest_uploaded_season": 1,
-      "total_uploaded_episodes": 1
     },
     {
       "id": "673764",

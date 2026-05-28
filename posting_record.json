@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-05-27T17:02:04.623Z",
-  "total_posts": 2978,
-  "total_batches": 19,
+  "last_updated": "2026-05-28T04:16:36.488Z",
+  "total_posts": 2979,
+  "total_batches": 20,
   "batches": [
+    {
+      "batch_id": 20,
+      "date_key": "2026-05-28",
+      "date": "May 28, 2026",
+      "timestamp": "2026-05-28T04:16:36.488Z",
+      "total_in_batch": 5,
+      "posts": [
+        {
+          "title": "Deor De Viaah Vich Nach Lain De",
+          "tmdb_id": "0MHLQOHTUQKBC8IDBEYVM03LN8",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Jawai No. 3",
+          "tmdb_id": "0U8W8YVJK5KLOWSHFUS7R3YFLW",
+          "imdb_id": "",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Mining - Reyte te Kabzaa",
+          "tmdb_id": "tt26773513",
+          "imdb_id": "tt26773513",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Raat Ka Raag",
+          "tmdb_id": "0IB3V5BJ2FJ4M0ANZBGDYIWNCO",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Zabt",
+          "tmdb_id": "1414609",
+          "imdb_id": "tt35305733",
+          "type": "movie",
+          "year": "2024"
+        }
+      ]
+    },
     {
       "batch_id": 19,
       "date_key": "2026-05-27",
