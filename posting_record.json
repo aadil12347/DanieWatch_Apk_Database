@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-28T04:20:47.853Z",
-  "total_posts": 3078,
+  "last_updated": "2026-05-28T04:23:32.199Z",
+  "total_posts": 3147,
   "total_batches": 20,
   "batches": [
     {
@@ -8,8 +8,491 @@
       "date_key": "2026-05-28",
       "date": "May 28, 2026",
       "timestamp": "2026-05-28T04:16:36.488Z",
-      "total_in_batch": 104,
+      "total_in_batch": 173,
       "posts": [
+        {
+          "title": "A.R.M - Ajayante Randam Moshanam",
+          "tmdb_id": "890138",
+          "imdb_id": "tt11531182",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Agni",
+          "tmdb_id": "1238167",
+          "imdb_id": "tt27930683",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Aindham Vedham",
+          "tmdb_id": "274276",
+          "imdb_id": "tt33983792",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Alanaati Ramachandrudu",
+          "tmdb_id": "1325057",
+          "imdb_id": "tt31939390",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Bagheera",
+          "tmdb_id": "777292",
+          "imdb_id": "tt15380608",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Bardovi",
+          "tmdb_id": "933290",
+          "imdb_id": "tt18079046",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Benaam Rishta",
+          "tmdb_id": "1403696",
+          "imdb_id": "tt34991464",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Bengal 1947",
+          "tmdb_id": "1268119",
+          "imdb_id": "tt31702328",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Bhool Bhulaiyaa 3",
+          "tmdb_id": "980599",
+          "imdb_id": "tt26932223",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Bougainvillea",
+          "tmdb_id": "1177224",
+          "imdb_id": "tt32592802",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Case of Kondana",
+          "tmdb_id": "1230162",
+          "imdb_id": "tt30429449",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Cheta Singh",
+          "tmdb_id": "1164874",
+          "imdb_id": "tt21264776",
+          "type": "movie",
+          "year": "2023"
+        },
+        {
+          "title": "Chidiyan Da Chamba",
+          "tmdb_id": "1186347",
+          "imdb_id": "tt28378248",
+          "type": "movie",
+          "year": "2023"
+        },
+        {
+          "title": "Chilli Chicken",
+          "tmdb_id": "1305602",
+          "imdb_id": "tt28054637",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Criminal or Devil",
+          "tmdb_id": "1377388",
+          "imdb_id": "tt32424592",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Cubicles",
+          "tmdb_id": "96312",
+          "imdb_id": "tt11379698",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Dashmi",
+          "tmdb_id": "1224231",
+          "imdb_id": "tt29298252",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Despatch",
+          "tmdb_id": "1069910",
+          "imdb_id": "tt15260176",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Devil",
+          "tmdb_id": "1167205",
+          "imdb_id": "tt24689612",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Dharmaveer 2",
+          "tmdb_id": "1323046",
+          "imdb_id": "tt28631109",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Do Patti",
+          "tmdb_id": "1148172",
+          "imdb_id": "tt28075881",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Fisaddi",
+          "tmdb_id": "274367",
+          "imdb_id": "tt33984553",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Gaami",
+          "tmdb_id": "886385",
+          "imdb_id": "tt27657791",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Golam",
+          "tmdb_id": "1222140",
+          "imdb_id": "tt29272469",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Haseeno Ka Inteqaam",
+          "tmdb_id": "tt34388085",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Hide N Seek",
+          "tmdb_id": "1355588",
+          "imdb_id": "tt33088719",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Hostel Hudugaru Bekagiddare",
+          "tmdb_id": "1147777",
+          "imdb_id": "tt23770924",
+          "type": "movie",
+          "year": "2023"
+        },
+        {
+          "title": "I Want to Talk",
+          "tmdb_id": "1263031",
+          "imdb_id": "tt27866861",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Jigra",
+          "tmdb_id": "1184889",
+          "imdb_id": "tt26733317",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Kaatera",
+          "tmdb_id": "1212788",
+          "imdb_id": "tt26744208",
+          "type": "movie",
+          "year": "2023"
+        },
+        {
+          "title": "Kalinga",
+          "tmdb_id": "1352962",
+          "imdb_id": "tt32880190",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Karate Girls",
+          "tmdb_id": "279370",
+          "imdb_id": "tt34958392",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Karungaapiyam",
+          "tmdb_id": "1090518",
+          "imdb_id": "tt18934038",
+          "type": "movie",
+          "year": "2023"
+        },
+        {
+          "title": "Khoj - Parchaiyo Ke Uss Paar",
+          "tmdb_id": "280566",
+          "imdb_id": "tt35049431",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Khwaabon Ka Jhamela",
+          "tmdb_id": "1059268",
+          "imdb_id": "tt21159080",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Krispy Rishtey",
+          "tmdb_id": "1363915",
+          "imdb_id": "tt33333953",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Lubber Pandhu",
+          "tmdb_id": "1097000",
+          "imdb_id": "tt27007466",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Maeri",
+          "tmdb_id": "278332",
+          "imdb_id": "tt34792559",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Marigold",
+          "tmdb_id": "1270473",
+          "imdb_id": "tt15722720",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Mazhai Pidikatha Manithan",
+          "tmdb_id": "896954",
+          "imdb_id": "tt27413174",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Meiyazhagan",
+          "tmdb_id": "1136423",
+          "imdb_id": "tt26758372",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Mohrey",
+          "tmdb_id": "278587",
+          "imdb_id": "tt34861364",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Mura",
+          "tmdb_id": "1228693",
+          "imdb_id": "tt33294237",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "My Dear Donga",
+          "tmdb_id": "1254518",
+          "imdb_id": "tt31592847",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Ni Main Sass Kuttni 2",
+          "tmdb_id": "1243093",
+          "imdb_id": "tt29456689",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Party Till I Die",
+          "tmdb_id": "280019",
+          "imdb_id": "tt35071597",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Poultry Farm Chelladurai",
+          "tmdb_id": "1358582",
+          "imdb_id": "tt30764809",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Pyramid Scheme Ya Scam",
+          "tmdb_id": "tt35080787",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Qalb",
+          "tmdb_id": "967353",
+          "imdb_id": "tt11281192",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "RAM: Rapid Action Mission",
+          "tmdb_id": "1266678",
+          "imdb_id": "tt30850798",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Romeo",
+          "tmdb_id": "1238258",
+          "imdb_id": "tt28678362",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Santosh",
+          "tmdb_id": "1233208",
+          "imdb_id": "tt30444418",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Savi",
+          "tmdb_id": "1264800",
+          "imdb_id": "tt32308617",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Shinda Shinda No Papa",
+          "tmdb_id": "1285827",
+          "imdb_id": "tt30777542",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Simbaa",
+          "tmdb_id": "984387",
+          "imdb_id": "tt15576884",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Singham Again",
+          "tmdb_id": "1014214",
+          "imdb_id": "tt11976134",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Sir",
+          "tmdb_id": "1372611",
+          "imdb_id": "tt26903465",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "SSS Sex,Secret Aur Saaya",
+          "tmdb_id": "279922",
+          "imdb_id": "",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Swipe Crime",
+          "tmdb_id": "279596",
+          "imdb_id": "tt34874259",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Thangalaan",
+          "tmdb_id": "910784",
+          "imdb_id": "tt23018924",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "The Buckingham Murders",
+          "tmdb_id": "1053348",
+          "imdb_id": "tt15245240",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "The Miranda Brothers",
+          "tmdb_id": "1371763",
+          "imdb_id": "tt33246678",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "The Sabarmati Report",
+          "tmdb_id": "1213906",
+          "imdb_id": "tt30889755",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Thukra Ke Mera Pyaar",
+          "tmdb_id": "276609",
+          "imdb_id": "tt34498121",
+          "type": "tv",
+          "year": "2024"
+        },
+        {
+          "title": "Vicky Vidya Ka Woh Wala Video",
+          "tmdb_id": "1213712",
+          "imdb_id": "tt29330913",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Vivekanandan Viralanu",
+          "tmdb_id": "1179389",
+          "imdb_id": "tt28090020",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Yo Yo Honey Singh: Famous",
+          "tmdb_id": "1252467",
+          "imdb_id": "tt27139868",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Yudhra",
+          "tmdb_id": "797223",
+          "imdb_id": "tt14056466",
+          "type": "movie",
+          "year": "2024"
+        },
+        {
+          "title": "Zwigato",
+          "tmdb_id": "1014060",
+          "imdb_id": "tt21998526",
+          "type": "movie",
+          "year": "2023"
+        },
         {
           "title": "5D",
           "tmdb_id": "tt31272285",
@@ -739,7 +1222,7 @@
           "year": "2024"
         }
       ],
-      "last_modified": "2026-05-28T04:20:47.853Z"
+      "last_modified": "2026-05-28T04:23:32.199Z"
     },
     {
       "batch_id": 19,
