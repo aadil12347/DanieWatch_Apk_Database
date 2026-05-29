@@ -1,8 +1,66 @@
 {
-  "last_updated": "2026-05-28T04:23:32.199Z",
-  "total_posts": 3147,
-  "total_batches": 20,
+  "last_updated": "2026-05-29T05:41:26.929Z",
+  "total_posts": 3153,
+  "total_batches": 21,
   "batches": [
+    {
+      "batch_id": 21,
+      "date_key": "2026-05-29",
+      "date": "May 29, 2026",
+      "timestamp": "2026-05-29T05:41:26.929Z",
+      "total_in_batch": 7,
+      "posts": [
+        {
+          "title": "Drishyam 3",
+          "tmdb_id": "847742",
+          "imdb_id": "tt14113634",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Kara",
+          "tmdb_id": "1433117",
+          "imdb_id": "tt37458112",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Karikaada",
+          "tmdb_id": "1631017",
+          "imdb_id": "tt37232328",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Mahasenha",
+          "tmdb_id": "1592043",
+          "imdb_id": "tt39007848",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Murder Mindfully",
+          "tmdb_id": "252372",
+          "imdb_id": "tt30217222",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Nawab Cafe",
+          "tmdb_id": "1533735",
+          "imdb_id": "tt37996604",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "The Four Seasons",
+          "tmdb_id": "243316",
+          "imdb_id": "tt30826447",
+          "type": "tv",
+          "year": "2026"
+        }
+      ]
+    },
     {
       "batch_id": 20,
       "date_key": "2026-05-28",
@@ -1229,7 +1287,7 @@
       "date_key": "2026-05-27",
       "date": "May 27, 2026",
       "timestamp": "2026-05-27T13:18:29.686Z",
-      "total_in_batch": 35,
+      "total_in_batch": 33,
       "posts": [
         {
           "title": "Ajey: The Untold Story of a Yogi",
@@ -3244,7 +3302,7 @@
       "date_key": "2026-05-24",
       "date": "May 24, 2026",
       "timestamp": "2026-05-24T07:47:46.556Z",
-      "total_in_batch": 282,
+      "total_in_batch": 278,
       "posts": [
         {
           "title": "1992",
@@ -3609,13 +3667,6 @@
           "imdb_id": "tt32084246",
           "type": "movie",
           "year": "2024"
-        },
-        {
-          "title": "Murder Mindfully",
-          "tmdb_id": "252372",
-          "imdb_id": "tt30217222",
-          "type": "tv",
-          "year": "2026"
         },
         {
           "title": "Never Let Go",
@@ -8020,7 +8071,7 @@
       "date_key": "2026-05-13",
       "date": "May 13, 2026",
       "timestamp": "2026-05-13T13:36:53.517Z",
-      "total_in_batch": 42,
+      "total_in_batch": 41,
       "posts": [
         {
           "title": "1923",

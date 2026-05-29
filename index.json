@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-29T05:22:23.097Z",
-  "total": 3147,
+  "last_updated": "2026-05-29T05:41:26.841Z",
+  "total": 3153,
   "posts": [
     {
       "id": "0HHVROFDOD9M80V12IHZQ345F2",
@@ -26119,6 +26119,26 @@
       "imdb_id": ""
     },
     {
+      "id": "1433117",
+      "type": "movie",
+      "title": "Kara",
+      "poster": "https://image.tmdb.org/t/p/w342/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "imdb_id": "tt37458112"
+    },
+    {
       "id": "1433545",
       "type": "movie",
       "title": "House Mates",
@@ -28432,7 +28452,7 @@
       "year": "2025",
       "result": "HD",
       "language": [
-        "FAN DUB"
+        "Hindi"
       ],
       "country": [
         "IN"
@@ -29194,6 +29214,23 @@
         "Drama"
       ],
       "imdb_id": ""
+    },
+    {
+      "id": "1533735",
+      "type": "movie",
+      "title": "Nawab Cafe",
+      "poster": "https://image.tmdb.org/t/p/w342/318rq88OAqNFlDhlh1HwWnHBTK4.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [],
+      "original_language": "te",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt37996604"
     },
     {
       "id": "1534291",
@@ -30822,6 +30859,26 @@
       "imdb_id": "tt7944312"
     },
     {
+      "id": "1592043",
+      "type": "movie",
+      "title": "Mahasenha",
+      "poster": "https://image.tmdb.org/t/p/w342/kQeOxMQ1F8E5vixcLfju3vYRT0U.jpg",
+      "year": "2025",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ta",
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "imdb_id": "tt39007848"
+    },
+    {
       "id": "1593247",
       "type": "movie",
       "title": "Drive",
@@ -31891,6 +31948,26 @@
         "Drama"
       ],
       "imdb_id": "tt39708015"
+    },
+    {
+      "id": "1631017",
+      "type": "movie",
+      "title": "Karikaada",
+      "poster": "https://image.tmdb.org/t/p/w342/tL0skwRWivuNZHQD89baWynksct.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "kn",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "imdb_id": "tt37232328"
     },
     {
       "id": "1631917",
@@ -43346,6 +43423,27 @@
         "Drama"
       ],
       "imdb_id": "tt37436004"
+    },
+    {
+      "id": "847742",
+      "type": "movie",
+      "title": "Drishyam 3",
+      "poster": "https://image.tmdb.org/t/p/w342/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "CAM RESULT"
+      ],
+      "country": [
+        "IN"
+      ],
+      "original_language": "ml",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdb_id": "tt14113634"
     },
     {
       "id": "848326",
@@ -55921,6 +56019,27 @@
       "total_uploaded_episodes": 8
     },
     {
+      "id": "243316",
+      "type": "tv",
+      "title": "The Four Seasons",
+      "poster": "https://image.tmdb.org/t/p/original/9Jz395MIUXyuglZQj8B98KGYUDs.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "US"
+      ],
+      "original_language": "en",
+      "genres": [
+        "Comedy"
+      ],
+      "imdb_id": "tt30826447",
+      "latest_uploaded_season": 2,
+      "total_uploaded_episodes": 16
+    },
+    {
       "id": "243322",
       "type": "tv",
       "title": "Castle in the Time",
@@ -57508,7 +57627,7 @@
       ],
       "imdb_id": "tt30217222",
       "latest_uploaded_season": 2,
-      "total_uploaded_episodes": 9
+      "total_uploaded_episodes": 16
     },
     {
       "id": "252425",
