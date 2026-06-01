@@ -1,0 +1,44 @@
+{
+  "id": "253292",
+  "type": "tv",
+  "title": "Amber Girls School",
+  "poster": "https://image.tmdb.org/t/p/w342/p2gj2krojhuPDWFqF2hs7Y3uDg1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/mqZsYVIX2DkbaIvXHoyfdJZMCnG.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/4lntpTciMDFfBFTkREXBs6NJOJ8.jpg",
+          "air_date": "2024-05-01",
+          "runtime": 196,
+          "vote_average": 9,
+          "watch": "<iframe src=\"https://bysebuho.com/e/y6o29pzwioji/amber-girls-school-s01-complete\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/llSBj0WdmcilpTx1s2U32BTccLj.jpg",
+          "air_date": "2024-07-26",
+          "runtime": 195,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/6c3e01cmnv0t/amber-girls-school-s02-complete\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

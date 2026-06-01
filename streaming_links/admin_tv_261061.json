@@ -1,0 +1,29 @@
+{
+  "id": "261061",
+  "type": "tv",
+  "title": "Naam Namak Nishan",
+  "poster": "https://image.tmdb.org/t/p/w342/sPGgNdkifEvwZvcq47I5Gn1o3gQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lBpEcCd4XChV0iNH3bbsFGVzSyP.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/5zNnp0WmwXyKXh6aUENJtozM3Tj.jpg",
+          "air_date": "2024-08-14",
+          "runtime": 340,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/ix05diokz8im/naam-namak-nishan-s01-complete\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

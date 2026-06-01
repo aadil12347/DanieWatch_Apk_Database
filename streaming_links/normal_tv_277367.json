@@ -1,0 +1,39 @@
+{
+  "id": "277367",
+  "type": "tv",
+  "title": "Parachute",
+  "poster": "https://image.tmdb.org/t/p/w342/aCpEktlupJJk9pWNxJDwVqPTejX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/lNfaP0mua1JGH5o81XSYbMtiCFb.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "watch": "<iframe src=\"https://bysebuho.com/e/q9kz6j4olxo3/parachute-s01-e01-web-dl-720p-hindi-aac-5-1-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 2,
+          "watch": "<iframe src=\"https://bysebuho.com/e/8x36tgr880rj/parachute-s01-e02-web-dl-720p-hindi-aac-5-1-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 3,
+          "watch": "<iframe src=\"https://bysebuho.com/e/rcw8zoows65u/parachute-s01-e03-web-dl-720p-hindi-aac-5-1-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 4,
+          "watch": "<iframe src=\"https://bysebuho.com/e/sj2rvce7q1s9/parachute-s01-e04-web-dl-720p-hindi-aac-5-1-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        },
+        {
+          "episode_number": 5,
+          "watch": "<iframe src=\"https://bysebuho.com/e/l71swjz3clf5/parachute-s01-e05-web-dl-720p-hindi-aac-5-1-esub-daniewatch-is\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}
