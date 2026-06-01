@@ -1,0 +1,29 @@
+{
+  "id": "271066",
+  "type": "tv",
+  "title": "Raat Jawaan Hai",
+  "poster": "https://image.tmdb.org/t/p/w342/juIV2AiEshBETv0aAd8AlCuarmY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/qqEz7UDDNu8GnRSsNaElrtaAyFM.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/mbMWXqvF4OZZljybu0BrzwMgOZp.jpg",
+          "air_date": "2024-10-11",
+          "runtime": 279,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/b8nguwl7kptn/raat-jawan-hai-2024-hindi-season-1\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

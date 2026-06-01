@@ -1,0 +1,29 @@
+{
+  "id": "261374",
+  "type": "tv",
+  "title": "My Perfectt Husband",
+  "poster": "https://image.tmdb.org/t/p/w342/8UL8aAvuMfAYL1z7FRVAW6ZRm5z.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/wURcNfwPiFBLO7mM8RE3yezo93X.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/38g1hnU2XzLRKnSLyTYkezB70bn.jpg",
+          "air_date": "2024-08-16",
+          "runtime": 230,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/wgt8jvg6y8nl/my-perfectt-husband-2024-hindi-season-1-complete\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

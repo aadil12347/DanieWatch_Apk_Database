@@ -1,0 +1,29 @@
+{
+  "id": "238108",
+  "type": "tv",
+  "title": "Call Me Bae",
+  "poster": "https://image.tmdb.org/t/p/w342/qdWoYn4KOiZNjR4EOHUsNjamzJ0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/fZXW2QPESgq0nls3KI8KmpN94RI.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/3c3aqsEE2off2fyWo2h1goS5sX5.jpg",
+          "air_date": "2024-09-06",
+          "runtime": 311,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/v19swca1rp09/call-me-bae-s01-2024-hindi-completed\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}

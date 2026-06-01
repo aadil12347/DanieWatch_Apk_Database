@@ -1,0 +1,29 @@
+{
+  "id": "245467",
+  "type": "tv",
+  "title": "Raisinghani VS. Raisinghani",
+  "poster": "https://image.tmdb.org/t/p/w342/6Y846gCkeE9RlMkxAbYxca1Te3Z.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/fHIDQu76psLKed0CUEx4dbPJVF0.jpg",
+  "year": "2024",
+  "result": "HD",
+  "language": [
+    "Hindi"
+  ],
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "name": "All Episodes",
+          "overview": "",
+          "still_path": "https://image.tmdb.org/t/p/w300/6tcuQIZb78gEOOyQiJ6j1RHKRgR.jpg",
+          "air_date": "2024-02-12",
+          "runtime": 39,
+          "vote_average": 0,
+          "watch": "<iframe src=\"https://bysebuho.com/e/7wh6dpvjudiq/raisinghani-vs-raisinghani-s01-complete\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"640\" height=\"360\" allowfullscreen></iframe>"
+        }
+      ]
+    }
+  ]
+}
