@@ -1,8 +1,87 @@
 {
-  "last_updated": "2026-06-01T22:55:00.029Z",
-  "total_posts": 3339,
-  "total_batches": 22,
+  "last_updated": "2026-06-02T09:13:27.943Z",
+  "total_posts": 3349,
+  "total_batches": 23,
   "batches": [
+    {
+      "batch_id": 23,
+      "date_key": "2026-06-02",
+      "date": "June 2, 2026",
+      "timestamp": "2026-06-02T09:13:27.943Z",
+      "total_in_batch": 10,
+      "posts": [
+        {
+          "title": "Aśoka",
+          "tmdb_id": "4435",
+          "imdb_id": "tt0249371",
+          "type": "movie",
+          "year": "2001"
+        },
+        {
+          "title": "Crazy Old Lady",
+          "tmdb_id": "1255674",
+          "imdb_id": "tt31613162",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "K-Pops!",
+          "tmdb_id": "972232",
+          "imdb_id": "tt19896510",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Kattalan",
+          "tmdb_id": "1065834",
+          "imdb_id": "tt35668756",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Obsession",
+          "tmdb_id": "tt42730027",
+          "imdb_id": "tt42730027",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Sniper: No Nation",
+          "tmdb_id": "1641319",
+          "imdb_id": "tt39538786",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "The Great Grand Superhero",
+          "tmdb_id": "1653208",
+          "imdb_id": "tt40769151",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "The Race",
+          "tmdb_id": "1563616",
+          "imdb_id": "tt35052447",
+          "type": "movie",
+          "year": "2025"
+        },
+        {
+          "title": "Top Cop",
+          "tmdb_id": "1704309",
+          "imdb_id": "tt39781126",
+          "type": "movie",
+          "year": "2026"
+        },
+        {
+          "title": "Y2K",
+          "tmdb_id": "1094274",
+          "imdb_id": "tt27218960",
+          "type": "movie",
+          "year": "2024"
+        }
+      ]
+    },
     {
       "batch_id": 22,
       "date_key": "2026-06-01",
