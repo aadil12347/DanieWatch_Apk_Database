@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-02T09:13:27.857Z",
-  "total": 3349,
+  "last_updated": "2026-06-02T09:16:29.782Z",
+  "total": 3351,
   "posts": [
     {
       "id": "0HHVROFDOD9M80V12IHZQ345F2",
@@ -57683,6 +57683,29 @@
       "total_uploaded_episodes": 13
     },
     {
+      "id": "227213",
+      "type": "tv",
+      "title": "Wanru's Journey",
+      "poster": "https://image.tmdb.org/t/p/w342/ltmGBH6lypg2cJzaaj7TUbNv2ND.jpg",
+      "year": "2023",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Action & Adventure"
+      ],
+      "imdb_id": "tt27851635",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 24
+    },
+    {
       "id": "227634",
       "type": "tv",
       "title": "Mr. Insomnia Waiting for Love",
@@ -64089,6 +64112,27 @@
         "Action & Adventure"
       ],
       "imdb_id": "tt37041021",
+      "latest_uploaded_season": 1,
+      "total_uploaded_episodes": 5
+    },
+    {
+      "id": "292532",
+      "type": "tv",
+      "title": "Brazil '70: The Third Star",
+      "poster": "https://image.tmdb.org/t/p/w342/u6PBGDVs0CZJsq8IpWI5C4u0eyl.jpg",
+      "year": "2026",
+      "result": "HD",
+      "language": [
+        "Hindi"
+      ],
+      "country": [
+        "BR"
+      ],
+      "original_language": "pt",
+      "genres": [
+        "Drama"
+      ],
+      "imdb_id": "tt37041010",
       "latest_uploaded_season": 1,
       "total_uploaded_episodes": 5
     },

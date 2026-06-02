@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-02T09:13:27.943Z",
-  "total_posts": 3349,
+  "last_updated": "2026-06-02T09:16:29.850Z",
+  "total_posts": 3351,
   "total_batches": 23,
   "batches": [
     {
@@ -8,8 +8,22 @@
       "date_key": "2026-06-02",
       "date": "June 2, 2026",
       "timestamp": "2026-06-02T09:13:27.943Z",
-      "total_in_batch": 10,
+      "total_in_batch": 12,
       "posts": [
+        {
+          "title": "Brazil '70: The Third Star",
+          "tmdb_id": "292532",
+          "imdb_id": "tt37041010",
+          "type": "tv",
+          "year": "2026"
+        },
+        {
+          "title": "Wanru's Journey",
+          "tmdb_id": "227213",
+          "imdb_id": "tt27851635",
+          "type": "tv",
+          "year": "2023"
+        },
         {
           "title": "Aśoka",
           "tmdb_id": "4435",
@@ -80,7 +94,8 @@
           "type": "movie",
           "year": "2024"
         }
-      ]
+      ],
+      "last_modified": "2026-06-02T09:16:29.850Z"
     },
     {
       "batch_id": 22,
