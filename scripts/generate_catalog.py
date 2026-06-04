@@ -312,6 +312,76 @@ def write_json(path: str, data: Any):
     with open(path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, separators=(',', ':'))
 
+def upload_to_algolia(items: list[dict]):
+    print('\nUploading to Algolia...')
+    import urllib.request
+    import urllib.error
+    
+    app_id = "EFW385VZRX"
+    api_key = "2c8fcfc8529ed03dcbd69074404e2e88"
+    index_name = "daniewatch_catalog"
+    
+    url = f"https://{app_id}.algolia.net/1/indexes/{index_name}/batch"
+    headers = {
+        "X-Algolia-Application-Id": app_id,
+        "X-Algolia-API-Key": api_key,
+        "Content-Type": "application/json"
+    }
+    
+    requests = []
+    for item in items:
+        poster_url = ""
+        if item.get('poster_url') and not str(item['poster_url']).lower().endswith('.avif'):
+            poster_url = item['poster_url']
+        elif item.get('tmdb_poster_path'):
+            poster_url = f"https://image.tmdb.org/t/p/w342{item['tmdb_poster_path']}"
+            
+        media_type = item.get('type') or item.get('media_type', 'movie')
+        obj_id = f"{safe_int(item.get('id'))}-{media_type}"
+        
+        lang = item.get('language') or []
+        if isinstance(lang, str): lang = [lang]
+        if not lang and item.get('original_language'): lang = [item['original_language']]
+        
+        genres = item.get('genres') or []
+        if isinstance(genres, str): genres = [genres]
+        
+        country = item.get('country') or item.get('origin_country') or []
+        if isinstance(country, str): country = [country]
+        
+        record = {
+            "objectID": obj_id,
+            "itemId": safe_int(item.get('id')),
+            "mediaType": media_type,
+            "title": item.get('title', ''),
+            "posterUrl": poster_url,
+            "languages": lang,
+            "genres": genres,
+            "releaseYear": safe_int(item.get('year') or item.get('release_year') or 0),
+            "originCountry": country
+        }
+        
+        requests.append({
+            "action": "updateObject",
+            "body": record
+        })
+        
+    chunk_size = 1000
+    total = len(requests)
+    for i in range(0, total, chunk_size):
+        chunk = requests[i:i + chunk_size]
+        body = json.dumps({"requests": chunk}).encode('utf-8')
+        req = urllib.request.Request(url, data=body, headers=headers, method='POST')
+        try:
+            with urllib.request.urlopen(req) as response:
+                print(f"  Uploaded batch {i+1} to {min(i+chunk_size, total)}...")
+        except urllib.error.URLError as e:
+            print(f"  ERROR Uploading: {e}")
+            if hasattr(e, 'read'):
+                print(e.read().decode('utf-8'))
+                
+    print(f"Successfully uploaded {total} records to Algolia!")
+
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # Main Catalog Generation
@@ -393,22 +463,51 @@ def generate_catalog(repo_root: str, output_dir: str, page_size: int = PAGE_SIZE
     write_json(os.path.join(output_dir, 'meta.json'), meta)
     print(f'Generated meta.json (version: {version})')
 
-    # ─── Step 6: search_index.json ────────────────────────────────────────
-    search_index = []
+    # ─── Step 6: search_index.csv ────────────────────────────────────────
+    import csv
+    import io
+    
+    csv_buffer = io.StringIO()
+    writer = csv.writer(csv_buffer, quoting=csv.QUOTE_MINIMAL)
+    # Write header
+    writer.writerow(['id', 'type', 'title', 'languages', 'genres', 'year', 'country'])
+    
     for item in sorted_items:
+        # Languages
         lang = item.get('language') or []
         if isinstance(lang, str):
             lang = [lang]
         if not lang and item.get('original_language'):
             lang = [item['original_language']]
-        search_index.append({
-            'i': safe_int(item.get('id')),
-            't': item.get('title', ''),
-            'm': item.get('type') or item.get('media_type', 'movie'),
-            'l': lang,
-        })
-    write_json(os.path.join(output_dir, 'search_index.json'), search_index)
-    print(f'Generated search_index.json ({len(search_index)} entries)')
+        lang_str = ", ".join(lang)
+        
+        # Genres
+        genres = item.get('genres') or []
+        if isinstance(genres, str):
+            genres = [genres]
+        genre_str = ", ".join(genres)
+        
+        # Country
+        country = item.get('country') or item.get('origin_country') or []
+        if isinstance(country, str):
+            country = [country]
+        country_str = ", ".join(country)
+        
+        writer.writerow([
+            safe_int(item.get('id')),
+            item.get('type') or item.get('media_type', 'movie'),
+            item.get('title', ''),
+            lang_str,
+            genre_str,
+            safe_int(item.get('year') or item.get('release_year') or 0),
+            country_str
+        ])
+        
+    csv_path = os.path.join(output_dir, 'search_index.csv')
+    with open(csv_path, 'w', encoding='utf-8', newline='') as f:
+        f.write(csv_buffer.getvalue())
+        
+    print(f'Generated search_index.csv ({len(sorted_items)} entries)')
 
     # ─── Step 7: home/sections.json ───────────────────────────────────────
     print('Generating home sections...')
@@ -456,6 +555,9 @@ def generate_catalog(repo_root: str, output_dir: str, page_size: int = PAGE_SIZE
 
     total_pages = sum(page_counts.values())
     print(f'\nDONE! Catalog generated: {len(sorted_items)} items, {total_pages} total pages')
+    
+    # ─── Step 8: Algolia Upload ───────────────────────────────────────────
+    upload_to_algolia(sorted_items)
     
     # Print category summary
     print('\n-- Category Summary --')
