@@ -38,20 +38,7 @@ import time
 from datetime import datetime, timezone
 from typing import Any
 
-# Optional: requests for TMDB API
-try:
-    import requests
-    HAS_REQUESTS = True
-except ImportError:
-    HAS_REQUESTS = False
-    print('WARNING: requests not installed — TMDB release date fetching disabled')
-
 PAGE_SIZE = 50
-
-# TMDB API configuration
-TMDB_API_KEY = os.environ.get('TMDB_API_KEY', '')
-TMDB_BASE = 'https://api.themoviedb.org/3'
-TMDB_RATE_LIMIT_DELAY = 0.26  # ~4 requests/sec to stay under TMDB rate limit
 
 # Category matching rules — uses ONLY origin_country + original_language
 # NEVER matches on the 'language' field (that's dubbing/audio availability)
@@ -200,218 +187,19 @@ def load_top_content(repo_root: str, folder: str) -> list[dict]:
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
-# TMDB Release Date Fetching
+# Sorting Logic
 # ═══════════════════════════════════════════════════════════════════════════════
 
-def load_release_date_cache(repo_root: str) -> dict[str, str]:
-    """Load cached release dates from release_dates_cache.json."""
-    cache_path = os.path.join(repo_root, 'release_dates_cache.json')
-    if not os.path.exists(cache_path):
-        return {}
-    try:
-        with open(cache_path, 'r', encoding='utf-8') as f:
-            return json.load(f)
-    except (json.JSONDecodeError, IOError):
-        return {}
-
-
-def save_release_date_cache(repo_root: str, cache: dict[str, str]):
-    """Save release dates cache."""
-    cache_path = os.path.join(repo_root, 'release_dates_cache.json')
-    with open(cache_path, 'w', encoding='utf-8') as f:
-        json.dump(cache, f, ensure_ascii=False, indent=2, sort_keys=True)
-
-
-def fetch_movie_release_date(tmdb_id: str) -> str | None:
-    """Fetch movie release date from TMDB API."""
-    if not HAS_REQUESTS or not TMDB_API_KEY:
-        return None
-    try:
-        resp = requests.get(
-            f'{TMDB_BASE}/movie/{tmdb_id}',
-            params={'api_key': TMDB_API_KEY},
-            timeout=10,
-        )
-        if resp.status_code == 200:
-            return resp.json().get('release_date') or None
-        elif resp.status_code == 429:
-            # Rate limited — wait and retry once
-            time.sleep(2)
-            resp = requests.get(
-                f'{TMDB_BASE}/movie/{tmdb_id}',
-                params={'api_key': TMDB_API_KEY},
-                timeout=10,
-            )
-            if resp.status_code == 200:
-                return resp.json().get('release_date') or None
-    except Exception:
-        pass
-    return None
-
-
-def fetch_tv_release_date(tmdb_id: str, season_num: int, total_eps: int) -> str | None:
-    """Fetch TV show release date from TMDB API.
-    
-    Uses the air_date of the latest uploaded episode as the sorting date.
-    """
-    if not HAS_REQUESTS or not TMDB_API_KEY:
-        return None
-    try:
-        resp = requests.get(
-            f'{TMDB_BASE}/tv/{tmdb_id}/season/{season_num}',
-            params={'api_key': TMDB_API_KEY},
-            timeout=10,
-        )
-        if resp.status_code == 200:
-            data = resp.json()
-            episodes = data.get('episodes', [])
-            # Find the latest uploaded episode's air_date
-            for ep in reversed(episodes):
-                ep_num = ep.get('episode_number', 0)
-                if ep_num <= total_eps and ep.get('air_date'):
-                    return ep['air_date']
-            # Fallback: use season air_date
-            return data.get('air_date') or None
-        elif resp.status_code == 429:
-            time.sleep(2)
-            resp = requests.get(
-                f'{TMDB_BASE}/tv/{tmdb_id}/season/{season_num}',
-                params={'api_key': TMDB_API_KEY},
-                timeout=10,
-            )
-            if resp.status_code == 200:
-                data = resp.json()
-                episodes = data.get('episodes', [])
-                for ep in reversed(episodes):
-                    ep_num = ep.get('episode_number', 0)
-                    if ep_num <= total_eps and ep.get('air_date'):
-                        return ep['air_date']
-                return data.get('air_date') or None
-        elif resp.status_code == 404:
-            # Season not found — try getting the show's first_air_date
-            resp2 = requests.get(
-                f'{TMDB_BASE}/tv/{tmdb_id}',
-                params={'api_key': TMDB_API_KEY},
-                timeout=10,
-            )
-            if resp2.status_code == 200:
-                return resp2.json().get('first_air_date') or None
-    except Exception:
-        pass
-    return None
-
-
-def enrich_with_release_dates(items: list[dict], repo_root: str) -> list[dict]:
-    """Fetch release dates from TMDB for all items, using cache to avoid re-fetching."""
-    cache = load_release_date_cache(repo_root)
-    fetched_count = 0
-    cached_count = 0
-    failed_count = 0
-    
-    if not TMDB_API_KEY:
-        print('  WARNING: TMDB_API_KEY not set — skipping release date fetching')
-        # Still apply cached dates
-        for item in items:
-            key = item_key(item)
-            if key in cache and not item.get('release_date'):
-                item['release_date'] = cache[key]
-                cached_count += 1
-        print(f'  Applied {cached_count} cached release dates')
-        return items
-    
-    total = len(items)
-    for i, item in enumerate(items):
-        key = item_key(item)
-        tmdb_id = str(item.get('id', ''))
-        
-        if not tmdb_id or safe_int(tmdb_id) <= 0:
-            continue
-        
-        # Check cache first
-        if key in cache:
-            item['release_date'] = cache[key]
-            cached_count += 1
-            continue
-        
-        # Fetch from TMDB
-        media_type = item.get('type') or item.get('media_type', 'movie')
-        release_date = None
-        
-        if media_type == 'movie':
-            release_date = fetch_movie_release_date(tmdb_id)
-        elif media_type in ('tv', 'series'):
-            season_num = safe_int(item.get('latest_uploaded_season', 1)) or 1
-            total_eps = safe_int(item.get('total_uploaded_episodes', 1)) or 1
-            release_date = fetch_tv_release_date(tmdb_id, season_num, total_eps)
-        
-        if release_date:
-            item['release_date'] = release_date
-            cache[key] = release_date
-            fetched_count += 1
-        else:
-            failed_count += 1
-        
-        # Rate limiting
-        time.sleep(TMDB_RATE_LIMIT_DELAY)
-        
-        # Progress report every 100 items
-        if (i + 1) % 100 == 0:
-            print(f'  TMDB progress: {i+1}/{total} (fetched: {fetched_count}, cached: {cached_count}, failed: {failed_count})')
-    
-    # Save updated cache
-    save_release_date_cache(repo_root, cache)
-    print(f'  TMDB enrichment done: {fetched_count} fetched, {cached_count} cached, {failed_count} failed')
-    
-    return items
-
-
-# ═══════════════════════════════════════════════════════════════════════════════
-# Sorting & Sort Overrides
-# ═══════════════════════════════════════════════════════════════════════════════
-
-SORTING_DIR = 'sorting'
-
-def load_sort_overrides(repo_root: str, category: str) -> list[str]:
-    """Load sort override list for a category. Returns list of item keys in manual order."""
-    override_path = os.path.join(repo_root, SORTING_DIR, f'{category}.json')
-    if not os.path.exists(override_path):
-        return []
-    try:
-        with open(override_path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            if isinstance(data, list):
-                keys = []
-                for item in data:
-                    if isinstance(item, str):
-                        keys.append(item)
-                    elif isinstance(item, dict):
-                        if 'id' in item and 'type' in item:
-                            keys.append(f"{item['id']}-{item['type']}")
-                return keys
-    except (json.JSONDecodeError, IOError):
-        pass
-    return []
-
-
-def save_sort_overrides(repo_root: str, category: str, override_data: list):
-    """Save sort override list for a category."""
-    sort_dir = os.path.join(repo_root, SORTING_DIR)
-    os.makedirs(sort_dir, exist_ok=True)
-    override_path = os.path.join(sort_dir, f'{category}.json')
-    with open(override_path, 'w', encoding='utf-8') as f:
-        json.dump(override_data, f, ensure_ascii=False, indent=2)
-
-
-def auto_sort_key(item: dict, priorities: dict[str, int]) -> tuple:
-    """Generate automatic sort key for items not in override list."""
+def get_sort_key(item: dict, priorities: dict[str, int]) -> tuple:
+    """Generate sort key: release_date (or sort_date/added_date) -> year -> priority -> id"""
     year = safe_int(item.get('year') or item.get('release_year') or 0)
     
-    # Parse release_date for sub-year ordering
-    release_date = item.get('release_date') or ''
+    # Parse date for sub-year ordering
+    date_str = item.get('release_date') or item.get('added_date') or item.get('sort_date') or ''
     date_sortable = 0
-    if release_date and len(release_date) >= 10:
+    if date_str and len(date_str) >= 10:
         try:
-            date_sortable = int(release_date[:10].replace('-', ''))
+            date_sortable = int(date_str[:10].replace('-', ''))
         except ValueError:
             pass
     
@@ -420,87 +208,8 @@ def auto_sort_key(item: dict, priorities: dict[str, int]) -> tuple:
     key = f"{item.get('id')}-{media_type}"
     priority = priorities.get(key, 999999)
     
-    return (-year, -date_sortable, priority, -item_id)
+    return (-date_sortable, -year, priority, -item_id)
 
-
-def sort_items_with_overrides(
-    items: list[dict],
-    priorities: dict[str, int],
-    override_keys: list[str],
-) -> list[dict]:
-    """Sort items using override list + automatic sorting for the rest.
-    
-    1. Items in override_keys → appear first, in override order
-    2. Items NOT in override_keys → sorted by auto-sort (year DESC → date DESC → id DESC)
-    """
-    if not override_keys:
-        # No overrides — pure auto-sort
-        return sorted(items, key=lambda item: auto_sort_key(item, priorities))
-    
-    # Build lookup: key → item
-    item_by_key: dict[str, dict] = {}
-    for item in items:
-        key = item_key(item)
-        item_by_key[key] = item
-    
-    override_set = set(override_keys)
-    
-    # Part 1: Items from override list, in override order (skip missing items)
-    override_items = []
-    for key in override_keys:
-        if key in item_by_key:
-            override_items.append(item_by_key[key])
-    
-    # Part 2: Items NOT in override list — auto-sorted
-    non_override_items = [item for item in items if item_key(item) not in override_set]
-    non_override_items.sort(key=lambda item: auto_sort_key(item, priorities))
-    
-    return override_items + non_override_items
-
-
-def update_sort_override_file(
-    repo_root: str,
-    category: str,
-    sorted_items: list[dict],
-    existing_overrides: list[str],
-):
-    """Update the sort override file for a category.
-    
-    - New items (not in existing overrides) are PREPENDED at the top
-    - Existing manual order is preserved
-    - Items no longer in the catalog are removed
-    """
-    # Build set of all current item keys for this category
-    current_keys = set(item_key(item) for item in sorted_items)
-    
-    # Remove stale keys from existing overrides (items no longer in catalog)
-    cleaned_overrides = [k for k in existing_overrides if k in current_keys]
-    
-    # Find new items not in the override file
-    override_set = set(cleaned_overrides)
-    new_keys = [item_key(item) for item in sorted_items if item_key(item) not in override_set]
-    
-    # PREPEND new items at the top, existing manual order stays below
-    updated_overrides = new_keys + cleaned_overrides
-    
-    item_by_key = {item_key(item): item for item in sorted_items}
-    updated_overrides_data = []
-    for key in updated_overrides:
-        if key in item_by_key:
-            item = item_by_key[key]
-            item_id = str(item.get('id', ''))
-            item_type = item.get('type') or item.get('media_type', 'movie')
-            title = item.get('title') or item.get('name') or 'Unknown'
-            updated_overrides_data.append({
-                "id": item_id,
-                "type": item_type,
-                "title": title
-            })
-            
-    save_sort_overrides(repo_root, category, updated_overrides_data)
-    
-    if new_keys:
-        print(f'    > {len(new_keys)} new item(s) prepended to sorting/{category}.json')
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -630,24 +339,20 @@ def generate_catalog(repo_root: str, output_dir: str, page_size: int = PAGE_SIZE
     priorities = load_posting_record(repo_root)
     print(f'  {len(priorities)} batch-prioritized items')
 
-    # ─── Step 3: Fetch release dates from TMDB ────────────────────────────
-    print('Enriching with TMDB release dates...')
-    items = enrich_with_release_dates(items, repo_root)
+    # ─── Step 3: Sort all items globally ──────────────────────────────────
+    print('Sorting items...')
+    sorted_items = sorted(items, key=lambda item: get_sort_key(item, priorities))
     
-    # Count items with/without release dates
-    with_date = sum(1 for item in items if item.get('release_date'))
+    # Count items with/without dates for info
+    with_date = sum(1 for item in items if item.get('release_date') or item.get('added_date') or item.get('sort_date'))
     without_date = len(items) - with_date
-    print(f'  {with_date} items with release_date, {without_date} without')
+    print(f'  {with_date} items with date metadata, {without_date} without')
 
-    # ─── Step 4: Sort & paginate all categories with overrides ────────────
+    # ─── Step 4: Paginate all categories ──────────────────────────────────
     page_counts: dict[str, int] = {}
 
     # --- Global (all) ---
     print('Generating all/ pages...')
-    all_overrides = load_sort_overrides(repo_root, 'all')
-    sorted_items = sort_items_with_overrides(items, priorities, all_overrides)
-    update_sort_override_file(repo_root, 'all', sorted_items, all_overrides)
-    
     all_pages = paginate(sorted_items, page_size)
     page_counts['all'] = len(all_pages)
     for i, page_items in enumerate(all_pages):
@@ -666,21 +371,16 @@ def generate_catalog(repo_root: str, output_dir: str, page_size: int = PAGE_SIZE
             if has_category_metadata(item) and matches_category(item, cat_config)
         ]
         
-        # Apply category-specific sort overrides
-        cat_overrides = load_sort_overrides(repo_root, cat_name)
-        cat_sorted = sort_items_with_overrides(cat_items, priorities, cat_overrides)
-        update_sort_override_file(repo_root, cat_name, cat_sorted, cat_overrides)
-        
-        cat_pages = paginate(cat_sorted, page_size)
+        cat_pages = paginate(cat_items, page_size)
         page_counts[cat_name] = len(cat_pages)
         for i, page_items in enumerate(cat_pages):
             write_json(os.path.join(output_dir, cat_name, f'page_{i+1}.json'), {
                 'page': i + 1,
                 'total_pages': len(cat_pages),
-                'total_items': len(cat_sorted),
+                'total_items': len(cat_items),
                 'items': page_items,
             })
-        print(f'  {cat_name}: {len(cat_pages)} pages ({len(cat_sorted)} items)')
+        print(f'  {cat_name}: {len(cat_pages)} pages ({len(cat_items)} items)')
 
     # ─── Step 5: meta.json ────────────────────────────────────────────────
     version = datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')
