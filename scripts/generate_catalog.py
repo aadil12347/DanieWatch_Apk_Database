@@ -208,7 +208,9 @@ def get_sort_key(item: dict, priorities: dict[str, int]) -> tuple:
     key = f"{item.get('id')}-{media_type}"
     priority = priorities.get(key, 999999)
     
-    return (-date_sortable, -year, priority, -item_id)
+    # Sort by year DESC, then date DESC.
+    # If date is missing, it will be 0, which goes at the end of the year.
+    return (-year, -date_sortable, priority, -item_id)
 
 
 
