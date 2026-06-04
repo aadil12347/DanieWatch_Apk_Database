@@ -34,12 +34,25 @@ jobs:
       - name: Find Duplicates
         run: node scripts/find_duplicates.js
 
-      # Step 5: Cleanup snapshot & commit
+      # Step 5: Cleanup snapshot & generate catalog & commit
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: pip install requests
+
+      - name: Generate Paginated Catalog
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python scripts/generate_catalog.py --repo-root . --output-dir ./catalog --page-size 50
+
       - name: Commit and Push
         run: |
           rm -f old_index_snapshot.json
           git config --global user.name "DanieWatch Bot"
           git config --global user.email "bot@daniewatch.com"
-          git add index.json duplicate_posts.md posting_record.json
-          git commit -m "chore: auto-update index, duplicates & posting record [skip ci]" || exit 0
+          git add index.json duplicate_posts.md posting_record.json catalog/ release_dates_cache.json
+          git commit -m "chore: auto-update index, catalog & posting record [skip ci]" || exit 0
           git push
