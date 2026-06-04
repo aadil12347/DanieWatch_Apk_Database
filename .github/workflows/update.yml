@@ -1,8 +1,10 @@
-name: Auto Update Catalog
+name: Auto Update Index
 on:
   push:
     paths:
       - 'streaming_links/**' # Runs when new streaming links are added
+      - 'Top 5/**'
+      - 'Top 10/**'
 
 permissions:
   contents: write # Required for committing and pushing changes
@@ -24,25 +26,20 @@ jobs:
       - name: Find Duplicates
         run: node scripts/find_duplicates.js
 
-      # Step 3: Generate catalog with sorting overrides
+      # Step 3: Generate index (base_index + incremental updates + home sections)
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Install Python dependencies
-        run: pip install requests
-
-      - name: Generate Paginated Catalog
-        env:
-          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: python scripts/generate_catalog.py --repo-root . --output-dir ./catalog --page-size 50
+      - name: Generate Index
+        run: python scripts/generate_index.py --repo-root .
 
       # Step 4: Commit and Push
       - name: Commit and Push
         run: |
           git config --global user.name "DanieWatch Bot"
           git config --global user.email "bot@daniewatch.com"
-          git add posting_record.json duplicate_posts.md catalog/ release_dates_cache.json sorting/
-          git commit -m "chore: auto-update catalog, posting record & sorting [skip ci]" || exit 0
+          git add posting_record.json duplicate_posts.md base_index.json updates/ index/
+          git commit -m "chore: auto-update index [skip ci]" || exit 0
           git push
