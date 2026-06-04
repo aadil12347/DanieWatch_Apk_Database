@@ -1,24 +1,112 @@
 [
-  "1439930-movie",
-  "1327688-movie",
-  "1000438-movie",
-  "863873-movie",
-  "133748-tv",
-  "207493-tv",
-  "123542-tv",
-  "660982-movie",
-  "533514-movie",
-  "72636-tv",
-  "210577-movie",
-  "1402-tv",
-  "26466-movie",
-  "16258-movie",
-  "14620-movie",
-  "1622-tv",
-  "1954-movie",
-  "8273-movie",
-  "1018-movie",
-  "2105-movie",
-  "5336-movie",
-  "534442-movie"
+  {
+    "id": "1439930",
+    "type": "movie",
+    "title": "The Punisher: One Last Kill"
+  },
+  {
+    "id": "1327688",
+    "type": "movie",
+    "title": "One Mile: Chapter One"
+  },
+  {
+    "id": "1000438",
+    "type": "movie",
+    "title": "Emergency"
+  },
+  {
+    "id": "863873",
+    "type": "movie",
+    "title": "Caddo Lake"
+  },
+  {
+    "id": "133748",
+    "type": "tv",
+    "title": "Twisted Metal"
+  },
+  {
+    "id": "207493",
+    "type": "tv",
+    "title": "The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far"
+  },
+  {
+    "id": "123542",
+    "type": "tv",
+    "title": "LINK CLICK"
+  },
+  {
+    "id": "660982",
+    "type": "movie",
+    "title": "American Pie Presents: Girls' Rules"
+  },
+  {
+    "id": "533514",
+    "type": "movie",
+    "title": "Violet Evergarden: The Movie"
+  },
+  {
+    "id": "72636",
+    "type": "tv",
+    "title": "Made in Abyss"
+  },
+  {
+    "id": "210577",
+    "type": "movie",
+    "title": "Gone Girl"
+  },
+  {
+    "id": "1402",
+    "type": "tv",
+    "title": "The Walking Dead"
+  },
+  {
+    "id": "26466",
+    "type": "movie",
+    "title": "Triangle"
+  },
+  {
+    "id": "16258",
+    "type": "movie",
+    "title": "The Butterfly Effect 3: Revelations"
+  },
+  {
+    "id": "14620",
+    "type": "movie",
+    "title": "The Butterfly Effect 2"
+  },
+  {
+    "id": "1622",
+    "type": "tv",
+    "title": "Supernatural"
+  },
+  {
+    "id": "1954",
+    "type": "movie",
+    "title": "The Butterfly Effect"
+  },
+  {
+    "id": "8273",
+    "type": "movie",
+    "title": "American Pie Presents American Wedding"
+  },
+  {
+    "id": "1018",
+    "type": "movie",
+    "title": "Mulholland Drive"
+  },
+  {
+    "id": "2105",
+    "type": "movie",
+    "title": "American Pie"
+  },
+  {
+    "id": "5336",
+    "type": "movie",
+    "title": "Salò, or the 120 Days of Sodom"
+  },
+  {
+    "id": "534442",
+    "type": "movie",
+    "title": "Senorita"
+  }
 ]

@@ -380,19 +380,26 @@ def load_sort_overrides(repo_root: str, category: str) -> list[str]:
         with open(override_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
             if isinstance(data, list):
-                return data
+                keys = []
+                for item in data:
+                    if isinstance(item, str):
+                        keys.append(item)
+                    elif isinstance(item, dict):
+                        if 'id' in item and 'type' in item:
+                            keys.append(f"{item['id']}-{item['type']}")
+                return keys
     except (json.JSONDecodeError, IOError):
         pass
     return []
 
 
-def save_sort_overrides(repo_root: str, category: str, ordered_keys: list[str]):
+def save_sort_overrides(repo_root: str, category: str, override_data: list):
     """Save sort override list for a category."""
     sort_dir = os.path.join(repo_root, SORTING_DIR)
     os.makedirs(sort_dir, exist_ok=True)
     override_path = os.path.join(sort_dir, f'{category}.json')
     with open(override_path, 'w', encoding='utf-8') as f:
-        json.dump(ordered_keys, f, ensure_ascii=False, indent=2)
+        json.dump(override_data, f, ensure_ascii=False, indent=2)
 
 
 def auto_sort_key(item: dict, priorities: dict[str, int]) -> tuple:
@@ -476,7 +483,21 @@ def update_sort_override_file(
     # PREPEND new items at the top, existing manual order stays below
     updated_overrides = new_keys + cleaned_overrides
     
-    save_sort_overrides(repo_root, category, updated_overrides)
+    item_by_key = {item_key(item): item for item in sorted_items}
+    updated_overrides_data = []
+    for key in updated_overrides:
+        if key in item_by_key:
+            item = item_by_key[key]
+            item_id = str(item.get('id', ''))
+            item_type = item.get('type') or item.get('media_type', 'movie')
+            title = item.get('title') or item.get('name') or 'Unknown'
+            updated_overrides_data.append({
+                "id": item_id,
+                "type": item_type,
+                "title": title
+            })
+            
+    save_sort_overrides(repo_root, category, updated_overrides_data)
     
     if new_keys:
         print(f'    > {len(new_keys)} new item(s) prepended to sorting/{category}.json')
