@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 """
-Generate Paginated Catalog from streaming_links + index.json (DanieWatch format).
+Generate Paginated Catalog from streaming_links (DanieWatch format).
 
 Pipeline:
-  1. Scan streaming_links/ folder (source of truth) + merge with index.json
+  1. Scan streaming_links/ folder (sole source of truth)
   2. Fetch exact release dates from TMDB API (cached to avoid re-fetching)
-  3. Sort: year DESC → release_date DESC → batch priority → id DESC
-  4. Categorize using ONLY origin_country + original_language (NOT dubbing language)
-  5. Paginate into catalog/ files
+  3. Apply sorting overrides from sorting/ folder (manual order takes priority)
+  4. Auto-sort remaining items: year DESC → release_date DESC → id DESC
+  5. Categorize using ONLY origin_country + original_language (NOT dubbing language)
+  6. Paginate into catalog/ files
+  7. Update sorting/ override files (prepend new items, preserve manual order)
 
 Output:
   catalog/
@@ -15,7 +17,13 @@ Output:
     search_index.json      — lightweight search data
     home/sections.json     — pre-built home screen data
     all/page_N.json        — paginated global catalog
-    bollywood/page_N.json  — paginated category pages
+    indian/page_N.json     — paginated category pages
+    ...
+
+  sorting/
+    all.json               — sort overrides for Explore/All
+    indian.json            — sort overrides for Indian
+    hollywood.json         — sort overrides for Hollywood
     ...
 
 Usage:
@@ -48,7 +56,7 @@ TMDB_RATE_LIMIT_DELAY = 0.26  # ~4 requests/sec to stay under TMDB rate limit
 # Category matching rules — uses ONLY origin_country + original_language
 # NEVER matches on the 'language' field (that's dubbing/audio availability)
 CATEGORIES = {
-    'bollywood': {
+    'indian': {
         'countries': ['IN'],
         'languages': ['hi', 'hindi', 'ur', 'urdu', 'pa', 'punjabi', 'ta', 'tamil',
                        'te', 'telugu', 'ml', 'malayalam', 'kn', 'kannada',
@@ -84,7 +92,7 @@ CATEGORIES = {
 HOME_SECTIONS = [
     {'title': 'Trending Now', 'filter': 'trending', 'limit': 20},
     {'title': 'Top 10 Today', 'filter': 'top10', 'limit': 10, 'is_ranked': True},
-    {'title': 'Bollywood', 'filter': 'bollywood', 'limit': 20},
+    {'title': 'Indian', 'filter': 'indian', 'limit': 20},
     {'title': 'Korean', 'filter': 'korean', 'limit': 20},
     {'title': 'Anime', 'filter': 'anime', 'limit': 20},
     {'title': 'Hollywood', 'filter': 'hollywood', 'limit': 20},
@@ -148,49 +156,6 @@ def load_streaming_links(repo_root: str) -> list[dict]:
     if errors > 0:
         print(f'  WARNING: {errors} files failed to parse in streaming_links/')
     return items
-
-
-def load_index_json(repo_root: str) -> list[dict]:
-    """Load items from index.json (secondary data source)."""
-    index_path = os.path.join(repo_root, 'index.json')
-    if not os.path.exists(index_path):
-        return []
-    with open(index_path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-    if isinstance(data, list):
-        return data
-    if isinstance(data, dict):
-        return data.get('posts', data.get('items', data.get('results', [])))
-    return []
-
-
-def merge_items(streaming_items: list[dict], index_items: list[dict]) -> list[dict]:
-    """Merge streaming_links (priority) with index.json (fallback).
-    
-    streaming_links data takes priority when both sources have the same item.
-    Items in index.json but not in streaming_links are also included.
-    """
-    merged = {}
-    
-    # Add index.json items first (lower priority)
-    for item in index_items:
-        key = item_key(item)
-        if key and key != '-movie':  # Skip items without IDs
-            merged[key] = item
-    
-    # Override/add with streaming_links items (higher priority = source of truth)
-    for item in streaming_items:
-        key = item_key(item)
-        if key and key != '-movie':
-            if key in merged:
-                # Merge: streaming_links fields override, but keep any extra fields from index
-                existing = merged[key]
-                existing.update(item)
-                merged[key] = existing
-            else:
-                merged[key] = item
-    
-    return list(merged.values())
 
 
 def load_posting_record(repo_root: str) -> dict[str, int]:
@@ -401,36 +366,120 @@ def enrich_with_release_dates(items: list[dict], repo_root: str) -> list[dict]:
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
-# Sorting
+# Sorting & Sort Overrides
 # ═══════════════════════════════════════════════════════════════════════════════
 
-def sort_items(items: list[dict], priorities: dict[str, int]) -> list[dict]:
-    """Sort: year DESC → release_date DESC → batch priority ASC → id DESC.
-    
-    Within each year group, items are sorted by exact release date (most recent first).
-    Within same date, batch priority determines order (latest batch first).
-    """
-    def sort_key(item: dict) -> tuple:
-        year = safe_int(item.get('year') or item.get('release_year') or 0)
-        
-        # Parse release_date for sub-year ordering
-        # Convert "2026-05-15" to sortable int 20260515
-        release_date = item.get('release_date') or ''
-        date_sortable = 0
-        if release_date and len(release_date) >= 10:
-            try:
-                date_sortable = int(release_date[:10].replace('-', ''))
-            except ValueError:
-                pass
-        
-        item_id = safe_int(item.get('id') or 0)
-        media_type = item.get('type') or item.get('media_type', 'movie')
-        key = f"{item.get('id')}-{media_type}"
-        priority = priorities.get(key, 999999)
-        
-        return (-year, -date_sortable, priority, -item_id)
+SORTING_DIR = 'sorting'
 
-    return sorted(items, key=sort_key)
+def load_sort_overrides(repo_root: str, category: str) -> list[str]:
+    """Load sort override list for a category. Returns list of item keys in manual order."""
+    override_path = os.path.join(repo_root, SORTING_DIR, f'{category}.json')
+    if not os.path.exists(override_path):
+        return []
+    try:
+        with open(override_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            if isinstance(data, list):
+                return data
+    except (json.JSONDecodeError, IOError):
+        pass
+    return []
+
+
+def save_sort_overrides(repo_root: str, category: str, ordered_keys: list[str]):
+    """Save sort override list for a category."""
+    sort_dir = os.path.join(repo_root, SORTING_DIR)
+    os.makedirs(sort_dir, exist_ok=True)
+    override_path = os.path.join(sort_dir, f'{category}.json')
+    with open(override_path, 'w', encoding='utf-8') as f:
+        json.dump(ordered_keys, f, ensure_ascii=False, indent=2)
+
+
+def auto_sort_key(item: dict, priorities: dict[str, int]) -> tuple:
+    """Generate automatic sort key for items not in override list."""
+    year = safe_int(item.get('year') or item.get('release_year') or 0)
+    
+    # Parse release_date for sub-year ordering
+    release_date = item.get('release_date') or ''
+    date_sortable = 0
+    if release_date and len(release_date) >= 10:
+        try:
+            date_sortable = int(release_date[:10].replace('-', ''))
+        except ValueError:
+            pass
+    
+    item_id = safe_int(item.get('id') or 0)
+    media_type = item.get('type') or item.get('media_type', 'movie')
+    key = f"{item.get('id')}-{media_type}"
+    priority = priorities.get(key, 999999)
+    
+    return (-year, -date_sortable, priority, -item_id)
+
+
+def sort_items_with_overrides(
+    items: list[dict],
+    priorities: dict[str, int],
+    override_keys: list[str],
+) -> list[dict]:
+    """Sort items using override list + automatic sorting for the rest.
+    
+    1. Items in override_keys → appear first, in override order
+    2. Items NOT in override_keys → sorted by auto-sort (year DESC → date DESC → id DESC)
+    """
+    if not override_keys:
+        # No overrides — pure auto-sort
+        return sorted(items, key=lambda item: auto_sort_key(item, priorities))
+    
+    # Build lookup: key → item
+    item_by_key: dict[str, dict] = {}
+    for item in items:
+        key = item_key(item)
+        item_by_key[key] = item
+    
+    override_set = set(override_keys)
+    
+    # Part 1: Items from override list, in override order (skip missing items)
+    override_items = []
+    for key in override_keys:
+        if key in item_by_key:
+            override_items.append(item_by_key[key])
+    
+    # Part 2: Items NOT in override list — auto-sorted
+    non_override_items = [item for item in items if item_key(item) not in override_set]
+    non_override_items.sort(key=lambda item: auto_sort_key(item, priorities))
+    
+    return override_items + non_override_items
+
+
+def update_sort_override_file(
+    repo_root: str,
+    category: str,
+    sorted_items: list[dict],
+    existing_overrides: list[str],
+):
+    """Update the sort override file for a category.
+    
+    - New items (not in existing overrides) are PREPENDED at the top
+    - Existing manual order is preserved
+    - Items no longer in the catalog are removed
+    """
+    # Build set of all current item keys for this category
+    current_keys = set(item_key(item) for item in sorted_items)
+    
+    # Remove stale keys from existing overrides (items no longer in catalog)
+    cleaned_overrides = [k for k in existing_overrides if k in current_keys]
+    
+    # Find new items not in the override file
+    override_set = set(cleaned_overrides)
+    new_keys = [item_key(item) for item in sorted_items if item_key(item) not in override_set]
+    
+    # PREPEND new items at the top, existing manual order stays below
+    updated_overrides = new_keys + cleaned_overrides
+    
+    save_sort_overrides(repo_root, category, updated_overrides)
+    
+    if new_keys:
+        print(f'    > {len(new_keys)} new item(s) prepended to sorting/{category}.json')
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -440,24 +489,32 @@ def sort_items(items: list[dict], priorities: dict[str, int]) -> list[dict]:
 def has_category_metadata(item: dict) -> bool:
     """Check if item has enough metadata for category placement.
     
-    Items without origin_country AND original_language go to Explore only.
+    Items without any language or country info go to Explore only.
     """
     has_orig_lang = bool((item.get('original_language') or '').strip())
     has_country = bool(item.get('country') or item.get('origin_country'))
-    return has_orig_lang or has_country
+    # Fallback: streaming_links use 'language' for audio/dubbing language
+    has_lang = bool(item.get('language'))
+    lang = item.get('language')
+    if isinstance(lang, list) and len(lang) > 0:
+        has_lang = True
+    elif isinstance(lang, str) and lang.strip():
+        has_lang = True
+    return has_orig_lang or has_country or has_lang
 
 
 def matches_category(item: dict, cat_config: dict) -> bool:
     """Check if item belongs to a category.
     
-    ONLY uses origin_country and original_language.
-    NEVER uses the 'language' field (that's dubbing/audio availability for display only).
+    Uses origin_country and original_language when available.
+    Falls back to the 'language' field (dubbing/audio) from streaming_links
+    when origin metadata is not available.
     """
     countries = [c.upper() for c in cat_config.get('countries', [])]
     languages = [l.lower() for l in cat_config.get('languages', [])]
     genre_names = [g.lower() for g in cat_config.get('genres', [])]
 
-    # Item fields
+    # Item fields — origin metadata (preferred)
     item_countries = item.get('country') or item.get('origin_country') or []
     if isinstance(item_countries, str):
         item_countries = [item_countries]
@@ -465,19 +522,25 @@ def matches_category(item: dict, cat_config: dict) -> bool:
 
     item_orig_lang = (item.get('original_language') or '').lower().strip()
 
-    # ✅ Country match (origin_country only)
+    # Country match (origin_country only)
     if countries and any(c in countries for c in item_countries):
         return True
 
-    # ✅ Original language match ONLY (NOT the dubbing 'language' field)
-    if languages and item_orig_lang in languages:
+    # Original language match
+    if languages and item_orig_lang and item_orig_lang in languages:
         return True
 
-    # ❌ REMOVED: language list match — was matching dubbing language
-    # This caused 99% of items to match bollywood because nearly every item
-    # has language: ["Hindi"] for Hindi dubbing/audio availability
+    # Fallback: use the 'language' field from streaming_links when no origin metadata
+    if not item_orig_lang and not item_countries:
+        item_lang = item.get('language') or []
+        if isinstance(item_lang, str):
+            item_lang = [item_lang]
+        item_lang_lower = [l.lower().strip() for l in item_lang if isinstance(l, str)]
+        
+        if languages and any(l in languages for l in item_lang_lower):
+            return True
 
-    # Genre match (for anime: also require Japanese original_language)
+    # Genre match (for anime: also require Japanese original_language or language)
     if genre_names:
         item_genres = item.get('genres') or []
         if isinstance(item_genres, str):
@@ -486,7 +549,14 @@ def matches_category(item: dict, cat_config: dict) -> bool:
 
         if any(g in genre_names for g in item_genres_lower):
             if 'japanese' in languages or 'ja' in languages:
-                return item_orig_lang in ('ja', 'japanese')
+                if item_orig_lang in ('ja', 'japanese'):
+                    return True
+                # Fallback for streaming_links
+                item_lang = item.get('language') or []
+                if isinstance(item_lang, str):
+                    item_lang = [item_lang]
+                item_lang_lower = [l.lower().strip() for l in item_lang]
+                return any(l in ('ja', 'japanese') for l in item_lang_lower)
             return True
 
     return False
@@ -520,20 +590,10 @@ def write_json(path: str, data: Any):
 def generate_catalog(repo_root: str, output_dir: str, page_size: int = PAGE_SIZE):
     """Generate the full paginated catalog."""
 
-    # ─── Step 1: Load items from both sources ─────────────────────────────
+    # ─── Step 1: Load items from streaming_links/ (sole source of truth) ──
     print('Loading items...')
-    
-    # Source 1: streaming_links/ folder (source of truth)
-    streaming_items = load_streaming_links(repo_root)
-    print(f'  streaming_links/: {len(streaming_items)} items')
-    
-    # Source 2: index.json (secondary/fallback)
-    index_items = load_index_json(repo_root)
-    print(f'  index.json: {len(index_items)} items')
-    
-    # Merge: streaming_links overrides index.json
-    items = merge_items(streaming_items, index_items)
-    print(f'  Merged: {len(items)} unique items')
+    items = load_streaming_links(repo_root)
+    print(f'  streaming_links/: {len(items)} items')
 
     if not items:
         print('ERROR: No items found!', file=sys.stderr)
@@ -558,15 +618,15 @@ def generate_catalog(repo_root: str, output_dir: str, page_size: int = PAGE_SIZE
     without_date = len(items) - with_date
     print(f'  {with_date} items with release_date, {without_date} without')
 
-    # ─── Step 4: Sort ─────────────────────────────────────────────────────
-    print('Sorting (year DESC -> release_date DESC -> batch priority -> id DESC)...')
-    sorted_items = sort_items(items, priorities)
-
-    # ─── Step 5: Paginate all categories ──────────────────────────────────
+    # ─── Step 4: Sort & paginate all categories with overrides ────────────
     page_counts: dict[str, int] = {}
 
-    # Global (all) — includes ALL items regardless of metadata
+    # --- Global (all) ---
     print('Generating all/ pages...')
+    all_overrides = load_sort_overrides(repo_root, 'all')
+    sorted_items = sort_items_with_overrides(items, priorities, all_overrides)
+    update_sort_override_file(repo_root, 'all', sorted_items, all_overrides)
+    
     all_pages = paginate(sorted_items, page_size)
     page_counts['all'] = len(all_pages)
     for i, page_items in enumerate(all_pages):
@@ -578,24 +638,30 @@ def generate_catalog(repo_root: str, output_dir: str, page_size: int = PAGE_SIZE
         })
     print(f'  all: {len(all_pages)} pages ({len(sorted_items)} items)')
 
-    # Category pages — only items WITH category metadata
+    # --- Category pages ---
     for cat_name, cat_config in CATEGORIES.items():
         cat_items = [
             item for item in sorted_items
             if has_category_metadata(item) and matches_category(item, cat_config)
         ]
-        cat_pages = paginate(cat_items, page_size)
+        
+        # Apply category-specific sort overrides
+        cat_overrides = load_sort_overrides(repo_root, cat_name)
+        cat_sorted = sort_items_with_overrides(cat_items, priorities, cat_overrides)
+        update_sort_override_file(repo_root, cat_name, cat_sorted, cat_overrides)
+        
+        cat_pages = paginate(cat_sorted, page_size)
         page_counts[cat_name] = len(cat_pages)
         for i, page_items in enumerate(cat_pages):
             write_json(os.path.join(output_dir, cat_name, f'page_{i+1}.json'), {
                 'page': i + 1,
                 'total_pages': len(cat_pages),
-                'total_items': len(cat_items),
+                'total_items': len(cat_sorted),
                 'items': page_items,
             })
-        print(f'  {cat_name}: {len(cat_pages)} pages ({len(cat_items)} items)')
+        print(f'  {cat_name}: {len(cat_pages)} pages ({len(cat_sorted)} items)')
 
-    # ─── Step 6: meta.json ────────────────────────────────────────────────
+    # ─── Step 5: meta.json ────────────────────────────────────────────────
     version = datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')
     meta = {
         'version': version,
@@ -606,7 +672,7 @@ def generate_catalog(repo_root: str, output_dir: str, page_size: int = PAGE_SIZE
     write_json(os.path.join(output_dir, 'meta.json'), meta)
     print(f'Generated meta.json (version: {version})')
 
-    # ─── Step 7: search_index.json ────────────────────────────────────────
+    # ─── Step 6: search_index.json ────────────────────────────────────────
     search_index = []
     for item in sorted_items:
         lang = item.get('language') or []
@@ -623,7 +689,7 @@ def generate_catalog(repo_root: str, output_dir: str, page_size: int = PAGE_SIZE
     write_json(os.path.join(output_dir, 'search_index.json'), search_index)
     print(f'Generated search_index.json ({len(search_index)} entries)')
 
-    # ─── Step 8: home/sections.json ───────────────────────────────────────
+    # ─── Step 7: home/sections.json ───────────────────────────────────────
     print('Generating home sections...')
     top5 = load_top_content(repo_root, 'Top 5')
     top10 = load_top_content(repo_root, 'Top 10')
@@ -671,9 +737,8 @@ def generate_catalog(repo_root: str, output_dir: str, page_size: int = PAGE_SIZE
     print(f'\nDONE! Catalog generated: {len(sorted_items)} items, {total_pages} total pages')
     
     # Print category summary
-    print('\n── Category Summary ──')
+    print('\n-- Category Summary --')
     for cat, count in page_counts.items():
-        total = count * page_size  # approximate
         # Get actual count
         if cat == 'all':
             actual = len(sorted_items)
