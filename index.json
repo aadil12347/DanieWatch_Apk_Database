@@ -1,5 +1,38 @@
 [
   {
+    "title": "Summer House (2026)",
+    "tmdb_id": 1556616,
+    "imdb_id": "tt38897659",
+    "languages": [
+      "Hindi",
+      "Turkish"
+    ],
+    "type": "movie",
+    "aired_date": "2026-06-06 19:05:00"
+  },
+  {
+    "title": "The Marked Woman (2026)",
+    "tmdb_id": 1274706,
+    "imdb_id": "tt32129938",
+    "languages": [
+      "Hindi",
+      "Spanish"
+    ],
+    "type": "movie",
+    "aired_date": "2026-06-05 19:05:01"
+  },
+  {
+    "title": "Teach You a Lesson (Season 1) (2026)",
+    "tmdb_id": 276161,
+    "imdb_id": "tt34809853",
+    "languages": [
+      "Hindi",
+      "Korean"
+    ],
+    "type": "series",
+    "aired_date": "2026-06-05 19:05:01"
+  },
+  {
     "title": "Poldi (2026)",
     "tmdb_id": 1693201,
     "imdb_id": "tt42456008",
@@ -8,7 +41,7 @@
       "German"
     ],
     "type": "movie",
-    "aired_date": "2026-00-00"
+    "aired_date": "2026-06-04 19:05:00"
   },
   {
     "title": "The Murder of Rachel Nickell (2026)",
@@ -19,28 +52,29 @@
       "English"
     ],
     "type": "movie",
-    "aired_date": "2026-00-00"
+    "aired_date": "2026-06-04 19:05:00"
   },
   {
-    "title": "My Dearest Assassin (2026)",
-    "tmdb_id": 1630423,
-    "imdb_id": "tt39749979",
-    "languages": [
-      "Hindi"
-    ],
-    "type": "movie",
-    "aired_date": "2026-00-00"
-  },
-  {
-    "title": "Summer House (2026)",
-    "tmdb_id": 1556616,
-    "imdb_id": "tt38897659",
+    "title": "Office Romance (2026)",
+    "tmdb_id": 1358005,
+    "imdb_id": "tt33397980",
     "languages": [
       "Hindi",
-      "Turkish"
+      "English"
     ],
     "type": "movie",
-    "aired_date": "2026-00-00"
+    "aired_date": "2026-06-04 19:05:00"
+  },
+  {
+    "title": "Michael Jackson: The Verdict (Season 1) (2026)",
+    "tmdb_id": 323111,
+    "imdb_id": "tt42873612",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "type": "series",
+    "aired_date": "2026-06-03 19:05:00"
   },
   {
     "title": "Mexico 86 (2026)",
@@ -52,18 +86,7 @@
       "Spanish"
     ],
     "type": "movie",
-    "aired_date": "2026-00-00"
-  },
-  {
-    "title": "Office Romance (2026)",
-    "tmdb_id": 1358005,
-    "imdb_id": "tt33397980",
-    "languages": [
-      "Hindi",
-      "English"
-    ],
-    "type": "movie",
-    "aired_date": "2026-00-00"
+    "aired_date": "2026-05-21 19:05:00"
   },
   {
     "title": "Obsession (2026)",
@@ -73,7 +96,7 @@
       "English"
     ],
     "type": "movie",
-    "aired_date": "2026-00-00"
+    "aired_date": "2026-05-13 19:05:01"
   },
   {
     "title": "Obsession (2026)",
@@ -83,7 +106,17 @@
       "English"
     ],
     "type": "movie",
-    "aired_date": "2026-00-00"
+    "aired_date": "2026-05-13 19:05:00"
+  },
+  {
+    "title": "My Dearest Assassin (2026)",
+    "tmdb_id": 1630423,
+    "imdb_id": "tt39749979",
+    "languages": [
+      "Hindi"
+    ],
+    "type": "movie",
+    "aired_date": "2026-05-06 19:05:00"
   },
   {
     "title": "Hoppers (2026)",
@@ -94,18 +127,7 @@
       "English"
     ],
     "type": "movie",
-    "aired_date": "2026-00-00"
-  },
-  {
-    "title": "The Marked Woman (2026)",
-    "tmdb_id": 1274706,
-    "imdb_id": "tt32129938",
-    "languages": [
-      "Hindi",
-      "Spanish"
-    ],
-    "type": "movie",
-    "aired_date": "2026-00-00"
+    "aired_date": "2026-03-04 19:05:00"
   },
   {
     "title": "Return to Silent Hill (2026)",
@@ -116,29 +138,7 @@
       "English"
     ],
     "type": "movie",
-    "aired_date": "2026-00-00"
-  },
-  {
-    "title": "Michael Jackson: The Verdict (Season 1) (2026)",
-    "tmdb_id": 323111,
-    "imdb_id": "tt42873612",
-    "languages": [
-      "Hindi",
-      "English"
-    ],
-    "type": "series",
-    "aired_date": "2026-00-00"
-  },
-  {
-    "title": "Teach You a Lesson (Season 1) (2026)",
-    "tmdb_id": 276161,
-    "imdb_id": "tt34809853",
-    "languages": [
-      "Hindi",
-      "Korean"
-    ],
-    "type": "series",
-    "aired_date": "2026-00-00"
+    "aired_date": "2026-01-21 19:05:00"
   },
   {
     "title": "Beast of War (2025)",
@@ -149,7 +149,7 @@
       "English"
     ],
     "type": "movie",
-    "aired_date": "2025-00-00"
+    "aired_date": "2025-08-22 19:05:00"
   },
   {
     "title": "FROM (Season 1 - 4) (2022)",
@@ -160,6 +160,17 @@
       "English"
     ],
     "type": "series",
-    "aired_date": "2022-00-00"
+    "aired_date": "2022-02-20 19:05:00"
+  },
+  {
+    "title": "The Legend of Vox Machina (Season 3 - 4) (Season 1 to 4)",
+    "tmdb_id": 680493,
+    "imdb_id": "tt11247158",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "type": "series",
+    "aired_date": "0000-00-00"
   }
 ]
