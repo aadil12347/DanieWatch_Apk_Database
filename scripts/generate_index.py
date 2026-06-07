@@ -190,19 +190,23 @@ def main():
         key = (tmdb_id, post_type)
         aired_date = existing_dates.get(key)
 
-        # If not already present or if we need to fetch
-        if aired_date is None:
+        # If not already present or if it is not accurate (e.g. YYYY-00-00)
+        if aired_date is None or not is_accurate_date(aired_date):
             print(f"Fetching TMDB release info for: {title} (ID: {tmdb_id}, Type: {post_type})...")
             fetched_date = fetch_tmdb_release_date(tmdb_id, post_type, tmdb_cred)
             if fetched_date:
                 # Validate the fetched date format YYYY-MM-DD
                 if is_accurate_date(fetched_date):
-                    aired_date = fetched_date
+                    # Append current time for sorting
+                    current_time = datetime.now().strftime('%H:%M:%S')
+                    aired_date = f"{fetched_date} {current_time}"
                     print(f"  -> Found date: {aired_date}")
                 else:
                     print(f"  -> Invalid/incomplete date from TMDB: {fetched_date}")
+                    aired_date = None
             else:
                 print(f"  -> Could not fetch release date from TMDB.")
+                aired_date = None
         
         # If still no valid aired_date
         if not aired_date or not is_accurate_date(aired_date):
