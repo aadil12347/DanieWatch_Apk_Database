@@ -1,0 +1,35 @@
+{
+    "post_title": "Peddi (2026)",
+    "post_type": "movie",
+    "tmdb_id": 1057265,
+    "imdb_id": "tt23865918",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j01ur0yby2u0nwi"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-1i6z_qwwvoaqtk"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/71yunpq1pjnzziu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b9jlpepsap9evt0"
+            }
+        ]
+    }
+}
