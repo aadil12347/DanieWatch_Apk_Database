@@ -309,18 +309,22 @@ def main():
     # 4. Sort no_sorting_posts as well
     no_sorting_posts.sort(key=compute_sort_key)
 
-    # 5. Write index.json
+    # 5. Write index.json with one post array per line
     try:
         with open(INDEX_FILE, 'w', encoding='utf-8') as f:
-            json.dump(posts, f, ensure_ascii=False)
+            lines = [json.dumps(post, ensure_ascii=False) for post in posts]
+            json_str = "[\n  " + ",\n  ".join(lines) + "\n]"
+            f.write(json_str)
         print(f"Successfully wrote {len(posts)} posts to {INDEX_FILE}.")
     except Exception as e:
         print(f"Error writing {INDEX_FILE}: {e}")
 
-    # 6. Write no_sorting.json
+    # 6. Write no_sorting.json with one post array per line
     try:
         with open(NO_SORTING_FILE, 'w', encoding='utf-8') as f:
-            json.dump(no_sorting_posts, f, ensure_ascii=False)
+            lines = [json.dumps(post, ensure_ascii=False) for post in no_sorting_posts]
+            json_str = "[\n  " + ",\n  ".join(lines) + "\n]"
+            f.write(json_str)
         print(f"Successfully wrote {len(no_sorting_posts)} items to {NO_SORTING_FILE}.")
     except Exception as e:
         print(f"Error writing {NO_SORTING_FILE}: {e}")

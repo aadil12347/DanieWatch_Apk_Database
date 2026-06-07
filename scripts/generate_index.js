@@ -277,8 +277,10 @@ async function run() {
     // Filter out any failed entries
     const finalPosts = results.filter(p => p !== undefined);
 
-    // Write index.json as minified positional array to save space
-    fs.writeFileSync(outputFile, JSON.stringify(finalPosts));
+    // Write index.json with one post array per line
+    const lines = finalPosts.map(post => JSON.stringify(post));
+    const jsonString = "[\n  " + lines.join(",\n  ") + "\n]";
+    fs.writeFileSync(outputFile, jsonString, 'utf8');
     console.log(`✅ index.json successfully updated! Total posts: ${finalPosts.length}`);
 
     // Copy to local Flutter app assets folder if it exists
