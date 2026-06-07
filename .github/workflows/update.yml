@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'streaming_links/**' # Runs when streaming links are added, modified, or deleted
+      - 'index.json'         # Runs when index.json is manually updated
   workflow_dispatch: # Allows manual trigger from GitHub UI
 
 permissions:
