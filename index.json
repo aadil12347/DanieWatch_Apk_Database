@@ -77,6 +77,17 @@
     "aired_date": "2026-06-03 19:05:00"
   },
   {
+    "title": "Spider-Noir (Season 1) (2026)",
+    "tmdb_id": 220102,
+    "imdb_id": "tt30460310",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "type": "series",
+    "aired_date": "2026-05-25 19:20:19"
+  },
+  {
     "title": "Mexico 86 (2026)",
     "tmdb_id": 1530510,
     "imdb_id": "tt37961742",
@@ -202,17 +213,6 @@
     ],
     "type": "movie",
     "aired_date": "2025-08-22 19:05:00"
-  },
-  {
-    "title": "Spider-Noir (Season 1) (2026)",
-    "tmdb_id": 220102,
-    "imdb_id": "tt30460310",
-    "languages": [
-      "Hindi",
-      "English"
-    ],
-    "type": "series",
-    "aired_date": "2026-05-25 19:20:19"
   },
   {
     "title": "FROM (Season 1 - 4) (2022)",
