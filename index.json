@@ -1,16 +1,5 @@
 [
   {
-    "title": "Summer House (2026)",
-    "tmdb_id": 1556616,
-    "imdb_id": "tt38897659",
-    "languages": [
-      "Hindi",
-      "Turkish"
-    ],
-    "type": "movie",
-    "aired_date": "2025-06-06 19:05:00"
-  },
-  {
     "title": "The Marked Woman (2026)",
     "tmdb_id": 1274706,
     "imdb_id": "tt32129938",
@@ -77,6 +66,17 @@
     "aired_date": "2026-06-03 19:05:00"
   },
   {
+    "title": "Spider-Noir (Season 1) (2026)",
+    "tmdb_id": 220102,
+    "imdb_id": "tt30460310",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "type": "series",
+    "aired_date": "2026-05-25 19:20:19"
+  },
+  {
     "title": "Mexico 86 (2026)",
     "tmdb_id": 1530510,
     "imdb_id": "tt37961742",
@@ -89,6 +89,27 @@
     "aired_date": "2026-05-21 19:05:00"
   },
   {
+    "title": "In the Grey (2026)",
+    "tmdb_id": 1122573,
+    "imdb_id": "tt27681354",
+    "languages": [
+      "English"
+    ],
+    "type": "movie",
+    "aired_date": "2026-05-13 19:20:19"
+  },
+  {
+    "title": "Off Campus (Season 1) (2026)",
+    "tmdb_id": 273240,
+    "imdb_id": "tt33546863",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "type": "series",
+    "aired_date": "2026-05-13 19:20:19"
+  },
+  {
     "title": "Obsession (2026)",
     "tmdb_id": 1339713,
     "imdb_id": "tt37287335",
@@ -96,7 +117,7 @@
       "English"
     ],
     "type": "movie",
-    "aired_date": "2026-05-13 19:05:01"
+    "aired_date": "2026-05-13 19:05:00"
   },
   {
     "title": "Obsession (2026)",
@@ -119,6 +140,27 @@
     "aired_date": "2026-05-06 19:05:00"
   },
   {
+    "title": "Hokum (2026)",
+    "tmdb_id": 1430077,
+    "imdb_id": "tt35672862",
+    "languages": [
+      "English"
+    ],
+    "type": "movie",
+    "aired_date": "2026-04-29 19:20:19"
+  },
+  {
+    "title": "The Highest Stakes (2026)",
+    "tmdb_id": 1444249,
+    "imdb_id": "tt36052167",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "type": "movie",
+    "aired_date": "2026-04-14 19:20:19"
+  },
+  {
     "title": "Hoppers (2026)",
     "tmdb_id": 1327819,
     "imdb_id": "tt26443616",
@@ -128,6 +170,16 @@
     ],
     "type": "movie",
     "aired_date": "2026-03-04 19:05:00"
+  },
+  {
+    "title": "Iron Lung (2026)",
+    "tmdb_id": 1116201,
+    "imdb_id": "tt27564844",
+    "languages": [
+      "English"
+    ],
+    "type": "movie",
+    "aired_date": "2026-01-30 19:20:19"
   },
   {
     "title": "Return to Silent Hill (2026)",
@@ -152,6 +204,17 @@
     "aired_date": "2025-08-22 19:05:00"
   },
   {
+    "title": "Summer House (2026)",
+    "tmdb_id": 1556616,
+    "imdb_id": "tt38897659",
+    "languages": [
+      "Hindi",
+      "Turkish"
+    ],
+    "type": "movie",
+    "aired_date": "2025-06-06 19:05:00"
+  },
+  {
     "title": "FROM (Season 1 - 4) (2022)",
     "tmdb_id": 124364,
     "imdb_id": "tt9813792",
@@ -161,6 +224,18 @@
     ],
     "type": "series",
     "aired_date": "2022-02-20 19:05:00"
+  },
+  {
+    "title": "Euphoria (Season 1 to 3) (2019)",
+    "tmdb_id": 85552,
+    "imdb_id": "tt8772296",
+    "languages": [
+      "English",
+      "With",
+      "Subtitles"
+    ],
+    "type": "series",
+    "aired_date": "2019-06-16 19:20:19"
   },
   {
     "title": "The Legend of Vox Machina (Season 3 - 4) (Season 1 to 4)",
