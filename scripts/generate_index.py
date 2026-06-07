@@ -99,7 +99,15 @@ def parse_date_to_timestamp(date_str):
     return 0
 
 def compute_sort_key(item):
-    aired_date = item.get("aired_date") or ""
+    if isinstance(item, list):
+        aired_date = item[8] if len(item) > 8 else ""
+        title = item[1] if len(item) > 1 else ""
+        tmdb_id = item[0] if len(item) > 0 else 0
+    else:
+        aired_date = item.get("aired_date") or ""
+        title = item.get("title") or ""
+        tmdb_id = item.get("tmdb_id") or 0
+        
     accurate = is_accurate_date(aired_date)
     
     if accurate:
@@ -113,12 +121,12 @@ def compute_sort_key(item):
         if match_year:
             year = int(match_year.group(1))
         else:
-            year = extract_year(item.get("title", ""))
+            year = extract_year(title)
         timestamp = 0
         
     tmdb_id = 0
     try:
-        tmdb_id = int(item.get("tmdb_id", 0))
+        tmdb_id = int(tmdb_id)
     except (ValueError, TypeError):
         pass
 
@@ -132,17 +140,26 @@ def compute_sort_key(item):
 def main():
     # 1. Read existing index.json to preserve manual edits or existing dates
     existing_dates = {}
+    existing_posts = {}
     if os.path.exists(INDEX_FILE):
         try:
             with open(INDEX_FILE, 'r', encoding='utf-8') as f:
                 data = json.load(f)
                 posts = data if isinstance(data, list) else data.get('posts', [])
                 for post in posts:
-                    tmdb_id = post.get('tmdb_id')
-                    post_type = post.get('type')
-                    if tmdb_id is not None and post_type is not None:
-                        key = (int(tmdb_id), post_type)
-                        existing_dates[key] = post.get('aired_date')
+                    if isinstance(post, list):
+                        tmdb_id = post[0]
+                        post_type = post[2]
+                        if tmdb_id is not None and post_type is not None:
+                            key = (int(tmdb_id), post_type)
+                            existing_posts[key] = post
+                            existing_dates[key] = post[8] if len(post) > 8 else None
+                    elif isinstance(post, dict):
+                        tmdb_id = post.get('tmdb_id') or post.get('id')
+                        post_type = post.get('type') or post.get('media_type')
+                        if tmdb_id is not None and post_type is not None:
+                            key = (int(tmdb_id), post_type)
+                            existing_dates[key] = post.get('aired_date') or post.get('release_date')
         except Exception as e:
             print(f"Warning: Could not parse existing {INDEX_FILE}: {e}")
 
@@ -219,15 +236,67 @@ def main():
                 aired_date = "0000-00-00"
 
         # Create entry
-        entry = {
-            "title": title,
-            "tmdb_id": tmdb_id,
-            "imdb_id": imdb_id,
-            "languages": languages,
-            "type": post_type,
-            "aired_date": aired_date
-        }
+        cached_post = existing_posts.get(key)
         
+        # Determine highest season and total episodes for series
+        highest_uploaded_season = 1
+        total_uploaded_episodes = 0
+        if post_type in ('tv', 'series'):
+            seasons_data = content.get('seasons')
+            if isinstance(seasons_data, list):
+                for s in seasons_data:
+                    s_num = int(s.get('season_number', 1))
+                    if s_num > highest_uploaded_season:
+                        highest_uploaded_season = s_num
+                    total_uploaded_episodes += len(s.get('episodes', []))
+            elif isinstance(seasons_data, dict):
+                for s_str in seasons_data.keys():
+                    try:
+                        s_num = int(s_str)
+                        if s_num > highest_uploaded_season:
+                            highest_uploaded_season = s_num
+                        season_data = seasons_data[s_str]
+                        episodes_set = set()
+                        for qual in season_data.keys():
+                            ep_list = season_data[qual]
+                            if isinstance(ep_list, list):
+                                for ep in ep_list:
+                                    if ep.get('episode_title'):
+                                        episodes_set.add(ep.get('episode_title'))
+                        total_uploaded_episodes += len(episodes_set)
+                    except ValueError:
+                        pass
+
+        # If cached, preserve existing fields but update title, languages, release date, and tv details
+        if cached_post and isinstance(cached_post, list):
+            entry = list(cached_post)
+            entry[1] = title
+            entry[2] = 'tv' if post_type == 'series' else post_type
+            entry[5] = languages
+            entry[7] = imdb_id or (entry[7] if len(entry) > 7 else "")
+            entry[8] = aired_date
+            if post_type in ('tv', 'series'):
+                while len(entry) < 11:
+                    entry.append(None)
+                entry[9] = highest_uploaded_season
+                entry[10] = total_uploaded_episodes
+        else:
+            # Create a new positional array
+            entry = [
+                tmdb_id,                                      # 0: id
+                title,                                        # 1: title
+                'tv' if post_type == 'series' else post_type, # 2: type
+                "en",                                         # 3: original_language
+                [],                                           # 4: country
+                languages,                                    # 5: language
+                [],                                           # 6: genres
+                imdb_id,                                      # 7: imdb_id
+                aired_date,                                   # 8: release_date
+            ]
+            if post_type in ('tv', 'series'):
+                entry.append(highest_uploaded_season)       # 9: latest_uploaded_season
+                entry.append(total_uploaded_episodes)       # 10: total_uploaded_episodes
+
         posts.append(entry)
 
         # If it doesn't have an accurate date, add to no_sorting
@@ -243,7 +312,7 @@ def main():
     # 5. Write index.json
     try:
         with open(INDEX_FILE, 'w', encoding='utf-8') as f:
-            json.dump(posts, f, ensure_ascii=False, indent=2)
+            json.dump(posts, f, ensure_ascii=False)
         print(f"Successfully wrote {len(posts)} posts to {INDEX_FILE}.")
     except Exception as e:
         print(f"Error writing {INDEX_FILE}: {e}")
@@ -251,7 +320,7 @@ def main():
     # 6. Write no_sorting.json
     try:
         with open(NO_SORTING_FILE, 'w', encoding='utf-8') as f:
-            json.dump(no_sorting_posts, f, ensure_ascii=False, indent=2)
+            json.dump(no_sorting_posts, f, ensure_ascii=False)
         print(f"Successfully wrote {len(no_sorting_posts)} items to {NO_SORTING_FILE}.")
     except Exception as e:
         print(f"Error writing {NO_SORTING_FILE}: {e}")
