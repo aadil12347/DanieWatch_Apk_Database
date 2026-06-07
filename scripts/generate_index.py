@@ -190,9 +190,9 @@ def main():
         key = (tmdb_id, post_type)
         aired_date = existing_dates.get(key)
 
-        # If not already present or if it is not accurate (e.g. YYYY-00-00)
-        if aired_date is None or not is_accurate_date(aired_date):
-            print(f"Fetching TMDB release info for: {title} (ID: {tmdb_id}, Type: {post_type})...")
+        # If it is a newly added post (not present in index.json)
+        if aired_date is None:
+            print(f"Fetching TMDB release info for new post: {title} (ID: {tmdb_id}, Type: {post_type})...")
             fetched_date = fetch_tmdb_release_date(tmdb_id, post_type, tmdb_cred)
             if fetched_date:
                 # Validate the fetched date format YYYY-MM-DD
@@ -208,8 +208,8 @@ def main():
                 print(f"  -> Could not fetch release date from TMDB.")
                 aired_date = None
         
-        # If still no valid aired_date
-        if not aired_date or not is_accurate_date(aired_date):
+        # If still no valid aired_date (i.e. new post but fetch failed)
+        if not aired_date:
             # Extract year from title/filename
             year = extract_year(title, file)
             # If we don't have accurate date, format as YYYY-00-00 or 0000-00-00
