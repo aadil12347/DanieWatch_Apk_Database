@@ -1,10 +1,10 @@
 name: Auto Update Index
+
 on:
   push:
     paths:
-      - 'streaming_links/**' # Runs when new streaming links are added
-      - 'Top 5/**'
-      - 'Top 10/**'
+      - 'streaming_links/**' # Runs when streaming links are added, modified, or deleted
+  workflow_dispatch: # Allows manual trigger from GitHub UI
 
 permissions:
   contents: write # Required for committing and pushing changes
@@ -13,33 +13,26 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          node-version: 20
+          fetch-depth: 0 # Fetch all history to ensure proper git tracking
 
-      # Step 1: Generate Posting Record (scans streaming_links/ directly)
-      - name: Generate Posting Record
-        run: node scripts/generate_posting_record.js
-
-      # Step 2: Find Duplicates
-      - name: Find Duplicates
-        run: node scripts/find_duplicates.js
-
-      # Step 3: Generate index (base_index + incremental updates + home sections)
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
       - name: Generate Index
-        run: python scripts/generate_index.py --repo-root .
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          TMDB_KEY: ${{ secrets.TMDB_KEY }}
+        run: python scripts/generate_index.py
 
-      # Step 4: Commit and Push
       - name: Commit and Push
         run: |
           git config --global user.name "DanieWatch Bot"
           git config --global user.email "bot@daniewatch.com"
-          git add posting_record.json duplicate_posts.md base_index.json updates/ index/
-          git commit -m "chore: auto-update index [skip ci]" || exit 0
+          git add index.json no_sorting.json
+          git commit -m "chore: auto-update index [skip ci]" || echo "No changes to commit"
           git push
