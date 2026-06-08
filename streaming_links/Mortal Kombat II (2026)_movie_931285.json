@@ -1,28 +1,29 @@
 {
-    "post_title": "Bandar (2026)",
+    "post_title": "Mortal Kombat II (2026)",
     "post_type": "movie",
-    "tmdb_id": "NOT_FOUND",
-    "imdb_id": "tt32389930",
+    "tmdb_id": 931285,
+    "imdb_id": "tt17490712",
     "languages": [
-        "Hindi"
+        "Hindi",
+        "English"
     ],
     "links": {
         "480p": [
             {
                 "episode_title": "Episode 1",
-                "link": "https://vcloud.zip/3699fyu95ym3ma6"
+                "link": "https://vcloud.zip/__z8d_b8aa10p01"
             }
         ],
         "720p": [
             {
                 "episode_title": "Episode 1",
-                "link": "https://vcloud.zip/hxfhyzzydhfimoh"
+                "link": "https://vcloud.zip/ty2yb_21xja2_r4"
             }
         ],
         "1080p": [
             {
                 "episode_title": "Episode 1",
-                "link": "https://vcloud.zip/v--rkrhfwrhktz3"
+                "link": "https://vcloud.zip/hhh1gbfc9pz_bb9"
             }
         ]
     }

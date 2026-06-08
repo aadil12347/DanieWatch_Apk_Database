@@ -1,323 +1,868 @@
 [
-  {
-    "title": "Summer House (2026)",
-    "tmdb_id": 1556616,
-    "imdb_id": "tt38897659",
-    "languages": [
+  [
+    1556616,
+    "Summer House",
+    "movie",
+    "tr",
+    [
+      "TR"
+    ],
+    [
       "Hindi",
       "Turkish"
     ],
-    "type": "movie",
-    "aired_date": "2026-06-06 19:05:00"
-  },
-  {
-    "title": "Brown (Season 1) (2026)",
-    "tmdb_id": 226560,
-    "imdb_id": "tt26766517",
-    "languages": [
+    [
+      "Romance",
+      "Family",
+      "Drama",
+      "Mystery"
+    ],
+    "tt38897659",
+    "2026-06-06 19:05:00"
+  ],
+  [
+    1293550,
+    "Bandar",
+    "movie",
+    "hi",
+    [
+      "IN"
+    ],
+    [
       "Hindi"
     ],
-    "type": "series",
-    "aired_date": "2026-06-05 20:17:29"
-  },
-  {
-    "title": "The Marked Woman (2026)",
-    "tmdb_id": 1274706,
-    "imdb_id": "tt32129938",
-    "languages": [
+    [
+      "Thriller"
+    ],
+    "tt32389930",
+    "2026-06-05 22:52:15"
+  ],
+  [
+    226560,
+    "Brown",
+    "tv",
+    "hi",
+    [
+      "IN"
+    ],
+    [
+      "Hindi"
+    ],
+    [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "tt26766517",
+    "2026-06-05 20:17:29"
+  ],
+  [
+    1274706,
+    "The Marked Woman",
+    "movie",
+    "es",
+    [
+      "ES"
+    ],
+    [
       "Hindi",
       "Spanish"
     ],
-    "type": "movie",
-    "aired_date": "2026-06-05 19:05:01"
-  },
-  {
-    "title": "Teach You a Lesson (Season 1) (2026)",
-    "tmdb_id": 276161,
-    "imdb_id": "tt34809853",
-    "languages": [
+    [
+      "Thriller",
+      "Crime"
+    ],
+    "tt32129938",
+    "2026-06-05 19:05:01"
+  ],
+  [
+    276161,
+    "Teach You a Lesson",
+    "tv",
+    "ko",
+    [
+      "KR"
+    ],
+    [
       "Hindi",
       "Korean"
     ],
-    "type": "series",
-    "aired_date": "2026-06-05 19:05:01"
-  },
-  {
-    "title": "Hai Jawani Toh Ishq Hona Hai (2026)",
-    "tmdb_id": 1308553,
-    "imdb_id": "tt30447822",
-    "languages": [
+    [
+      "Action & Adventure",
+      "Drama",
+      "Comedy"
+    ],
+    "tt34809853",
+    "2026-06-05 19:05:01"
+  ],
+  [
+    1308553,
+    "Hai Jawani Toh Ishq Hona Hai",
+    "movie",
+    "hi",
+    [
+      "IN"
+    ],
+    [
       "Hindi"
     ],
-    "type": "movie",
-    "aired_date": "2026-06-04 20:17:30"
-  },
-  {
-    "title": "Maa Behen (2026)",
-    "tmdb_id": 1628448,
-    "imdb_id": "tt33538438",
-    "languages": [
+    [
+      "Romance",
+      "Comedy"
+    ],
+    "tt30447822",
+    "2026-06-04 20:17:30"
+  ],
+  [
+    1628448,
+    "Maa Behen",
+    "movie",
+    "hi",
+    [
+      "IN"
+    ],
+    [
       "Hindi"
     ],
-    "type": "movie",
-    "aired_date": "2026-06-04 20:17:29"
-  },
-  {
-    "title": "Poldi (2026)",
-    "tmdb_id": 1693201,
-    "imdb_id": "tt42456008",
-    "languages": [
+    [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "tt33538438",
+    "2026-06-04 20:17:29"
+  ],
+  [
+    1693201,
+    "Poldi",
+    "movie",
+    "de",
+    [
+      "DE"
+    ],
+    [
       "Hindi",
       "German"
     ],
-    "type": "movie",
-    "aired_date": "2026-06-04 19:05:00"
-  },
-  {
-    "title": "The Murder of Rachel Nickell (2026)",
-    "tmdb_id": 1693002,
-    "imdb_id": "tt42192165",
-    "languages": [
+    [
+      "Documentary"
+    ],
+    "tt42456008",
+    "2026-06-04 19:05:00"
+  ],
+  [
+    1693002,
+    "The Murder of Rachel Nickell",
+    "movie",
+    "en",
+    [
+      "US"
+    ],
+    [
       "Hindi",
       "English"
     ],
-    "type": "movie",
-    "aired_date": "2026-06-04 19:05:00"
-  },
-  {
-    "title": "Office Romance (2026)",
-    "tmdb_id": 1358005,
-    "imdb_id": "tt33397980",
-    "languages": [
+    [
+      "Documentary",
+      "Crime"
+    ],
+    "tt42192165",
+    "2026-06-04 19:05:00"
+  ],
+  [
+    1358005,
+    "Office Romance",
+    "movie",
+    "en",
+    [
+      "US"
+    ],
+    [
       "Hindi",
       "English"
     ],
-    "type": "movie",
-    "aired_date": "2026-06-04 19:05:00"
-  },
-  {
-    "title": "Peddi (2026)",
-    "tmdb_id": 1057265,
-    "imdb_id": "tt23865918",
-    "languages": [
+    [
+      "Romance",
+      "Comedy"
+    ],
+    "tt33397980",
+    "2026-06-04 19:05:00"
+  ],
+  [
+    454639,
+    "Masters of the Universe",
+    "movie",
+    "en",
+    [
+      "US"
+    ],
+    [
       "Hindi"
     ],
-    "type": "movie",
-    "aired_date": "2026-06-03 20:17:30"
-  },
-  {
-    "title": "Michael Jackson: The Verdict (Season 1) (2026)",
-    "tmdb_id": 323111,
-    "imdb_id": "tt42873612",
-    "languages": [
+    [
+      "Action",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "tt0427340",
+    "2026-06-03 22:52:26"
+  ],
+  [
+    1057265,
+    "Peddi",
+    "movie",
+    "te",
+    [
+      "IN"
+    ],
+    [
+      "Hindi"
+    ],
+    [
+      "Action",
+      "Drama"
+    ],
+    "tt23865918",
+    "2026-06-03 20:17:30"
+  ],
+  [
+    323111,
+    "Michael Jackson: The Verdict",
+    "tv",
+    "en",
+    [
+      "US"
+    ],
+    [
       "Hindi",
       "English"
     ],
-    "type": "series",
-    "aired_date": "2026-06-03 19:05:00"
-  },
-  {
-    "title": "Spider-Noir (Season 1) (2026)",
-    "tmdb_id": 220102,
-    "imdb_id": "tt30460310",
-    "languages": [
+    [
+      "Documentary"
+    ],
+    "tt42873612",
+    "2026-06-03 19:05:00"
+  ],
+  [
+    1704309,
+    "Top Cop",
+    "movie",
+    "pa",
+    [
+      "IN"
+    ],
+    [
+      "Punjabi"
+    ],
+    [
+      "Thriller",
+      "Mystery",
+      "Crime"
+    ],
+    "tt39781126",
+    "2026-05-29 22:52:43"
+  ],
+  [
+    220102,
+    "Spider-Noir",
+    "tv",
+    "en",
+    [
+      "US"
+    ],
+    [
       "Hindi",
       "English"
     ],
-    "type": "series",
-    "aired_date": "2026-05-25 19:20:19"
-  },
-  {
-    "title": "Mexico 86 (2026)",
-    "tmdb_id": 1530510,
-    "imdb_id": "tt37961742",
-    "languages": [
+    [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "tt30460310",
+    "2026-05-25 19:20:19"
+  ],
+  [
+    1530510,
+    "Mexico 86",
+    "movie",
+    "es",
+    [
+      "MX"
+    ],
+    [
       "Hindi",
       "English",
       "Spanish"
     ],
-    "type": "movie",
-    "aired_date": "2026-05-21 19:05:00"
-  },
-  {
-    "title": "In the Grey (2026)",
-    "tmdb_id": 1122573,
-    "imdb_id": "tt27681354",
-    "languages": [
+    [
+      "Comedy",
+      "History",
+      "Drama"
+    ],
+    "tt37961742",
+    "2026-05-21 19:05:00"
+  ],
+  [
+    1367220,
+    "Karuppu",
+    "movie",
+    "ta",
+    [
+      "IN"
+    ],
+    [
+      "Hindi"
+    ],
+    [
+      "Action",
+      "Fantasy"
+    ],
+    "tt33988385",
+    "2026-05-14 22:52:25"
+  ],
+  [
+    1122573,
+    "In the Grey",
+    "movie",
+    "en",
+    [
+      "GB",
+      "US"
+    ],
+    [
       "English"
     ],
-    "type": "movie",
-    "aired_date": "2026-05-13 19:20:19"
-  },
-  {
-    "title": "Off Campus (Season 1) (2026)",
-    "tmdb_id": 273240,
-    "imdb_id": "tt33546863",
-    "languages": [
+    [
+      "Action",
+      "Thriller"
+    ],
+    "tt27681354",
+    "2026-05-13 19:20:19"
+  ],
+  [
+    273240,
+    "Off Campus",
+    "tv",
+    "en",
+    [
+      "US"
+    ],
+    [
       "Hindi",
       "English"
     ],
-    "type": "series",
-    "aired_date": "2026-05-13 19:20:19"
-  },
-  {
-    "title": "Obsession (2026)",
-    "tmdb_id": 1339713,
-    "imdb_id": "tt37287335",
-    "languages": [
+    [
+      "Drama"
+    ],
+    "tt33546863",
+    "2026-05-13 19:20:19"
+  ],
+  [
+    1339713,
+    "Obsession",
+    "movie",
+    "en",
+    [
+      "US"
+    ],
+    [
       "English"
     ],
-    "type": "movie",
-    "aired_date": "2026-05-13 19:05:00"
-  },
-  {
-    "title": "Obsession (2026)",
-    "tmdb_id": 1339713,
-    "imdb_id": "tt37287335",
-    "languages": [
+    [
+      "Horror",
+      "Thriller"
+    ],
+    "tt37287335",
+    "2026-05-13 19:05:00"
+  ],
+  [
+    931285,
+    "Mortal Kombat II",
+    "movie",
+    "en",
+    [
+      "US"
+    ],
+    [
+      "Hindi",
       "English"
     ],
-    "type": "movie",
-    "aired_date": "2026-05-13 19:05:00"
-  },
-  {
-    "title": "My Dearest Assassin (2026)",
-    "tmdb_id": 1630423,
-    "imdb_id": "tt39749979",
-    "languages": [
+    [
+      "Action",
+      "Fantasy",
+      "Adventure"
+    ],
+    "tt17490712",
+    "2026-05-06 22:52:28"
+  ],
+  [
+    1630423,
+    "My Dearest Assassin",
+    "movie",
+    "th",
+    [
+      "TH"
+    ],
+    [
       "Hindi"
     ],
-    "type": "movie",
-    "aired_date": "2026-05-06 19:05:00"
-  },
-  {
-    "title": "Patriot (2026)",
-    "tmdb_id": 1300501,
-    "imdb_id": "tt33412884",
-    "languages": [
+    [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "tt39749979",
+    "2026-05-06 19:05:00"
+  ],
+  [
+    1300501,
+    "Patriot",
+    "movie",
+    "ml",
+    [
+      "IN"
+    ],
+    [
       "Hindi"
     ],
-    "type": "movie",
-    "aired_date": "2026-05-01 20:17:30"
-  },
-  {
-    "title": "Hokum (2026)",
-    "tmdb_id": 1430077,
-    "imdb_id": "tt35672862",
-    "languages": [
+    [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "tt33412884",
+    "2026-05-01 20:17:30"
+  ],
+  [
+    1430077,
+    "Hokum",
+    "movie",
+    "en",
+    [
+      "US"
+    ],
+    [
       "English"
     ],
-    "type": "movie",
-    "aired_date": "2026-04-29 19:20:19"
-  },
-  {
-    "title": "Ginny Wedss Sunny 2 (2026)",
-    "tmdb_id": 1481041,
-    "imdb_id": "tt36277018",
-    "languages": [
+    [
+      "Horror"
+    ],
+    "tt35672862",
+    "2026-04-29 19:20:19"
+  ],
+  [
+    1481041,
+    "Ginny Wedss Sunny 2",
+    "movie",
+    "hi",
+    [
+      "IN"
+    ],
+    [
       "Hindi",
       "Dd5.1"
     ],
-    "type": "movie",
-    "aired_date": "2026-04-24 20:17:29"
-  },
-  {
-    "title": "The Highest Stakes (2026)",
-    "tmdb_id": 1444249,
-    "imdb_id": "tt36052167",
-    "languages": [
+    [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "tt36277018",
+    "2026-04-24 20:17:29"
+  ],
+  [
+    1444249,
+    "The Highest Stakes",
+    "movie",
+    "en",
+    [
+      "US"
+    ],
+    [
       "Hindi",
       "English"
     ],
-    "type": "movie",
-    "aired_date": "2026-04-14 19:20:19"
-  },
-  {
-    "title": "Dacoit (2026)",
-    "tmdb_id": 1220522,
-    "imdb_id": "tt30413898",
-    "languages": [
+    [
+      "Thriller"
+    ],
+    "tt36052167",
+    "2026-04-14 19:20:19"
+  ],
+  [
+    1220522,
+    "Dacoit",
+    "movie",
+    "te",
+    [
+      "IN"
+    ],
+    [
       "Hindi",
       "Dd5.1"
     ],
-    "type": "movie",
-    "aired_date": "2026-04-10 20:17:30"
-  },
-  {
-    "title": "Hoppers (2026)",
-    "tmdb_id": 1327819,
-    "imdb_id": "tt26443616",
-    "languages": [
+    [
+      "Action",
+      "Romance",
+      "Thriller"
+    ],
+    "tt30413898",
+    "2026-04-10 20:17:30"
+  ],
+  [
+    312474,
+    "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
+    "tv",
+    "ja",
+    [
+      "JP",
+      "US"
+    ],
+    [
+      "Hindi",
+      "English",
+      "Japanese"
+    ],
+    [
+      "Animation",
+      "Drama",
+      "War & Politics"
+    ],
+    "tt40548519",
+    "2026-04-05 22:52:30"
+  ],
+  [
+    260463,
+    "Daemons of the Shadow Realm",
+    "tv",
+    "ja",
+    [
+      "JP"
+    ],
+    [
+      "Hindi",
+      "English",
+      "Japanese"
+    ],
+    [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "tt37532356",
+    "2026-04-04 22:52:18"
+  ],
+  [
+    288659,
+    "Agents of the Four Seasons Dance of Spring",
+    "tv",
+    "ja",
+    [
+      "JP"
+    ],
+    [
+      "Hindi",
+      "English",
+      "Japanese"
+    ],
+    [
+      "Animation",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "tt39267868",
+    "2026-03-29 22:52:14"
+  ],
+  [
+    1658635,
+    "Panchhi 2",
+    "movie",
+    "pa",
+    [
+      "IN"
+    ],
+    [
+      "Punjabi"
+    ],
+    [
+      "Thriller"
+    ],
+    "tt41190712",
+    "2026-03-25 22:52:34"
+  ],
+  [
+    1327819,
+    "Hoppers",
+    "movie",
+    "en",
+    [
+      "US"
+    ],
+    [
       "Hindi",
       "English"
     ],
-    "type": "movie",
-    "aired_date": "2026-03-04 19:05:00"
-  },
-  {
-    "title": "Iron Lung (2026)",
-    "tmdb_id": 1116201,
-    "imdb_id": "tt27564844",
-    "languages": [
+    [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Science Fiction"
+    ],
+    "tt26443616",
+    "2026-03-04 19:05:00"
+  ],
+  [
+    1639763,
+    "Viyaah Kartaare Da",
+    "movie",
+    "pa",
+    [
+      "IN"
+    ],
+    [
+      "Punjabi"
+    ],
+    [
+      "Comedy",
+      "Romance"
+    ],
+    "tt39875252",
+    "2026-02-27 22:52:44"
+  ],
+  [
+    1116201,
+    "Iron Lung",
+    "movie",
+    "en",
+    [
+      "US"
+    ],
+    [
       "English"
     ],
-    "type": "movie",
-    "aired_date": "2026-01-30 19:20:19"
-  },
-  {
-    "title": "Return to Silent Hill (2026)",
-    "tmdb_id": 680493,
-    "imdb_id": "tt22868010",
-    "languages": [
+    [
+      "Horror",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "tt27564844",
+    "2026-01-30 19:20:19"
+  ],
+  [
+    680493,
+    "Return to Silent Hill",
+    "movie",
+    "en",
+    [
+      "GB",
+      "US"
+    ],
+    [
       "Hindi",
       "English"
     ],
-    "type": "movie",
-    "aired_date": "2026-01-21 19:05:00"
-  },
-  {
-    "title": "Beast of War (2025)",
-    "tmdb_id": 1244531,
-    "imdb_id": "tt29468874",
-    "languages": [
+    [
+      "Mystery",
+      "Drama",
+      "Horror"
+    ],
+    "tt22868010",
+    "2026-01-21 19:05:00"
+  ],
+  [
+    1244531,
+    "Beast of War",
+    "movie",
+    "en",
+    [
+      "AU"
+    ],
+    [
       "Hindi",
       "English"
     ],
-    "type": "movie",
-    "aired_date": "2025-08-22 19:05:00"
-  },
-  {
-    "title": "FROM (Season 1 - 4) (2022)",
-    "tmdb_id": 124364,
-    "imdb_id": "tt9813792",
-    "languages": [
+    [
+      "Thriller",
+      "Action",
+      "War",
+      "Horror"
+    ],
+    "tt29468874",
+    "2025-08-22 19:05:00"
+  ],
+  [
+    245842,
+    "Wistoria: Wand and Sword",
+    "tv",
+    "ja",
+    [
+      "JP"
+    ],
+    [
+      "Hindi",
+      "English",
+      "Japanese"
+    ],
+    [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "tt31889371",
+    "2024-07-07 22:52:44"
+  ],
+  [
+    94997,
+    "House of the Dragon",
+    "tv",
+    "en",
+    [
+      "US"
+    ],
+    [
+      "Hindi"
+    ],
+    [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "tt11198330",
+    "2022-08-21 22:52:23"
+  ],
+  [
+    123528,
+    "Skeleton Knight in Another World",
+    "tv",
+    "ja",
+    [
+      "JP"
+    ],
+    [
+      "Hindi",
+      "English",
+      "Japanese"
+    ],
+    [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "tt14476236",
+    "2022-04-07 22:52:39"
+  ],
+  [
+    124364,
+    "FROM",
+    "tv",
+    "en",
+    [
+      "US"
+    ],
+    [
       "Hindi",
       "English"
     ],
-    "type": "series",
-    "aired_date": "2022-02-20 19:05:00"
-  },
-  {
-    "title": "Euphoria (Season 1 to 3) (2019)",
-    "tmdb_id": 85552,
-    "imdb_id": "tt8772296",
-    "languages": [
+    [
+      "Mystery",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "tt9813792",
+    "2022-02-20 19:05:00"
+  ],
+  [
+    124364,
+    "FROM",
+    "tv",
+    "en",
+    [
+      "US"
+    ],
+    [
+      "Hindi",
+      "English"
+    ],
+    [
+      "Mystery",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "tt9813792",
+    "2022-02-20 19:05:00"
+  ],
+  [
+    878667,
+    "Chal Mera Putt 3",
+    "movie",
+    "pa",
+    [
+      "IN"
+    ],
+    [
+      "Punjabi"
+    ],
+    [
+      "Comedy",
+      "Drama"
+    ],
+    "tt14156154",
+    "2021-10-01 22:52:17"
+  ],
+  [
+    869062,
+    "Panchhi",
+    "movie",
+    "pa",
+    [
+      "IN"
+    ],
+    [
+      "Punjabi"
+    ],
+    [],
+    "tt15307258",
+    "2021-08-29 22:52:33"
+  ],
+  [
+    85552,
+    "Euphoria",
+    "tv",
+    "en",
+    [
+      "US"
+    ],
+    [
       "English",
       "With",
       "Subtitles"
     ],
-    "type": "series",
-    "aired_date": "2019-06-16 19:20:19"
-  },
-  {
-    "title": "The Legend of Vox Machina (Season 3 - 4) (Season 1 to 4)",
-    "tmdb_id": 680493,
-    "imdb_id": "tt11247158",
-    "languages": [
+    [
+      "Drama"
+    ],
+    "tt8772296",
+    "2019-06-16 19:20:19"
+  ],
+  [
+    32798,
+    "Hawaii Five-0",
+    "tv",
+    "en",
+    [
+      "US"
+    ],
+    [
       "Hindi",
       "English"
     ],
-    "type": "series",
-    "aired_date": "0000-00-00"
-  }
+    [
+      "Crime",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "tt1600194",
+    "2010-09-20 22:52:21"
+  ]
 ]
