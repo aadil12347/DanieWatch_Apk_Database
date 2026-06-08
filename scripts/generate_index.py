@@ -11,6 +11,9 @@ NO_SORTING_FILE = 'no_sorting.json'
 WITHOUT_METADATA_FILE = 'without_metadata_posts.json'
 STREAMING_LINKS_DIR = 'streaming_links'
 
+THIRD_PARTY_HOSTED_DIR = '3rd party hosted/third party providers posts'
+THIRD_PARTY_INDEX_FILE = '3rd party hosted/3rd_party_hosted_index.json'
+
 # Language fallback mapping (dubbed language -> (lang_code, [country_code]))
 LANGUAGE_FALLBACKS = {
     "turkish": ("tr", ["TR"]),
@@ -224,12 +227,11 @@ def custom_json_dumps(posts):
         lines.append("  " + line_str)
     return "[\n" + ",\n".join(lines) + "\n]"
 
-def main():
-    # 1. Read existing index.json to preserve manual edits and aired dates
+def read_existing_entries(index_file):
     existing_entries = {}
-    if os.path.exists(INDEX_FILE):
+    if index_file and os.path.exists(index_file):
         try:
-            with open(INDEX_FILE, 'r', encoding='utf-8') as f:
+            with open(index_file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
                 posts = data if isinstance(data, list) else data.get('posts', [])
                 for post in posts:
@@ -270,25 +272,29 @@ def main():
                             "aired_date": post[8]
                         }
         except Exception as e:
-            print(f"Warning: Could not parse existing {INDEX_FILE}: {e}")
+            print(f"Warning: Could not parse existing {index_file}: {e}")
+    return existing_entries
 
-    # 2. Scan streaming_links/ folder for JSON files
-    if not os.path.isdir(STREAMING_LINKS_DIR):
-        print(f"Error: Directory '{STREAMING_LINKS_DIR}' not found.")
+def generate_index_for_dir(source_dir, output_index_file, output_no_sorting_file=None, output_without_metadata_file=None, tmdb_cred=None):
+    print(f"\n--- Starting generation for {source_dir} -> {output_index_file} ---")
+    
+    # 1. Read existing index file to preserve manual edits and aired dates
+    existing_entries = read_existing_entries(output_index_file)
+
+    # 2. Scan source_dir for JSON files
+    if not os.path.isdir(source_dir):
+        print(f"Error: Directory '{source_dir}' not found.")
         return
-
-    # Load TMDB credential from environment (fallback to hardcoded app key if missing)
-    tmdb_cred = os.environ.get('TMDB_API_KEY') or os.environ.get('TMDB_KEY') or 'fc6d85b3839330e3458701b975195487'
 
     posts = []
     no_sorting_posts = []
     without_metadata_posts = []
 
-    files = [f for f in os.listdir(STREAMING_LINKS_DIR) if f.endswith('.json')]
-    print(f"Found {len(files)} files in '{STREAMING_LINKS_DIR}'.")
+    files = [f for f in os.listdir(source_dir) if f.endswith('.json')]
+    print(f"Found {len(files)} files in '{source_dir}'.")
 
     for file in files:
-        filepath = os.path.join(STREAMING_LINKS_DIR, file)
+        filepath = os.path.join(source_dir, file)
         try:
             with open(filepath, 'r', encoding='utf-8') as f:
                 content = json.load(f)
@@ -419,33 +425,60 @@ def main():
         if not is_accurate_date(aired_date):
             no_sorting_posts.append(entry)
 
-    # 3. Sort posts
+    # Sort posts
     posts.sort(key=compute_sort_key)
     no_sorting_posts.sort(key=compute_sort_key)
 
-    # 4. Write index.json (one post array per line)
+    # Write output_index_file
     try:
-        with open(INDEX_FILE, 'w', encoding='utf-8') as f:
+        # Create directory if it doesn't exist
+        out_dir = os.path.dirname(output_index_file)
+        if out_dir and not os.path.exists(out_dir):
+            os.makedirs(out_dir, exist_ok=True)
+            
+        with open(output_index_file, 'w', encoding='utf-8') as f:
             f.write(custom_json_dumps(posts))
-        print(f"Successfully wrote {len(posts)} posts to {INDEX_FILE}.")
+        print(f"Successfully wrote {len(posts)} posts to {output_index_file}.")
     except Exception as e:
-        print(f"Error writing {INDEX_FILE}: {e}")
+        print(f"Error writing {output_index_file}: {e}")
 
-    # 5. Write no_sorting.json (one post array per line)
-    try:
-        with open(NO_SORTING_FILE, 'w', encoding='utf-8') as f:
-            f.write(custom_json_dumps(no_sorting_posts))
-        print(f"Successfully wrote {len(no_sorting_posts)} items to {NO_SORTING_FILE}.")
-    except Exception as e:
-        print(f"Error writing {NO_SORTING_FILE}: {e}")
+    # Write output_no_sorting_file
+    if output_no_sorting_file:
+        try:
+            with open(output_no_sorting_file, 'w', encoding='utf-8') as f:
+                f.write(custom_json_dumps(no_sorting_posts))
+            print(f"Successfully wrote {len(no_sorting_posts)} items to {output_no_sorting_file}.")
+        except Exception as e:
+            print(f"Error writing {output_no_sorting_file}: {e}")
 
-    # 6. Write without_metadata_posts.json
-    try:
-        with open(WITHOUT_METADATA_FILE, 'w', encoding='utf-8') as f:
-            json.dump(without_metadata_posts, f, ensure_ascii=False, indent=2)
-        print(f"Successfully wrote {len(without_metadata_posts)} items to {WITHOUT_METADATA_FILE}.")
-    except Exception as e:
-        print(f"Error writing {WITHOUT_METADATA_FILE}: {e}")
+    # Write output_without_metadata_file
+    if output_without_metadata_file:
+        try:
+            with open(output_without_metadata_file, 'w', encoding='utf-8') as f:
+                json.dump(without_metadata_posts, f, ensure_ascii=False, indent=2)
+            print(f"Successfully wrote {len(without_metadata_posts)} items to {output_without_metadata_file}.")
+        except Exception as e:
+            print(f"Error writing {output_without_metadata_file}: {e}")
+
+def main():
+    # Load TMDB credential from environment (fallback to hardcoded app key if missing)
+    tmdb_cred = os.environ.get('TMDB_API_KEY') or os.environ.get('TMDB_KEY') or 'fc6d85b3839330e3458701b975195487'
+
+    # Generate index for standard streaming links
+    generate_index_for_dir(
+        source_dir=STREAMING_LINKS_DIR,
+        output_index_file=INDEX_FILE,
+        output_no_sorting_file=NO_SORTING_FILE,
+        output_without_metadata_file=WITHOUT_METADATA_FILE,
+        tmdb_cred=tmdb_cred
+    )
+
+    # Generate index for 3rd party hosted posts
+    generate_index_for_dir(
+        source_dir=THIRD_PARTY_HOSTED_DIR,
+        output_index_file=THIRD_PARTY_INDEX_FILE,
+        tmdb_cred=tmdb_cred
+    )
 
 if __name__ == '__main__':
     main()

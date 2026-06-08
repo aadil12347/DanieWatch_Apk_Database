@@ -4,7 +4,9 @@ on:
   push:
     paths:
       - 'streaming_links/**' # Runs when streaming links are added, modified, or deleted
+      - '3rd party hosted/third party providers posts/**' # Runs when 3rd party posts are added, modified, or deleted
       - 'index.json'         # Runs when index.json is manually updated
+      - '3rd party hosted/3rd_party_hosted_index.json' # Runs when 3rd party index is manually updated
   workflow_dispatch: # Allows manual trigger from GitHub UI
 
 permissions:
@@ -34,6 +36,6 @@ jobs:
         run: |
           git config --global user.name "DanieWatch Bot"
           git config --global user.email "bot@daniewatch.com"
-          git add index.json no_sorting.json
+          git add index.json no_sorting.json "3rd party hosted/3rd_party_hosted_index.json"
           git commit -m "chore: auto-update index [skip ci]" || echo "No changes to commit"
           git push
