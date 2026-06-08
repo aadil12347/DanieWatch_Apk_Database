@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD
   [
     1556616,
     "Summer House",
@@ -865,4 +866,51 @@
     "tt1600194",
     "2010-09-20 22:52:21"
   ]
+=======
+  [1556616, "Summer House (2026)", "movie", "en", [], ["Hindi", "Turkish"], [], "tt38897659", "2026-06-06 17:17:33"],
+  [1293550, "Bandar (2026)", "movie", "en", [], ["Hindi"], [], "tt32389930", "2026-06-05 17:17:33"],
+  [276161, "Teach You a Lesson (Season 1) (2026)", "tv", "en", [], ["Hindi", "Korean"], [], "tt34809853", "2026-06-05 17:17:33", 1, 10],
+  [1274706, "The Marked Woman (2026)", "movie", "en", [], ["Hindi", "Spanish"], [], "tt32129938", "2026-06-05 17:17:33"],
+  [226560, "Brown (Season 1) (2026)", "tv", "en", [], ["Hindi"], [], "tt26766517", "2026-06-05 17:17:32", 1, 7],
+  [1693002, "The Murder of Rachel Nickell (2026)", "movie", "en", [], ["Hindi", "English"], [], "tt42192165", "2026-06-04 17:17:33"],
+  [1358005, "Office Romance (2026)", "movie", "en", [], ["Hindi", "English"], [], "tt33397980", "2026-06-04 17:17:33"],
+  [1628448, "Maa Behen (2026)", "movie", "en", [], ["Hindi"], [], "tt33538438", "2026-06-04 17:17:32"],
+  [1693201, "Poldi (2026)", "movie", "en", [], ["Hindi", "German"], [], "tt42456008", "2026-06-04 17:17:32"],
+  [1308553, "Hai Jawani Toh Ishq Hona Hai (2026)", "movie", "en", [], ["Hindi"], [], "tt30447822", "2026-06-04 17:17:32"],
+  [454639, "Masters of the Universe (2026)", "movie", "en", [], ["Hindi"], [], "tt0427340", "2026-06-03 17:17:33"],
+  [1057265, "Peddi (2026)", "movie", "en", [], ["Hindi"], [], "tt23865918", "2026-06-03 17:17:32"],
+  [323111, "Michael Jackson: The Verdict (Season 1) (2026)", "tv", "en", [], ["Hindi", "English"], [], "tt42873612", "2026-06-03 17:17:32", 1, 3],
+  [1704309, "Top Cop (2026)", "movie", "en", [], ["Punjabi"], [], "tt39781126", "2026-05-29 17:17:32"],
+  [220102, "Spider-Noir (Season 1) (2026)", "tv", "en", [], ["Hindi", "English"], [], "tt30460310", "2026-05-25 17:17:32", 1, 8],
+  [1530510, "Mexico 86 (2026)", "movie", "en", [], ["Hindi", "English", "Spanish"], [], "tt37961742", "2026-05-21 17:17:31"],
+  [1367220, "Karuppu (2026)", "movie", "en", [], ["Hindi"], [], "tt33988385", "2026-05-14 17:17:33"],
+  [1122573, "In the Grey (2026)", "movie", "en", [], ["English"], [], "tt27681354", "2026-05-13 17:17:33"],
+  [1339713, "Obsession (2026)", "movie", "en", [], ["English"], [], "tt37287335", "2026-05-13 17:17:33"],
+  [273240, "Off Campus (Season 1) (2026)", "tv", "en", [], ["Hindi", "English"], [], "tt33546863", "2026-05-13 17:17:32", 1, 8],
+  [1630423, "My Dearest Assassin (2026)", "movie", "en", [], ["Hindi"], [], "tt39749979", "2026-05-06 17:17:33"],
+  [931285, "Mortal Kombat II (2026)", "movie", "en", [], ["Hindi", "English"], [], "tt17490712", "2026-05-06 17:17:32"],
+  [1300501, "Patriot (2026)", "movie", "en", [], ["Hindi"], [], "tt33412884", "2026-05-01 17:17:33"],
+  [1430077, "Hokum (2026)", "movie", "en", [], ["English"], [], "tt35672862", "2026-04-29 17:17:33"],
+  [1481041, "Ginny Wedss Sunny 2 (2026)", "movie", "en", [], ["Hindi", "Dd5.1"], [], "tt36277018", "2026-04-24 17:17:31"],
+  [1444249, "The Highest Stakes (2026)", "movie", "en", [], ["Hindi", "English"], [], "tt36052167", "2026-04-14 17:17:33"],
+  [1220522, "Dacoit (2026)", "movie", "en", [], ["Hindi", "Dd5.1"], [], "tt30413898", "2026-04-10 17:17:33"],
+  [312474, "NIPPON SANGOKU: The Three Nations of the Crimson Sun (Season 1) (2026)", "tv", "en", [], ["Hindi", "English", "Japanese"], [], "tt40548519", "2026-04-05 17:17:32", 1, 10],
+  [260463, "Daemons of the Shadow Realm (Season 1) (2026)", "tv", "en", [], ["Hindi", "English", "Japanese"], [], "tt37532356", "2026-04-04 17:17:31", 1, 7],
+  [288659, "Agents of the Four Seasons Dance of Spring (Season 1) (2026)", "tv", "en", [], ["Hindi", "English", "Japanese"], [], "tt39267868", "2026-03-29 17:17:32", 1, 8],
+  [1327819, "Hoppers (2026)", "movie", "en", [], ["Hindi", "English"], [], "tt26443616", "2026-03-04 17:17:33"],
+  [1639763, "Viyaah Kartaare Da (2026)", "movie", "en", [], ["Punjabi"], [], "tt39875252", "2026-02-27 17:17:31"],
+  [1116201, "Iron Lung (2026)", "movie", "en", [], ["English"], [], "tt27564844", "2026-01-30 17:17:31"],
+  [680493, "Return to Silent Hill (2026)", "movie", "en", [], ["Hindi", "English"], [], "tt22868010", "2026-01-21 17:17:32"],
+  [1244531, "Beast of War (2025)", "movie", "en", [], ["Hindi", "English"], [], "tt29468874", "2025-08-22 17:17:33"],
+  [245842, "Wistoria: Wand and Sword (Season 1 to 2) (2024)", "tv", "en", [], ["Hindi", "English", "Japanese"], [], "tt31889371", "2024-07-07 17:17:31", 2, 18],
+  [94997, "House of the Dragon (Season 1 to 2) (2022)", "tv", "en", [], ["Hindi"], [], "tt11198330", "2022-08-21 17:17:33", 2, 18],
+  [123528, "Skeleton Knight in Another World (Season 1) (2022)", "tv", "en", [], ["Hindi", "English", "Japanese"], [], "tt14476236", "2022-04-07 17:17:32", 1, 2],
+  [124364, "FROM (Season 1 to 4) (2022)", "tv", "en", [], ["Hindi", "English"], [], "tt9813792", "2022-02-20 17:17:32", 4, 37],
+  [124364, "FROM (Season 1 - 4) (2022)", "tv", "en", [], ["Hindi", "English"], [], "tt9813792", "2022-02-20 17:17:32", 4, 37],
+  [878667, "Chal Mera Putt 3 (2021)", "movie", "en", [], ["Punjabi"], [], "tt14156154", "2021-10-01 17:17:32"],
+  [869062, "Panchhi (2021)", "movie", "en", [], ["Punjabi"], [], "tt15307258", "2021-08-29 17:17:31"],
+  [85552, "Euphoria (Season 1 to 3) (2019)", "tv", "en", [], ["English", "With", "Subtitles"], [], "tt8772296", "2019-06-16 17:17:32", 3, 8],
+  [32798, "Hawaii Five-0 (Season 1 to 3) (2010)", "tv", "en", [], ["Hindi", "English"], [], "tt1600194", "2010-09-20 17:17:33", 3, 71],
+  [680493, "The Legend of Vox Machina (Season 3 - 4) (Season 1 to 4)", "tv", "en", [], ["Hindi", "English"], [], "tt11247158", "0000-00-00", 3, 36]
+>>>>>>> 75394528750b80c42ceb74d7118dfbbb53c7fe90
 ]
