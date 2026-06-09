@@ -1,0 +1,46 @@
+{
+    "post_title": "Kara (2026)",
+    "post_type": "movie",
+    "tmdb_id": 1433117,
+    "imdb_id": "tt37458112",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2dbdheohebcs1pn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1q1iz0zq0m6v6gi"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bvfsvdvif3lccf0"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v85bvw-gg1h5v4v"
+            }
+        ],
+        "720p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h7ac2ygyva1agh-"
+            }
+        ],
+        "2160p 4K": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dms1wxdr06gmbl5"
+            }
+        ]
+    }
+}

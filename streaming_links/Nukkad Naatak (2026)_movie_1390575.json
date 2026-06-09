@@ -1,0 +1,28 @@
+{
+    "post_title": "Nukkad Naatak (2026)",
+    "post_type": "movie",
+    "tmdb_id": 1390575,
+    "imdb_id": "tt28769460",
+    "languages": [
+        "Hindi",
+        "Dd5.1"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z8hg_ovmuu81mt3"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iqwp55qi5b-qriz"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e1dlb522o7bbmov"
+            }
+        ]
+    }
+}

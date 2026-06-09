@@ -1,0 +1,46 @@
+{
+    "post_title": "Thrash (2026)",
+    "post_type": "movie",
+    "tmdb_id": 1290417,
+    "imdb_id": "tt32362890",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6phmp7m6mlyb6t_"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1qm1yhbpgunkpio"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9ydhuj9dx1ve9aw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hge_plzfzzey9xa"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/unnuc1z5nnfezun"
+            }
+        ],
+        "2160p 4K": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9wor7x_oi2jwi_2"
+            }
+        ]
+    }
+}

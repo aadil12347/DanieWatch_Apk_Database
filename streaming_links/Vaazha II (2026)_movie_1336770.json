@@ -1,0 +1,41 @@
+{
+    "post_title": "Vaazha II (2026)",
+    "post_type": "movie",
+    "tmdb_id": 1336770,
+    "imdb_id": "tt33245761",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cqpnpma_azr1rlp"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7ak6no11ojv14ib"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gi7xxssrlsm6qmx"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q7081feimyybgqg"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/898yq--q01y04y9"
+            }
+        ]
+    }
+}

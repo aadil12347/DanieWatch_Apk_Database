@@ -1,0 +1,30 @@
+{
+    "post_title": "Lockdown (2026)",
+    "post_type": "movie",
+    "tmdb_id": 1298092,
+    "imdb_id": "tt32278140",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g9nqrnijhv_bbeh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6tqt4vuv26z0q4w"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/d_6cmc2r99xqoxa"
+            }
+        ]
+    }
+}

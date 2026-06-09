@@ -1,0 +1,36 @@
+{
+    "post_title": "Happy Raj (2026)",
+    "post_type": "movie",
+    "tmdb_id": 1518247,
+    "imdb_id": "tt39122419",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ij6j0u0cub5n9zh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7ii7t7isfosk1zo"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nvuwuuq9q3wulqu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fhhljv1nfqhy5l-"
+            }
+        ]
+    }
+}

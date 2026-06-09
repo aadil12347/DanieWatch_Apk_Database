@@ -1,0 +1,52 @@
+{
+    "post_title": "The Wrecking Crew (2026)",
+    "post_type": "movie",
+    "tmdb_id": 1168190,
+    "imdb_id": "tt33046197",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/asx7pp1n5dxwx-s"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/80tw3qpxlsxmtzp"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ymoydw-yhwuqs-g"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ilqbjss-shywjqy"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_peap2csna_vemm"
+            }
+        ],
+        "1080p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/axyybrsnywbsarb"
+            }
+        ],
+        "2160p 4K": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gtckgbr5pj3t6k_"
+            }
+        ]
+    }
+}

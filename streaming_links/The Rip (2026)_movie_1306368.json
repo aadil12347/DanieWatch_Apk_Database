@@ -1,0 +1,35 @@
+{
+    "post_title": "The Rip (2026)",
+    "post_type": "movie",
+    "tmdb_id": 1306368,
+    "imdb_id": "tt32642706",
+    "languages": [
+        "Hindi",
+        "Dd5.1",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tz1l9jqfzz-earz"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bfh2e011bbebqhf"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/33jjd11do7jk1pr"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ncwmbwnn5nuxuwn"
+            }
+        ]
+    }
+}

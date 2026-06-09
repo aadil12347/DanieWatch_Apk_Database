@@ -1,0 +1,36 @@
+{
+    "post_title": "Kaalidas 2 (2026)",
+    "post_type": "movie",
+    "tmdb_id": 1445033,
+    "imdb_id": "tt32873023",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mx1haxghn4tkegs"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/djs6xrxtst_zbnw"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/btgdgmmfhgdy6s6"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/juewncnfmuffmmx"
+            }
+        ]
+    }
+}

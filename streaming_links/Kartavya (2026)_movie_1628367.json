@@ -1,0 +1,43 @@
+{
+    "post_title": "Kartavya (2026)",
+    "post_type": "movie",
+    "tmdb_id": 1628367,
+    "imdb_id": "tt39664733",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6l166cl6-1mc_dg"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m119-v3z5-0-tca"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e11awpya1i1pakj"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yn-d1tgs1zjsbyg"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/umuxwnojos3rwoi"
+            }
+        ],
+        "2160p 4K HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cyo91ko9y9sc9oc"
+            }
+        ]
+    }
+}
