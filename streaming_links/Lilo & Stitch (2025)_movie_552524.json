@@ -1,0 +1,36 @@
+{
+    "post_title": "Lilo & Stitch (2025)",
+    "post_type": "movie",
+    "tmdb_id": 552524,
+    "imdb_id": "tt11655566",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qx9hj43huyv9y96"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cfa1iigpfmii1gm"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2t223_f1qenknqu"
+            }
+        ],
+        "720p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j1xvawuxwgzgxux"
+            }
+        ]
+    }
+}

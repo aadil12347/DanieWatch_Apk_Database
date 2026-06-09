@@ -1,0 +1,31 @@
+{
+    "post_title": "Good News (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1296404,
+    "imdb_id": "tt33550069",
+    "languages": [
+        "Hindi",
+        "English",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6cowv1luf4mp51m"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2lbddd3hxi126jb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jopir1ynyptnr9i"
+            }
+        ]
+    }
+}

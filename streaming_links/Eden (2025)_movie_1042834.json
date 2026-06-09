@@ -1,0 +1,36 @@
+{
+    "post_title": "Eden (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1042834,
+    "imdb_id": "tt23149780",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h1gvadqvkydpa3z"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zubpmcrzcimcpzi"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_qtanxuyfytfrxe"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nkr7prdtpi-kffi"
+            }
+        ]
+    }
+}

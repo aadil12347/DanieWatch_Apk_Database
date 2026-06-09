@@ -1,0 +1,34 @@
+{
+    "post_title": "Midnight Sun (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1000520,
+    "imdb_id": "tt26736926",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s1cnin14j1a1daj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bxuulybcbyz7us-"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/le1pcifffz1-nme"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3wqz01vw7ttni1x"
+            }
+        ]
+    }
+}

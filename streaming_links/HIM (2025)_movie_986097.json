@@ -1,0 +1,34 @@
+{
+    "post_title": "HIM (2025)",
+    "post_type": "movie",
+    "tmdb_id": 986097,
+    "imdb_id": "tt20990442",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2011ffegzpp044n"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3fvji5df_27bpvv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/l1ovevdued5lvl5"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wec6zluefl9v9f9"
+            }
+        ]
+    }
+}

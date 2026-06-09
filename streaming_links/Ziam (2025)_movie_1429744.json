@@ -1,0 +1,40 @@
+{
+    "post_title": "Ziam (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1429744,
+    "imdb_id": "tt35669009",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dazzbdgwjo4chah"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/l147fa2iirgsbig"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c-aca4-4egci4c4"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x2eax82gphhmjqx"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9shvvyb0cwc91cp"
+            }
+        ]
+    }
+}

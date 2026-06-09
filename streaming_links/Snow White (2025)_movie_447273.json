@@ -1,0 +1,36 @@
+{
+    "post_title": "Snow White (2025)",
+    "post_type": "movie",
+    "tmdb_id": 447273,
+    "imdb_id": "tt6208148",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mmcgl6n1elmxxdm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zjgwgzjbdjafnvj"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/p03emi50505m5gx"
+            }
+        ],
+        "720p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m3pkrfkslsqdmr7"
+            }
+        ]
+    }
+}

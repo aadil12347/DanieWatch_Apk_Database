@@ -1,0 +1,34 @@
+{
+    "post_title": "Redux Redux (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1340110,
+    "imdb_id": "tt33295741",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ijf0rw16ffoiicf"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qqduceddn2dqmkf"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/279gfu39p100qiw"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1r19oih1_rvvfr1"
+            }
+        ]
+    }
+}

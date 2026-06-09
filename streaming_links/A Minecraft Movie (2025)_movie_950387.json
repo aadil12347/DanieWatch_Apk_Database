@@ -1,0 +1,42 @@
+{
+    "post_title": "A Minecraft Movie (2025)",
+    "post_type": "movie",
+    "tmdb_id": 950387,
+    "imdb_id": "tt3566834",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3u7-7w1a1oq3hj4"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yfz3dr1dekdrpeu"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qmllkadf4l8j88l"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qoqzrmmkkjqbnzn"
+            }
+        ],
+        "2160p 4K 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ulttcllvbhvvbun"
+            }
+        ]
+    }
+}

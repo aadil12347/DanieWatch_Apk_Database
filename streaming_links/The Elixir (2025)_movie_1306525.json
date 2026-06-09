@@ -1,0 +1,49 @@
+{
+    "post_title": "The Elixir (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1306525,
+    "imdb_id": "tt32643830",
+    "languages": [
+        "Hindi",
+        "English",
+        "Indonesian"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n1figvqdyb5bqgc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1nnr33pkurnddqw"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_uz4gwqqh_fsq51"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/311fpnjfoznntp8"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ljcszchlhs6xzz6"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1t1i1nnhr12tule"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6nig_ngbjur4ong"
+            }
+        ]
+    }
+}
