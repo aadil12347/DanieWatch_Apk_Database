@@ -41,6 +41,120 @@ async function getTMDBMetadata(id, type) {
     }
 }
 
+// Fetch the latest episode air date of the specified season from TMDB (episodes <= today)
+async function getTMDBSeasonAirDate(tvId, seasonNumber) {
+    if (!tvId || !TMDB_API_KEY) return null;
+    try {
+        const url = `https://api.themoviedb.org/3/tv/${tvId}/season/${seasonNumber}?api_key=${TMDB_API_KEY}`;
+        const response = await fetch(url);
+        if (!response.ok) return null;
+        const data = await response.json();
+        
+        if (data && data.episodes && Array.isArray(data.episodes)) {
+            const todayStr = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
+            let latestAirDate = null;
+            for (const ep of data.episodes) {
+                if (ep.air_date) {
+                    if (ep.air_date <= todayStr) {
+                        if (!latestAirDate || ep.air_date > latestAirDate) {
+                            latestAirDate = ep.air_date;
+                        }
+                    }
+                }
+            }
+            if (latestAirDate) return latestAirDate;
+        }
+        return data.air_date || null;
+    } catch (err) {
+        console.error(`Error fetching TMDB season ${seasonNumber} for TV ${tvId}:`, err.message);
+        return null;
+    }
+}
+
+// Helper functions for sorting matching generate_index.py logic
+function isAccurateDate(dateStr) {
+    if (!dateStr) return false;
+    const match = dateStr.match(/^(\d{4})-(\d{2})-(\d{2})/);
+    if (!match) return false;
+    const month = parseInt(match[2], 10);
+    const day = parseInt(match[3], 10);
+    return month >= 1 && month <= 12 && day >= 1 && day <= 31;
+}
+
+function parseDateToTimestamp(dateStr) {
+    if (!dateStr) return 0;
+    const cleaned = dateStr.trim();
+    let d = new Date(cleaned);
+    if (!isNaN(d.getTime())) {
+        return Math.floor(d.getTime() / 1000);
+    }
+    const match = cleaned.match(/^(\d{4})-(\d{2})-(\d{2})/);
+    if (match) {
+        const y = parseInt(match[1], 10);
+        const m = parseInt(match[2], 10) - 1;
+        const day = parseInt(match[3], 10);
+        d = new Date(y, m, day);
+        if (!isNaN(d.getTime())) {
+            return Math.floor(d.getTime() / 1000);
+        }
+    }
+    return 0;
+}
+
+function extractYear(title, filename) {
+    let match = (title || "").match(/\((\d{4})\)/);
+    if (match) return parseInt(match[1], 10);
+    if (filename) {
+        match = filename.match(/\((\d{4})\)/);
+        if (match) return parseInt(match[1], 10);
+    }
+    match = (title || "").match(/\b(19\d{2}|20\d{2})\b/);
+    if (match) return parseInt(match[1], 10);
+    if (filename) {
+        match = filename.match(/\b(19\d{2}|20\d{2})\b/);
+        if (match) return parseInt(match[1], 10);
+    }
+    return 0;
+}
+
+function getSortKey(item) {
+    const airedDate = item[8] || "";
+    const accurate = isAccurateDate(airedDate);
+    let year = 0;
+    let timestamp = 0;
+    if (accurate) {
+        const match = airedDate.match(/^(\d{4})/);
+        year = parseInt(match[1], 10);
+        timestamp = parseDateToTimestamp(airedDate);
+    } else {
+        const matchYear = airedDate.match(/^(\d{4})/);
+        if (matchYear) {
+            year = parseInt(matchYear[1], 10);
+        } else {
+            year = extractYear(item[1]);
+        }
+        timestamp = 0;
+    }
+    
+    const code = item[0];
+    let idSort = 0;
+    if (typeof code === 'number') {
+        idSort = -code;
+    } else if (typeof code === 'string' && code.startsWith('tt')) {
+        const parsed = parseInt(code.substring(2), 10);
+        if (!isNaN(parsed)) {
+            idSort = -parsed;
+        }
+    }
+    return {
+        year: year,
+        accurate: accurate ? 0 : 1,
+        timestamp: timestamp,
+        idSort: idSort
+    };
+}
+
+
 // Convert a cached positional array back into a metadata object for easy merging/checking
 function getMetaFromCached(p) {
     if (!p || !Array.isArray(p)) return null;
@@ -221,30 +335,58 @@ async function run() {
                     }
                 }
 
-                // Check if we need to force a TMDB update because a new season was added
-                let needsSeasonUpdate = false;
-                if ((type === 'tv' || type === 'series') && (!meta || meta.latest_uploaded_season !== highestUploadedSeason)) {
-                    needsSeasonUpdate = true;
+                // Check if we need to force a TMDB update because a new season or episode was added, or if cached metadata is incomplete
+                let needsTMDBUpdate = false;
+                if (!meta || !meta.country || !meta.genres || meta.genres.length === 0 || meta.imdb_id === undefined || !meta.release_date) {
+                    needsTMDBUpdate = true;
+                } else if (type === 'tv' || type === 'series') {
+                    if (meta.latest_uploaded_season !== highestUploadedSeason || meta.total_uploaded_episodes !== totalUploadedEpisodes) {
+                        needsTMDBUpdate = true;
+                    }
                 }
 
-                // Re-fetch if necessary fields are missing OR if a new season was added
-                if (!meta || !meta.country || !meta.genres || meta.genres.length === 0 || meta.imdb_id === undefined || !meta.release_date || needsSeasonUpdate) {
+                // Re-fetch if necessary fields are missing OR if a new season/episode was added
+                if (needsTMDBUpdate) {
                     const tmdbData = await getTMDBMetadata(tmdbId, type);
                     if (tmdbData) {
                         meta = { ...meta, ...tmdbData }; // Merge to keep existing meta fields while updating
                     }
                 }
 
-                // Calculate correct year/date for TV Shows
+                // Calculate correct year/date for TV Shows and Movies
                 let finalReleaseDate = meta?.release_date || "";
-                if ((type === 'tv' || type === 'series') && meta && meta.seasons) {
-                    // Try to find the air_date of the highest uploaded season
-                    const tmdbSeason = meta.seasons.find(s => s.season_number === highestUploadedSeason);
-                    if (tmdbSeason && tmdbSeason.air_date) {
-                        finalReleaseDate = tmdbSeason.air_date;
+                if ((type === 'tv' || type === 'series') && meta) {
+                    if (needsTMDBUpdate) {
+                        // Fetch the latest episode air date for the highest uploaded season
+                        const seasonAirDate = await getTMDBSeasonAirDate(tmdbId, highestUploadedSeason);
+                        const currentTime = new Date().toTimeString().split(' ')[0]; // HH:MM:SS
+                        if (seasonAirDate) {
+                            finalReleaseDate = `${seasonAirDate} ${currentTime}`;
+                        } else {
+                            // Fallback to the season's air_date from TV show details
+                            const tmdbSeason = meta.seasons ? meta.seasons.find(s => s.season_number === highestUploadedSeason) : null;
+                            if (tmdbSeason && tmdbSeason.air_date) {
+                                finalReleaseDate = `${tmdbSeason.air_date} ${currentTime}`;
+                            } else if (meta.release_date) {
+                                finalReleaseDate = `${meta.release_date.split(' ')[0]} ${currentTime}`;
+                            }
+                        }
+                    } else {
+                        // Preserve the cached release date exactly (with its original date & time)
+                        finalReleaseDate = meta.release_date || "";
                     }
-                } else if (!finalReleaseDate && content.year) {
-                    finalReleaseDate = `${content.year}-01-01`;
+                } else {
+                    // For movies
+                    if (needsTMDBUpdate) {
+                        if (meta && meta.release_date) {
+                            const currentTime = new Date().toTimeString().split(' ')[0];
+                            finalReleaseDate = `${meta.release_date.split(' ')[0]} ${currentTime}`;
+                        } else if (content.year) {
+                            finalReleaseDate = `${content.year}-01-01 12:00:00`;
+                        }
+                    } else {
+                        finalReleaseDate = meta?.release_date || "";
+                    }
                 }
 
                 // Construct positional array
@@ -276,6 +418,23 @@ async function run() {
 
     // Filter out any failed entries
     const finalPosts = results.filter(p => p !== undefined);
+
+    // Sort finalPosts using the same custom sorting logic as the Python script
+    finalPosts.sort((a, b) => {
+        const keyA = getSortKey(a);
+        const keyB = getSortKey(b);
+        
+        if (keyA.year !== keyB.year) {
+            return keyB.year - keyA.year; // year descending
+        }
+        if (keyA.accurate !== keyB.accurate) {
+            return keyA.accurate - keyB.accurate; // accurate first (0 < 1)
+        }
+        if (keyA.timestamp !== keyB.timestamp) {
+            return keyB.timestamp - keyA.timestamp; // timestamp descending
+        }
+        return keyB.idSort - keyA.idSort; // code descending
+    });
 
     // Write index.json with one post array per line
     const lines = finalPosts.map(post => JSON.stringify(post));

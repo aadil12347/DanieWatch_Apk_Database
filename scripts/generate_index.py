@@ -110,6 +110,7 @@ def fetch_tmdb_details_by_id(tmdb_id, tmdb_type, credential):
                 
             genres = [g.get('name') for g in data.get('genres', []) if g.get('name')]
             imdb_id = data.get('imdb_id') or ''
+            seasons = data.get('seasons') or []
             
             return {
                 "tmdb_id": int(tmdb_id),
@@ -118,10 +119,44 @@ def fetch_tmdb_details_by_id(tmdb_id, tmdb_type, credential):
                 "original_language": original_language,
                 "original_countries": original_countries,
                 "genres": genres,
-                "imdb_id": imdb_id
+                "imdb_id": imdb_id,
+                "seasons": seasons
             }
     except Exception as e:
         print(f"Error fetching TMDB details for ID {tmdb_id} ({tmdb_type}): {e}")
+        return None
+
+def fetch_tmdb_season_air_date(tmdb_id, season_number, credential):
+    url = f"https://api.themoviedb.org/3/tv/{tmdb_id}/season/{season_number}"
+    if len(credential) > 50:
+        headers = {
+            'Authorization': f'Bearer {credential}',
+            'User-Agent': 'Mozilla/5.0',
+            'Content-Type': 'application/json;charset=utf-8'
+        }
+        req_url = url
+    else:
+        headers = {'User-Agent': 'Mozilla/5.0'}
+        req_url = url + f"?api_key={credential}"
+        
+    try:
+        req = urllib.request.Request(req_url, headers=headers)
+        with urllib.request.urlopen(req, timeout=10) as response:
+            data = json.loads(response.read().decode('utf-8'))
+            episodes = data.get('episodes') or []
+            today_str = datetime.now().strftime('%Y-%m-%d')
+            latest_air_date = None
+            for ep in episodes:
+                air_date = ep.get('air_date')
+                if air_date:
+                    if air_date <= today_str:
+                        if not latest_air_date or air_date > latest_air_date:
+                            latest_air_date = air_date
+            if latest_air_date:
+                return latest_air_date
+            return data.get('air_date')
+    except Exception as e:
+        print(f"Error fetching TMDB season air date for TV {tmdb_id} Season {season_number}: {e}")
         return None
 
 def fetch_tmdb_details(tmdb_id_or_imdb_id, post_type, credential):
@@ -271,6 +306,10 @@ def read_existing_entries(index_file):
                             "imdb_id": imdb_id,
                             "aired_date": post[8]
                         }
+                        if len(post) > 9:
+                            existing_entries[key]["latest_uploaded_season"] = post[9]
+                        if len(post) > 10:
+                            existing_entries[key]["total_uploaded_episodes"] = post[10]
         except Exception as e:
             print(f"Warning: Could not parse existing {index_file}: {e}")
     return existing_entries
@@ -358,9 +397,56 @@ def generate_index_for_dir(source_dir, output_index_file, output_no_sorting_file
             aired_date = existing.get("aired_date")
             imdb_id = existing.get("imdb_id") or imdb_id
 
-        # If we need TMDB metadata (either not in existing or fields are empty)
+        # --- Calculate uploaded seasons and episodes ---
+        highest_uploaded_season = 1
+        total_uploaded_episodes = 0
+        
+        if post_type == 'tv':
+            seasons_data = content.get('seasons')
+            if seasons_data:
+                if isinstance(seasons_data, list):
+                    for s in seasons_data:
+                        if isinstance(s, dict):
+                            try:
+                                s_num = int(s.get('season_number', 1))
+                                if s_num > highest_uploaded_season:
+                                    highest_uploaded_season = s_num
+                            except (ValueError, TypeError):
+                                pass
+                            episodes = s.get('episodes')
+                            if isinstance(episodes, list):
+                                total_uploaded_episodes += len(episodes)
+                elif isinstance(seasons_data, dict):
+                    for s_str, season_data in seasons_data.items():
+                        try:
+                            s_num = int(s_str)
+                            if s_num > highest_uploaded_season:
+                                highest_uploaded_season = s_num
+                        except (ValueError, TypeError):
+                            pass
+                        if isinstance(season_data, dict):
+                            episode_titles = set()
+                            for quality, episodes in season_data.items():
+                                if isinstance(episodes, list):
+                                    for ep in episodes:
+                                        if isinstance(ep, dict) and ep.get('episode_title'):
+                                            episode_titles.add(ep.get('episode_title'))
+                            total_uploaded_episodes += len(episode_titles)
+
+        # Check if we need to force a TMDB update because a new season/episode was added, or if cached metadata is incomplete
+        needs_update = False
+        if not existing or not orig_lang or not orig_countries or not orig_genres or not aired_date:
+            needs_update = True
+        elif post_type == 'tv':
+            cached_season = existing.get("latest_uploaded_season")
+            cached_episodes = existing.get("total_uploaded_episodes")
+            if cached_season is None or cached_episodes is None:
+                needs_update = True
+            elif highest_uploaded_season != cached_season or total_uploaded_episodes != cached_episodes:
+                needs_update = True
+
         tmdb_fetched = False
-        if not orig_lang or not orig_countries or not orig_genres or not aired_date:
+        if needs_update:
             # Attempt TMDB fetch
             query_id = tmdb_id if tmdb_id else imdb_id
             if query_id and query_id != "NOT_FOUND" and query_id != 0:
@@ -372,12 +458,32 @@ def generate_index_for_dir(source_dir, output_index_file, output_no_sorting_file
                     orig_countries = details.get("original_countries") or orig_countries
                     orig_genres = details.get("genres") or orig_genres
                     imdb_id = details.get("imdb_id") or imdb_id
-                    if not aired_date and details.get("release_date"):
-                        # Format date with time suffix for sorting
-                        fetched_date = details.get("release_date")
-                        if is_accurate_date(fetched_date):
-                            current_time = datetime.now().strftime('%H:%M:%S')
-                            aired_date = f"{fetched_date} {current_time}"
+                    
+                    if post_type == 'tv':
+                        season_air_date = fetch_tmdb_season_air_date(query_id, highest_uploaded_season, tmdb_cred)
+                        current_time = datetime.now().strftime('%H:%M:%S')
+                        if season_air_date and is_accurate_date(season_air_date):
+                            aired_date = f"{season_air_date} {current_time}"
+                        else:
+                            # Fallback to the season's air_date from TV show details
+                            seasons_list = details.get("seasons", [])
+                            tmdb_season_air_date = None
+                            for s in seasons_list:
+                                if s.get("season_number") == highest_uploaded_season:
+                                    tmdb_season_air_date = s.get("air_date")
+                                    break
+                            if tmdb_season_air_date and is_accurate_date(tmdb_season_air_date):
+                                aired_date = f"{tmdb_season_air_date} {current_time}"
+                            elif details.get("release_date"):
+                                fetched_date = details.get("release_date")
+                                if is_accurate_date(fetched_date):
+                                    aired_date = f"{fetched_date} {current_time}"
+                    else:
+                        if details.get("release_date"):
+                            fetched_date = details.get("release_date")
+                            if is_accurate_date(fetched_date):
+                                current_time = datetime.now().strftime('%H:%M:%S')
+                                aired_date = f"{fetched_date} {current_time}"
                     tmdb_fetched = True
 
         # Fallbacks if TMDB lookup fails/is incomplete
@@ -389,11 +495,14 @@ def generate_index_for_dir(source_dir, output_index_file, output_no_sorting_file
                 orig_countries = fallback_countries
 
         if not aired_date:
-            year = extract_year(title, file)
-            if year > 0:
-                aired_date = f"{year}-00-00"
+            if not needs_update and existing and existing.get("aired_date"):
+                aired_date = existing.get("aired_date")
             else:
-                aired_date = "0000-00-00"
+                year = extract_year(title, file)
+                if year > 0:
+                    aired_date = f"{year}-00-00"
+                else:
+                    aired_date = "0000-00-00"
 
         # Log to without_metadata_posts if we couldn't resolve TMDB metadata
         if not tmdb_fetched and (not tmdb_id or tmdb_id == 0 or tmdb_id == "NOT_FOUND"):
@@ -418,6 +527,10 @@ def generate_index_for_dir(source_dir, output_index_file, output_no_sorting_file
             imdb_id,
             aired_date
         ]
+
+        if post_type == 'tv':
+            entry.append(highest_uploaded_season)
+            entry.append(total_uploaded_episodes)
 
         posts.append(entry)
 
