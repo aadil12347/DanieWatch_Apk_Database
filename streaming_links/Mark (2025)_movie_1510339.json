@@ -1,0 +1,41 @@
+{
+    "post_title": "Mark (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1510339,
+    "imdb_id": "tt28961625",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hnn2eb1oxv1nnax"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j_itge-pnn13_vm"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lpdjriin5i4rpgd"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/re1-gr3g1p14ezf"
+            }
+        ],
+        "2160p 4K": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xzypnyyrvraeinw"
+            }
+        ]
+    }
+}
