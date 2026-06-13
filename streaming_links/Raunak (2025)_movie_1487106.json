@@ -1,0 +1,30 @@
+{
+    "post_title": "Raunak (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1487106,
+    "imdb_id": "tt36412691",
+    "languages": [
+        "Hindi",
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cu9oy0lcecgx2gl"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g511mhc5pcn8m_l"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/d7dy2ld1e2oldoj"
+            }
+        ]
+    }
+}

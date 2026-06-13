@@ -1,0 +1,34 @@
+{
+    "post_title": "Jack (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1241725,
+    "imdb_id": "tt28622758",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mjjrxyvymsbynm0"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hd8-m5n_d-zqjtg"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kke6zmzmmgjrh8g"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zddzq91sheughch"
+            }
+        ]
+    }
+}

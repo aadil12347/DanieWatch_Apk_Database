@@ -1,0 +1,40 @@
+{
+    "post_title": "Maalik (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1312559,
+    "imdb_id": "tt32832266",
+    "languages": [
+        "Hindi",
+        "Dd5.1"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3lftzqmlvqfllss"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/otpvgaays1per3t"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wwijmifu3dgg1jt"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bdmrar28u188ds8"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rxf5a76o7phv1wf"
+            }
+        ]
+    }
+}

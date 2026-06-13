@@ -1,0 +1,36 @@
+{
+    "post_title": "Hathya (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1422602,
+    "imdb_id": "tt31729526",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2x0rg1crj79rvjr"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fpitvhvdx10fite"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oqudvzipzer0ilb"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rizg5ojzeythrz3"
+            }
+        ]
+    }
+}

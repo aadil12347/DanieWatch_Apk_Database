@@ -1,0 +1,36 @@
+{
+    "post_title": "Vidaamuyarchi (2025)",
+    "post_type": "movie",
+    "tmdb_id": 949716,
+    "imdb_id": "tt18926098",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1wt21jhwlw2rvjg"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fbtfqql07kkx7bp"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wuavauh75wihu7u"
+            }
+        ],
+        "1080p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sy1m91y1nkx13c1"
+            }
+        ]
+    }
+}

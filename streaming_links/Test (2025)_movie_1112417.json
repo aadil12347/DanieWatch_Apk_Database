@@ -1,0 +1,40 @@
+{
+    "post_title": "Test (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1112417,
+    "imdb_id": "tt27477888",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qybyvyfjw1ejiqy"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gdiqsxjkwxxiqng"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/14p-i-cwee1pqcw"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2wmxn2cuowz2pzx"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i5ti5icri1-zid1"
+            }
+        ]
+    }
+}
