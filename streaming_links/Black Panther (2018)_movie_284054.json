@@ -1,0 +1,66 @@
+{
+    "post_title": "Black Panther (2018)",
+    "post_type": "movie",
+    "tmdb_id": 284054,
+    "imdb_id": "tt1825683",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=TW5Uc2kzdHFXMXhlYWhMMTRsSG5DRjZjYm4wRkZHN0VtRnFkd1ExekhFVHluQ0xUQ0NLSHlWaXYyVlB4MnJ5NQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=REw5Y29mdmZwbmJkTFpCem5sOWN6WW0wUStFQVA2d1daSGtCSSs5Vmp6Q05CYmtpeUh6NEtrb1dQT1ROdi9OMQ=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=b1dqWmJBeDFSbzV6Nm41THlObWVMWnlJR0xpN0xBTlZsM0NYOVArY1FyNEo0QzRFZFFrbDVmb3FBSWpCbzNpdw=="
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/casczwfagzh15hb"
+            }
+        ],
+        "1080p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ffgxwfqkjukg0qf"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eeoqfdjbe7z5bo7"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qqapd1qdz6lgydz"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gpiv41v10q3ci1b"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ertoltxrpatfijl"
+            }
+        ],
+        "2160p 4K 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/my_q6vl16vhuulo"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qsyaouee97esjny"
+            }
+        ]
+    }
+}

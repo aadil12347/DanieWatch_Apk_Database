@@ -1,0 +1,36 @@
+{
+    "post_title": "Guardians of the Galaxy Vol. 2 (2017)",
+    "post_type": "movie",
+    "tmdb_id": "NOT_FOUND",
+    "imdb_id": "NOT_FOUND",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3hthttpiitk11p0"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zjh7h0chwqlv7pb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lxgibxrcrutfttx"
+            }
+        ],
+        "1080p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-rbgrmi51b6x5yg"
+            }
+        ]
+    }
+}

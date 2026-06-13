@@ -1,0 +1,35 @@
+{
+    "post_title": "Die Another Day (2002)",
+    "post_type": "movie",
+    "tmdb_id": 36669,
+    "imdb_id": "tt0246460",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uz5k5l5l-k2k2ms"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4k6ykp10zgpojpr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oby9nku5mbk5yvn"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/aappitg4bxxkxpe"
+            }
+        ],
+        "2160p 4K": []
+    }
+}

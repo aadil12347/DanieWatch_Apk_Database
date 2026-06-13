@@ -1,0 +1,41 @@
+{
+    "post_title": "The Divine Fury (2019)",
+    "post_type": "movie",
+    "tmdb_id": 571627,
+    "imdb_id": "tt10550884",
+    "languages": [
+        "Hindi",
+        "English",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zajpyu6yzwcvunv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-j149in2kjjhzqh"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4mx4mo1ijmoiav4"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xb7tuwtrjmuxllw"
+            }
+        ],
+        "1080p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lyyybgyj_4vnyny"
+            }
+        ]
+    }
+}

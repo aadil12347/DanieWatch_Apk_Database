@@ -1,0 +1,56 @@
+{
+    "post_title": "F9 (2021)",
+    "post_type": "movie",
+    "tmdb_id": 385128,
+    "imdb_id": "tt5433138",
+    "languages": [
+        "Hindi",
+        "(5.1",
+        "Dd)",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xfxprdst41bjo4p"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h1gm0v1guu1170d"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m808amcsseecqgx"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/umggzlgylpkle1h"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2uhoqmkpphm2nqd"
+            }
+        ],
+        "720p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lqq1q1mam7bhvb7"
+            }
+        ],
+        "2160p 4K": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vmogz_1gsgvo1jy"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6hjdoswuwi3b3ke"
+            }
+        ]
+    }
+}

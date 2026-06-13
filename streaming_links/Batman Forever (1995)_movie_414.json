@@ -1,0 +1,42 @@
+{
+    "post_title": "Batman Forever (1995)",
+    "post_type": "movie",
+    "tmdb_id": 414,
+    "imdb_id": "tt0112462",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/or5w21l9jro99im"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/api/index.php?link=aEJOajNRZ3dST3NNajFEUjJ4c0owcTlndEFQcmFzY3hwWFFLOUxsckdoTmtMK01zbmJ6b3YxVHQxcVRYZGE1dQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iyblbwyx-saxfy5"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/api/index.php?link=cUw4MGxuanovc2JXVDBCV3pQVjFreXJvR2dRNVdHTzRZWnNPS29ybFZjTHltZTltWXVQbFdlWUJST0laRWRsQg=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/utpm3pu817auamm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/tuu5or5uubspbbs"
+            }
+        ]
+    }
+}

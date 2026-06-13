@@ -1,0 +1,36 @@
+{
+    "post_title": "Hulk (2003)",
+    "post_type": "movie",
+    "tmdb_id": "NOT_FOUND",
+    "imdb_id": "NOT_FOUND",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z6zwzrtc66uwikw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eo9aclvwuguu1xx"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mdtxckuxgsxgngy"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/asfa7xoo1oivfaf"
+            }
+        ]
+    }
+}

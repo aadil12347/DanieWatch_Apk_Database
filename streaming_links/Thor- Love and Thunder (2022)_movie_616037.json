@@ -1,0 +1,66 @@
+{
+    "post_title": "Thor: Love and Thunder (2022)",
+    "post_type": "movie",
+    "tmdb_id": 616037,
+    "imdb_id": "tt10648342",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/d01ejqw3v3khdvs"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sycg8tiert8tsgd"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jzbmjjiervjijpj"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g5nxls6ec111jcw"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bk9pnqpr0sp_wsn"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yxmzhsncixbs1ki"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sy60q8y1w16ccjc"
+            }
+        ],
+        "1080p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pd904dwmyqmte2a"
+            }
+        ],
+        "720p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nzlvvwvlznnwznm"
+            }
+        ],
+        "2160p 4K 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tbl5y6gntwtytxx"
+            }
+        ]
+    }
+}

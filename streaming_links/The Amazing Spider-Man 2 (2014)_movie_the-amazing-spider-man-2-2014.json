@@ -1,0 +1,40 @@
+{
+    "post_title": "The Amazing Spider-Man 2 (2014)",
+    "post_type": "movie",
+    "tmdb_id": "NOT_FOUND",
+    "imdb_id": "NOT_FOUND",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dbc1cb0arjkgbdj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sqg11cggcgtbphs"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3ex2js2k4csk_fs"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bza1shn3wnawxxl"
+            }
+        ],
+        "2160p 4K 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/aaatzfxboxyerml"
+            }
+        ]
+    }
+}

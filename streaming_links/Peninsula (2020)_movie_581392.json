@@ -1,0 +1,30 @@
+{
+    "post_title": "Peninsula (2020)",
+    "post_type": "movie",
+    "tmdb_id": 581392,
+    "imdb_id": "tt8850222",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wgghxrw1gsswwci"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eux1g21x7gguxux"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z6ue1unzfihtiee"
+            }
+        ]
+    }
+}

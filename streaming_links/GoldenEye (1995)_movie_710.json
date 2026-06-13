@@ -1,0 +1,35 @@
+{
+    "post_title": "GoldenEye (1995)",
+    "post_type": "movie",
+    "tmdb_id": 710,
+    "imdb_id": "tt0113189",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ljdlr3_5vikr1rh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gfqmqowczc5mg32"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-rro7oloylf7hly"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ibdv_fi6fi26j6_"
+            }
+        ],
+        "2160p 4K": []
+    }
+}

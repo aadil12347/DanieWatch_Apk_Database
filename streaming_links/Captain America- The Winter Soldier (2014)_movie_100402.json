@@ -1,0 +1,42 @@
+{
+    "post_title": "Captain America: The Winter Soldier (2014)",
+    "post_type": "movie",
+    "tmdb_id": 100402,
+    "imdb_id": "tt1843866",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ohc7pqj8xw_pp7s"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bb9b_bwq9c__qww"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k7ccl8psnovllpg"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2xmx1kutu1kkssq"
+            }
+        ],
+        "2160p 4K 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c4wqcsjz5zhjohk"
+            }
+        ]
+    }
+}

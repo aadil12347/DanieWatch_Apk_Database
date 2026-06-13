@@ -1,0 +1,35 @@
+{
+    "post_title": "The Living Daylights (1987)",
+    "post_type": "movie",
+    "tmdb_id": 708,
+    "imdb_id": "tt0093428",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/skr1rdrukjqdsor"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xxob7ygz7x_ookg"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/r1n_noqth-wtnvv"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xrpsaw1ax42xwwn"
+            }
+        ],
+        "2160p 4K": []
+    }
+}

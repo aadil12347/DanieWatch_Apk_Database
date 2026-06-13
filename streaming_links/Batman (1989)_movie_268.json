@@ -1,0 +1,42 @@
+{
+    "post_title": "Batman (1989)",
+    "post_type": "movie",
+    "tmdb_id": 268,
+    "imdb_id": "tt0096895",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b107p18sid1sbbm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/api/index.php?link=UDVsQ2x2TUFxNjdjNjBlZTJJK29oQWNJOWRSWUpqZ1pvN2QyZFdOZ2RqTzJjcHJnOFRuT2phSTdoZUs4QnZTdg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/attksatuatkolyg"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/api/index.php?link=NnQ0N2pKVXpYQVRrY2RML0RiY25reHhNTWFNMUc0MmZFeld5VEIyL3RTdFBOVnJraXJZL0tJUWFXQktrQ0UyMg=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ta3g191aex8p1ak"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/api/index.php?link=a3J2RzlrZ0JFM201RzJCM1p4NTVTWG1FaFRnVjRrbjFIc21uMmZPeWkrL01temE1VmhmWUFFdk5CQ05mcjlIQw=="
+            }
+        ]
+    }
+}

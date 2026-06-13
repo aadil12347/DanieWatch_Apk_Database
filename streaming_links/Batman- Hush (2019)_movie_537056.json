@@ -1,0 +1,29 @@
+{
+    "post_title": "Batman: Hush (2019)",
+    "post_type": "movie",
+    "tmdb_id": 537056,
+    "imdb_id": "tt8752440",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=cGo3MHA4NDEvdEFzVVZ3V055bUVXYWZIYW1mVW9VWTdmeWt0NWsxS3VNa0wvTTl5dWVTeWZscC9rbkhLaTZSVQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=d1lYZ2IreG81RlAxd2dYQW43K2c0QWsvWlRzdDFmdTVwcTZZYzFXSFFMQWZFTWJ6QzV3dGR3alhFMm9KZ2ovaw=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=MXdBcExWL0NJejAwVmhZL2pmcDRmOTdFU3JaeDYvck1uYnY1ZWJwMkF2Y0wwUG4xT0FZaUltSGxCMjVJWHJzdQ=="
+            }
+        ]
+    }
+}

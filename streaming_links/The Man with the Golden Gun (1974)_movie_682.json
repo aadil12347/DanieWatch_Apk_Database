@@ -1,0 +1,36 @@
+{
+    "post_title": "The Man with the Golden Gun (1974)",
+    "post_type": "movie",
+    "tmdb_id": 682,
+    "imdb_id": "tt0071807",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k_hm3ohocnkoo98"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/16idvsgicfhiv4c"
+            }
+        ],
+        "1080p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bwidl1dj4ai4a1j"
+            }
+        ],
+        "2160p 4K 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qrzrudqggpugkat"
+            }
+        ]
+    }
+}

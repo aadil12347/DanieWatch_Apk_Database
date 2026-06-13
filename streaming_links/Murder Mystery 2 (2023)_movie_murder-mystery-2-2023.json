@@ -1,0 +1,38 @@
+{
+    "post_title": "Murder Mystery 2 (2023)",
+    "post_type": "movie",
+    "tmdb_id": "NOT_FOUND",
+    "imdb_id": "NOT_FOUND",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/u1i6auvx611au6z"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zswmz7zyrmy9szz"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mu2dmxvc3c3mbmb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ytbjf86cjcb8r31"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sczasn2lr_qal0r"
+            }
+        ]
+    }
+}

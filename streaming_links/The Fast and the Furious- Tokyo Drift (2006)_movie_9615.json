@@ -1,0 +1,42 @@
+{
+    "post_title": "The Fast and the Furious: Tokyo Drift (2006)",
+    "post_type": "movie",
+    "tmdb_id": 9615,
+    "imdb_id": "tt0463985",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gd6cgqqtvcvvpdq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/26fq21fjoft2dwf"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2dqoe9ea3822atp"
+            }
+        ],
+        "1080p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mop8mt12mbmkkkb"
+            }
+        ],
+        "2160p 4K 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2sr1t6ccrclttct"
+            }
+        ]
+    }
+}

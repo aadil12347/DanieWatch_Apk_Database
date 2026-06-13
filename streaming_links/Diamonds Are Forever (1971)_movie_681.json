@@ -1,0 +1,36 @@
+{
+    "post_title": "Diamonds Are Forever (1971)",
+    "post_type": "movie",
+    "tmdb_id": 681,
+    "imdb_id": "tt0066995",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_o9pcwdw1dwwewb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qildx8wfskqzqgr"
+            }
+        ],
+        "1080p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4kkgglggp0u07tg"
+            }
+        ],
+        "2160p 4K 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nxuyaansyq0u0nn"
+            }
+        ]
+    }
+}

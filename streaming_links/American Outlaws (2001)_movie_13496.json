@@ -1,0 +1,30 @@
+{
+    "post_title": "American Outlaws (2001)",
+    "post_type": "movie",
+    "tmdb_id": 13496,
+    "imdb_id": "tt0244000",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t9ty74qgqyte87j"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4hz1hmw4c3z4qgg"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ym0pwmy0paepeh1"
+            }
+        ]
+    }
+}

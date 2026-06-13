@@ -1,0 +1,36 @@
+{
+    "post_title": "Space Cadet (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1019411,
+    "imdb_id": "tt21469794",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0mkq96uv6xkntnk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ejs9nxkchc4zhs9"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bhibuhgybbuigix"
+            }
+        ],
+        "720p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ffksunzul2zl1kz"
+            }
+        ]
+    }
+}
