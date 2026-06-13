@@ -4,12 +4,16 @@
     "tmdb_id": 1290821,
     "imdb_id": "tt32357218",
     "languages": [
-        "English",
-        "With",
-        "Subtitles"
+        "Hindi",
+        "English"
     ],
     "links": {
+        "480p": [],
         "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qsnxqjj7k7n51xk"
+            },
             {
                 "episode_title": "Episode 1",
                 "link": "https://vcloud.zip/zhyacxssccvsvy2"
@@ -18,7 +22,21 @@
         "1080p": [
             {
                 "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pqxogllqml-woan"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m1rq3yqls30a6zr"
+            },
+            {
+                "episode_title": "Episode 1",
                 "link": "https://vcloud.zip/5y8fbnou5unndq6"
+            }
+        ],
+        "720p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vgjcgcjz3f3vq_c"
             }
         ]
     }
