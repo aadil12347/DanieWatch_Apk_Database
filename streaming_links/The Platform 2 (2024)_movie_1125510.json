@@ -1,0 +1,35 @@
+{
+    "post_title": "The Platform 2 (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1125510,
+    "imdb_id": "tt27729779",
+    "languages": [
+        "Hindi",
+        "English",
+        "Spanish"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4wzw8hpozpi8iah"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/berx7vr64vhyy3h"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/azfavzfzfpib_fb"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b4iciqi4i22uih5"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "post_title": "Consumed (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1280990,
+    "imdb_id": "tt13374480",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mhl_sqws_1yxx1m"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/y_w8_pjaj8jdkin"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n0bfo05pvnfkcfn"
+            }
+        ],
+        "720p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kb-t1ckbvirc-zi"
+            }
+        ]
+    }
+}

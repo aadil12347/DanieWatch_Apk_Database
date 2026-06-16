@@ -1,0 +1,42 @@
+{
+    "post_title": "The Count of Monte Cristo (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1084736,
+    "imdb_id": "tt26446278",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z6xafcvo1140rf0"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/to1lcxjcpt6fgzx"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/myzzu21i3v3g1vm"
+            }
+        ],
+        "720p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yryifmi0ifo9rim"
+            }
+        ],
+        "1080p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w9gusb985iusmuf"
+            }
+        ]
+    }
+}

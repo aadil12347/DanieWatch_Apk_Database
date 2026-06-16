@@ -1,0 +1,30 @@
+{
+    "post_title": "Sting (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1087388,
+    "imdb_id": "tt20112746",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5caak4gnqssks11"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/szovktseox9kaee"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-ajn6xsp3ys1nj1"
+            }
+        ]
+    }
+}

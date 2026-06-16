@@ -1,0 +1,36 @@
+{
+    "post_title": "Heretic (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1138194,
+    "imdb_id": "tt28015403",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wzjud1mgwcmyqub"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5aimftj1v1-9vml"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qxcljxpppd2lq0l"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fhgtm7cfjfxh0ko"
+            }
+        ]
+    }
+}

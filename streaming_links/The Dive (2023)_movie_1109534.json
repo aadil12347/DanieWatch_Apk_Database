@@ -1,0 +1,40 @@
+{
+    "post_title": "The Dive (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1109534,
+    "imdb_id": "tt13566172",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rsm1qe8q7reuunj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/faqcogmxcl5i6af"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/84u_mwxhdw2c244"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7pctrebf70uvgmr"
+            }
+        ],
+        "720p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ucjs17ry1jvwnw3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "post_title": "Outside (2024)",
+    "post_type": "movie",
+    "tmdb_id": "NOT_FOUND",
+    "imdb_id": "NOT_FOUND",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ka69bljbszbzbc6"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gz_xcxct2yuiyfm"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1g28mgf3tlpdphg"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1c6x6svxveebxsu"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bdd1upfoxoo3w_g"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eq5oj-4y5vjh149"
+            }
+        ]
+    }
+}

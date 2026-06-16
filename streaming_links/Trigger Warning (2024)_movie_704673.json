@@ -1,0 +1,40 @@
+{
+    "post_title": "Trigger Warning (2024)",
+    "post_type": "movie",
+    "tmdb_id": 704673,
+    "imdb_id": "tt5834874",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tt_kk11guw0-dph"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/utxqd8ob6oao8ly"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uz45bz1fzystn97"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1hxxggrrn8lxny7"
+            }
+        ],
+        "1080p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tgted33ytw0uwh4"
+            }
+        ]
+    }
+}

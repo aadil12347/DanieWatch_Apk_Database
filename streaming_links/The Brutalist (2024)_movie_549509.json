@@ -1,0 +1,42 @@
+{
+    "post_title": "The Brutalist (2024)",
+    "post_type": "movie",
+    "tmdb_id": 549509,
+    "imdb_id": "tt8999762",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iy2nwjk9gyevjkv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mkdpuwwnhcynpfc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/u1uovea1jcvkvu1"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vs5zn7dyruo1a0w"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ord2vimqevmzlss"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "One Fast Move (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1281826,
+    "imdb_id": "tt21096576",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s8sqt8uqqxbtiqi"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n7ceefcykjtbtqw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vdh1dhnblqjcqyt"
+            }
+        ]
+    }
+}

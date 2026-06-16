@@ -1,0 +1,50 @@
+{
+    "post_title": "Never Let Go (2024)",
+    "post_type": "movie",
+    "tmdb_id": 814889,
+    "imdb_id": "tt14415204",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ts8nn94p5zpss3v"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t-vrkz9jo-rutlv"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zcvbihzdmhp_h3q"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ujdvwwd7x1xtfjv"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x0znntvwiv0vixi"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iol3jw7ohsj1rrf"
+            }
+        ],
+        "2160p 4K 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rx0rxnoutorythq"
+            }
+        ]
+    }
+}

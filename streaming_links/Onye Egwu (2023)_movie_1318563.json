@@ -1,0 +1,31 @@
+{
+    "post_title": "Onye Egwu (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1318563,
+    "imdb_id": "tt20446364",
+    "languages": [
+        "English",
+        "With",
+        "Subtitles"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6i6rj96j1p69ifw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jw66ea5adr1qakj"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t9t4f4sgwmsytil"
+            }
+        ]
+    }
+}

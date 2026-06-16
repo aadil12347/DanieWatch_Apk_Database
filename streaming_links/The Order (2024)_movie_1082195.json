@@ -1,0 +1,36 @@
+{
+    "post_title": "The Order (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1082195,
+    "imdb_id": "tt26625693",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a0m0yd2d901a1e0"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5ltki1yl9gfn_d_"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/arg2zptrizgty5p"
+            }
+        ],
+        "1080p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j1qsujwqqr1lcqs"
+            }
+        ]
+    }
+}

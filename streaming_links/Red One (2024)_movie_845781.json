@@ -1,0 +1,40 @@
+{
+    "post_title": "Red One (2024)",
+    "post_type": "movie",
+    "tmdb_id": 845781,
+    "imdb_id": "tt14948432",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b2whkjutt0bflut"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o8eo1qqfm8tqniu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rupdqgrdscf1cgc"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bbucaeebu7vbuuh"
+            }
+        ],
+        "2160p 4K": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mpuxp6pnt5bpj6a"
+            }
+        ]
+    }
+}

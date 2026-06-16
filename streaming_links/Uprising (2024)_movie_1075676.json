@@ -1,0 +1,49 @@
+{
+    "post_title": "Uprising (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1075676,
+    "imdb_id": "tt27987046",
+    "languages": [
+        "Hindi",
+        "English",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7-uf--a9uijtqjj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pskiz2pkp1gsbz1"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h59sh1ppqp1cpoy"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cvdd18fq5dusuvg"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dxnrvyldbpmlbbr"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ipuarp8pr8t937e"
+            }
+        ],
+        "720p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yvqktc5afmrwq5t"
+            }
+        ]
+    }
+}

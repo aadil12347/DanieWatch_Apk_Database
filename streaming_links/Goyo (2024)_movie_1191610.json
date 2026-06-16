@@ -1,0 +1,34 @@
+{
+    "post_title": "Goyo (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1191610,
+    "imdb_id": "tt32598483",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8iu8s8_-6-lofk8"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uzlbnhhun1l0ill"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cqnpgpsijhbehca"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eu71c9qa5nrnzqu"
+            }
+        ]
+    }
+}

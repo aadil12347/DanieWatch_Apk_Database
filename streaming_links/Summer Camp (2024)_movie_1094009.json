@@ -1,0 +1,31 @@
+{
+    "post_title": "Summer Camp (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1094009,
+    "imdb_id": "tt26928684",
+    "languages": [
+        "English",
+        "With",
+        "Subtitles"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9ppfdupmqps97dd"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vpgfcpvt2ky1llk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sa7a_zbvpcc1_vg"
+            }
+        ]
+    }
+}

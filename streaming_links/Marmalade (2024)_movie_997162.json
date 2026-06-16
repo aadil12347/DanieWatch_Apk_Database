@@ -1,0 +1,36 @@
+{
+    "post_title": "Marmalade (2024)",
+    "post_type": "movie",
+    "tmdb_id": 997162,
+    "imdb_id": "tt21275544",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2131y1kpk2k2ppq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wzy_fg_-y2eeyyt"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jj5x5zm1x1_oruz"
+            }
+        ],
+        "720p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ivwv1c-w4d6umna"
+            }
+        ]
+    }
+}

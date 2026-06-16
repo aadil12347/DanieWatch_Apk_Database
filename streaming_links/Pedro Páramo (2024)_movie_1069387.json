@@ -1,0 +1,41 @@
+{
+    "post_title": "Pedro Páramo (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1069387,
+    "imdb_id": "tt27717667",
+    "languages": [
+        "Hindi",
+        "English",
+        "Spanish"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/exh_xjb5qqhx9ed"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ttxy3s3b6t_1to3"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/41jbtjhdifiubjx"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mcc-xvj2-fe-yg2"
+            }
+        ],
+        "720p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q91izhgm9aalr8a"
+            }
+        ]
+    }
+}

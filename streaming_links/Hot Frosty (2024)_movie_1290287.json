@@ -1,0 +1,30 @@
+{
+    "post_title": "Hot Frosty (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1290287,
+    "imdb_id": "tt32359447",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8ez7zkwrweyrvae"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jycsmmasy1jucya"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pbbnpp7qpujsuas"
+            }
+        ]
+    }
+}

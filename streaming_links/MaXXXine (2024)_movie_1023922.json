@@ -1,0 +1,40 @@
+{
+    "post_title": "MaXXXine (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1023922,
+    "imdb_id": "tt22048412",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cu3eh2rsuehl323"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g9mtbb2da0mnquh"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/l114ovgmo8ilmgt"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tfzwph5cfcntaj5"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mi6ujggeeumruqf"
+            }
+        ]
+    }
+}

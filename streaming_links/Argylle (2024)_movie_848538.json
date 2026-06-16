@@ -1,0 +1,37 @@
+{
+    "post_title": "Argylle (2024)",
+    "post_type": "movie",
+    "tmdb_id": 848538,
+    "imdb_id": "tt15009428",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9tlthghthmsotu1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vjiqlpbuvnwlpcv"
+            }
+        ],
+        "1080p": [],
+        "720p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c1burriirddndwm"
+            }
+        ],
+        "2160p 4K": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3xm98j95yxrgcz3"
+            }
+        ]
+    }
+}

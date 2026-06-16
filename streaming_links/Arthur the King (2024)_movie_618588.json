@@ -1,0 +1,48 @@
+{
+    "post_title": "Arthur the King (2024)",
+    "post_type": "movie",
+    "tmdb_id": 618588,
+    "imdb_id": "tt10720352",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h_swl4-s6gvcgj0"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6prbuuat2kd0nku"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uwcdeq1qezq5p5x"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o-t171bkvta_b-_"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pefaabfea8wkkkk"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rlhv1xfvppcidhf"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ztsklrni_b166p1"
+            }
+        ]
+    }
+}

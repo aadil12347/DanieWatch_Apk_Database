@@ -1,0 +1,46 @@
+{
+    "post_title": "Atlas (2024)",
+    "post_type": "movie",
+    "tmdb_id": 614933,
+    "imdb_id": "tt14856980",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wwlw1iaayiplp14"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9g2l19wsx3h9led"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wfwgetggo_4sdp7"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1vocqif1v7bvw9c"
+            }
+        ],
+        "720p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f1ymn4lovemex3e"
+            }
+        ],
+        "2160p 4K": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oc-eemryuem8ix8"
+            }
+        ]
+    }
+}

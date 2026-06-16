@@ -1,0 +1,34 @@
+{
+    "post_title": "Spaceman (2024)",
+    "post_type": "movie",
+    "tmdb_id": 636706,
+    "imdb_id": "tt11097384",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fiwgbthfbfhycol"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pwurpmrb2ufbrzb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fb4wxqsryrdqbgz"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tnhhzjsmlhnrhsz"
+            }
+        ]
+    }
+}

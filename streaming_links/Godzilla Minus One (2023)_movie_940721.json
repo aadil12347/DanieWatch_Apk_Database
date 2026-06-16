@@ -1,0 +1,46 @@
+{
+    "post_title": "Godzilla Minus One (2023)",
+    "post_type": "movie",
+    "tmdb_id": 940721,
+    "imdb_id": "tt23289160",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vkcztjpualg9zey"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lphqpkplgzgfsfk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h6txuffj32nwc1n"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/me1nt0mzjm2nmtw"
+            }
+        ],
+        "720p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n11zm4ekno7keeu"
+            }
+        ],
+        "2160p 4K": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qzkqx61mbfmyavn"
+            }
+        ]
+    }
+}

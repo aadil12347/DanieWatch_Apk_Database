@@ -1,0 +1,34 @@
+{
+    "post_title": "Meet Me Next Christmas (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1104171,
+    "imdb_id": "tt20502488",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/er3de5rp6le3guo"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yyqyekkqbr73aa5"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hzp2lpgyjocja12"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1goztxepoqztuqp"
+            }
+        ]
+    }
+}

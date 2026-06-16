@@ -1,0 +1,36 @@
+{
+    "post_title": "The Fall Guy (2024)",
+    "post_type": "movie",
+    "tmdb_id": 746036,
+    "imdb_id": "tt1684562",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/r5150lcuhlbmqrb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ajnh7ejddlmchal"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uretaebjgdrraap"
+            }
+        ],
+        "720p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dhr2thv0hatda0h"
+            }
+        ]
+    }
+}

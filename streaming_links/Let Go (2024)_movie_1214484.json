@@ -1,0 +1,34 @@
+{
+    "post_title": "Let Go (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1214484,
+    "imdb_id": "tt27410895",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8nqy_c1t1qyvq4y"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fggbffu56n5511h"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/l1yj0qi0qlvqbef"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/swiyl4iibnsejkn"
+            }
+        ]
+    }
+}

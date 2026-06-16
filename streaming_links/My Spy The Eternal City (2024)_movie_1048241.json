@@ -1,0 +1,40 @@
+{
+    "post_title": "My Spy The Eternal City (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1048241,
+    "imdb_id": "tt12930350",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/czsh0lhhzaoacmr"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/il3gpk22sele2zv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/do6ykpobj66oxpd"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pqhv2sm75pk9qqn"
+            }
+        ],
+        "2160p 4K": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iuwu159c1xft1wh"
+            }
+        ]
+    }
+}

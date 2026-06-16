@@ -1,0 +1,35 @@
+{
+    "post_title": "Mononoke The Movie (2024)",
+    "post_type": "movie",
+    "tmdb_id": "NOT_FOUND",
+    "imdb_id": "NOT_FOUND",
+    "languages": [
+        "Hindi",
+        "English",
+        "Japanese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/y4wo00xnouxpgpp"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vhh8h3yk1l1kqux"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ykzvv5pfykqk_5e"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/drevod6rsluxjsr"
+            }
+        ]
+    }
+}

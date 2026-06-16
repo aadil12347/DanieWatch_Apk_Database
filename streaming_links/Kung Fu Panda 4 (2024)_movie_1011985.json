@@ -1,0 +1,56 @@
+{
+    "post_title": "Kung Fu Panda 4 (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1011985,
+    "imdb_id": "tt21692408",
+    "languages": [
+        "Org",
+        "5.1",
+        "Hindi",
+        "+",
+        "English",
+        "Audio"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bx1w1wwmdmxm1um"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mgjfg2hucqasgch"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pw1pxxddyuxdnwk"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yd8yogo1-pvdfoy"
+            }
+        ],
+        "720p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gatadyd9wxppywd"
+            }
+        ],
+        "1080p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jedn-jvnj5bvxln"
+            }
+        ],
+        "2160p 4K": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/phmcm_2mbyp1bvy"
+            }
+        ]
+    }
+}
