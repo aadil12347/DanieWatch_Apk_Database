@@ -1,0 +1,24 @@
+{
+    "post_title": "Dark City (1998)",
+    "post_type": "movie",
+    "tmdb_id": 2666,
+    "imdb_id": "tt0118929",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=RndKa2ZFRVI0NnMrTHkzckpReUJmTDRMT1lEamJSK0FhZXhiNXZPOXRtVnFmaFNKdVFJWEJYRlowUFZRVENvYw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=QmtIOHgvMXhpKzZuZlB1QXovdENHeUgzbityWEowM2c3cjl4YzBLSThFM0c0bmlZNXhPSXRJNmtnRkU0aXd5Vw=="
+            }
+        ]
+    }
+}

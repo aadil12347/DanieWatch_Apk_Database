@@ -1,0 +1,34 @@
+{
+    "post_title": "Terminator 3: Rise of the Machines (2003)",
+    "post_type": "movie",
+    "tmdb_id": 296,
+    "imdb_id": "tt0181852",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=MVZ2U3NXbkVSVHFFWUdiUWFybUIwRVNqdksxR2I2KzFEeFh3ZUJtOFB1MEdoQW9yL1BHdUNYeFNsT0dmUDNrUQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=R1JuSXd3RHJQZElackR2WVp6MXljZ1lqZHl0SzBsVkhUR3cyWWdkSEpQbUhkSCtzQy9BOTdXQ09Wa0NiREcyTQ=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4ocaa14wdlqdd1c"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qqomkx0xwbgbvzz"
+            }
+        ]
+    }
+}

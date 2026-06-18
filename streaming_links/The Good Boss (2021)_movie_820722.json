@@ -1,0 +1,42 @@
+{
+    "post_title": "The Good Boss (2021)",
+    "post_type": "movie",
+    "tmdb_id": 820722,
+    "imdb_id": "tt13066182",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t0imxegom18ivgu"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ckawdccdy-lm5jc"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iaz11dafaabyght"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2ocemqbamc0eq0e"
+            }
+        ],
+        "1080p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9gmu9unms9uz18u"
+            }
+        ]
+    }
+}

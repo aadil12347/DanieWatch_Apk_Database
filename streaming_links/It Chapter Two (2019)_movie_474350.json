@@ -1,0 +1,30 @@
+{
+    "post_title": "It Chapter Two (2019)",
+    "post_type": "movie",
+    "tmdb_id": 474350,
+    "imdb_id": "tt7349950",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o8wuie01iiy1e6a"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i7s6nx6vbm__kyn"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yi6ym1t_tc_k6vv"
+            }
+        ]
+    }
+}

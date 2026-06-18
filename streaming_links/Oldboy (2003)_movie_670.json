@@ -1,0 +1,34 @@
+{
+    "post_title": "Oldboy (2003)",
+    "post_type": "movie",
+    "tmdb_id": 670,
+    "imdb_id": "tt0364569",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ibcy-tf_eeuf3yq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c7d4zyjyxikjc1i"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/snmp6pnqzphthwp"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dnwmwm1x7hpmnm0"
+            }
+        ]
+    }
+}

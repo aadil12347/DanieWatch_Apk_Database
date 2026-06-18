@@ -1,0 +1,36 @@
+{
+    "post_title": "Get Out (2017)",
+    "post_type": "movie",
+    "tmdb_id": 419430,
+    "imdb_id": "tt5052448",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/deiw1ezitteeh3d"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t-tbllbn_7tjyc7"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0nsn0jrejv7evna"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1btbe8rebuetxou"
+            }
+        ]
+    }
+}

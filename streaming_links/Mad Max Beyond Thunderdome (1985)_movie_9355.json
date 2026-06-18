@@ -1,0 +1,30 @@
+{
+    "post_title": "Mad Max Beyond Thunderdome (1985)",
+    "post_type": "movie",
+    "tmdb_id": 9355,
+    "imdb_id": "tt0089530",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oeht1t9veftmybk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iiruhipvgeevufw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ct6mcjpxxmmcxjf"
+            }
+        ]
+    }
+}

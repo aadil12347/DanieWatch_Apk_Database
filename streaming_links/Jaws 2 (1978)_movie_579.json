@@ -1,0 +1,36 @@
+{
+    "post_title": "Jaws 2 (1978)",
+    "post_type": "movie",
+    "tmdb_id": 579,
+    "imdb_id": "tt0077766",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1uxal-wqu-zu-1n"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iqltmewoio1ak1r"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ovoxov1znz10ztn"
+            }
+        ],
+        "720p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5cmq7m2toqntaqj"
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "post_title": "The Pale Blue Eye (2022)",
+    "post_type": "movie",
+    "tmdb_id": 800815,
+    "imdb_id": "tt14138650",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w7gdgl8gvttev9f"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/omts16uuazup_qa"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s7cm18cylfmfefp"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ipxw2-kuiyax1w4"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8k1dxu3ww4xi1xx"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "post_title": "Failure! (2023)",
+    "post_type": "movie",
+    "tmdb_id": 996866,
+    "imdb_id": "tt19880934",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9kmlnllsfpccqcn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qsrur59r8aq-1pa"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zzpfh1hwvkvzwzh"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xwifcpwpwzezhow"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "post_title": "The Shawshank Redemption (1994)",
+    "post_type": "movie",
+    "tmdb_id": "278",
+    "imdb_id": "tt0111161",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/91p7p5nnsnth27r"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6s5z12t1l59cctv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ccocfeekfa7caaf"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i4hi_b-_ir-tlka"
+            }
+        ]
+    }
+}

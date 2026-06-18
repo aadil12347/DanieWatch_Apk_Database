@@ -1,0 +1,42 @@
+{
+    "post_title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
+    "post_type": "movie",
+    "tmdb_id": 120,
+    "imdb_id": "tt0120737",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o8imxr4k4dmhd6_"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b7609fnvsfrx6g4"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9f8wof1oxwmk9y8"
+            }
+        ],
+        "1080p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oei_simsog_78op"
+            }
+        ],
+        "2160p 4K 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1qhqwk1ppwsrqw8"
+            }
+        ]
+    }
+}

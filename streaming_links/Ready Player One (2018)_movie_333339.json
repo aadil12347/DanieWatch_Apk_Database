@@ -1,0 +1,30 @@
+{
+    "post_title": "Ready Player One (2018)",
+    "post_type": "movie",
+    "tmdb_id": 333339,
+    "imdb_id": "tt1677720",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xuvrvovuoavr1xq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vzlli0yeyv0vyt0"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wx4gzjkwg3k9y4i"
+            }
+        ]
+    }
+}

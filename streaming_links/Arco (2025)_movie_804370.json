@@ -1,0 +1,36 @@
+{
+    "post_title": "Arco (2025)",
+    "post_type": "movie",
+    "tmdb_id": 804370,
+    "imdb_id": "tt14883538",
+    "languages": [
+        "Hindi",
+        "French"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nwbdb1tcqzpczcb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gcuwvunwcxqxctx"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/etk0y1z1evqe9vf"
+            }
+        ],
+        "720p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lll1slx5mn7penl"
+            }
+        ]
+    }
+}

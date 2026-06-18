@@ -1,0 +1,66 @@
+{
+    "post_title": "Jurassic World (2022)",
+    "post_type": "movie",
+    "tmdb_id": "NOT_FOUND",
+    "imdb_id": "NOT_FOUND",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tcfn_il1trm-mrz"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/y3i3coattmkmc1t"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/no5o3wapcouqhno"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6fy7oe7f7u7yfyo"
+            }
+        ],
+        "1080p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jp6ki_6k_f1akvf"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1qfw3itzxtj7iz2"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hh6hh3rcoqqcraa"
+            }
+        ],
+        "2160p 4K 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jefiuj67bwgeu6y"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2hpvp2jhs861p5v"
+            }
+        ],
+        "2160p 4K": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/twquqto-u-u1v7t"
+            }
+        ]
+    }
+}

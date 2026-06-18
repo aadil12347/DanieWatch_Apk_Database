@@ -1,0 +1,31 @@
+{
+    "post_title": "My Wonderful Life (2021)",
+    "post_type": "movie",
+    "tmdb_id": 854537,
+    "imdb_id": "tt13164942",
+    "languages": [
+        "English",
+        "With",
+        "Subtitles"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vidddr-s1mv2hdn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8zursrckukc5hnw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mutrfft1t2ytb6a"
+            }
+        ]
+    }
+}

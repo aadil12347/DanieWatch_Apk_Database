@@ -1,0 +1,46 @@
+{
+    "post_title": "The Lord of the Rings: The Two Towers (2002)",
+    "post_type": "movie",
+    "tmdb_id": 121,
+    "imdb_id": "tt0167261",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n2x5q8ng01jg8nh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iqf21faqm2magmc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m3w5sg5odxo7v5e"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wi08jjed0g4tvqq"
+            }
+        ],
+        "1080p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gnvhahtxxgjga0p"
+            }
+        ],
+        "2160p 4K 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rt6ayago1l5l3y0"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Ocean Rescue (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1111644,
+    "imdb_id": "tt10384574",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uplmbfmqp--1hg2"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bbknv1ew2td1jrb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/12czvm-cfnf177w"
+            }
+        ]
+    }
+}

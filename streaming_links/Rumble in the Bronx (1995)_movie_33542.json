@@ -1,0 +1,36 @@
+{
+    "post_title": "Rumble in the Bronx (1995)",
+    "post_type": "movie",
+    "tmdb_id": 33542,
+    "imdb_id": "tt0113326",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5vysq5vri2qo6tm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1blbl-01d0am1kk"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/enx_ceucxfesfys"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fsgszqobddffcih"
+            }
+        ]
+    }
+}

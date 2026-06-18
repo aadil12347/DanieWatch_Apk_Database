@@ -1,0 +1,30 @@
+{
+    "post_title": "I Did It My Way (2023)",
+    "post_type": "movie",
+    "tmdb_id": 999056,
+    "imdb_id": "tt21330770",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ai7ocwlpla9wi-c"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ymqslkcxmr0kq7y"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cba0h4d6o9pllun"
+            }
+        ]
+    }
+}
