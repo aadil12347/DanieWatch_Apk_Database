@@ -1,8 +1,8 @@
 {
-    "post_title": "Masters of the Universe (2026)",
+    "post_title": "Dracula Sucks (1978)",
     "post_type": "movie",
-    "tmdb_id": 454639,
-    "imdb_id": "tt0427340",
+    "tmdb_id": "215746",
+    "imdb_id": "tt0079074",
     "languages": [
         "Hindi",
         "English"
@@ -11,23 +11,25 @@
         "480p": [
             {
                 "episode_title": "Episode 1",
-                "link": "https://vcloud.zip/gci6sgghw1r1msv"
+                "link": "https://vcloud.zip/lcat7vnzu1n7eev"
             }
         ],
         "720p": [
             {
                 "episode_title": "Episode 1",
-                "link": "https://vcloud.zip/kclc4c2ad-nf3ll"
+                "link": "https://vcloud.zip/28zmevz2alzpceo"
             }
         ],
         "1080p": [
             {
                 "episode_title": "Episode 1",
-                "link": "https://vcloud.zip/u66m_qhxetauzrz"
-            },
+                "link": "https://vcloud.zip/ccy4xpy7i5pwc75"
+            }
+        ],
+        "720p HEVC": [
             {
                 "episode_title": "Episode 1",
-                "link": "https://vcloud.zip/_dd9lstvddasgxx"
+                "link": "https://vcloud.zip/hc72hbk2sv2-dsv"
             }
         ]
     }

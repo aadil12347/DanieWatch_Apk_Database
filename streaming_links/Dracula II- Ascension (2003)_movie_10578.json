@@ -1,0 +1,24 @@
+{
+    "post_title": "Dracula II: Ascension (2003)",
+    "post_type": "movie",
+    "tmdb_id": 10578,
+    "imdb_id": "tt0336325",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=TDRpOEVDWnlGWG1IaDIxME5tMlJ5UU9RUjd2Q0JsRUxGN2R2WEU0azFEK1hsZGlpd25BckZZa0NpcTlUVzF6YQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=U3pNdmlqd1VCcWF6ZDBXR09BVmY5MDhzTEwvbXl1RDdDM2FLaXVod2JXMDduSnErWnJzb214QkNIbGFFaitRSw=="
+            }
+        ]
+    }
+}

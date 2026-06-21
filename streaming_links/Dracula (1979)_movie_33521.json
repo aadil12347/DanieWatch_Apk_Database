@@ -1,0 +1,24 @@
+{
+    "post_title": "Dracula (1979)",
+    "post_type": "movie",
+    "tmdb_id": 33521,
+    "imdb_id": "tt0079073",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=Sng1TDFYYmJJUC84VE9lT1dIcVU4L1owV0JsVWlzNXJDeDZCZzQwZHZXazMzL0l4SkVtcUtpaVErckE4d2NIeA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=Sng1TDFYYmJJUC84VE9lT1dIcVU4L1owV0JsVWlzNXJDeDZCZzQwZHZXazMzL0l4SkVtcUtpaVErckE4d2NIeA=="
+            }
+        ]
+    }
+}

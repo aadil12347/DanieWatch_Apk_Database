@@ -1,0 +1,40 @@
+{
+    "post_title": "Abigail (2019)",
+    "post_type": "movie",
+    "tmdb_id": 575094,
+    "imdb_id": "tt7025388",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dhjognubnlpvybn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7lnnglddnbbj9aj"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ee_fqqstkfnv7ts"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ysojtjfrye7ui6w"
+            }
+        ],
+        "720p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1wea1i-r2abja6f"
+            }
+        ]
+    }
+}

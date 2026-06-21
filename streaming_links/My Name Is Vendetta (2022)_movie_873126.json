@@ -1,8 +1,8 @@
 {
-    "post_title": "Masters of the Universe (2026)",
+    "post_title": "My Name Is Vendetta (2022)",
     "post_type": "movie",
-    "tmdb_id": 454639,
-    "imdb_id": "tt0427340",
+    "tmdb_id": 873126,
+    "imdb_id": "tt15229674",
     "languages": [
         "Hindi",
         "English"
@@ -11,23 +11,25 @@
         "480p": [
             {
                 "episode_title": "Episode 1",
-                "link": "https://vcloud.zip/gci6sgghw1r1msv"
+                "link": "https://vcloud.zip/1qo77_x_u987kke"
             }
         ],
         "720p": [
             {
                 "episode_title": "Episode 1",
-                "link": "https://vcloud.zip/kclc4c2ad-nf3ll"
+                "link": "https://vcloud.zip/buururuehxet11z"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vo0xk4x3ek4aooo"
             }
         ],
         "1080p": [
             {
                 "episode_title": "Episode 1",
-                "link": "https://vcloud.zip/u66m_qhxetauzrz"
-            },
-            {
-                "episode_title": "Episode 1",
-                "link": "https://vcloud.zip/_dd9lstvddasgxx"
+                "link": "https://vcloud.zip/6rwshkiir7skwoo"
             }
         ]
     }

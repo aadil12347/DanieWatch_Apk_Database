@@ -1,8 +1,8 @@
 {
-    "post_title": "Masters of the Universe (2026)",
+    "post_title": "Dracula's Curse (2006)",
     "post_type": "movie",
-    "tmdb_id": 454639,
-    "imdb_id": "tt0427340",
+    "tmdb_id": 48519,
+    "imdb_id": "tt0499464",
     "languages": [
         "Hindi",
         "English"
@@ -11,23 +11,25 @@
         "480p": [
             {
                 "episode_title": "Episode 1",
-                "link": "https://vcloud.zip/gci6sgghw1r1msv"
+                "link": "https://vcloud.zip/kleueszclo9uod5"
             }
         ],
         "720p": [
             {
                 "episode_title": "Episode 1",
-                "link": "https://vcloud.zip/kclc4c2ad-nf3ll"
+                "link": "https://vcloud.zip/gppep1lpcujhsl3"
             }
         ],
         "1080p": [
             {
                 "episode_title": "Episode 1",
-                "link": "https://vcloud.zip/u66m_qhxetauzrz"
-            },
+                "link": "https://vcloud.zip/fr7sjfek4az4zmg"
+            }
+        ],
+        "720p HEVC": [
             {
                 "episode_title": "Episode 1",
-                "link": "https://vcloud.zip/_dd9lstvddasgxx"
+                "link": "https://vcloud.zip/haamtufuq0p_7yk"
             }
         ]
     }

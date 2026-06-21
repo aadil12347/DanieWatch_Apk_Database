@@ -1,0 +1,44 @@
+{
+    "post_title": "Van Helsing (2004)",
+    "post_type": "movie",
+    "tmdb_id": 7131,
+    "imdb_id": "tt0338526",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nrlhy1r7gkkzsks"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iv9v4dvlm1ng6l6"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s504e73eqsjd_od"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ba3ruwalzuueuaa"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iqomfakff_ci7g3"
+            }
+        ],
+        "2160p 4K": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x9wn4wsxgcc12cm"
+            }
+        ]
+    }
+}

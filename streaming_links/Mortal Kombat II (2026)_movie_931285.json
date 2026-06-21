@@ -11,19 +11,49 @@
         "480p": [
             {
                 "episode_title": "Episode 1",
-                "link": "https://vcloud.zip/__z8d_b8aa10p01"
+                "link": "https://vcloud.zip/q9v3ao6lq9qvhax"
             }
         ],
         "720p": [
             {
                 "episode_title": "Episode 1",
-                "link": "https://vcloud.zip/ty2yb_21xja2_r4"
+                "link": "https://vcloud.zip/rkrqqrhqsk95qqw"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1jigswf1kre-bu-"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k19tzz1vk1cqvpz"
             }
         ],
         "1080p": [
             {
                 "episode_title": "Episode 1",
-                "link": "https://vcloud.zip/hhh1gbfc9pz_bb9"
+                "link": "https://vcloud.zip/yhrb3pruzhdmmmb"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wwp-iefozpzzx-p"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/33hybwyhiyguh1i"
+            }
+        ],
+        "1080p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yodehhreyqvke4r"
+            }
+        ],
+        "2160p 4K": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bveejabwj-exver"
             }
         ]
     }
