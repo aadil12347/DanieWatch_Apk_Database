@@ -1,0 +1,59 @@
+{
+    "post_title": "Exhuma (2024)",
+    "post_type": "movie",
+    "tmdb_id": 838209,
+    "imdb_id": "tt27802490",
+    "languages": [
+        "Hindi",
+        "English",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/u29a9oiurua9obb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m2vyrlayqsyr5vx"
+            }
+        ],
+        "720p 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e7wrgwz19q2iex9"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7_fsc_sy5b4sj-i"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/to_mos1_ltjojie"
+            }
+        ],
+        "1080p 10bit HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-r8d_ap_ybkqpyp"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v1kiasi8--usc6g"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4r2poyifme4yrhy"
+            },
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cf16z9zigz1u19u"
+            }
+        ]
+    }
+}
