@@ -1,0 +1,40 @@
+{
+    "post_title": "The Warriorr (2022)",
+    "post_type": "movie",
+    "tmdb_id": 927909,
+    "imdb_id": "tt14598638",
+    "languages": [
+        "Tamil",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vl-ff-vf73rrbfr"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2pipxor5p6oqxpx"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h5ejj-vsj6j-w4q"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vi28fhrm2zhhazh"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0riugrzpqijjrng"
+            }
+        ]
+    }
+}

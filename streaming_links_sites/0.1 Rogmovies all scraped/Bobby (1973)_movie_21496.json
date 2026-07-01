@@ -1,0 +1,29 @@
+{
+    "post_title": "Bobby (1973)",
+    "post_type": "movie",
+    "tmdb_id": 21496,
+    "imdb_id": "tt0069810",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qaa7b7qsw75disz"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rd0x0zscsvkrpxk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pkjp5ysgmescmac"
+            }
+        ]
+    }
+}

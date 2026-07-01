@@ -1,0 +1,33 @@
+{
+    "post_title": "Tamasha Live",
+    "post_type": "movie",
+    "tmdb_id": null,
+    "imdb_id": "tt15458502",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/12nl6uun1uqp6bs"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mj1420j2141mjnc"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/5pwzbvj_ab6qqzq"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ir13dabduzidtra"
+            }
+        ]
+    }
+}

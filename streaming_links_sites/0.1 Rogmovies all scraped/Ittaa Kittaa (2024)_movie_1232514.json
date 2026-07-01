@@ -1,0 +1,33 @@
+{
+    "post_title": "Ittaa Kittaa (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1232514,
+    "imdb_id": "tt29615171",
+    "languages": [
+        "Gujarati"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_jjl_pgnhst00y-"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o1rtyl1rwo1iowr"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mfsbv8vapwnv7kh"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v4e1w9_xcvxbqgn"
+            }
+        ]
+    }
+}

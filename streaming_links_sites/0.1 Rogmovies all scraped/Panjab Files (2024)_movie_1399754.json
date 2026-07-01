@@ -1,0 +1,29 @@
+{
+    "post_title": "Panjab Files (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1399754,
+    "imdb_id": "tt32308591",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1qik4yv48yq3kmv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kftafkd4nwza81e"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0vtfuxmxtzgxtq1"
+            }
+        ]
+    }
+}

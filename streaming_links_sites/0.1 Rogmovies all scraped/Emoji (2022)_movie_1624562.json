@@ -1,0 +1,30 @@
+{
+    "post_title": "Emoji (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1624562,
+    "imdb_id": "tt21340072",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yuuy1abmumhjpjm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vrcyw2epbhsv1cu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8pv1wupafjjuabf"
+            }
+        ]
+    }
+}

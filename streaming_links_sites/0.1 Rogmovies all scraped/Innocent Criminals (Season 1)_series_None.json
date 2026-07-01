@@ -1,0 +1,26 @@
+{
+    "post_title": "Innocent Criminals",
+    "post_type": "series",
+    "tmdb_id": null,
+    "imdb_id": "tt14872906",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=K2RrQ3lHYlRZbGJiTHhHVE1BY0Vra3NzTmZmQTJwakZiQ0s3TGUyQWc4NXYrU0RQU2xXalViOGtiRCtrRHZiMQ=="
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=NlBQR21NenhLYXlRbE9TdGFERDZWemdJZWdOZkdxRDI1VlN2VGw5MTVSSlF1M1QraytjSlBhd1kvT1g4VHJ1Vg=="
+                }
+            ]
+        }
+    }
+}

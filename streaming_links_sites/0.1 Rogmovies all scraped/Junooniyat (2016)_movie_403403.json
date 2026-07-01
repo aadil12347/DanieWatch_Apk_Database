@@ -1,0 +1,29 @@
+{
+    "post_title": "Junooniyat (2016)",
+    "post_type": "movie",
+    "tmdb_id": 403403,
+    "imdb_id": "tt3840534",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ar5ksljvcv73mnv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3b2kg32g2qgzi6i"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bbrd3o3rox2xa3s"
+            }
+        ]
+    }
+}

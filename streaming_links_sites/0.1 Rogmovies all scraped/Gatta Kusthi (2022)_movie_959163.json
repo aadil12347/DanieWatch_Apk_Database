@@ -1,0 +1,34 @@
+{
+    "post_title": "Gatta Kusthi (2022)",
+    "post_type": "movie",
+    "tmdb_id": 959163,
+    "imdb_id": "tt21617996",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/omfig8om12bpbfz"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ts5ya11tpordnmx"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/phq_tdqu1d1qhhp"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/u8ssc5s-cs7dvxc"
+            }
+        ]
+    }
+}

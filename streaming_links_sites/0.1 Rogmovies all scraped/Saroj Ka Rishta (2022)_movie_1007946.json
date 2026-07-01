@@ -1,0 +1,33 @@
+{
+    "post_title": "Saroj Ka Rishta (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1007946,
+    "imdb_id": "tt8690140",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rrj1xzkr-ll1ez0"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dudzkt8bk8dve3a"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wzaz2y9awz9addd"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/crroc7ceiqjozz1"
+            }
+        ]
+    }
+}

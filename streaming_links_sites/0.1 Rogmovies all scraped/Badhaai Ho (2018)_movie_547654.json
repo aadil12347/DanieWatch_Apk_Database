@@ -1,0 +1,29 @@
+{
+    "post_title": "Badhaai Ho (2018)",
+    "post_type": "movie",
+    "tmdb_id": 547654,
+    "imdb_id": "tt7725596",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g5ktt5tfhjbtejk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/d0bb9j_abk3nkhq"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gkrm1gwm8jviob_"
+            }
+        ]
+    }
+}

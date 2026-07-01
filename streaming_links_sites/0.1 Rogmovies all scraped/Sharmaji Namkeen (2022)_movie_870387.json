@@ -1,0 +1,43 @@
+{
+    "post_title": "Sharmaji Namkeen (2022)",
+    "post_type": "movie",
+    "tmdb_id": 870387,
+    "imdb_id": "tt9098938",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jmi_45jhhmq7-_6"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_to41h6hs11k1pf"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/0v40ezcdkgc1004"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zja5gh7e5fhttu0"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/kttbatca9lststv"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ar3tgtalwwutptj"
+            }
+        ]
+    }
+}

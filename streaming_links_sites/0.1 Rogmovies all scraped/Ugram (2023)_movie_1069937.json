@@ -1,0 +1,37 @@
+{
+    "post_title": "Ugram (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1069937,
+    "imdb_id": "tt21989120",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pbzs0a00i--9qia"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ieyeqqt1ytid8cq"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/dv4ddur45gdirot"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gyxxyfhmopfg0hb"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wgp8z6y827pllpj"
+            }
+        ]
+    }
+}

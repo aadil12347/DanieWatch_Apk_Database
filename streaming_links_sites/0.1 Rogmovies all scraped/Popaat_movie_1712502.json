@@ -1,0 +1,29 @@
+{
+    "post_title": "Popaat",
+    "post_type": "movie",
+    "tmdb_id": 1712502,
+    "imdb_id": "tt29719240",
+    "languages": [
+        "Gujarati"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ets1lhejwu84o-j"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w--tpud1r--2261"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7dobojgodxvs5z5"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Salaam Venky (2022)",
+    "post_type": "movie",
+    "tmdb_id": 881983,
+    "imdb_id": "tt15567704",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1g3poglj1ylbipn"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6xcccjpiidq0c_s"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/6tagd7xxppk3wdb"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c950f-1ipk0trf4"
+            }
+        ]
+    }
+}

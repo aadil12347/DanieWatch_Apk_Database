@@ -1,0 +1,37 @@
+{
+    "post_title": "Vaazhai (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1051426,
+    "imdb_id": "tt23782140",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hiu1kos9o7sxko2"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yv8vybm8bnozm88"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/rzkwovfeczxipit"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ktywckzq1kamlsi"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/dd66fdk7gcrgd2g"
+            }
+        ]
+    }
+}

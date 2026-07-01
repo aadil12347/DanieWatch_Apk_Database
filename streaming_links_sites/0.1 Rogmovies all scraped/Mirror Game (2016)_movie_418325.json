@@ -1,0 +1,33 @@
+{
+    "post_title": "Mirror Game (2016)",
+    "post_type": "movie",
+    "tmdb_id": 418325,
+    "imdb_id": "tt5354160",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4cpu64pypryqtpp"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ejt4rnfy444yera"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/f7vi9x8vfgv6zmf"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k5bymzwa_mmqzzt"
+            }
+        ]
+    }
+}

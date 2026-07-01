@@ -1,0 +1,29 @@
+{
+    "post_title": "Mukkabaaz (2018)",
+    "post_type": "movie",
+    "tmdb_id": 470641,
+    "imdb_id": "tt7180544",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=REkzQU9WWjRLd1pDSjNyNUVIbFhzZ1Yrajh1Y25DSXlPU0tlbHBTcW81WHZVT01nbHdkcjhITEl3bkRJVGhSYw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=bHZxQlZiT2l1U0htOVJsbkJxZWN1SzVncmtRQmxKbi9jK0cvQzVxaytRb1FFRURHdmZZTGJiWFFyL2dDMloxaQ=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/baci65k5jtwomz8"
+            }
+        ]
+    }
+}

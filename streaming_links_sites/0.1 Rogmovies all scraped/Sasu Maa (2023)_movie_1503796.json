@@ -1,0 +1,33 @@
+{
+    "post_title": "Sasu Maa (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1503796,
+    "imdb_id": "tt22167354",
+    "languages": [
+        "Gujarati"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/103fq2mtjq44nwy"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1ezbiuiyjczshcw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xwduj1unror3t6j"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8t78tmrl7e8rwox"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Hu Ane Tu (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1178524,
+    "imdb_id": "tt28483848",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8doh1bnqvh_bgqv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b1r1bfuk9wzkhs9"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/tpsspdzfer_zwwx"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k0h-h1vvy44s4m0"
+            }
+        ]
+    }
+}

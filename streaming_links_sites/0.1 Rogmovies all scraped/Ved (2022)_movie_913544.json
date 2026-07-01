@@ -1,0 +1,44 @@
+{
+    "post_title": "Ved (2022)",
+    "post_type": "movie",
+    "tmdb_id": 913544,
+    "imdb_id": "tt20854842",
+    "languages": [
+        "Hindi",
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c-ky-gct-31-t3k"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/am1m56c6-1m69ec"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/zqezef--o1jgno9"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1fe1l11tnvas8xg"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/44ggwytqvwk1qww"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q0n1b7ery11ag7n"
+            }
+        ]
+    }
+}

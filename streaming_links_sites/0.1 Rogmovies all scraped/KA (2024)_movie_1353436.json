@@ -1,0 +1,30 @@
+{
+    "post_title": "KA (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1353436,
+    "imdb_id": "tt32887285",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8zjigmyghgzehxw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/et1ttz1k6q4v44t"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/noy77iy7b2vhcbu"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Shaadisthan (2021)",
+    "post_type": "movie",
+    "tmdb_id": 836263,
+    "imdb_id": "tt14690080",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=MEZ0cll4TkEvRE5ZN0Zkd1lUQktzSlNnYkN3Y0FuWE1yYkkvZzNWZW5xOHhIQVUvTlF4TUorZnFKRkc1WXk4Wg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=NzY0Nm8vQ1M0VnoyamNHVHpWSHhGZ3p4VzZCdUZvMzg3ckgvV1QzNnlkTmlTVUwzcFpRdU1SRm9FQS9MVzVOSg=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=Q3VrWEIvbTFGSzJDdklvSGFGaGRlMnNlOVp2MFNubU1mbDVOa2JuS3JUei9tS05WL2VHZVJqaS9KdVYydGlOVg=="
+            }
+        ]
+    }
+}

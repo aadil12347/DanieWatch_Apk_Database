@@ -1,0 +1,29 @@
+{
+    "post_title": "Chhapaak (2020)",
+    "post_type": "movie",
+    "tmdb_id": 590404,
+    "imdb_id": "tt9614460",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=QXAwWW5xWWdDbUV0QzdhVjBQZ2pvYmMra0pXQm9Ja1VJQXBpUnc3dlF6SFFBelo4di9uL1RCdmNJZnpDWWRDLw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=NjJjanp2b3MvclJKQzk3T1dHRU8yc3o0UEx2aGJ4VFQyQTNwS3BkVWNSU2FwdEdYK09QYWpLSG5jSGlGNERORQ=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=YlMyU2lmSC82SE0wejVneHNpZmRzQWI3YUpJdS9rUmJsdVhNcTdWdS94d2tleUxtMjlVRjkxNTlLUTAyOVpHZg=="
+            }
+        ]
+    }
+}

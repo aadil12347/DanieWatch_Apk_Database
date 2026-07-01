@@ -1,0 +1,33 @@
+{
+    "post_title": "12th Man (2022)",
+    "post_type": "movie",
+    "tmdb_id": 847726,
+    "imdb_id": "tt14986012",
+    "languages": [
+        "Malayalam"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eytcavzaybmpzfl"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sqdckyjnjgntttd"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q9zmms-_m8-1bkj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/javervarm76hw5y"
+            }
+        ]
+    }
+}

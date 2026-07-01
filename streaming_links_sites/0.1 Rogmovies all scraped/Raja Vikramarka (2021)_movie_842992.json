@@ -1,0 +1,37 @@
+{
+    "post_title": "Raja Vikramarka (2021)",
+    "post_type": "movie",
+    "tmdb_id": 842992,
+    "imdb_id": "tt14893376",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9bl90x5wle0l911"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9ne9rrxzj011vzh"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/thp8fmw7873abas"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lfmmphxmejo01fm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/fqrtlhioflp67ff"
+            }
+        ]
+    }
+}

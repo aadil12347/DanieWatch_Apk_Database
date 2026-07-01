@@ -1,0 +1,59 @@
+{
+    "post_title": "Tiger 3 (2023)",
+    "post_type": "movie",
+    "tmdb_id": 720557,
+    "imdb_id": "tt18411490",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/muo8rfp8ujknrx7"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/43ts8vi94v1d8vt"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_n_45b__93_vhxf"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/4mfglx2fi1oqgwq"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8n3mhs6jmtns38m"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/nx3q1sdy0nk0hk0"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/4qufe1kwh48k8kr"
+            },
+            {
+                "episode_title": "Episode 4",
+                "link": "https://vcloud.zip/mmxnxrk1grmv3kg"
+            },
+            {
+                "episode_title": "Episode 5",
+                "link": "https://vcloud.zip/g0-h10d5scbusd0"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n7e2n1nuwluqxeq"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "post_title": "Kakafukaka (2019)",
+    "post_type": "series",
+    "tmdb_id": 89503,
+    "imdb_id": "tt11514718",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=ZFB0cnBwSXdkazVHUUtnM0ZieC9DQmxGTHI5Rks4VHA5eUI0STE5VlplczZOQmIxZlY0dDdYYk9PNTdMV3MvQw=="
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=SW02VzlLcW5TSlIzcDgrQ0EvYTRjcDhja2FzUkxTa1VQZnBWY1ZseXZBK1BKR3RCUkxtbXEwRnR5U1hWcW5aLw=="
+                }
+            ]
+        }
+    }
+}

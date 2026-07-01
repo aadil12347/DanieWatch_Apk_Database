@@ -1,0 +1,33 @@
+{
+    "post_title": "Tufang (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1150185,
+    "imdb_id": "tt27458904",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jhw1mxlbsxvhnnw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-z0vktd97wzg3h9"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/cwknkmtqmdkmhqj"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tww5nnl9szkwvw1"
+            }
+        ]
+    }
+}

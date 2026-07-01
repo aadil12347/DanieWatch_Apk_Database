@@ -1,0 +1,51 @@
+{
+    "post_title": "Drishyam 2 (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1029827,
+    "imdb_id": "tt15501640",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/71vtt9mq17hk1wk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bl1bdvxsxhi1v5-"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/jrcr1r1khupmo_p"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2-htcus241ffak4"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/dufe1e1istzzvcf"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/0ngkssjqmht0kff"
+            },
+            {
+                "episode_title": "Episode 4",
+                "link": "https://vcloud.zip/11b1ergy0m8lmyb"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xllzqftx4xgwz2x"
+            }
+        ]
+    }
+}

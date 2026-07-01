@@ -1,0 +1,29 @@
+{
+    "post_title": "Malang (2020)",
+    "post_type": "movie",
+    "tmdb_id": 661043,
+    "imdb_id": "tt9877170",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/d5dnzdz9qmdzqzx"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fey3yytrpyeyyyh"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1dp_a_d1hph02q6"
+            }
+        ]
+    }
+}

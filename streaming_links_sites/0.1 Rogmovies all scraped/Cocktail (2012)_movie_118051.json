@@ -1,0 +1,29 @@
+{
+    "post_title": "Cocktail (2012)",
+    "post_type": "movie",
+    "tmdb_id": 118051,
+    "imdb_id": "tt2168910",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/00kbziu9z7ivezl"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oqtrvewrhrbwiym"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4rrraaolcmr1omd"
+            }
+        ]
+    }
+}

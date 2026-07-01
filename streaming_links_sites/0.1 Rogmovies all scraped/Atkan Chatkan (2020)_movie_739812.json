@@ -1,0 +1,29 @@
+{
+    "post_title": "Atkan Chatkan (2020)",
+    "post_type": "movie",
+    "tmdb_id": 739812,
+    "imdb_id": "tt12969078",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=Tk1GbUkxTWpETlhhTjI0V2w2OEw2WVEvWWtkNTRkUHlLeXB6elNrZ0tqNmF0SlJseHBleUdBUWo3amtObkZaZQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1htzz2-bwhqzh8s"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=S0lQZ3lWdWJER2d4MmN1UnBKaHA0RmlBL3pIUzJFRjZyRWlqSkFLZXBOdmZOR3RPalE4MGFINEE1UFlTVzgvSw=="
+            }
+        ]
+    }
+}

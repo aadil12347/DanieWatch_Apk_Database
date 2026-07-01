@@ -1,0 +1,33 @@
+{
+    "post_title": "Good Newwz (2019)",
+    "post_type": "movie",
+    "tmdb_id": 643534,
+    "imdb_id": "tt8504014",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z1rgsgpjqszrqzs"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tytycv1d_w67cv7"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/51p55821ctp5i2c"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/op10hhs40fgv21g"
+            }
+        ]
+    }
+}

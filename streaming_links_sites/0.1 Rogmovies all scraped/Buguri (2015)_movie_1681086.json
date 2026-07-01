@@ -1,0 +1,34 @@
+{
+    "post_title": "Buguri (2015)",
+    "post_type": "movie",
+    "tmdb_id": 1681086,
+    "imdb_id": "tt4992094",
+    "languages": [
+        "Hindi",
+        "Kannada"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f-rs_ym0_1r1pnf"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qxxg5bdy6bmgg2g"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mvs2nm3p0qa0vp_"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lbzqnw4qwbmdxbd"
+            }
+        ]
+    }
+}

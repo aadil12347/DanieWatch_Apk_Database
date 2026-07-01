@@ -1,0 +1,33 @@
+{
+    "post_title": "Toofan (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1216385,
+    "imdb_id": "tt30415138",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7wd7x_33ghh3hp5"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hoybktjeeoyy0kf"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/nh4n24t6hqrtx71"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zt18ddekuewsd2a"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Dard (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1248295,
+    "imdb_id": "tt21972018",
+    "languages": [
+        "Gujarati"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b1iieeehhiku6gh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ikuet5iitj4ui5h"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/kme1yg1w1mtmw3q"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gm1w7zfmllm1wsl"
+            }
+        ]
+    }
+}

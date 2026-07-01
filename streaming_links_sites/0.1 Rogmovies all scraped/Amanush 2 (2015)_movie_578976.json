@@ -1,0 +1,33 @@
+{
+    "post_title": "Amanush 2 (2015)",
+    "post_type": "movie",
+    "tmdb_id": 578976,
+    "imdb_id": "tt4654738",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ba1gblhlfhe71hv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ada_kvan7c59_m1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/efirbpioffqrcfr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zft0c1roo0dg7gp"
+            }
+        ]
+    }
+}

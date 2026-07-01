@@ -1,0 +1,34 @@
+{
+    "post_title": "Satya 2 (2013)",
+    "post_type": "movie",
+    "tmdb_id": 242084,
+    "imdb_id": "tt3059106",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7wv37ttda3f3w2n"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xkzmxtmymfezr2u"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/sgbnse7j2grarbg"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/djeq1_eju_jej-o"
+            }
+        ]
+    }
+}

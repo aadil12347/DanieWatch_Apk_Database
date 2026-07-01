@@ -1,0 +1,33 @@
+{
+    "post_title": "My Friend Pinto (2011)",
+    "post_type": "movie",
+    "tmdb_id": 79862,
+    "imdb_id": "tt1512220",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sgmm3ztdb9mkhdn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ib-pmdm-re7oamj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/8ziqky92uoz9uzs"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pqsopchqbyptkqt"
+            }
+        ]
+    }
+}

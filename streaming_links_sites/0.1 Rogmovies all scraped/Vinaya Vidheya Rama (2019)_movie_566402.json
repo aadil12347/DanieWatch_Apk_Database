@@ -1,0 +1,34 @@
+{
+    "post_title": "Vinaya Vidheya Rama (2019)",
+    "post_type": "movie",
+    "tmdb_id": 566402,
+    "imdb_id": "tt8361196",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w6wmmhttzht6hus"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/55o1_sc6sa__6n_"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/miqks03vrf51ww0"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g1yozlga2ulolao"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "post_title": "Cinemaa Zindabad (2021)",
+    "post_type": "movie",
+    "tmdb_id": 877875,
+    "imdb_id": "tt12223246",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8kr11s9izlhec80"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cmw1h7xuxvklx7h"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/kgrgygyoytgykwg"
+            }
+        ],
+        "1080p": []
+    }
+}

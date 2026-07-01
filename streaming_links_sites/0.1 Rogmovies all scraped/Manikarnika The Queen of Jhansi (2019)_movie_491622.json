@@ -1,0 +1,29 @@
+{
+    "post_title": "Manikarnika: The Queen of Jhansi (2019)",
+    "post_type": "movie",
+    "tmdb_id": 491622,
+    "imdb_id": "tt6903440",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=NWRqRWZSYnZ3WEI4bi8yenlNZlZxckhEeFJVMnk5akhUazF1ZSsxTmNlWHFjejJUUGlOK3d0UzN1WjJEeE5PZw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=eURzdjV1c1NMUWFWR3ZIREpvTjczMGlHRjdQbUJ3R0lxaGlrSThibW5jbDk4VGtwM3pEbkd2OEhyRERtenB0dg=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tvlnirfe1nvrwi9"
+            }
+        ]
+    }
+}

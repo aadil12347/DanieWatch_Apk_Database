@@ -1,0 +1,33 @@
+{
+    "post_title": "Shaan (2022)",
+    "post_type": "movie",
+    "tmdb_id": 894121,
+    "imdb_id": "tt20252438",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jv0tvimi01s-qvm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c3on3hocanbce3o"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/lkkl8uhxjlpylut"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fdban2ftnncqdi_"
+            }
+        ]
+    }
+}

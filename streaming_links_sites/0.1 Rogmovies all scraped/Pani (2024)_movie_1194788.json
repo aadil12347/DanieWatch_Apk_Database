@@ -1,0 +1,38 @@
+{
+    "post_title": "Pani (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1194788,
+    "imdb_id": "tt29461220",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2qgndn0mpogr0dq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8yfgjazf1hjm8ab"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/jjtwxgaqpj91avp"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h217fwla-kmihhf"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/_h42ebs3bgeq_y3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Buddy (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1230407,
+    "imdb_id": "tt26235048",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sq3qnu0011sp7tx"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vqzzf115pgpuljw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ucwc5wgiv5u5daa"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2g-kig2yrrakjgi"
+            }
+        ]
+    }
+}

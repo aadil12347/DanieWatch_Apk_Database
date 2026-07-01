@@ -1,0 +1,29 @@
+{
+    "post_title": "Bubblegum (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1191554,
+    "imdb_id": "tt29436996",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fvjf1sznppp7zf_"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dcj66nojne2wxph"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uf31rfp3b19t1pa"
+            }
+        ]
+    }
+}

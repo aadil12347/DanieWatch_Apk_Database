@@ -1,0 +1,39 @@
+{
+    "post_title": "Atrangi Re (2021)",
+    "post_type": "movie",
+    "tmdb_id": 618911,
+    "imdb_id": "tt9766332",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/400w0095uygq9gm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tdvgwvqs57qqpqh"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/fwbj9ka9oh2oebd"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t1nt7gunbdlrr7n"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i1ggpi1uh81chyi"
+            }
+        ]
+    }
+}

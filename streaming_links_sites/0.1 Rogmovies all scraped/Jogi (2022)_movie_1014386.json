@@ -1,0 +1,41 @@
+{
+    "post_title": "Jogi (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1014386,
+    "imdb_id": "tt21848358",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ol1njppl7l77acj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7wtz7hyti7wkqrc"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/huffdf5uq_-8wyc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/elq4z8j4fp9t00x"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xwk1wab1114wyxw"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/agxgbt1h11tt_bh"
+            }
+        ]
+    }
+}

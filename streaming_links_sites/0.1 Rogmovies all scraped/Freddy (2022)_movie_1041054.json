@@ -1,0 +1,39 @@
+{
+    "post_title": "Freddy (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1041054,
+    "imdb_id": "tt15145764",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wlrhi_l2vsrwe7y"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7hbbegwrfkrtemk"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/aczw1cw40seo_zy"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fq-meibybjcppy8"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ang8flvntjtoao9"
+            }
+        ]
+    }
+}

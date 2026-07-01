@@ -1,0 +1,24 @@
+{
+    "post_title": "Patel S.I.R (2017)",
+    "post_type": "movie",
+    "tmdb_id": 467242,
+    "imdb_id": "tt7937774",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=U1ozMXFBZFN2Z2x3MzBXbUhZSHd1SGRabW4rUDFXKzh2Tk1CUm9CdXM0RlQyd1ZNSERpOHhSb3NJNTRmc1RGWQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=WlFhbFp5UEg3Y214Z3MzeFhuSkx1bzdYaWN2b3FGc3FCNXBUb1hsUDhuaDFWckkzWUdxd2toVjlZSHlKWGd5Zw=="
+            }
+        ],
+        "1080p": []
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Housefull 4 (2019)",
+    "post_type": "movie",
+    "tmdb_id": 611748,
+    "imdb_id": "tt7721946",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/81-9jy51smlg9hh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n2q47f71go0jk0w"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ld8aqhm0mahtyn1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/8n4ase8apia1413"
+            }
+        ]
+    }
+}

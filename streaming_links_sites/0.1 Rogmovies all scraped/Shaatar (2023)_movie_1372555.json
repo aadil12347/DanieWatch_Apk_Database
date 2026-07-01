@@ -1,0 +1,29 @@
+{
+    "post_title": "Shaatar (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1372555,
+    "imdb_id": "tt28252414",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mszgv81qc-8kgsc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kvo1avxcfj1vnny"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z7dytyeyz7yzthv"
+            }
+        ]
+    }
+}

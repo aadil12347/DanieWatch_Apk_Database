@@ -1,0 +1,47 @@
+{
+    "post_title": "Kabzaa (2023)",
+    "post_type": "movie",
+    "tmdb_id": 683876,
+    "imdb_id": "tt11364772",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/14yemkg8ffhg-4k"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dppidx6nbmzzsex"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/7shwahl0twpl1pw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1ooiwjc26m1cpds"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wq5qnytd_w1yydv"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/jeocn3o9_-shtoc"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xt6hk-ktv6thhul"
+            }
+        ]
+    }
+}

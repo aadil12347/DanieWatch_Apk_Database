@@ -1,0 +1,29 @@
+{
+    "post_title": "Devdas (2002)",
+    "post_type": "movie",
+    "tmdb_id": 15917,
+    "imdb_id": "tt0238936",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/03azl0avgd8gaqv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8i1zpz8spstrzt8"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1eeukcjoc1a1rxm"
+            }
+        ]
+    }
+}

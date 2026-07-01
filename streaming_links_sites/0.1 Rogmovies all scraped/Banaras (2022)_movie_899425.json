@@ -1,0 +1,34 @@
+{
+    "post_title": "Banaras (2022)",
+    "post_type": "movie",
+    "tmdb_id": 899425,
+    "imdb_id": "tt15768294",
+    "languages": [
+        "Hindi",
+        "Kannada"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a1dc3wp0dbdhnnu"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h8h0y0800vbilr_"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/bz1w94a63n1asv3"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1mb8vkmvbckr8a1"
+            }
+        ]
+    }
+}

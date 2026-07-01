@@ -1,0 +1,30 @@
+{
+    "post_title": "Thikka (2016)",
+    "post_type": "movie",
+    "tmdb_id": 411629,
+    "imdb_id": "tt6001942",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=R1FyQVFneHFCUjg3Y2JmTy9YaHpkTTkzSjJpbnFhSmF1TFkyeGFJazhJMVAyOW5EY2F3UUl5UFA3Z0I3YWlQZg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=QXNySFVWRUpJL3RadHN2Z3dQRlJ6ck9INkJrWG90cUxRazdWbklaYnY2QXBPbm45TFd0c2orOUN1QUtpalc3VQ=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4ujqanyyqc1zokg"
+            }
+        ]
+    }
+}

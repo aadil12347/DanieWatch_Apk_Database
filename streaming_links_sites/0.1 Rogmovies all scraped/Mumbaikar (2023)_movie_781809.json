@@ -1,0 +1,37 @@
+{
+    "post_title": "Mumbaikar (2023)",
+    "post_type": "movie",
+    "tmdb_id": 781809,
+    "imdb_id": "tt13732212",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rg2vf11ar_vsfgg"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5qfjwn5ntq5yndu"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/hv9q5vghppepi9l"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hh73trvkzm1mtyh"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/thet1ththztrzpg"
+            }
+        ]
+    }
+}

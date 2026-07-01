@@ -1,0 +1,34 @@
+{
+    "post_title": "Thambi (2019)",
+    "post_type": "movie",
+    "tmdb_id": 648698,
+    "imdb_id": "tt10468636",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6or5coadzhhkchc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nvsj4_jdajwz24v"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/byptmzvvymmryop"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b1eearmbxe1foue"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Beta (1992)",
+    "post_type": "movie",
+    "tmdb_id": 107747,
+    "imdb_id": "tt0101437",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j2alyfscyuilquj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mzgja0a-azazgqq"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cmiq4avj1s1hhnq"
+            }
+        ]
+    }
+}

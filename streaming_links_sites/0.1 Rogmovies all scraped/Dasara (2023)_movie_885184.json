@@ -1,0 +1,40 @@
+{
+    "post_title": "Dasara (2023)",
+    "post_type": "movie",
+    "tmdb_id": 885184,
+    "imdb_id": "tt15440322",
+    "languages": [
+        "Tamil",
+        "Telugu",
+        "Kannada",
+        "Malayalam"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k0onkoredggdqvv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a7gegvtty1mceko"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1z4eta7y2nlrbzk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k8nkskmcv1obowz"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/prr_pr6kxrlnhrl"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Kavacha (2019)",
+    "post_type": "movie",
+    "tmdb_id": 590906,
+    "imdb_id": "tt8907970",
+    "languages": [
+        "Hindi",
+        "Kannada"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g5o5n8bcpgn0_8p"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wagm1lmrlr0qwnw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sdd1dfenxwccnds"
+            }
+        ]
+    }
+}

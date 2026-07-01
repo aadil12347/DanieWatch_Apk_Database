@@ -1,0 +1,30 @@
+{
+    "post_title": "Abbara (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1090938,
+    "imdb_id": "tt21345488",
+    "languages": [
+        "Hindi",
+        "Kannada"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1gghgwufeeopwh8"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xaxlljo3sfnx3n_"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/okbfo1cocqo76yp"
+            }
+        ]
+    }
+}

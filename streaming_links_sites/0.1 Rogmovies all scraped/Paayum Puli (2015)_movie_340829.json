@@ -1,0 +1,34 @@
+{
+    "post_title": "Paayum Puli (2015)",
+    "post_type": "movie",
+    "tmdb_id": 340829,
+    "imdb_id": "tt4995748",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8caxphhx8wnwkig"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kagkmamgkvvm12r"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/h-_6107mtadj-ha"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jlxyiu9iaripxvz"
+            }
+        ]
+    }
+}

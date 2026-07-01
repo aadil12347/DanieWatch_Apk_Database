@@ -1,0 +1,33 @@
+{
+    "post_title": "Paan Singh Tomar (2012)",
+    "post_type": "movie",
+    "tmdb_id": 96398,
+    "imdb_id": "tt1620933",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ez4rcujj4z7jbcu"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6fnemwdcgffh5xm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/rsxotm_hswwo7of"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cy3tbpmbe4pcbvy"
+            }
+        ]
+    }
+}

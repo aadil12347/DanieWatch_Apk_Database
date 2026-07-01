@@ -1,0 +1,40 @@
+{
+    "post_title": "Brochara (2019)",
+    "post_type": "series",
+    "tmdb_id": 105638,
+    "imdb_id": "tt11717180",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 2,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/a4hbg1-vv6ebc1h"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/muo2omwfyn-ooyc"
+                }
+            ]
+        },
+        "2": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/1uovsotm-5jf1av"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/sfomrrvtfpulfot"
+                }
+            ]
+        }
+    }
+}

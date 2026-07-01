@@ -1,0 +1,29 @@
+{
+    "post_title": "Click (2010)",
+    "post_type": "movie",
+    "tmdb_id": 59903,
+    "imdb_id": "tt1596723",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0ohi3q0_v0pvjlq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i_ww1_s_818w5zw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wclvxiv8ikli22w"
+            }
+        ]
+    }
+}

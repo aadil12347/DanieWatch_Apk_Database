@@ -1,0 +1,29 @@
+{
+    "post_title": "Baaghi 3 (2020)",
+    "post_type": "movie",
+    "tmdb_id": 594669,
+    "imdb_id": "tt8366590",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qf111h1s1fs8rq1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/awxmtsr8rs9mw4t"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kfhkmsosslhum9x"
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "post_title": "Babli Bouncer (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1002082,
+    "imdb_id": "tt19838608",
+    "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9c8i4e8ohflciyw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ag_ajt8q28ppxag"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/znesdz1aknz1edv"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wniq9cyzl_9bskr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/21fz23gfnzmcoj1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/aigglgvvf1-rain"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ygl0hlgianyytyj"
+            }
+        ]
+    }
+}

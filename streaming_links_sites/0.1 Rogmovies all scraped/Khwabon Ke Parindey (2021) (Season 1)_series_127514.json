@@ -1,0 +1,32 @@
+{
+    "post_title": "Khwabon Ke Parindey (2021)",
+    "post_type": "series",
+    "tmdb_id": 127514,
+    "imdb_id": "tt14779856",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=dDRXV25qcmVIY2xvUzBCSEJwMmJYeDFYK3VjZGllYVpjbW9GUDQ5MmpXc2V2Z1VMTFhZOHBBR1Z3QVJrNnc4NQ=="
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=cHM1cStoQWFBRHNhS2FLbkc0UDdRZldSR2Q2N0FzQk5UZVB6SEQ0OXBZb1dJSFl4djYxYnVZaHhWYStIdE8rUw=="
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=VE5ZZnpwSUJjUlhyMXVvbUQrT1N1SUxiMmtXU204dHUzeWRaRGxLSUZlS1hYOHZwUnIwQlI2bGRNRDlCZTdVQg=="
+                }
+            ]
+        }
+    }
+}

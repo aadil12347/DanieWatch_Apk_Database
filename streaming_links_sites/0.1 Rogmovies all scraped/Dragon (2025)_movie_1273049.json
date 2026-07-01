@@ -1,0 +1,34 @@
+{
+    "post_title": "Dragon (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1273049,
+    "imdb_id": "tt32080876",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z30ioyt139kmxtr"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uo6auhau98a1v_1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h7r9f79zv1yw5ol"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/e1ssuk5jaj8s8ba"
+            }
+        ]
+    }
+}

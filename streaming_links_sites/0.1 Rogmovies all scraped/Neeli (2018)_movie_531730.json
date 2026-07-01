@@ -1,0 +1,28 @@
+{
+    "post_title": "Neeli (2018)",
+    "post_type": "movie",
+    "tmdb_id": 531730,
+    "imdb_id": "tt8269352",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ong1sy1ggksxkkt"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/khowhhuak11slkh"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/s0ky7sk34k1soe4"
+            }
+        ],
+        "1080p": []
+    }
+}

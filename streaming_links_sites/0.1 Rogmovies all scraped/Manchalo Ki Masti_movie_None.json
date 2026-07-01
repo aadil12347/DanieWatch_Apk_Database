@@ -1,0 +1,29 @@
+{
+    "post_title": "Manchalo Ki Masti",
+    "post_type": "movie",
+    "tmdb_id": null,
+    "imdb_id": "tt35266868",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/31vdynubj6gb3nr"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uktlknwt07kqdnl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rhnbdunnhjbnjxu"
+            }
+        ]
+    }
+}

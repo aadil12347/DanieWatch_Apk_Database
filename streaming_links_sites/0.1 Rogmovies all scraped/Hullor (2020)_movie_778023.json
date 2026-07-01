@@ -1,0 +1,29 @@
+{
+    "post_title": "Hullor (2020)",
+    "post_type": "movie",
+    "tmdb_id": 778023,
+    "imdb_id": "tt10244472",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-1ln3tg3eok1-ge"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/71a79ap119fbhz9"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1_fa2jze14i9f4z"
+            }
+        ]
+    }
+}

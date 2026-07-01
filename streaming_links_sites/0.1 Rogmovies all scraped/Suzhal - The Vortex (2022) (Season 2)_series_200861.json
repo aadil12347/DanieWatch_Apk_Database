@@ -1,0 +1,37 @@
+{
+    "post_title": "Suzhal - The Vortex (2022)",
+    "post_type": "series",
+    "tmdb_id": 200861,
+    "imdb_id": "tt20873118",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "2": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/3ok0hh4oy646tt1"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/5--ep212dwuku_x"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://vcloud.zip/6ajgauzkjp6or4m"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/xl0402t1uiumgsd"
+                }
+            ]
+        }
+    }
+}

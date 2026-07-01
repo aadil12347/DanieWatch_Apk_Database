@@ -1,0 +1,33 @@
+{
+    "post_title": "Antarjal (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1007240,
+    "imdb_id": "tt15215662",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wma-ki9p4q4-pha"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jdqd-1q2vqm3r4u"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/yzhhkjpm3iqfpp2"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ojr_pnrr5k1pzzp"
+            }
+        ]
+    }
+}

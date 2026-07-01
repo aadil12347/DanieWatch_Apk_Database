@@ -1,0 +1,34 @@
+{
+    "post_title": "Kolamavu Kokila (2018)",
+    "post_type": "movie",
+    "tmdb_id": 533238,
+    "imdb_id": "tt7986222",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c1ffbklr1clccbz"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w0kn0fkdwwbwdb4"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/se6iirar-gt1ttt"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yjdlxytxlo1covx"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Jallaad (1995)",
+    "post_type": "movie",
+    "tmdb_id": 538599,
+    "imdb_id": "tt0113455",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/p88w8se18cjr1rp"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zcky6bh1vjnmjj6"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0zz1czxodjxdk1j"
+            }
+        ]
+    }
+}

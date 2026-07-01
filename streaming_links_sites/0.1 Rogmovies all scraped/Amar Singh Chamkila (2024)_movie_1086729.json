@@ -1,0 +1,37 @@
+{
+    "post_title": "Amar Singh Chamkila (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1086729,
+    "imdb_id": "tt26658272",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w_spg4fyl1p5lly"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9gffs7z3-7tgmhq"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z16yixwu33xcxuz"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/fjgjpp0t4lxhtnj"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/6ebiz6qz7g8d1oo"
+            }
+        ]
+    }
+}

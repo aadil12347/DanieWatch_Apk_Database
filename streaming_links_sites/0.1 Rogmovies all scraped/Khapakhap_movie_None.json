@@ -1,0 +1,33 @@
+{
+    "post_title": "Khapakhap",
+    "post_type": "movie",
+    "tmdb_id": null,
+    "imdb_id": "tt21379038",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ysu6ue_-y_wbysy"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k5hjacvhvvhscan"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ozd6hbjltqvmqws"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kmit1mikdznecma"
+            }
+        ]
+    }
+}

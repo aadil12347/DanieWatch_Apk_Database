@@ -1,0 +1,34 @@
+{
+    "post_title": "And The Oscar Goes To... (2019)",
+    "post_type": "movie",
+    "tmdb_id": 576041,
+    "imdb_id": "tt8938866",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/36uuvzy6-6jskqg"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fknymknwawqbi61"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/jcg6uiu3ojmuywc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/12lvglumu-zuchd"
+            }
+        ]
+    }
+}

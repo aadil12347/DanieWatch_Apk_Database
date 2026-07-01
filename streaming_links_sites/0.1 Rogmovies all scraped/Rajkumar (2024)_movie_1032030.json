@@ -1,0 +1,33 @@
+{
+    "post_title": "Rajkumar (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1032030,
+    "imdb_id": "tt30400822",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6-da1kat2kkmmtq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hhvmrgvnev1znqu"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1ybafpdb1zfmpdi"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/imildcm7e_ucc1w"
+            }
+        ]
+    }
+}

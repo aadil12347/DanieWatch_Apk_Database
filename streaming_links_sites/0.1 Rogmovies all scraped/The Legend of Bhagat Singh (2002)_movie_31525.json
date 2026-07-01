@@ -1,0 +1,33 @@
+{
+    "post_title": "The Legend of Bhagat Singh (2002)",
+    "post_type": "movie",
+    "tmdb_id": 31525,
+    "imdb_id": "tt0319736",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xoz4dduddj61fho"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ikxjg6x5olyo116"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/eldjxdww21tthfw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/daktsih1skwkdfq"
+            }
+        ]
+    }
+}

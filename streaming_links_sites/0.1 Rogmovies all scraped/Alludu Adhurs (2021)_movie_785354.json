@@ -1,0 +1,34 @@
+{
+    "post_title": "Alludu Adhurs (2021)",
+    "post_type": "movie",
+    "tmdb_id": 785354,
+    "imdb_id": "tt11952760",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z15vz19o11grugs"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x5kksb5wbwlr_1c"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ffwkpd77cgdkk33"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gmrcucgmch5dcgx"
+            }
+        ]
+    }
+}

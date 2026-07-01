@@ -1,0 +1,29 @@
+{
+    "post_title": "Dev (2019)",
+    "post_type": "movie",
+    "tmdb_id": 539315,
+    "imdb_id": "tt8751976",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wxii5gbxw7bkxhy"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7ez77rnohrl7wnr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kbhcykgme39rhnd"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Chaloo Movie (2011)",
+    "post_type": "movie",
+    "tmdb_id": 316841,
+    "imdb_id": "tt2177513",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q5i7um-7rq5d7qc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1vdzuzids1dpv9d"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wd9vkdo9sdv4szw"
+            }
+        ]
+    }
+}

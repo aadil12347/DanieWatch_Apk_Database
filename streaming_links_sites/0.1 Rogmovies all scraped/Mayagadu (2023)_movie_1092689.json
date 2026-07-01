@@ -1,0 +1,33 @@
+{
+    "post_title": "Mayagadu (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1092689,
+    "imdb_id": "tt26450905",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sweq5zgwgv2s-a1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hnjpxryl0tt0dgj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/5ehnmxxs_8_h8eb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k13lpjtfo3murpj"
+            }
+        ]
+    }
+}

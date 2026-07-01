@@ -1,0 +1,51 @@
+{
+    "post_title": "Jawan (2023)",
+    "post_type": "movie",
+    "tmdb_id": 872906,
+    "imdb_id": "tt15354916",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dqnu6vqubzreqnv"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/yqqqaracb9pz9ur"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k4ktwwstktozwqx"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/-befozm9cwslclc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yowwwht0v0fbur7"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ulmnmmqudljcvul"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/9jahhpzyezebget"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9aiefns1be2ggee"
+            }
+        ]
+    }
+}

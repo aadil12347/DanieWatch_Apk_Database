@@ -1,0 +1,33 @@
+{
+    "post_title": "Ek Tha Tiger (2012)",
+    "post_type": "movie",
+    "tmdb_id": 85985,
+    "imdb_id": "tt2016894",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ael7a-yyok7ofd-"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jkhf99xhukakmnv"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/qvzys33bqskgs9l"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8200jdnomo8ecbw"
+            }
+        ]
+    }
+}

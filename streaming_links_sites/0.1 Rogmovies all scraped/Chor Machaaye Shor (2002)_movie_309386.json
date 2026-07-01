@@ -1,0 +1,33 @@
+{
+    "post_title": "Chor Machaaye Shor (2002)",
+    "post_type": "movie",
+    "tmdb_id": 309386,
+    "imdb_id": "tt0331216",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9fd4mxm3jgwf6vj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n6mhmxq717gnikq"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/x31zgbx12y99ez0"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/16bvfkatwzmiakv"
+            }
+        ]
+    }
+}

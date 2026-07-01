@@ -1,0 +1,43 @@
+{
+    "post_title": "Jalsa (2022)",
+    "post_type": "movie",
+    "tmdb_id": 944410,
+    "imdb_id": "tt15361028",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c-51aa5ch212y6x"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qvzq31kvqez3er1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/j666s_1s1iqq1o9"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/po6d88yyezeecoy"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ghccl2dpzmkovtb"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qqnxbaxgqbntqab"
+            }
+        ]
+    }
+}

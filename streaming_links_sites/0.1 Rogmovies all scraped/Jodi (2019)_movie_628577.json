@@ -1,0 +1,34 @@
+{
+    "post_title": "Jodi (2019)",
+    "post_type": "movie",
+    "tmdb_id": 628577,
+    "imdb_id": "tt10922610",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kmjomjekv8u9u_2"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v7h7vtmcykvagcm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/qyhcyfcv15nfwvb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/llvmd06cdm1dz0b"
+            }
+        ]
+    }
+}

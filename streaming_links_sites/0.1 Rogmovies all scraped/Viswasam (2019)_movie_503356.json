@@ -1,0 +1,39 @@
+{
+    "post_title": "Viswasam (2019)",
+    "post_type": "movie",
+    "tmdb_id": 503356,
+    "imdb_id": "tt7725626",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bx_a_xabxf5txf-"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wmwjeejyfiz1ewt"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ntpnbcxjbvzeqnw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s5fk_6ek3rkr4nq"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c56z2y2o2z02o5h"
+            }
+        ]
+    }
+}

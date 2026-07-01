@@ -1,0 +1,29 @@
+{
+    "post_title": "Lingaa (2014)",
+    "post_type": "movie",
+    "tmdb_id": 300425,
+    "imdb_id": "tt04020624",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=OUhyaG4zYjQ4ZDhWanlyazRCdTRQRmxQZ1VSbVBqQTZtd21OSkhHRk5LU0NpOXFzK3A1eVpCaXJlckpadUkrTA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=aFloa1dIMDlUMjVQZGJES1p1dVJRTTNrcWJIZjErTVhRYklMa1duRzJ3MTJvT0IrZ0dOZUdqOTA5aE40WHdULw=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=MTdjbE42bFEwcmJCb0JBMWc1bjBmcC80bXJUU2Q1UHdKQ09KelB5V29RamZIUjZFVU9BeHRmNktpUmFBMFJrag=="
+            }
+        ]
+    }
+}

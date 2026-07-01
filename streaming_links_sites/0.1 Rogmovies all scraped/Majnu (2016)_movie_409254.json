@@ -1,0 +1,37 @@
+{
+    "post_title": "Majnu (2016)",
+    "post_type": "movie",
+    "tmdb_id": 409254,
+    "imdb_id": "tt6056644",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xsf1fbgtr3p-3rm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tdp9jaoxn4aarde"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ds00dcdjnh4t4gz"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kgplkobhopzheo6"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vqfvaeypqhrj1vd"
+            }
+        ]
+    }
+}

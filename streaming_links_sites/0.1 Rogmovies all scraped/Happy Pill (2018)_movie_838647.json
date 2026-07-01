@@ -1,0 +1,33 @@
+{
+    "post_title": "Happy Pill (2018)",
+    "post_type": "movie",
+    "tmdb_id": 838647,
+    "imdb_id": "tt8665624",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pxxpv2njxxs0sh9"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7gwb17qwipwpb1e"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/_pa1s1ajat1z7jk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/opa1lzaakaml2hb"
+            }
+        ]
+    }
+}

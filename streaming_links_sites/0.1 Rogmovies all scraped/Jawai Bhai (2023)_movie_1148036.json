@@ -1,0 +1,33 @@
+{
+    "post_title": "Jawai Bhai (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1148036,
+    "imdb_id": "tt23766768",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/txf1onhe8imxjbk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oxtnbvjjrp18q9v"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/hwcpg1ww9jc11pf"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/r2_1xoce_dan34d"
+            }
+        ]
+    }
+}

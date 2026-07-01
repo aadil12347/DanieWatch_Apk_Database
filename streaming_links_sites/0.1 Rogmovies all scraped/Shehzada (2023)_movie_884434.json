@@ -1,0 +1,41 @@
+{
+    "post_title": "Shehzada (2023)",
+    "post_type": "movie",
+    "tmdb_id": 884434,
+    "imdb_id": "tt13130948",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0gs_xgg5gvipsip"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/r_1kfq1vbv2atbg"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/yjqzr83rv8zi4j2"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4kojteece4yjoeh"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1bxngl8lmxz2bl2"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/yy56trytyz_q174"
+            }
+        ]
+    }
+}

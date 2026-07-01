@@ -1,0 +1,33 @@
+{
+    "post_title": "Murshid (2024)",
+    "post_type": "series",
+    "tmdb_id": 262154,
+    "imdb_id": "tt33144230",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/f0ph36qhn30m1m1"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/cda1_hzmvsuc_nd"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/bickkqw913vc0y8"
+                }
+            ]
+        }
+    }
+}

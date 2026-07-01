@@ -1,0 +1,38 @@
+{
+    "post_title": "Mr Bachchan (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1232219,
+    "imdb_id": "tt28282872",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w9luxsvup-0mzfj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sn-zfmsz1qdrdx8"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/uqvp5adfadkdpjh"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tab6xvtxauhaxhl"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/m2-xraambmgykkd"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Shukranu (2020)",
+    "post_type": "movie",
+    "tmdb_id": 672520,
+    "imdb_id": "tt11691696",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f1wknkwq1szhwht"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ek_zy80zkdxy84c"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0y7f_u9bbxpccf_"
+            }
+        ]
+    }
+}

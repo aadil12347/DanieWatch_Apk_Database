@@ -1,0 +1,33 @@
+{
+    "post_title": "Agra (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1059007,
+    "imdb_id": "tt11112532",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/y1ottz0j20dkw1q"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o9p_qqllyulxoo9"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/gvzmgat1a0qjeh-"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/aiickhuk5x5axcx"
+            }
+        ]
+    }
+}

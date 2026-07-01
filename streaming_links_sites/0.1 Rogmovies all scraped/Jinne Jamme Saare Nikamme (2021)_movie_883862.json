@@ -1,0 +1,24 @@
+{
+    "post_title": "Jinne Jamme Saare Nikamme (2021)",
+    "post_type": "movie",
+    "tmdb_id": 883862,
+    "imdb_id": "tt14011954",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=aWIra3Y3Z1NKYnlZaVVPV0l3SHRKNlR3azJib0Mwb3B1VjNIYnFMeGFDNXo5dnlZWFVTam5GT3BaVXE0a3dwRQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=eVZkOTR3QWUxSHB1VFlPbEg0YmgwdXpLdFQ1NUY1TjVkVWlRaVpWREpTYU5kTDNtNHl0U2NkcnBVUGNMcGV3cw=="
+            }
+        ],
+        "1080p": []
+    }
+}

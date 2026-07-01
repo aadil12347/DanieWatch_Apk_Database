@@ -1,0 +1,29 @@
+{
+    "post_title": "Damal (2022)",
+    "post_type": "movie",
+    "tmdb_id": 906147,
+    "imdb_id": "tt14256386",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e0ftv4ynekxy41s"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fewt4tgyi11tuei"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tv5qjovw66oh6hq"
+            }
+        ]
+    }
+}

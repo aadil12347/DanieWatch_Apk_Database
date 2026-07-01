@@ -1,0 +1,33 @@
+{
+    "post_title": "Arjun Gowda (2021)",
+    "post_type": "movie",
+    "tmdb_id": 722382,
+    "imdb_id": "tt15136954",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uh_1_qscc19ddhh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/paofsrujgd1d33f"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/c-kstcfsstkmmnh"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lcssmtlzj98yyr8"
+            }
+        ]
+    }
+}

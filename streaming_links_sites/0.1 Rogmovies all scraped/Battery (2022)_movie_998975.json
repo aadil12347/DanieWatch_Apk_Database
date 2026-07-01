@@ -1,0 +1,34 @@
+{
+    "post_title": "Battery (2022)",
+    "post_type": "movie",
+    "tmdb_id": 998975,
+    "imdb_id": "tt21331200",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/trkkurhqt81ngt8"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/guxvxqby1luvwl4"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mi-u-7pml5fhucc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jt9y71ss7f0c9qt"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Viraata Parvam (2022)",
+    "post_type": "movie",
+    "tmdb_id": 609096,
+    "imdb_id": "tt11023732",
+    "languages": [
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ujp1zt-pojeelqo"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fgtod7kb7xkeo6a"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ggggmluua99goeg"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1_nt522tfflnqb8"
+            }
+        ]
+    }
+}

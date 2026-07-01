@@ -1,0 +1,33 @@
+{
+    "post_title": "Get Together (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1189498,
+    "imdb_id": "tt27518811",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6cbzzkvqzwebvuu"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gvsofavv55poouv"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/33hop5z3zre91gr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k7jzp1xoijff2rj"
+            }
+        ]
+    }
+}

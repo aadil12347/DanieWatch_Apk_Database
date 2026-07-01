@@ -1,0 +1,24 @@
+{
+    "post_title": "Brina (2016)",
+    "post_type": "movie",
+    "tmdb_id": 843801,
+    "imdb_id": "tt5950816",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=aUJ1ZzVXQ3l4SGk1M09sVHlMTlg4SmZCajJKSG1walEzVVhubUZtVGNQYk9nN0VmcUpBQjJ2V3dqRjJPN2Rxcw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=YXJuTjBwdGxLT0FZTngzTmlaSlU2Vkt1UEp5dUZIMDhiNThKTlVJSFJkY0cyc2w4VXpYNU9FeitNZjgxVnp4aQ=="
+            }
+        ],
+        "1080p": []
+    }
+}

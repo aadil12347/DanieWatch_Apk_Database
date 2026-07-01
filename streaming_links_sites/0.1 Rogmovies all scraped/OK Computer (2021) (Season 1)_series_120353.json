@@ -1,0 +1,32 @@
+{
+    "post_title": "OK Computer (2021)",
+    "post_type": "series",
+    "tmdb_id": 120353,
+    "imdb_id": "tt14182442",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/y3jux1vfjjyfwy0"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/ob0vmqffvt9or9j"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/it0hst-hktlxtdk"
+                }
+            ]
+        }
+    }
+}

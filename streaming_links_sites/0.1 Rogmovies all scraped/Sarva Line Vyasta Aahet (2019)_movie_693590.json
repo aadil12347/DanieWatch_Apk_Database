@@ -1,0 +1,29 @@
+{
+    "post_title": "Sarva Line Vyasta Aahet (2019)",
+    "post_type": "movie",
+    "tmdb_id": 693590,
+    "imdb_id": "tt9419628",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=anhFdnBwSXhENTFycGpQQ2I5Q01wMDBSbCswdGFlbTRheXUxM3IyMG95U1NoZVMrYmZpU2paNXNRbFdmSGxpdw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=b09ONkR0bW1GaEJ3K2tTeEVSOGszcFBhK2RlaGFIUHdHRU8wcnNiaU05MCtIV21mS1BSVnRuNW5wRmpoZ3EvYQ=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=dnZGS3hHYlNyUXNvaDc0dmhYUlhuOFFwT09rbXFsTlp3NGNzdk5uM3RScEdDZllBekxZY05aZ2plcXNuRWM3YQ=="
+            }
+        ]
+    }
+}

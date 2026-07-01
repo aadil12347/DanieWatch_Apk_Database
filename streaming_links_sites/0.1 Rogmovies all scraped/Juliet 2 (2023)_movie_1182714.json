@@ -1,0 +1,29 @@
+{
+    "post_title": "Juliet 2 (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1182714,
+    "imdb_id": "tt26337526",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/puugp3pquq6vror"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gr7kbt57k7w1_yb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1vlwnsezw6uhfa-"
+            }
+        ]
+    }
+}

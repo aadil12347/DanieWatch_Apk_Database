@@ -1,0 +1,38 @@
+{
+    "post_title": "Kotee (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1305009,
+    "imdb_id": "tt27494630",
+    "languages": [
+        "Hindi",
+        "Kannada"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_abawv__lli_lvq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0gi1lef06i02rci"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/f3rdul6qlg1qh14"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/imfppqj3q1m2fq2"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/i8io1gyxny7hxdi"
+            }
+        ]
+    }
+}

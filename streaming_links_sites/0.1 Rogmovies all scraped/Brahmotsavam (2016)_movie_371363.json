@@ -1,0 +1,30 @@
+{
+    "post_title": "Brahmotsavam (2016)",
+    "post_type": "movie",
+    "tmdb_id": 371363,
+    "imdb_id": "tt5457722",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hiviy4iic9myzze"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vljeyrhsy0rjerh"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vngn1on_ui0imf_"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Mr. Tharak (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1071455,
+    "imdb_id": "tt23034554",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cq7iw7vgr31jqs1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/llulqgjlj4pjomo"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/le3l5qkzef_bfbn"
+            }
+        ]
+    }
+}

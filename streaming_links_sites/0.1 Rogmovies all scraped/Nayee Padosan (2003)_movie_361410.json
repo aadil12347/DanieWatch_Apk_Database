@@ -1,0 +1,24 @@
+{
+    "post_title": "Nayee Padosan (2003)",
+    "post_type": "movie",
+    "tmdb_id": 361410,
+    "imdb_id": "tt0362902",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=eFlGaFpzbHhZTTZxY3o5a1N2OVZ1ZzMwbk1uMFdpQjJzTlVVcDIvMnlhZGdaM0U1dklUZmlwKzU3QnpoS3NqaQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=Tk5Wbno4WndONXArTEF1bjhPRlVJRjFuTWZCZmJsY1JGODVSMFpKazZiYjdFL3VydmxITjNucWFhczhFNUtjaw=="
+            }
+        ],
+        "1080p": []
+    }
+}

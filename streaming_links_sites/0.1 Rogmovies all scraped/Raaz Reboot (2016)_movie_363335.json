@@ -1,0 +1,29 @@
+{
+    "post_title": "Raaz Reboot (2016)",
+    "post_type": "movie",
+    "tmdb_id": 363335,
+    "imdb_id": "tt5639388",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a8r16v61ceiqt1r"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ziii4uwu3ysz1xl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e6tbafd6q6bs-77"
+            }
+        ]
+    }
+}

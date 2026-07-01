@@ -1,0 +1,33 @@
+{
+    "post_title": "Kaakan (2015)",
+    "post_type": "movie",
+    "tmdb_id": 508438,
+    "imdb_id": "tt4602608",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bk2_f3hejvvvo1o"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/km3fe_1xiokoewe"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mngqe_jzln1nq7t"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dbtrdsxpl79gtay"
+            }
+        ]
+    }
+}

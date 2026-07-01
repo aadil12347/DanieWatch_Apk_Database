@@ -1,0 +1,29 @@
+{
+    "post_title": "Vash (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1085547,
+    "imdb_id": "tt26331750",
+    "languages": [
+        "Gujarati"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/em7cs6ygumlde6e"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/32c5fk3fc36ftk3"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g1dyzdiqk9tocls"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Puzhu (2022)",
+    "post_type": "movie",
+    "tmdb_id": 803626,
+    "imdb_id": "tt14195192",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/u0epgm99p9fz90q"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7vgagpgaq6appyc"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/hyk1ori-hyhkyq1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ilxxcs1eeryxlj0"
+            }
+        ]
+    }
+}

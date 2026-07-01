@@ -1,0 +1,33 @@
+{
+    "post_title": "Nidarr (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1276128,
+    "imdb_id": "tt11952964",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iqibvrmv4i10rqd"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/aoy76yj4j154wry"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/bcsocuc_bcb3obu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uhhrswf3w33vw_f"
+            }
+        ]
+    }
+}

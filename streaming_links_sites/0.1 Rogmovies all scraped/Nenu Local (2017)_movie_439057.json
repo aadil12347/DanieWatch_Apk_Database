@@ -1,0 +1,33 @@
+{
+    "post_title": "Nenu Local (2017)",
+    "post_type": "movie",
+    "tmdb_id": 439057,
+    "imdb_id": "tt6494052",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vff_pitx5dvyl1d"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bfci6kt1h1jhbv3"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/zqywwxhiissjfqw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1ptprm9tvaw5izb"
+            }
+        ]
+    }
+}

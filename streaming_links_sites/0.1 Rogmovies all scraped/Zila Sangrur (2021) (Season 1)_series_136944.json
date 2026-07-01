@@ -1,0 +1,26 @@
+{
+    "post_title": "Zila Sangrur (2021)",
+    "post_type": "series",
+    "tmdb_id": 136944,
+    "imdb_id": "tt15508888",
+    "languages": [
+        "Punjabi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/api/index.php?link=Sy94WFlkS0ZFT1pUWjF2cUorVEhmQWNDUDg3djFibGNnU3ZNbkdwekJmMHJwd3djVkYvUVl0UDdUcmE4dU1OdQ=="
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/api/index.php?link=b1d5dnV3OTREb0VmZERzVUJjQUxSVU5kampmZWhQaWNIMmhUSkoyTDF6YXVZWUdST0NqL0RrTGdzbHU4U0VUTQ=="
+                }
+            ]
+        }
+    }
+}

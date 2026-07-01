@@ -1,0 +1,30 @@
+{
+    "post_title": "Adrishyam (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1129607,
+    "imdb_id": "tt15225760",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/km8v82v9qjyckwc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c9oxyo99zz4ybzb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ajhi5kbwbkc1mt5"
+            }
+        ]
+    }
+}

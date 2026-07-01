@@ -1,0 +1,29 @@
+{
+    "post_title": "Dabangg (2010)",
+    "post_type": "movie",
+    "tmdb_id": 44425,
+    "imdb_id": "tt1620719",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5retbokvtcc9ezb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yof1wbfokov4bdn"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s9zcffnlpaaql1e"
+            }
+        ]
+    }
+}

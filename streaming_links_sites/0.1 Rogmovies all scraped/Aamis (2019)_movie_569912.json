@@ -1,0 +1,30 @@
+{
+    "post_title": "Aamis (2019)",
+    "post_type": "movie",
+    "tmdb_id": 569912,
+    "imdb_id": "tt9010522",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gj4jq24bz8r_r8u"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e3waeguw1ya3ags"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f04gueffdmmvvks"
+            }
+        ]
+    }
+}

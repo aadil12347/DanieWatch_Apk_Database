@@ -1,0 +1,33 @@
+{
+    "post_title": "Next Enti? (2018)",
+    "post_type": "movie",
+    "tmdb_id": 568212,
+    "imdb_id": "tt6972212",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1izkxxk9ksxr9pl"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/chhcmdcvwv1ohc6"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/yo_oqtci6zm_o5o"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fqirq41o-58fofl"
+            }
+        ]
+    }
+}

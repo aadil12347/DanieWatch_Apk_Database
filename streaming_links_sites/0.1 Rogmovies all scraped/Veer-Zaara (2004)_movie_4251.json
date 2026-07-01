@@ -1,0 +1,28 @@
+{
+    "post_title": "Veer-Zaara (2004)",
+    "post_type": "movie",
+    "tmdb_id": 4251,
+    "imdb_id": "tt0420332",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z-z1pekykydk9v2"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uoutqyv1vwcndyy"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wyfioqqotjjf0ob"
+            }
+        ],
+        "1080p": []
+    }
+}

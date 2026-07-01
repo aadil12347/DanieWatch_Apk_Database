@@ -1,0 +1,34 @@
+{
+    "post_title": "Phullwanti (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1360431,
+    "imdb_id": "tt32339951",
+    "languages": [
+        "Hindi",
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bx0qzbzkbqbog3q"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/aa0g0w5eobao9bn"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vj1mv4j21w1cwvv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wla3x3nl73t_0aa"
+            }
+        ]
+    }
+}

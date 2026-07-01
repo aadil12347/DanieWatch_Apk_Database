@@ -1,0 +1,33 @@
+{
+    "post_title": "Dilli Kaand (2021)",
+    "post_type": "movie",
+    "tmdb_id": 936665,
+    "imdb_id": "tt14433692",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hd2hgpxer0lh0g1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/afppwpo1prmmcae"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ez82jcypmzr_hu8"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/si661tezn6uylay"
+            }
+        ]
+    }
+}

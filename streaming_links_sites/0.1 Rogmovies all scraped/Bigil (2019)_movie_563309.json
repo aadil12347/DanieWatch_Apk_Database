@@ -1,0 +1,40 @@
+{
+    "post_title": "Bigil (2019)",
+    "post_type": "movie",
+    "tmdb_id": 563309,
+    "imdb_id": "tt9260636",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sjivxwtyfivoxbo"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vs1ojidolvo8hbb"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/rfcblvuhualhcwb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tdq-teodos6o1-x"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lrwh1kc41bcr4lv"
+            }
+        ]
+    }
+}

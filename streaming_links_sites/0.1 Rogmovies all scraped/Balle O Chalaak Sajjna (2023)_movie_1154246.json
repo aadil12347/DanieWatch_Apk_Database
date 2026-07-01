@@ -1,0 +1,33 @@
+{
+    "post_title": "Balle O Chalaak Sajjna (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1154246,
+    "imdb_id": "tt28253080",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=QWhmRVRlaUJvMEcrSUowZlFud05YcmhyczhZdWE1VHRHK3NCQ2tJL1UrTjhsemdKK2hneHB6R3c4MGg2UFREZA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1ukxtrhktttw-hp"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/api/index.php?link=RGREbWNqV1JNb0RDRHpOSmpzQkMwbXRvSG93LzEyOVg5Y0t1c2VINXhjaURFb24xb3R6MHlNTWF3WXpJNFpGOA=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=TFRZaitxVEdWZDhmRnk3UW5aUi96Q3U1NVhScVJDQnlDZFpINFZxQmhQV3B1V3U0ZmpydEtsYXliWGN6TnFhNg=="
+            }
+        ]
+    }
+}

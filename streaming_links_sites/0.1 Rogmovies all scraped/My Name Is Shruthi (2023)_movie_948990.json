@@ -1,0 +1,34 @@
+{
+    "post_title": "My Name Is Shruthi (2023)",
+    "post_type": "movie",
+    "tmdb_id": 948990,
+    "imdb_id": "tt23635174",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rpipqwepp8e9pes"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/web3dzx1x8b1xb3"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/pz8m8zbl1f8p8yl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g5pupfsmmrsfm5r"
+            }
+        ]
+    }
+}

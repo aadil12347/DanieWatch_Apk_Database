@@ -1,0 +1,33 @@
+{
+    "post_title": "Kaka Pardhan (2021)",
+    "post_type": "movie",
+    "tmdb_id": 915811,
+    "imdb_id": "tt16430916",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qy9t-trw09vztvj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0hglfqjlqgo116j"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1un1avaexubnybu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ewiqo2a0nue2z1o"
+            }
+        ]
+    }
+}

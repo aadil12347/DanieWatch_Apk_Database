@@ -1,0 +1,42 @@
+{
+    "post_title": "Matka (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1233327,
+    "imdb_id": "tt28258888",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a_ux0fbpvu3lfzb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gi7giispm7xrmxt"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/t-xbhfaec55a-kb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/p5ru19yf6rp6xsn"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/rf_kn1yob6q1s3w"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/7ljyqmtktrrnxfz"
+            }
+        ]
+    }
+}

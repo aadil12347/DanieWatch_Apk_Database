@@ -1,0 +1,33 @@
+{
+    "post_title": "Nishana (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1052314,
+    "imdb_id": "tt11899856",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mw9nk2n2124c2cb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/srenl5laa6rnm1l"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xwutisuzpf1vyi1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/imkguooqllbuh4e"
+            }
+        ]
+    }
+}

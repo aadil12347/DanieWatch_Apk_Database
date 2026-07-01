@@ -1,0 +1,33 @@
+{
+    "post_title": "Auto Shankar (2019)",
+    "post_type": "series",
+    "tmdb_id": 89000,
+    "imdb_id": "tt10230036",
+    "languages": [
+        "Hindi",
+        "Bengali"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/-lljx1r2x-pa-x1"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/9nvmsnbpxcncmkb"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/fnfl2b7qb1ftalx"
+                }
+            ]
+        }
+    }
+}

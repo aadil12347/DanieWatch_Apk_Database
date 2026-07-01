@@ -1,0 +1,39 @@
+{
+    "post_title": "The Bhootnii (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1054626,
+    "imdb_id": "tt27162102",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a3wztc0c36wwt6v"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/okvyqefv8k8ossv"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/pdbpe5xz1s9ce15"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hfwizn3mewpwyyh"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/judh1bds1no2hu4"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Samajavaragamana (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1031218,
+    "imdb_id": "tt26699538",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mcw51tr2xg5mjir"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pfkuvt3v9ve9r-m"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/bkrvo11r1berhgd"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bcsitwsi91k1gbo"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Hero (2022)",
+    "post_type": "movie",
+    "tmdb_id": 852357,
+    "imdb_id": "tt11306518",
+    "languages": [
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z4emnozgfxxymmg"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rnglprkguljnazn"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/l-1ezlal-7pazx9"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/csf6tj1c0100o1n"
+            }
+        ]
+    }
+}

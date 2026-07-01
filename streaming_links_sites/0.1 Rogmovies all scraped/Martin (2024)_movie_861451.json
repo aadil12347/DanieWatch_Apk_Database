@@ -1,0 +1,30 @@
+{
+    "post_title": "Martin (2024)",
+    "post_type": "movie",
+    "tmdb_id": 861451,
+    "imdb_id": "tt15334030",
+    "languages": [
+        "Hindi",
+        "Kannada"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hc-6qqqulndnedq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_kwrhr0tshukrpt"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1kmlswmnua894_l"
+            }
+        ]
+    }
+}

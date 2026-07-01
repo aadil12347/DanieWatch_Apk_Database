@@ -1,0 +1,29 @@
+{
+    "post_title": "Voter (2019)",
+    "post_type": "movie",
+    "tmdb_id": 610023,
+    "imdb_id": "tt7108736",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_gpc8_8cr8mkrzt"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xm1pq43e1mfxr8-"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ofmhb9ythv7lv91"
+            }
+        ]
+    }
+}

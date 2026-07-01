@@ -1,0 +1,33 @@
+{
+    "post_title": "Vivegam (2017)",
+    "post_type": "movie",
+    "tmdb_id": 438731,
+    "imdb_id": "tt6878378",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bzxequsc4stlxtt"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ifyyul1uks7lkmi"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/btynxdtrtb1tqsm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/fw1iblkiu8zy1ik"
+            }
+        ]
+    }
+}

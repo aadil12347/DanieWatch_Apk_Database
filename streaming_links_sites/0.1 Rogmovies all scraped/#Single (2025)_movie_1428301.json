@@ -1,0 +1,30 @@
+{
+    "post_title": "#Single (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1428301,
+    "imdb_id": "tt35694565",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-aawmjnmx-eojs1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ibi12r44xvcbmix"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jglkqgtlljqakg-"
+            }
+        ]
+    }
+}

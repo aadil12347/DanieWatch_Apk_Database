@@ -1,0 +1,33 @@
+{
+    "post_title": "Raundal (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1095594,
+    "imdb_id": "tt21631062",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ibyhhbcltbycimc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1odv41cliclonda"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/yu2yl14uhyu7y7q"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/y19katx9txm99dl"
+            }
+        ]
+    }
+}

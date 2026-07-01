@@ -1,0 +1,30 @@
+{
+    "post_title": "Bheema (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1068344,
+    "imdb_id": "tt26733322",
+    "languages": [
+        "Hindi",
+        "Kannada"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6kast6crvj1qxc1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g5t6jg1fmjq1bqn"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a2b7ohwofauz7o5"
+            }
+        ]
+    }
+}

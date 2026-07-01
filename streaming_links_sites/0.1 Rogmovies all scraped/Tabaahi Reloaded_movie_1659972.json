@@ -1,0 +1,33 @@
+{
+    "post_title": "Tabaahi Reloaded",
+    "post_type": "movie",
+    "tmdb_id": 1659972,
+    "imdb_id": "tt22208774",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uzopuwqu-pftwqo"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oton12od251mmc1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/fcc6tfgbfalxn6b"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/aarrtld_ibilazl"
+            }
+        ]
+    }
+}

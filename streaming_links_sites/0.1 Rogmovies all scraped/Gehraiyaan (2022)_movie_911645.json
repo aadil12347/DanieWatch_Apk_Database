@@ -1,0 +1,39 @@
+{
+    "post_title": "Gehraiyaan (2022)",
+    "post_type": "movie",
+    "tmdb_id": 911645,
+    "imdb_id": "tt10733228",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pqvyhihxaaoaywa"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2m2nyx2yqhr2qjy"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/njbfqbvbu2pfc2f"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zgluz-k75nnb9u5"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sdjwt0yqbkiokq2"
+            }
+        ]
+    }
+}

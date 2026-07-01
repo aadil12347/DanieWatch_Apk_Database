@@ -1,0 +1,34 @@
+{
+    "post_title": "Abraham Ozler (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1184247,
+    "imdb_id": "tt27816710",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z8src1lkl2s8rcx"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dakdau45qddfn26"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/a6t56hkghovvohm"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5vcklvlg8hj9hjp"
+            }
+        ]
+    }
+}

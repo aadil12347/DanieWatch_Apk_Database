@@ -1,0 +1,33 @@
+{
+    "post_title": "Dange (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1236671,
+    "imdb_id": "tt31100872",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ms9k8n7cmxmuxsa"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h3jxm2qqcqe1ffh"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/d8jlmqna1rvwxwg"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/w6137tcswpcf6h6"
+            }
+        ]
+    }
+}

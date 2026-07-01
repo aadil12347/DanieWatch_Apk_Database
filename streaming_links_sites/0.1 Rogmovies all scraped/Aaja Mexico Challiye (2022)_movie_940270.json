@@ -1,0 +1,37 @@
+{
+    "post_title": "Aaja Mexico Challiye (2022)",
+    "post_type": "movie",
+    "tmdb_id": 940270,
+    "imdb_id": "tt15554410",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8nfk0a8mmkadgzr"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/syb6bibwbwrbkrb"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ushh3fnzhj0tutn"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8tqqtqquk139qup"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/nzwtpnne_1ov_5a"
+            }
+        ]
+    }
+}

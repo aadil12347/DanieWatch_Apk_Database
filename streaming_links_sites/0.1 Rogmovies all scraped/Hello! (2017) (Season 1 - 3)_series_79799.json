@@ -1,0 +1,54 @@
+{
+    "post_title": "Hello! (2017)",
+    "post_type": "series",
+    "tmdb_id": 79799,
+    "imdb_id": "tt7560098",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 3,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/jx8jf1kecx161ie"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/fxcj1xrozy9ojxu"
+                }
+            ]
+        },
+        "2": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/9zw1klwz9jswgmz"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/zzqlgvzobacgvmp"
+                }
+            ]
+        },
+        "3": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/z9jit1r2wjlyw_c"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/bokb3ok6s6bbsnb"
+                }
+            ]
+        }
+    }
+}

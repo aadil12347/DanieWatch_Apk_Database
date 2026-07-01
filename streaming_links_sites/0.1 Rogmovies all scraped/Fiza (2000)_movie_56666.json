@@ -1,0 +1,29 @@
+{
+    "post_title": "Fiza (2000)",
+    "post_type": "movie",
+    "tmdb_id": 56666,
+    "imdb_id": "tt0248012",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g25qmgblqattgxs"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rtu0erh10aie0re"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hzd2pa8luhiwuuw"
+            }
+        ]
+    }
+}

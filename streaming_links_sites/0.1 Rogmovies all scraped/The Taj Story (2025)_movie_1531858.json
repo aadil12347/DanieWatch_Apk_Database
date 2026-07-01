@@ -1,0 +1,33 @@
+{
+    "post_title": "The Taj Story (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1531858,
+    "imdb_id": "tt32495339",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x1lremw16byatbv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4-v2l76j5z4nr5l"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/o0lnrnc0nacgdsc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yv51yq1yaqjoo6j"
+            }
+        ]
+    }
+}

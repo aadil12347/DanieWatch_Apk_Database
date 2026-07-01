@@ -1,0 +1,24 @@
+{
+    "post_title": "Kidaari (2016)",
+    "post_type": "movie",
+    "tmdb_id": 408743,
+    "imdb_id": "tt6056530",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=WjI3eTJGUEYrSnhhaVF2ak5tV3RMT0UzbGVEbEZSWkJiYU5LMjNjK3didElBbzczUzZSUy8yR1BCT2ZURmt5ZA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=M3QyQytsSVBTcDQ4aGZhbXdMb1JKdFF6NUdjOXdCTHRxMHJmTTVCSGhXcHo3THRKSzBQYVJhT3VEWEtDZDdJVA=="
+            }
+        ],
+        "1080p": []
+    }
+}

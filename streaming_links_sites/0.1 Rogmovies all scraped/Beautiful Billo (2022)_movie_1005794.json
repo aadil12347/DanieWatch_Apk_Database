@@ -1,0 +1,33 @@
+{
+    "post_title": "Beautiful Billo (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1005794,
+    "imdb_id": "tt11953032",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ylfe4h67mlt8lfd"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zdludfnnpuk72b2"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/a-uai_z5zhyi_qa"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tym1m17b8snbkrb"
+            }
+        ]
+    }
+}

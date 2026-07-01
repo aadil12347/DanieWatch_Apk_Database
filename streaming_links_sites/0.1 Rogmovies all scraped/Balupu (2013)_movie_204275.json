@@ -1,0 +1,33 @@
+{
+    "post_title": "Balupu (2013)",
+    "post_type": "movie",
+    "tmdb_id": 204275,
+    "imdb_id": "tt2654480",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xsyejomz4_148_q"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hykkhpphleq1-ly"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/k1-mmh-mhqlth9-"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6w8_h7gij6hyh-g"
+            }
+        ]
+    }
+}

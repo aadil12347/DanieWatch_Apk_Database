@@ -1,0 +1,28 @@
+{
+    "post_title": "House of Lies (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1296736,
+    "imdb_id": "tt32481179",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/p5eivlbg0f5zn06"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/zlbzu1oomad_8hl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hkj1515pheth51r"
+            }
+        ]
+    }
+}

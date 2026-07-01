@@ -1,0 +1,29 @@
+{
+    "post_title": "Lootcase (2020)",
+    "post_type": "movie",
+    "tmdb_id": 635503,
+    "imdb_id": "tt10515526",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n6h2s066ocnpq6n"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bi2bmbssf7y_agb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/inaajirs0rlry22"
+            }
+        ]
+    }
+}

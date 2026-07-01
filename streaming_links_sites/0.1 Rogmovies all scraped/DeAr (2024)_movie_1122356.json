@@ -1,0 +1,33 @@
+{
+    "post_title": "DeAr (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1122356,
+    "imdb_id": "tt24244300",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/llykp7lxpyzt1km"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ssthskfujvvrz36"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ecgg92se5bmsblb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vw5zhqr7wh5v5qf"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "post_title": "Ghoomer (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1158378,
+    "imdb_id": "tt20913276",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3xtf3xz6qxwxlxl"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eeafaiii8p-1nw1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/m__3d88dtu3445t"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qgeywkkc3aegkvq"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/npwcsj815wgnxsj"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tywtwcccpzwyqci"
+            }
+        ]
+    }
+}

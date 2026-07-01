@@ -1,0 +1,39 @@
+{
+    "post_title": "Bhaiyya Ji (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1262485,
+    "imdb_id": "tt28654369",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/u6ztmrtmc4p0yqm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6ccshsjh14vcgzi"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1g4q66n42jj2z4x"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iwdroweegwndcyy"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vepufa9aoto8rua"
+            }
+        ]
+    }
+}

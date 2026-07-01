@@ -1,0 +1,29 @@
+{
+    "post_title": "Mitron (2018)",
+    "post_type": "movie",
+    "tmdb_id": 547768,
+    "imdb_id": "tt8852558",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vgm3tvguv39piuv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1itz11yzvev691c"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/awope1nf5vnwmmq"
+            }
+        ]
+    }
+}

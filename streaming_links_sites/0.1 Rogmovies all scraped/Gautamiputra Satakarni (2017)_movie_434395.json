@@ -1,0 +1,24 @@
+{
+    "post_title": "Gautamiputra Satakarni (2017)",
+    "post_type": "movie",
+    "tmdb_id": 434395,
+    "imdb_id": "tt5832544",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=RHQ4TEs0Qk5LL1VmbFR2NVNSeDRiUjF1dXhQS3N1NTZyL3VxZUxOWitDc0hmU3BSZEFtRFNxQmEyYTZWVnBySw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=cDc3d2ZWRnFIdkhwUUZCWnl6Z0Z2aGFiZTN6VVZBakk0bWxLTXpEU3F0ZWhsYWs1OXpQU3hHY2NHaUxVbEVrcg=="
+            }
+        ],
+        "1080p": []
+    }
+}

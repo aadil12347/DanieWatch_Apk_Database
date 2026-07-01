@@ -1,0 +1,33 @@
+{
+    "post_title": "Amigos (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1034587,
+    "imdb_id": "tt23490586",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/syyk4yi541ln1x5"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jckjm2j2fbtwdd0"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/c6yotrrty1u1vlr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_8u3dl33_vj8b13"
+            }
+        ]
+    }
+}

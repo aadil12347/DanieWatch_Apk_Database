@@ -1,0 +1,34 @@
+{
+    "post_title": "Spark (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1191547,
+    "imdb_id": "tt28526239",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cbnxxwfty3r3ifc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rk1whubmuu1o1qx"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/q1uwq0lksglaaou"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hzlsctlzhyuzhzf"
+            }
+        ]
+    }
+}

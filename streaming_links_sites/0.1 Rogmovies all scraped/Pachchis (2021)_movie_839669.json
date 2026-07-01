@@ -1,0 +1,30 @@
+{
+    "post_title": "Pachchis (2021)",
+    "post_type": "movie",
+    "tmdb_id": 839669,
+    "imdb_id": "tt14311942",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1svw9v6cx3zufw3"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9re7dss8kwffucs"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nlni1udd5nscftp"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Bariwali (2000)",
+    "post_type": "movie",
+    "tmdb_id": 202923,
+    "imdb_id": "tt0239251",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3o3xvlfu3joiuff"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iabnv-xvhcmcv_e"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mtgge_ovl_gnlhm"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sv_kv34j7aj133v"
+            }
+        ]
+    }
+}

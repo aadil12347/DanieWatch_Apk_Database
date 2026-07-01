@@ -1,0 +1,33 @@
+{
+    "post_title": "Parahuna 2 (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1266706,
+    "imdb_id": "tt19799528",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8vjqwqzykpg42sx"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x6t1sh2e-tha-hq"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/lg8fef1ggffgcbe"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iig-ihf3btfcttg"
+            }
+        ]
+    }
+}

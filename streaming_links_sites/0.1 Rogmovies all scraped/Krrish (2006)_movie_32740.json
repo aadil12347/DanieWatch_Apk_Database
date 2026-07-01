@@ -1,0 +1,33 @@
+{
+    "post_title": "Krrish (2006)",
+    "post_type": "movie",
+    "tmdb_id": 32740,
+    "imdb_id": "tt0432637",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q1svinsniyqfs13"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oleduuj411o14e1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tdxtgxdh4dhglxu"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/4x04qxx2niv28es"
+            }
+        ]
+    }
+}

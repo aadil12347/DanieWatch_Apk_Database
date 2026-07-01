@@ -1,0 +1,33 @@
+{
+    "post_title": "Sabhaapathy (2021)",
+    "post_type": "movie",
+    "tmdb_id": 895077,
+    "imdb_id": "tt13885642",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9tkk3-y17q177ky"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q_aijfzznrafq_y"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/tuhyal1y1ughl1i"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cgaetodkjbhjbrv"
+            }
+        ]
+    }
+}

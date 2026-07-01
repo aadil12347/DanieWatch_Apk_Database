@@ -1,0 +1,29 @@
+{
+    "post_title": "Ranam (2018)",
+    "post_type": "movie",
+    "tmdb_id": 501606,
+    "imdb_id": "tt6615894",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=YzZJT1Brb2NGMTY3YkkxenpMaTFZTW5ONG9mcmpMdzJoais0YVVnQi9TVkd5aUhRVTFYWmlHa0liMDZkTEczUQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=Z1dRQ0VIQW9PRDVTRWFlV0dRRjBEWVdDU0s4WmtWQ2QrbXhsLy9hV0FrNEdzaTBEaEpGbE5KZ3Z0RlJGV0pvVg=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=R0U1VkRpZGFlazRiVFNZSGFOU2FVc21CalgxYlFocXJSeUhXVHpGbXpsZ1VFdzEvVDVPekg1NEJ3UWh0ZHlBKw=="
+            }
+        ]
+    }
+}

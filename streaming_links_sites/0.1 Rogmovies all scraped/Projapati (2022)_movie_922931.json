@@ -1,0 +1,29 @@
+{
+    "post_title": "Projapati (2022)",
+    "post_type": "movie",
+    "tmdb_id": 922931,
+    "imdb_id": "tt24074898",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bnmk5wwmmksj17d"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/va5s6mvsme9z1bm"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7k5gomm1j7tltt2"
+            }
+        ]
+    }
+}

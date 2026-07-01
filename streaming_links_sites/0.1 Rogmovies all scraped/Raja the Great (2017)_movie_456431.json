@@ -1,0 +1,41 @@
+{
+    "post_title": "Raja the Great (2017)",
+    "post_type": "movie",
+    "tmdb_id": 456431,
+    "imdb_id": "tt7322850",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zeqec1_baubtxru"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rksotkgemltjxek"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/txchulkw3mdtcwa"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hanjxhsxaww3hxt"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vtcrtnr1aalpoax"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/jpx5jd444b51sjd"
+            }
+        ]
+    }
+}

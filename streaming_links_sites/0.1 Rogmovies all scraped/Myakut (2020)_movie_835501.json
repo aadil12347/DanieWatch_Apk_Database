@@ -1,0 +1,29 @@
+{
+    "post_title": "Myakut (2020)",
+    "post_type": "movie",
+    "tmdb_id": 835501,
+    "imdb_id": "tt14570048",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=RGRiYnZHcWYrRHpaaEZFSkxRdis1cFM5Z1FqcEFRSVdrVmNvWWhid0lGVStRdmpLU2lpcUd2MWpVK0EzNGNpRw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=VlpOdG43QTdFVW5qNDhkOWdUbnZ5bVU1Qk1ONUNIL2s2T1RiK3VMVmxFT3c5TVNFUlM1Ti8rbjJXcWlYa21BZA=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=UDZJbHRlRDNiZmp4Umh1YTlZRTA4bU5PYTJtbjVrR2ZyczV6dTNybDNXZmU4cjVwUVVQMFJVR3VOVGhKQktmcw=="
+            }
+        ]
+    }
+}

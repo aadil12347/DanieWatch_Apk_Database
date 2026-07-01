@@ -1,0 +1,33 @@
+{
+    "post_title": "James (2022)",
+    "post_type": "movie",
+    "tmdb_id": 683056,
+    "imdb_id": "tt11379988",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9n9w9rho99rnrmh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pkxq4nutiwgto4j"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/fsuhu0tvu00jsun"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/p8jwphcp81pdwsz"
+            }
+        ]
+    }
+}

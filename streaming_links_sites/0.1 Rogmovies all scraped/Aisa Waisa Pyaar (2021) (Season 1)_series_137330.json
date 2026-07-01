@@ -1,0 +1,26 @@
+{
+    "post_title": "Aisa Waisa Pyaar (2021)",
+    "post_type": "series",
+    "tmdb_id": 137330,
+    "imdb_id": "tt15528986",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/api/index.php?link=T3VkanZ2NzllZVpsY21iNUo3aWFOeWFoMUZLazlRUGo1RDNheGwranhmT3d5dDY0dFJydnA5bzZGdFVLNVNmZQ=="
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/api/index.php?link=UTQ2UHpFWmhSZmtFa3A4SDBiOURNTzh4NE96alFpbzFMbFR3RHA4OGVwVmR0L1dCaXQ1MXpMazh2ZzBwbVREUA=="
+                }
+            ]
+        }
+    }
+}

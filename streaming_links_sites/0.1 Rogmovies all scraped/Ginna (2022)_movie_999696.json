@@ -1,0 +1,33 @@
+{
+    "post_title": "Ginna (2022)",
+    "post_type": "movie",
+    "tmdb_id": 999696,
+    "imdb_id": "tt21042588",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ro8raga1g8ux1sy"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/upv_vpwwvaeepd4"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/kakuaaaabo6btbi"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/amnpzgygpvvoveo"
+            }
+        ]
+    }
+}

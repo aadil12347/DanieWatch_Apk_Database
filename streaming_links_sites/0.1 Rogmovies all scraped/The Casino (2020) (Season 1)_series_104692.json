@@ -1,0 +1,26 @@
+{
+    "post_title": "The Casino (2020)",
+    "post_type": "series",
+    "tmdb_id": 104692,
+    "imdb_id": "tt12383360",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/api/index.php?link=M2FlbjBZZisrSDNJVU5iZFBHU2JYL2JLRGpYUnQwdWthTURRQjJPNDdJTHFOTHNXNGJKTy8vM1J2cDRxLzdrLw=="
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/api/index.php?link=cW9sZTBsWlZ1WE9RVU5nbWZDRTdQbURqM3BoeVZ0VWx6a3BCUTB5ME9mNEFMT0VmQnNPTElQZU1TT1IzazRGRw=="
+                }
+            ]
+        }
+    }
+}

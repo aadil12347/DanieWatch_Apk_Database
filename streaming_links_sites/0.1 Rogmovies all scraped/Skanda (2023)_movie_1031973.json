@@ -1,0 +1,34 @@
+{
+    "post_title": "Skanda (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1031973,
+    "imdb_id": "tt27328206",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rhgwo0y0gedxedd"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n6c179lwg0v1s96"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/cs1tie_onces2jd"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-lryeutt1y1ssuu"
+            }
+        ]
+    }
+}

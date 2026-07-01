@@ -1,0 +1,29 @@
+{
+    "post_title": "12x12 (2021)",
+    "post_type": "movie",
+    "tmdb_id": 859670,
+    "imdb_id": "tt11067726",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5gae67kh10jpfgk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/evozrccvoswoxg8"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o9wk49qogaixqpk"
+            }
+        ]
+    }
+}

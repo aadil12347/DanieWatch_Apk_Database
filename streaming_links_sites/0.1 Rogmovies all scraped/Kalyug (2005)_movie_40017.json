@@ -1,0 +1,29 @@
+{
+    "post_title": "Kalyug (2005)",
+    "post_type": "movie",
+    "tmdb_id": 40017,
+    "imdb_id": "tt0499041",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rmrkxmhxbmvk2hm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2qr2ygvhjvdyj1e"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gget1na1ionbqrg"
+            }
+        ]
+    }
+}

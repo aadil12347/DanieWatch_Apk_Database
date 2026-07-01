@@ -1,0 +1,29 @@
+{
+    "post_title": "Horror Story (2013)",
+    "post_type": "movie",
+    "tmdb_id": 242441,
+    "imdb_id": "tt3177332",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bbfddqbntmn6c7b"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ej8vxwozxhub0jb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/al_hdu8yr3lowhb"
+            }
+        ]
+    }
+}

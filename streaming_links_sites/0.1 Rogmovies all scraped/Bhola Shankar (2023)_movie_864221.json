@@ -1,0 +1,37 @@
+{
+    "post_title": "Bhola Shankar (2023)",
+    "post_type": "movie",
+    "tmdb_id": 864221,
+    "imdb_id": "tt13131610",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q2nwfrcqvff_-qe"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/akww0hxpohzm6km"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xcn5jo_1zgdv8zy"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xwiw4wbzw1lwiuj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/yu1qmymhlhnnqnm"
+            }
+        ]
+    }
+}

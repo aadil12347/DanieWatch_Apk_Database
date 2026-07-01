@@ -1,0 +1,29 @@
+{
+    "post_title": "Darbaan (2020)",
+    "post_type": "movie",
+    "tmdb_id": 681272,
+    "imdb_id": "tt11880600",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jugr9hhqun1q2kq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1je2azcllz2vbtc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m3mh5r83fh9fdlt"
+            }
+        ]
+    }
+}

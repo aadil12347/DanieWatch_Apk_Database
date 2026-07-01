@@ -1,0 +1,34 @@
+{
+    "post_title": "Badava Rascal (2021)",
+    "post_type": "movie",
+    "tmdb_id": 676223,
+    "imdb_id": "tt11306926",
+    "languages": [
+        "Hindi",
+        "Kannada"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fx1sgu29q1tqq5u"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yytbjj4gthypugt"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/6l__-ctcnnyv--l"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7-rs7v3rrqv2-od"
+            }
+        ]
+    }
+}

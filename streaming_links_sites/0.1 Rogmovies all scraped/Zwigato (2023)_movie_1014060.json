@@ -1,0 +1,33 @@
+{
+    "post_title": "Zwigato (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1014060,
+    "imdb_id": "tt21998526",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lx8sb1_bhsgg3aj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vt6tdewiubcu4dz"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zqxekzkvqszlzzq"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mfp22tfjk2e672l"
+            }
+        ]
+    }
+}

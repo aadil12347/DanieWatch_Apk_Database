@@ -1,0 +1,33 @@
+{
+    "post_title": "Odeya (2019)",
+    "post_type": "movie",
+    "tmdb_id": 667011,
+    "imdb_id": "tt11355040",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nqksnsks-5biijs"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o0bwcxxapamj0xv"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/m2amu4xkdi2p4kx"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hbyx6jtnij4xo7b"
+            }
+        ]
+    }
+}

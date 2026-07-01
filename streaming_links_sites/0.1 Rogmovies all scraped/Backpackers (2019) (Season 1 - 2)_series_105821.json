@@ -1,0 +1,40 @@
+{
+    "post_title": "Backpackers (2019)",
+    "post_type": "series",
+    "tmdb_id": 105821,
+    "imdb_id": "tt11712716",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 2,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/0hw-j1j5iygdbzx"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/_ec8qse5rteqmwv"
+                }
+            ]
+        },
+        "2": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/4gddpmls495x41-"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/mfblncvv4chvflh"
+                }
+            ]
+        }
+    }
+}

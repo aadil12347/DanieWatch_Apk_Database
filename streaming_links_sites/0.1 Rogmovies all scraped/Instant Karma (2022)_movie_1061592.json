@@ -1,0 +1,33 @@
+{
+    "post_title": "Instant Karma (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1061592,
+    "imdb_id": "tt17507548",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/no51nxkidbdbrgo"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/11wukgcmmdexztj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/z61y_6bzb169_ln"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/65b331htj3x41x5"
+            }
+        ]
+    }
+}

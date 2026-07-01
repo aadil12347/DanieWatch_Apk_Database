@@ -1,0 +1,38 @@
+{
+    "post_title": "Sinam (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1022011,
+    "imdb_id": "tt11226500",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nbo2gs8jd3ibgoe"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mi_j1xmkp1kxtmy"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/bfx4b6w19_w4wwu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pmaexfg1mpk5fze"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/6khi6mzx6lnq-1l"
+            }
+        ]
+    }
+}

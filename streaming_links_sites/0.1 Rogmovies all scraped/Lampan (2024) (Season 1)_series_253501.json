@@ -1,0 +1,33 @@
+{
+    "post_title": "Lampan (2024)",
+    "post_type": "series",
+    "tmdb_id": 253501,
+    "imdb_id": "tt30824640",
+    "languages": [
+        "Hindi",
+        "Marathi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/grtuglzlkszrdt2"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/a6gi15ugi6ej1i6"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/6ypqkjh8x-x8kfq"
+                }
+            ]
+        }
+    }
+}

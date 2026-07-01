@@ -1,0 +1,29 @@
+{
+    "post_title": "Kasganj (2019)",
+    "post_type": "movie",
+    "tmdb_id": 638460,
+    "imdb_id": "tt10044896",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/77p2eke1rcdqczq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rmuytoye4ro0qok"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wah6sgvugweavc4"
+            }
+        ]
+    }
+}

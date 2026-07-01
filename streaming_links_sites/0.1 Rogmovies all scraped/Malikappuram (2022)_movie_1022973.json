@@ -1,0 +1,39 @@
+{
+    "post_title": "Malikappuram (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1022973,
+    "imdb_id": "tt22037066",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1puepeyip0u9ir1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/64n1i6wh1tw6q_q"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/_7n9y9n_izb9l7i"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b1b_pbeelg1f01b"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b141m7wt7hzrgri"
+            }
+        ]
+    }
+}

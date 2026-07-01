@@ -1,0 +1,29 @@
+{
+    "post_title": "Connect (2022)",
+    "post_type": "movie",
+    "tmdb_id": 899712,
+    "imdb_id": "tt16139054",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/d1jryi14vkqgl1i"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0e__mpim5pj112p"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/r1k0uunba1h0hku"
+            }
+        ]
+    }
+}

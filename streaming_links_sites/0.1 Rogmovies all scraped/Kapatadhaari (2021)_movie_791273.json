@@ -1,0 +1,33 @@
+{
+    "post_title": "Kapatadhaari (2021)",
+    "post_type": "movie",
+    "tmdb_id": 791273,
+    "imdb_id": "tt11306488",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dl4deahplgajdny"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fyzwck3v38fgyfk"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mhh88kug5ve1ccr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0rqepmhrxh--10m"
+            }
+        ]
+    }
+}

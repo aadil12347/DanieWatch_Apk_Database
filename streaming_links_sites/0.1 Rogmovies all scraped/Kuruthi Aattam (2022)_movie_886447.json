@@ -1,0 +1,34 @@
+{
+    "post_title": "Kuruthi Aattam (2022)",
+    "post_type": "movie",
+    "tmdb_id": 886447,
+    "imdb_id": "tt11530982",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9iom5syxxwmf7ip"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2lh6xxtvtygnkkk"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ywfqx7f_p12unwp"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4ec4q5txgavwr41"
+            }
+        ]
+    }
+}

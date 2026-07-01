@@ -1,0 +1,29 @@
+{
+    "post_title": "Hellaro (2019)",
+    "post_type": "movie",
+    "tmdb_id": 629278,
+    "imdb_id": "tt10469118",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vh3qf29fmg51qyg"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gubqg1uq-wr571r"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cq5x8eua3cjjp9s"
+            }
+        ]
+    }
+}

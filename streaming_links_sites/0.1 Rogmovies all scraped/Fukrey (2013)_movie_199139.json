@@ -1,0 +1,29 @@
+{
+    "post_title": "Fukrey (2013)",
+    "post_type": "movie",
+    "tmdb_id": 199139,
+    "imdb_id": "tt2806788",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/42oy1q1cr1_f4qh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pzsz1brmnzm1um1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/riwqt4rsjsqhi4s"
+            }
+        ]
+    }
+}

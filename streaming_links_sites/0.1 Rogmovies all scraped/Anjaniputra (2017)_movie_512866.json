@@ -1,0 +1,24 @@
+{
+    "post_title": "Anjaniputra (2017)",
+    "post_type": "movie",
+    "tmdb_id": 512866,
+    "imdb_id": "tt7778560",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=SWVYMjJabWRFMGZybVFpRTNUNWNmZDhSWHZlOEM2R3ZDYjdlUmhLMnNocURtSXpIZVpJZWR1N0V6NUVhaGpmTw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=K25QYWVDMHV6blBNU3pPczQ4RzBXQ0U4YVk5MTljcXg1dUFPOGo5Qkp2SUwvaWE5ZEowamsrTUk3TFZVOFhBUg=="
+            }
+        ],
+        "1080p": []
+    }
+}

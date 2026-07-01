@@ -1,0 +1,26 @@
+{
+    "post_title": "Hard (2008)",
+    "post_type": "series",
+    "tmdb_id": 38585,
+    "imdb_id": "tt1254019",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "3": {
+            "480p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=OHdUL0lFQVBrYWZrTDR5UzJVbVJyZmZKK095UVVFMHR2OU9BcTlDREVEQjJ2VzhyTytTR3NVYUpzTDQ3VlZNWA=="
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=OU5VcVB1dEJVNWZuS1NGUE5VWUpDY1VYRnovbWc2QU9teFordWVpOCsyaXdsdGd5ZmtGWlNkblNhNW9XS21rUA=="
+                }
+            ]
+        }
+    }
+}

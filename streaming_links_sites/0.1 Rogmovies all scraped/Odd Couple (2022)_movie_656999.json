@@ -1,0 +1,37 @@
+{
+    "post_title": "Odd Couple (2022)",
+    "post_type": "movie",
+    "tmdb_id": 656999,
+    "imdb_id": "tt11024972",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fj0u0b4ta5omtnv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yn1lgvyoffriobf"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/jzed_2t1ym2amce"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x1xkjlsvfkyz1o8"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wf5ieoldef7mffz"
+            }
+        ]
+    }
+}

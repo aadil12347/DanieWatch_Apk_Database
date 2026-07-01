@@ -1,0 +1,29 @@
+{
+    "post_title": "Tum Bin (2001)",
+    "post_type": "movie",
+    "tmdb_id": 64880,
+    "imdb_id": "tt0290326",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b0jly5xexbjy2xl"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c7nr_c0nq1xnndx"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/idpnn1w4nbapjtq"
+            }
+        ]
+    }
+}

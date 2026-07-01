@@ -1,0 +1,39 @@
+{
+    "post_title": "Acharya (2022)",
+    "post_type": "movie",
+    "tmdb_id": 679919,
+    "imdb_id": "tt11563070",
+    "languages": [
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hf4h4ehnk5l501w"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/d1st5-7i5q9c9et"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hust1mwhg-f1s1m"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vvic8ll0itdaivd"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5ltxwwkppi0eh5w"
+            }
+        ]
+    }
+}

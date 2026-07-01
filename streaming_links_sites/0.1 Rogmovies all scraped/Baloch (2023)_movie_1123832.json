@@ -1,0 +1,33 @@
+{
+    "post_title": "Baloch (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1123832,
+    "imdb_id": "tt15464704",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-z-gvcbhsah14uu"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dlrmhykf7dlr7fd"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/pclixaqxqb1dtop"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sikf0uboxzxgr8r"
+            }
+        ]
+    }
+}

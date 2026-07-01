@@ -1,0 +1,29 @@
+{
+    "post_title": "Sholay (1975)",
+    "post_type": "movie",
+    "tmdb_id": 12259,
+    "imdb_id": "tt0073707",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=ZUt4dWFVUE4vTUFKL01uVWFuTzZveGFFdEZ1TU9BUjZnRFhVd1hBNmwwbWxzYWd6cXp1azBGdW8zKzhUNVIxYQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=cEhja1dnUHFGZS9FSFI0MFo2VWRMYW9Oalo5VGVQQjZFVE5nVXBxb1B5c05xVS9lRy9NSktVVnlCNUtlQ1N3dA=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xfs1y1fhxhwjh1d"
+            }
+        ]
+    }
+}

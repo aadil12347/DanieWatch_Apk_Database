@@ -1,0 +1,29 @@
+{
+    "post_title": "Pari (2018)",
+    "post_type": "movie",
+    "tmdb_id": 461649,
+    "imdb_id": "tt7329858",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6oebpuhzheorpbq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ww1r32c1jw37p2u"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7tnel8txxdqnxed"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Dhira (2020)",
+    "post_type": "movie",
+    "tmdb_id": 764667,
+    "imdb_id": "tt13449672",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/34bzfvfbbiet9jv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k9kxbjoodbzsnxj"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cisonrc3f1e00pt"
+            }
+        ]
+    }
+}

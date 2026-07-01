@@ -1,0 +1,46 @@
+{
+    "post_title": "Shikarpur (2023)",
+    "post_type": "series",
+    "tmdb_id": 217731,
+    "imdb_id": "tt24852210",
+    "languages": [
+        "Bengali"
+    ],
+    "total_seasons": 2,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/c02vswpqk0iksh5"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/ivpuv3jmcsilvpc"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/sbpf9fja6pa5w06"
+                }
+            ]
+        },
+        "2": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/oazbbg0tzvbhhmi"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/h633yyhga1g0qfa"
+                }
+            ]
+        }
+    }
+}

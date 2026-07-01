@@ -1,0 +1,37 @@
+{
+    "post_title": "Doctor G (2022)",
+    "post_type": "movie",
+    "tmdb_id": 778625,
+    "imdb_id": "tt9054970",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fqfplz1eejffoyj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jzyjkzeiaeaiuaa"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/aygya0iihtf4r4r"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q9_9o9dozqxpvet"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/68kp182dnqn6ssi"
+            }
+        ]
+    }
+}

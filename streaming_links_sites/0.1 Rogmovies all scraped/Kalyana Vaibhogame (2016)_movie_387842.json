@@ -1,0 +1,33 @@
+{
+    "post_title": "Kalyana Vaibhogame (2016)",
+    "post_type": "movie",
+    "tmdb_id": 387842,
+    "imdb_id": "tt5523516",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hn57tz2gho63bh7"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2wwq8-lwwmrfaxf"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/nosqbjnp1n1o1ow"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jyd9f7jmna9hdd9"
+            }
+        ]
+    }
+}

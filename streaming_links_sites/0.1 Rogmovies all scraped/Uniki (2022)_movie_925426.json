@@ -1,0 +1,34 @@
+{
+    "post_title": "Uniki (2022)",
+    "post_type": "movie",
+    "tmdb_id": 925426,
+    "imdb_id": "tt16987436",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uu1wpfngl11kzoz"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o6hht8j-nthwnjd"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ctgff7epudhttye"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c_e7cgccu-bucow"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "post_title": "Thellavarithe Guruvaram (2021)",
+    "post_type": "movie",
+    "tmdb_id": 811553,
+    "imdb_id": "tt13843858",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mc7czg86himmchm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i6tz314sioi34tb"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/s55wa31_za1a81a"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6psnmbgmu8lug8l"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kxe6cepxf_nex8t"
+            }
+        ]
+    }
+}

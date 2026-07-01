@@ -1,0 +1,29 @@
+{
+    "post_title": "Chaaver (2023)",
+    "post_type": "movie",
+    "tmdb_id": 923035,
+    "imdb_id": "tt23183388",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ql1yh1pdw2vyqwo"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k5y1qqpyty1pbpb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4-g1ufc-0fcpk0-"
+            }
+        ]
+    }
+}

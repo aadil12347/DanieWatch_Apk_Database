@@ -1,0 +1,43 @@
+{
+    "post_title": "Ra.One (2011)",
+    "post_type": "movie",
+    "tmdb_id": 41517,
+    "imdb_id": "tt1562871",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=OWtCeU9GS3kvME40bXowamd1ZXAyNzlWWnRITFljM2RoZENJZmNyYSt2emNacXU1QXZyY0RUWmt4RGNUSDBWSA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=Y2RpcHJURW5yRE9WcVc3NW9wdzJiL1R1K041RDJTVkIrMmNRMm50Y01yeDdrd1pHTVpGd0VSQkttZWFDRnJXZw=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rrr4t4uvm0tplwx"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ofgnor0ntooztnd"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/7b7bxhr7kn2mbfo"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gy0hbo0ha0t6_b6"
+            }
+        ]
+    }
+}

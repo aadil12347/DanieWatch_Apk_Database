@@ -1,0 +1,34 @@
+{
+    "post_title": "Kutch Express (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1070917,
+    "imdb_id": "tt23664710",
+    "languages": [
+        "Hindi",
+        "Gujarati"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bs51mbkjv59scjt"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8s2lajn119glraa"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/-ci7ef--zn7ai9-"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xflutlnyf4jj1dj"
+            }
+        ]
+    }
+}

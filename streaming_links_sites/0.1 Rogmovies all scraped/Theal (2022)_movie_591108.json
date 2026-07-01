@@ -1,0 +1,32 @@
+{
+    "post_title": "Theal (2022)",
+    "post_type": "movie",
+    "tmdb_id": 591108,
+    "imdb_id": "tt9768764",
+    "languages": [
+        "Tamil"
+    ],
+    "links": {
+        "480p": [],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kb1odvxxgu4dubd"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ng5ha7xxvhva1gk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wrfswvhnhn3wj_s"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/nnpjynillaaa1nu"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Snowman (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1012075,
+    "imdb_id": "tt14176480",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eqy6uw5rexylx-m"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/l1h0m7u1eidz117"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ccswk1cnesos1dw"
+            }
+        ]
+    }
+}

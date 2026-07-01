@@ -1,0 +1,33 @@
+{
+    "post_title": "Blackia 2 (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1253059,
+    "imdb_id": "tt28282203",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x8xpv1qi382faee"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7faar7eqfiej71z"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ro_1udddr2lyf2g"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/333w1e1b17mjbye"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Vasco Da Gama (2024)",
+    "post_type": "movie",
+    "tmdb_id": 926027,
+    "imdb_id": "tt15380500",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q0lcin7kvkc9vnm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qz12ywm1bwvzq2q"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0k1k2qkgmsmkga2"
+            }
+        ]
+    }
+}

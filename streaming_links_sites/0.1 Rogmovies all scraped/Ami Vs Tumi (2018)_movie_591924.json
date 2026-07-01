@@ -1,0 +1,33 @@
+{
+    "post_title": "Ami Vs Tumi (2018)",
+    "post_type": "movie",
+    "tmdb_id": 591924,
+    "imdb_id": "tt11092258",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i9l4z7-4o7-mmt2"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tm9uqeaz8n1azvq"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ns1sfoz1nbnevos"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/csxtobvctcmnc17"
+            }
+        ]
+    }
+}

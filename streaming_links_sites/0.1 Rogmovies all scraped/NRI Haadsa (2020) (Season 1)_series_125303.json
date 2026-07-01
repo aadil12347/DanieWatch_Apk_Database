@@ -1,0 +1,26 @@
+{
+    "post_title": "NRI Haadsa (2020)",
+    "post_type": "series",
+    "tmdb_id": 125303,
+    "imdb_id": "tt13736340",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "720p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=Q0tYUWdwWmNFbi9rK0tWbmdCMWh0YVN1RkQxQlRtS3NjOTZZSERMazIzZjJTbU9mVnp4amcrWi9zdjR3UTZYbQ=="
+                }
+            ],
+            "480p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=UkRCbUJWNmZyWTI5OStIYkRxSGIyTU82b2gvRyt6ZW9ZZ3dCVEdlR2dWa3Q3dUkzcHRUdzE0a1UyMFAyRkpUMA=="
+                }
+            ]
+        }
+    }
+}

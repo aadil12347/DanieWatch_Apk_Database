@@ -1,0 +1,29 @@
+{
+    "post_title": "Chandlo (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1152085,
+    "imdb_id": "tt28452318",
+    "languages": [
+        "Gujarati"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/alf1bftiqqr1jga"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hyk5elyjyqwcbhw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7llypquu776ncbk"
+            }
+        ]
+    }
+}

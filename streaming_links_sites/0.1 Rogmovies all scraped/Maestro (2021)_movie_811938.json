@@ -1,0 +1,34 @@
+{
+    "post_title": "Maestro (2021)",
+    "post_type": "movie",
+    "tmdb_id": 811938,
+    "imdb_id": "tt13130400",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pllyzlljjzi96iy"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sly1s8sdrmorqdw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/sx11hshckb11wqh"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zk8ndrt9r8mxmgi"
+            }
+        ]
+    }
+}

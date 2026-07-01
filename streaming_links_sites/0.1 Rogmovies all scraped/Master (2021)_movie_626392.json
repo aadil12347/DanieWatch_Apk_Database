@@ -1,0 +1,39 @@
+{
+    "post_title": "Master (2021)",
+    "post_type": "movie",
+    "tmdb_id": 626392,
+    "imdb_id": "tt10579952",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ttn6h1tj1b21dxk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dpd7q6j93k27y3r"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/-tszldswedldesl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ks1nfsxksqx1dtx"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0gny2yismvfgyiy"
+            }
+        ]
+    }
+}

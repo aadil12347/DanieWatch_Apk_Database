@@ -1,0 +1,33 @@
+{
+    "post_title": "Shubh Mangal Zyada Saavdhan (2020)",
+    "post_type": "movie",
+    "tmdb_id": 606535,
+    "imdb_id": "tt10309906",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uxs4t3sjdmx11eh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uihak3m7i2ak77v"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/6utf4met64qfmfc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zffefujh3ortfou"
+            }
+        ]
+    }
+}

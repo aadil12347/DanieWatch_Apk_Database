@@ -1,0 +1,33 @@
+{
+    "post_title": "Hi Anokhi Gaath (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1243999,
+    "imdb_id": "tt31307338",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7gmznul7t9dg7n7"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z6_1erse1xdexdj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/gyg5lgsjb5ycfyd"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f7zlig11rgktnha"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Yaaran Diyan Poun Baaran (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1106591,
+    "imdb_id": "tt27043683",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cj-wum1l4v1618b"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bjk_fkyvrddrduu"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/uffsgyfubt0xuxi"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nuz99aoz1sp1au6"
+            }
+        ]
+    }
+}

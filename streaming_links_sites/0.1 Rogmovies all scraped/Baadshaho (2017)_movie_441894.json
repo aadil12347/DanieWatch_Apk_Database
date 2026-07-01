@@ -1,0 +1,29 @@
+{
+    "post_title": "Baadshaho (2017)",
+    "post_type": "movie",
+    "tmdb_id": 441894,
+    "imdb_id": "tt4906960",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=OWpTQWtsc2Yxbi9ONGFHaHZPRWt6S2pzS2pXa2JPcm9FV2Y4N0Q1Y3B6RmFMSWlGS0tiYmZCaVREalNHVkQvRg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=QU85Q0paM0VzMGorUGZXR2JTQWJGdklYZndkVzRrYTI4OXU3NnR1bDF3M2RxYklWbVJNUmF6NXZudXBzWktuMA=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e1elnoyoiiniegi"
+            }
+        ]
+    }
+}

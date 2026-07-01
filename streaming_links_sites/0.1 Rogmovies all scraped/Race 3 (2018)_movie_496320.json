@@ -1,0 +1,33 @@
+{
+    "post_title": "Race 3 (2018)",
+    "post_type": "movie",
+    "tmdb_id": 496320,
+    "imdb_id": "tt7431594",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n8skrg96nvbo8tb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/igv3qa11luixfti"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/eznizxuax0tzkii"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/czfl0blj0bcdcc0"
+            }
+        ]
+    }
+}

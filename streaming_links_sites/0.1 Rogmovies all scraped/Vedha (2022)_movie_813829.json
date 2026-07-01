@@ -1,0 +1,39 @@
+{
+    "post_title": "Vedha (2022)",
+    "post_type": "movie",
+    "tmdb_id": 813829,
+    "imdb_id": "tt15340998",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0yx0ykc6qweei0i"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ooprngpi50ohxip"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/pjpa6h2wddadohd"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fkdz9g9xtx75b9g"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/21hg-ydicaabg-g"
+            }
+        ]
+    }
+}

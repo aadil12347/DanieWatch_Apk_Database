@@ -1,0 +1,33 @@
+{
+    "post_title": "Aaradugula Bullet (2021)",
+    "post_type": "movie",
+    "tmdb_id": 881964,
+    "imdb_id": "tt6914500",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e1cvtauyb3cuuxy"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wnjc9ozfgrrfnzs"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vp1bpy2espzvc2y"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/od3xpxtrvudx93v"
+            }
+        ]
+    }
+}

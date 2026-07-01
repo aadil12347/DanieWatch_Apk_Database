@@ -1,0 +1,33 @@
+{
+    "post_title": "Vedalam (2015)",
+    "post_type": "movie",
+    "tmdb_id": 362150,
+    "imdb_id": "tt5178278",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ppyaasj75eexbyx"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jky1tb_n1b_gz3_"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/h1rzeltzytyyljz"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s_l7dgm_ht3n5h5"
+            }
+        ]
+    }
+}

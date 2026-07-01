@@ -1,0 +1,29 @@
+{
+    "post_title": "Television (2022)",
+    "post_type": "movie",
+    "tmdb_id": 994907,
+    "imdb_id": "tt8983156",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xj33xc3o1tb541q"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0dzd4bitdlqiyil"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hblbx1skscblld1"
+            }
+        ]
+    }
+}

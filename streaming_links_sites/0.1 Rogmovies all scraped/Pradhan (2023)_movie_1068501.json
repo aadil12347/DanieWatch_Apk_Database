@@ -1,0 +1,33 @@
+{
+    "post_title": "Pradhan (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1068501,
+    "imdb_id": "tt29923681",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jfw8jifmf1lgekc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1t1yjrr7zvzrwtz"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/3gss4olfng9oyff"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2313ulzrkj4z2ar"
+            }
+        ]
+    }
+}

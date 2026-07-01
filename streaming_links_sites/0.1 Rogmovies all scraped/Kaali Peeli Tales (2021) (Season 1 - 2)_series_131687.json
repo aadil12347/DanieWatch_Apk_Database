@@ -1,0 +1,41 @@
+{
+    "post_title": "Kaali Peeli Tales (2021)",
+    "post_type": "series",
+    "tmdb_id": 131687,
+    "imdb_id": "tt15205022",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 2,
+    "seasons": {
+        "1": {
+            "720p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=YjlqQ1JHWFFRR0Jxd0JWL3RMTkhNQ3VSWmxtcmlYSTB1NFg4VmZXTWxmQ21zYmdBNXFsUWIvNlJLamRGZmxpdw=="
+                }
+            ],
+            "480p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=U3V6RjlidmJjQXZiY0tvdW1JTUR0SVl4TjM3MkhKQlFCMnVkZVJGRm1JMGpLWlBKdDMvQXpCOHgwZUhDSkp0Nw=="
+                }
+            ],
+            "1080p": []
+        },
+        "2": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/bfk8gkggql48ko6"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/luytgyvwxdtuw1w"
+                }
+            ]
+        }
+    }
+}

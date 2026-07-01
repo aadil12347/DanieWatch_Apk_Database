@@ -1,0 +1,33 @@
+{
+    "post_title": "Lockdown Lagna",
+    "post_type": "movie",
+    "tmdb_id": 1281865,
+    "imdb_id": "tt14612730",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/56jq6srzvzzsko6"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k8ka4diuy4vx4ur"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1k-rrfnikfhb86r"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cqhvx8yqbbcqtpb"
+            }
+        ]
+    }
+}

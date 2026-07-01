@@ -1,0 +1,34 @@
+{
+    "post_title": "Chokher Bali (2003)",
+    "post_type": "movie",
+    "tmdb_id": 185357,
+    "imdb_id": "tt0366304",
+    "languages": [
+        "Hindi",
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e61zsus7pez-qwm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/77kj9n7n8ikfe8n"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/adchfmnbgbfj1hf"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dzdukhkikbh95id"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Pattathu Arasan (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1046902,
+    "imdb_id": "tt15354928",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/d1gxpxxojclggxd"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ckky_fjf6xmcctz"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/eiss1zq8tsquswy"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fangoq_q_pip5i_"
+            }
+        ]
+    }
+}

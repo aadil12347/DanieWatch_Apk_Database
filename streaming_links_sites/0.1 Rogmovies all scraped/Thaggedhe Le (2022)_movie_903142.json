@@ -1,0 +1,34 @@
+{
+    "post_title": "Thaggedhe Le (2022)",
+    "post_type": "movie",
+    "tmdb_id": 903142,
+    "imdb_id": "tt15654654",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7hfvg4oltzz3ihr"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/msr_zumlthsfe1u"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/zzv1yvl54m7wbat"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v8ve29svtfpjtt8"
+            }
+        ]
+    }
+}

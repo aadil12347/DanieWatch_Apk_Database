@@ -1,0 +1,24 @@
+{
+    "post_title": "Kanchana 2 (2015)",
+    "post_type": "movie",
+    "tmdb_id": 330425,
+    "imdb_id": "tt3725026",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=SEFBanJtRldBYkd3MysyUXVOSGtRdkFhbE9KVWtNSGFrVEVnWlVJU3VrY1Y3NjhCemd2QXdidU0ydjRIWkE1eA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=OWhBUmh5U1dIOTcvSWx1YVhVQmRaUDRjZjlIb2E4eFppQlRKWFBLc3dIZ00va3p1VmdtbE5RQTJnWTc1c1FsdA=="
+            }
+        ],
+        "1080p": []
+    }
+}

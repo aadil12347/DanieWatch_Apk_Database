@@ -1,0 +1,28 @@
+{
+    "post_title": "Race Gurram (2014)",
+    "post_type": "movie",
+    "tmdb_id": 262227,
+    "imdb_id": "tt3142764",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w3d9cqxrdwn62cd"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/srxcupjwuww1afr"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/4ybgsqy119mddy9"
+            }
+        ],
+        "1080p": []
+    }
+}

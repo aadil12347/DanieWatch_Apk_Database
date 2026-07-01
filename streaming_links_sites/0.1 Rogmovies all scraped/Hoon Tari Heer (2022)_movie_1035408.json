@@ -1,0 +1,33 @@
+{
+    "post_title": "Hoon Tari Heer (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1035408,
+    "imdb_id": "tt16751916",
+    "languages": [
+        "Gujarati"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h5qqcc540f00qmj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jratt0atawflwa0"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/0i19c9fvyyvckyu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gp1mg1obgmttmyq"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Tamilarasan (2023)",
+    "post_type": "movie",
+    "tmdb_id": 587471,
+    "imdb_id": "tt11531710",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/owsuiy31ugse7qp"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a112662uc66u25j"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/leqokeeqvceovx2"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xhxwxy1pypnjx1a"
+            }
+        ]
+    }
+}

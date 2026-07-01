@@ -1,0 +1,43 @@
+{
+    "post_title": "Jhund (2022)",
+    "post_type": "movie",
+    "tmdb_id": 665685,
+    "imdb_id": "tt8983228",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/icsd1bpi3fbfbip"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1psndv4icn4l4ax"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1sgobggr7cejxrk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mm91nuiv0tngwz6"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/q9asla9kmtf9zjq"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-iizc3wjjw33ik-"
+            }
+        ]
+    }
+}

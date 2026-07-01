@@ -1,0 +1,26 @@
+{
+    "post_title": "Split Ends (2020)",
+    "post_type": "series",
+    "tmdb_id": 115750,
+    "imdb_id": "tt13814706",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "G-Drive [No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=UVNLUythU0gzWjN1MEdnRXJMd09DU1dUTmUrSkcraUNNdFlrNDFzZEZsMGhtRnBlRlMzN0NwcWRYTjFSa1lzMQ=="
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "G-Drive [No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=MUV3NVB6anhuOHk0YUpGRTVUcEF2NGl4aFhPWVpobTNzZVVGRi9IcE5zVlcxa1ZzR1EzVGFJWUJUWlVCTFlNWg=="
+                }
+            ]
+        }
+    }
+}

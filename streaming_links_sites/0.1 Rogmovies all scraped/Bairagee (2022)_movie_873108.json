@@ -1,0 +1,34 @@
+{
+    "post_title": "Bairagee (2022)",
+    "post_type": "movie",
+    "tmdb_id": 873108,
+    "imdb_id": "tt15290024",
+    "languages": [
+        "Hindi",
+        "Kannada"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4n11k4k4numga44"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/p1vvoroqsmtrvhv"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/h49inye4fsx9xsy"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/woicwx_ofpcc1ck"
+            }
+        ]
+    }
+}

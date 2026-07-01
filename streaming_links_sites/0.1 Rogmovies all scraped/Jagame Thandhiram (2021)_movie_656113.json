@@ -1,0 +1,38 @@
+{
+    "post_title": "Jagame Thandhiram (2021)",
+    "post_type": "movie",
+    "tmdb_id": 656113,
+    "imdb_id": "tt10661848",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lew-l23_moee1-e"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lyq1zey13zu3ciu"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vvy1ncjaa3vtzna"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jsits2fq2ehu2lm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/hhputpphu1udw9c"
+            }
+        ]
+    }
+}

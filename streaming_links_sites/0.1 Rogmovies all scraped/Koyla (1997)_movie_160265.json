@@ -1,0 +1,33 @@
+{
+    "post_title": "Koyla (1997)",
+    "post_type": "movie",
+    "tmdb_id": 160265,
+    "imdb_id": "tt0136352",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j10agqjt0mg0qtx"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8iqqv1jmvqjo0al"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dgicffahdshawwa"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/x9h181ehe8qh08n"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Blink (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1136463,
+    "imdb_id": "tt19874970",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/57v5rtjtitum5j_"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e7did1vdyaekvt7"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ozs_2vyszvu9e8e"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3pgxpg0q3cxmq--"
+            }
+        ]
+    }
+}

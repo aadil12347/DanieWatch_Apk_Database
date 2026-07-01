@@ -1,0 +1,29 @@
+{
+    "post_title": "Birkhit (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1029948,
+    "imdb_id": "tt20244998",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1hfdp2hy8h8dbwn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ljipjwtcixlcjt9"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wgnxhyywkhguokd"
+            }
+        ]
+    }
+}

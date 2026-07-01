@@ -1,0 +1,33 @@
+{
+    "post_title": "Kida (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1063157,
+    "imdb_id": "tt24177410",
+    "languages": [
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n1lws_r5iktccdd"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9qh5tdoh0z5ll5t"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/p-_eqxxkumpk_pu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pl2m7o_zpoecmxz"
+            }
+        ]
+    }
+}

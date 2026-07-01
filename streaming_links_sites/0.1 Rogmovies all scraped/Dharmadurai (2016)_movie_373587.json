@@ -1,0 +1,34 @@
+{
+    "post_title": "Dharmadurai (2016)",
+    "post_type": "movie",
+    "tmdb_id": 373587,
+    "imdb_id": "tt5934894",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vcizu-1vcnexeqz"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/91ga1kczwgpgs43"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/62abrb9q23xvj3q"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fgzdgl7tbjgsj7z"
+            }
+        ]
+    }
+}

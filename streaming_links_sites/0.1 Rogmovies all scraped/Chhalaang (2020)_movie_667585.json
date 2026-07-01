@@ -1,0 +1,33 @@
+{
+    "post_title": "Chhalaang (2020)",
+    "post_type": "movie",
+    "tmdb_id": 667585,
+    "imdb_id": "tt8983164",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ag93b3r1lfarf3f"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m3aamcj-zlqz-zw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/m81kkxxvsspwsve"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/clpncqonlxbmtll"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Bapi Bari Jaa (2012)",
+    "post_type": "movie",
+    "tmdb_id": 256387,
+    "imdb_id": "tt2595394",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/we1n8m6fgd5jj1n"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3vpcpd99h33i3id"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/utqsu208catfdhm"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zm9dcx99txor3tm"
+            }
+        ]
+    }
+}

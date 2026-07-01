@@ -1,0 +1,30 @@
+{
+    "post_title": "Yaathisai (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1109203,
+    "imdb_id": "tt27171776",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f2jt5wku2b-zizc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n1lq41l9sy7jff7"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wkdqbmbr2qwlsdm"
+            }
+        ]
+    }
+}

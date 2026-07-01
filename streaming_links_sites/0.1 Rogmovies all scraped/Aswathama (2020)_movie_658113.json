@@ -1,0 +1,29 @@
+{
+    "post_title": "Aswathama (2020)",
+    "post_type": "movie",
+    "tmdb_id": 658113,
+    "imdb_id": "tt11430262",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t7qw1f03etpq30t"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fztxu8zdo6ctvuc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/irv_qxl9n1rv_kq"
+            }
+        ]
+    }
+}

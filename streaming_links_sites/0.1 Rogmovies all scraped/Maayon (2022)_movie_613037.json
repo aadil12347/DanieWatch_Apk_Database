@@ -1,0 +1,30 @@
+{
+    "post_title": "Maayon (2022)",
+    "post_type": "movie",
+    "tmdb_id": 613037,
+    "imdb_id": "tt9378416",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/aq14mpt1kkbtkuc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/czg2tltco50jtoj"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sk2o22gykgs4llk"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Naqaab (2007)",
+    "post_type": "movie",
+    "tmdb_id": 277608,
+    "imdb_id": "tt1020978",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fhy6spbyb5ibirv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/drhkd4cppxiphrq"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nvvxfzfdxvzzgzd"
+            }
+        ]
+    }
+}

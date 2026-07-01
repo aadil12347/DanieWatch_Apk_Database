@@ -1,0 +1,34 @@
+{
+    "post_title": "Narappa (2021)",
+    "post_type": "movie",
+    "tmdb_id": 666564,
+    "imdb_id": "tt11648514",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4ent_6ew4yh_1_y"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fwzn1ehoduouaqh"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/22n2fq2fraqwe-u"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tgcvf7eewdelq8r"
+            }
+        ]
+    }
+}

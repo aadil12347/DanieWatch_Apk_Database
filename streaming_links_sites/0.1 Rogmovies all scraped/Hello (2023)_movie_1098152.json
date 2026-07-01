@@ -1,0 +1,29 @@
+{
+    "post_title": "Hello (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1098152,
+    "imdb_id": "tt26674497",
+    "languages": [
+        "Gujarati"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fays6oouaadogol"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6svoo15q6fw6qe1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tq1qontm2ltygey"
+            }
+        ]
+    }
+}

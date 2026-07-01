@@ -1,0 +1,40 @@
+{
+    "post_title": "Akhanda (2021)",
+    "post_type": "movie",
+    "tmdb_id": 794961,
+    "imdb_id": "tt11773378",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qc1hjf51ug3rlga"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m5cg1yn6ydxxd56"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/pe72ibbqhdqhach"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rf1buesdg3rcrsf"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kmcxn6mhmmprlqd"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Kissebaaz (2019)",
+    "post_type": "movie",
+    "tmdb_id": 605452,
+    "imdb_id": "tt3797888",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-wq6w8yv6acz9az"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w9b0lgban1e7a7n"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0vzgrtvftuck6zu"
+            }
+        ]
+    }
+}

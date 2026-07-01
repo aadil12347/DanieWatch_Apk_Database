@@ -1,0 +1,33 @@
+{
+    "post_title": "Dear Father (2022)",
+    "post_type": "movie",
+    "tmdb_id": 940755,
+    "imdb_id": "tt15554526",
+    "languages": [
+        "Gujarati"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ow4qqosjryyd0p4"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v88pocc6rmbyp0v"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/k3i96v963w1mwug"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yihlvjcykvybvaz"
+            }
+        ]
+    }
+}

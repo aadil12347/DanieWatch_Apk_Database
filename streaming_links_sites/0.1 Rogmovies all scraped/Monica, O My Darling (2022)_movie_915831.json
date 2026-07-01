@@ -1,0 +1,41 @@
+{
+    "post_title": "Monica, O My Darling (2022)",
+    "post_type": "movie",
+    "tmdb_id": 915831,
+    "imdb_id": "tt15128068",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ruk_9lkqcvkbi1q"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f3ergbxm3ssgwum"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/el97s9zgksdxklz"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fyrdvw3dp2ot1eu"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/44i-1o5_p0z8e55"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/nrlntw5itcbclvl"
+            }
+        ]
+    }
+}

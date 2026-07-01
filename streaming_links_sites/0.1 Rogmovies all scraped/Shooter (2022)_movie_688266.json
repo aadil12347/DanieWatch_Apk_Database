@@ -1,0 +1,33 @@
+{
+    "post_title": "Shooter (2022)",
+    "post_type": "movie",
+    "tmdb_id": 688266,
+    "imdb_id": "tt11749480",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tnqvqwimnqvwlqx"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1pahamimm24pm1z"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/hmynkcvmcyylmkh"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2pn6wxd21j1ma6w"
+            }
+        ]
+    }
+}

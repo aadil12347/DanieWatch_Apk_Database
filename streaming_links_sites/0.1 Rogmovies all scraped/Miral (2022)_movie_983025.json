@@ -1,0 +1,33 @@
+{
+    "post_title": "Miral (2022)",
+    "post_type": "movie",
+    "tmdb_id": 983025,
+    "imdb_id": "tt14452152",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rgnafnq1w1tzzya"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bkq3qq1nomnintl"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/r5srr1fw59vs5gf"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ka_1bxkrzkkaai5"
+            }
+        ]
+    }
+}

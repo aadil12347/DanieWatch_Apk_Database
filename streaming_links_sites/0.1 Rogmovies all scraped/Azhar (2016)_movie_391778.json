@@ -1,0 +1,29 @@
+{
+    "post_title": "Azhar (2016)",
+    "post_type": "movie",
+    "tmdb_id": 391778,
+    "imdb_id": "tt4906984",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1cql40cp4i1lo7u"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sxfejmxjpj1ksds"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c341el54c6wdwc7"
+            }
+        ]
+    }
+}

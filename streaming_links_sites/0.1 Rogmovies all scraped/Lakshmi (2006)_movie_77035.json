@@ -1,0 +1,24 @@
+{
+    "post_title": "Lakshmi (2006)",
+    "post_type": "movie",
+    "tmdb_id": 77035,
+    "imdb_id": "tt0813550",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=ZEtRNjV6YjhCMTFUSDJrdTFrbldadDNZdksxTVpwdGJOQmZSVUF5VWhKdUdUbHlUMU5GeXdxY1NhUitLYWcvbA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=cmNYMHY2SmtWVXNwamlGUjhFcUNsdlUyRE9tWDJIeFh2cUd6dktxUEE5SlNuMUJsd05vK0I0TEZiSGRaU3E4Kw=="
+            }
+        ],
+        "1080p": []
+    }
+}

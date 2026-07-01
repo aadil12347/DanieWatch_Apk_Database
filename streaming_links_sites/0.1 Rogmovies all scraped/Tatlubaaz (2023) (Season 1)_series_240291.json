@@ -1,0 +1,32 @@
+{
+    "post_title": "Tatlubaaz (2023)",
+    "post_type": "series",
+    "tmdb_id": 240291,
+    "imdb_id": "tt28155275",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/8t26m6jmghshbhy"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/zz25pq5ks8wym11"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/djngn0cvhg0rxvb"
+                }
+            ]
+        }
+    }
+}

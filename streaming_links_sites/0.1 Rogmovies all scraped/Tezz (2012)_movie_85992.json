@@ -1,0 +1,29 @@
+{
+    "post_title": "Tezz (2012)",
+    "post_type": "movie",
+    "tmdb_id": 85992,
+    "imdb_id": "tt1706317",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_rtk_31mpa1aqam"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pws6wxvsqhbbnjw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xqxxs0j09sb90ae"
+            }
+        ]
+    }
+}

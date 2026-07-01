@@ -1,0 +1,43 @@
+{
+    "post_title": "Hanu-Man (2024)",
+    "post_type": "movie",
+    "tmdb_id": 869760,
+    "imdb_id": "tt15433956",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qgwcfqbwpgb6yea"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/drrc72cjjcjajnb"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/u5i0a5u_s-_9o9t"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h1hlixp_hi3hfem"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1r1vjvytj1uvlof"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/l9lmygk_hqhrgdk"
+            }
+        ]
+    }
+}

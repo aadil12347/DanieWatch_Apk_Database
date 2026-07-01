@@ -1,0 +1,29 @@
+{
+    "post_title": "Mr & Mrs 420 Returns (2018)",
+    "post_type": "movie",
+    "tmdb_id": 542688,
+    "imdb_id": "tt8785486",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=M2hQaFczUm0rMGplZWFObm1lcVVWd1o1cm9KK2xnekFUTUFKSlVoVytXTGdNNzZnMEhHMEY2SHh5K2hiamVPWg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=WitEcVNid0hISW9OZGovendqV0Y1MVdyc3VXOW9wbFp1L3BQNVJBRW8waVc2RkFjSEFYUktSOTJvTHM0OGVWWA=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=QmVJbEduTVdBZXhtSUhVR1AvcW13c3U3OHEzQzl1akNFczdSeWxGaVp5eVNFQ01LcjlseUZwYVVrMXVFRXNVVg=="
+            }
+        ]
+    }
+}

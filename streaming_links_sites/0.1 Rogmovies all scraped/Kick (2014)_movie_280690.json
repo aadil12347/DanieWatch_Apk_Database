@@ -1,0 +1,29 @@
+{
+    "post_title": "Kick (2014)",
+    "post_type": "movie",
+    "tmdb_id": 280690,
+    "imdb_id": "tt2372222",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=TXhnT2cvZWpWZ2NJbWp3YmR4QnRrSnptTTVadWIyeDRTcUNKQmpYcE1oQmlrWXZKK00rdEd2M2pxVVhxYWt2dQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=T29OY2lVMkJjZDRLYUQzcGpMTWVsWFB2NFFiOVRsY2ZRWjByNElBelFRdDRwK3RWYmxTVTlyVjk3NnQycVRkVw=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f2x24xkpftpmtcd"
+            }
+        ]
+    }
+}

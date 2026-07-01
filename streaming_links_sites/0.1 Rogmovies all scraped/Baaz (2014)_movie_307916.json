@@ -1,0 +1,33 @@
+{
+    "post_title": "Baaz (2014)",
+    "post_type": "movie",
+    "tmdb_id": 307916,
+    "imdb_id": "tt4482970",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pql1zq9mn40xepx"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vv_fv008vzzftii"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/6clhomdpp0l_go6"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nsa8che8vsev11k"
+            }
+        ]
+    }
+}

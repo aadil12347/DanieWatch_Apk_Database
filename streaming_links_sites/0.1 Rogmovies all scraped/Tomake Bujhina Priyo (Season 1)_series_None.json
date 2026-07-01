@@ -1,0 +1,32 @@
+{
+    "post_title": "Tomake Bujhina Priyo",
+    "post_type": "series",
+    "tmdb_id": null,
+    "imdb_id": "tt37885964",
+    "languages": [
+        "Bengali"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/5c6g1jp5sc1kgvj"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/kurii9kklojl0ke"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/qwuybqddudjo0jc"
+                }
+            ]
+        }
+    }
+}

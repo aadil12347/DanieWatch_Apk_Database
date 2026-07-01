@@ -1,0 +1,33 @@
+{
+    "post_title": "Section 375 (2019)",
+    "post_type": "movie",
+    "tmdb_id": 507941,
+    "imdb_id": "tt8144834",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s-h33nnqkc1afh4"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qgg6tz3q7yg0yu0"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kn1ifjg1sgoikou"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/v6zcy19x78njlnn"
+            }
+        ]
+    }
+}

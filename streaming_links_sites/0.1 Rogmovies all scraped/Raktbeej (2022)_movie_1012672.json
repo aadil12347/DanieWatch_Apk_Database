@@ -1,0 +1,30 @@
+{
+    "post_title": "Raktbeej (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1012672,
+    "imdb_id": "tt14631142",
+    "languages": [
+        "Hindi",
+        "Gujarati"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4vtqva_wmajv717"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/azayyyd22qze92a"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iu9pczyhahpepo4"
+            }
+        ]
+    }
+}

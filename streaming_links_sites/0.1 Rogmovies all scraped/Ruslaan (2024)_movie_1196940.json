@@ -1,0 +1,37 @@
+{
+    "post_title": "Ruslaan (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1196940,
+    "imdb_id": "tt24245466",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kk0a420mrq-oraq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2g_n77ws6tmfimi"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/79n3tupwuhz81u-"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-n_ev0smwwsecyx"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1rszswre0-zeab9"
+            }
+        ]
+    }
+}

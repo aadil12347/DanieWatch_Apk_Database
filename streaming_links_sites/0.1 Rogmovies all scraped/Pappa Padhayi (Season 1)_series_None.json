@@ -1,0 +1,32 @@
+{
+    "post_title": "Pappa Padhayi",
+    "post_type": "series",
+    "tmdb_id": null,
+    "imdb_id": "tt34898866",
+    "languages": [
+        "Punjabi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/cni14iiy6f8xill"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/dmbbgp1ghbr47dc"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/gzvzfwmjjiwqmja"
+                }
+            ]
+        }
+    }
+}

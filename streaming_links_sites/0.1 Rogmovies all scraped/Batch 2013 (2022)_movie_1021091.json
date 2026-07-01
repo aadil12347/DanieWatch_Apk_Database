@@ -1,0 +1,33 @@
+{
+    "post_title": "Batch 2013 (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1021091,
+    "imdb_id": "tt21741282",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/y7hmamnnt_qujmj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3dgr4amr51g6iaw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/_wiw89pwkav8r9c"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9zbshi1u1ch6j9c"
+            }
+        ]
+    }
+}

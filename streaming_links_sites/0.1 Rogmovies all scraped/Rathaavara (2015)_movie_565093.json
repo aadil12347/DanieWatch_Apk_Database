@@ -1,0 +1,30 @@
+{
+    "post_title": "Rathaavara (2015)",
+    "post_type": "movie",
+    "tmdb_id": 565093,
+    "imdb_id": "tt3956366",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jcodpxukgdd8xp2"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mmffwom77wf9nbz"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hl0oanoo1hg0r1x"
+            }
+        ]
+    }
+}

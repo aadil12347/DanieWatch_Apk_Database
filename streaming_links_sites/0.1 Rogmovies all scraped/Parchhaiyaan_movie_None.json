@@ -1,0 +1,29 @@
+{
+    "post_title": "Parchhaiyaan",
+    "post_type": "movie",
+    "tmdb_id": null,
+    "imdb_id": "tt12917216",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=amVrdHgvUVRraldyMEczN2VNRDdobWFnUDYwdXN5RmlhK3RSWmU1WkF0MHNabjB0NXFKdFJ3bWw4eHNDd1R0eQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0m44470q9lqrm79"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bk3mwjwufm33ww5"
+            }
+        ]
+    }
+}

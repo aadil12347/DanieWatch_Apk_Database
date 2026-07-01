@@ -1,0 +1,33 @@
+{
+    "post_title": "Single (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1187624,
+    "imdb_id": "tt22528920",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cdjujrp3egyucbw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/455xpgvpin4p4pm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ext3thbxhatqst9"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ltu7xhi2ytu3u2k"
+            }
+        ]
+    }
+}

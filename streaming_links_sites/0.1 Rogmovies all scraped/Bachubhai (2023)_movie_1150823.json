@@ -1,0 +1,33 @@
+{
+    "post_title": "Bachubhai (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1150823,
+    "imdb_id": "tt28258861",
+    "languages": [
+        "Gujarati"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sq6fge6uuztiu1u"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kaow1vrapn1dacj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/br7g78po7fspss7"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z77rxvjdaxtki7l"
+            }
+        ]
+    }
+}

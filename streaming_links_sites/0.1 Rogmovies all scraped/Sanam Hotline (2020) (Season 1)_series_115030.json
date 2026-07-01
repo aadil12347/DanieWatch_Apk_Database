@@ -1,0 +1,26 @@
+{
+    "post_title": "Sanam Hotline (2020)",
+    "post_type": "series",
+    "tmdb_id": 115030,
+    "imdb_id": "tt13582360",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "G-Drive [No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=MTl6OWNDNm1uSUJLa2V6c2tDcTQ1OWw3Q2xQa3kzWm1weEY4dzRaVjRDMm43WVJiZ0Z0bnI0RjJyMDlKMkV0TA=="
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "G-Drive [No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=TnBwTjBjVkhLT2F5Uy9JYVQzT0dHOXRUbkJYb0FtZllmZmdic1djVUJEZ3RVMEZiTlRGL2RZaklNVGVhVUNMeg=="
+                }
+            ]
+        }
+    }
+}

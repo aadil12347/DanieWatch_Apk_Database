@@ -1,0 +1,29 @@
+{
+    "post_title": "Kadakh (2020)",
+    "post_type": "movie",
+    "tmdb_id": 560702,
+    "imdb_id": "tt12505468",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ae0gy1s2-y0eo04"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1t3v7uiico3hvck"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/61l6kqxaii2ydyl"
+            }
+        ]
+    }
+}

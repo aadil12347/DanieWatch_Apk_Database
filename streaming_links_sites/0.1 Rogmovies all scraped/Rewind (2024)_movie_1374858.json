@@ -1,0 +1,33 @@
+{
+    "post_title": "Rewind (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1374858,
+    "imdb_id": "tt33240751",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jyf7nmv3z6b1awq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9hu8tyzhxu8zimq"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/zjeujfjeigp9gpu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/p1rr1mkvyfkshzr"
+            }
+        ]
+    }
+}

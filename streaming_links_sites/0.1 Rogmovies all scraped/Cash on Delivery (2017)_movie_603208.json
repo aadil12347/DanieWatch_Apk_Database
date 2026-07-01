@@ -1,0 +1,33 @@
+{
+    "post_title": "Cash on Delivery (2017)",
+    "post_type": "movie",
+    "tmdb_id": 603208,
+    "imdb_id": "tt6779396",
+    "languages": [
+        "Gujarati"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gyx1xkz88811sli"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/atpqzqyxtm77q1x"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/njw_ntvf8bgncuq"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/md9mn0mzjhhxt9l"
+            }
+        ]
+    }
+}

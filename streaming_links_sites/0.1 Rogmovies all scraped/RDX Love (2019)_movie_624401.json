@@ -1,0 +1,30 @@
+{
+    "post_title": "RDX Love (2019)",
+    "post_type": "movie",
+    "tmdb_id": 624401,
+    "imdb_id": "tt11091572",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5ux1fem9n0owvel"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0iuaucc5esjcile"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qjqhnyggnvxkxlf"
+            }
+        ]
+    }
+}

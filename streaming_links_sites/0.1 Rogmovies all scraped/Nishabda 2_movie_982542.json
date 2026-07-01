@@ -1,0 +1,24 @@
+{
+    "post_title": "Nishabda 2",
+    "post_type": "movie",
+    "tmdb_id": 982542,
+    "imdb_id": "tt13151464",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/klkmol39hk1uqnl"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ozdgfgmu4uuy35d"
+            }
+        ],
+        "1080p": []
+    }
+}

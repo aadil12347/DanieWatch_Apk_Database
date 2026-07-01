@@ -1,0 +1,30 @@
+{
+    "post_title": "Pantham (2018)",
+    "post_type": "movie",
+    "tmdb_id": 534343,
+    "imdb_id": "tt7963804",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kqj_b3wn2nepq_t"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kspfp3a1pfpofa1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b9jpo1tc-119jcu"
+            }
+        ]
+    }
+}

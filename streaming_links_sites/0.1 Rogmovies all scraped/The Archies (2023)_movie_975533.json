@@ -1,0 +1,33 @@
+{
+    "post_title": "The Archies (2023)",
+    "post_type": "movie",
+    "tmdb_id": 975533,
+    "imdb_id": "tt15979666",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i-qc91eqljnq1qj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/psvocs35pow9p1k"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/phwwtwltc2prgpa"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/a_z_uh6sw0dtgtu"
+            }
+        ]
+    }
+}

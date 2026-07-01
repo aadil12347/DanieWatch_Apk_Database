@@ -1,0 +1,29 @@
+{
+    "post_title": "Akaash Vani (2013)",
+    "post_type": "movie",
+    "tmdb_id": 181462,
+    "imdb_id": "tt2423132",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oa8t9zxatcdbttx"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dr0gk101u17gfnv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yua487v4g6uy16d"
+            }
+        ]
+    }
+}

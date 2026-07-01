@@ -1,0 +1,26 @@
+{
+    "post_title": "Glitter (2021)",
+    "post_type": "series",
+    "tmdb_id": 137470,
+    "imdb_id": "tt15779368",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/api/index.php?link=TnF0VDFBWjJLYkw1Q0dnUXZLQ29MMlhHVXhpYzNQV0ZFd0l1T29qNEV3NFcvQXZZY20wM25xYXM2VHh3dTJlNA=="
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/api/index.php?link=ZXRieVZIWUVYdStmRzBpek5Nd0dLL0grWEFtTWw3S1d2aXRxM3VROGpad0pnb2dpYlJJL3Z3UEtTOWxYS3BMeg=="
+                }
+            ]
+        }
+    }
+}

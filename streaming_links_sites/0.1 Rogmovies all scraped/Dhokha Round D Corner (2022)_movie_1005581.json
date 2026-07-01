@@ -1,0 +1,33 @@
+{
+    "post_title": "Dhokha: Round D Corner (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1005581,
+    "imdb_id": "tt10644708",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1_zcm1odrxdddpo"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cxx2xn1axllopiu"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/i4llkpf--4dkqke"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2xjrzhvrxj26xrx"
+            }
+        ]
+    }
+}

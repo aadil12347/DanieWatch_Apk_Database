@@ -1,0 +1,34 @@
+{
+    "post_title": "IPC 376 (2021)",
+    "post_type": "movie",
+    "tmdb_id": 587204,
+    "imdb_id": "tt11355234",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ujmj3xj8dirg7mr"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/as1bku5sbde1jo7"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/3rrjnhmncz1jnsc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ewao1rxeqt9akmj"
+            }
+        ]
+    }
+}

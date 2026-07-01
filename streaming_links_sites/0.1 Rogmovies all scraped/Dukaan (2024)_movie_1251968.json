@@ -1,0 +1,29 @@
+{
+    "post_title": "Dukaan (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1251968,
+    "imdb_id": "tt15458936",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7l5yazxaazu75zt"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1nbk1inbov1qobk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iep9gqnillwidne"
+            }
+        ]
+    }
+}

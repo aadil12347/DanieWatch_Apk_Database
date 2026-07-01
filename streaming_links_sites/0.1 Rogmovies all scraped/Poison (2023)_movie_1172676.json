@@ -1,0 +1,33 @@
+{
+    "post_title": "Poison (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1172676,
+    "imdb_id": "tt28912885",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bmo3bxbabbkro3b"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7xfxf2gfxg0dfhx"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/9z-pnwof91z9bj9"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zmmmfseszmgxe9w"
+            }
+        ]
+    }
+}

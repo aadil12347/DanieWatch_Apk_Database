@@ -1,0 +1,34 @@
+{
+    "post_title": "Ranga (2022)",
+    "post_type": "movie",
+    "tmdb_id": 613236,
+    "imdb_id": "tt7822416",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lplyr1qeij9cqw1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rrhgrjuuv1uji_p"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/-5mr0z_6j6j61rr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/siy88q-jmjiyzyl"
+            }
+        ]
+    }
+}

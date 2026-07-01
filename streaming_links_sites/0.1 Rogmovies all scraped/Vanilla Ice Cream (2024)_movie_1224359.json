@@ -1,0 +1,33 @@
+{
+    "post_title": "Vanilla Ice Cream (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1224359,
+    "imdb_id": "tt15554466",
+    "languages": [
+        "Gujarati"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qdsqzns15rqqde9"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5dldj77r1u11r1l"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/s5q2153qj59q292"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bsmb1mkkcakbmtv"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Mrs. (2023)",
+    "post_type": "movie",
+    "tmdb_id": 942411,
+    "imdb_id": "tt27032419",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ael-j_uqesydtjk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w__1snaenpinjr3"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/flsfzs1lz-pzf5z"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ohsodozlo2iwd5y"
+            }
+        ]
+    }
+}

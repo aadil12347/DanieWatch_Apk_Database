@@ -1,0 +1,34 @@
+{
+    "post_title": "Selfie (2022)",
+    "post_type": "movie",
+    "tmdb_id": 910837,
+    "imdb_id": "tt15415872",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ki7okyikkyslky7"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gwjw3hnwjswfmtc"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ddjyyyiihhll3i7"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7jjkupb0jowakoz"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "post_title": "Lappad",
+    "post_type": "series",
+    "tmdb_id": null,
+    "imdb_id": "tt15557152",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/at31hvpppsr3de0"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/iafdw7diq_igtmd"
+                }
+            ]
+        }
+    }
+}

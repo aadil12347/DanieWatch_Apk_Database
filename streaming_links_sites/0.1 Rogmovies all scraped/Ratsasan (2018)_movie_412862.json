@@ -1,0 +1,34 @@
+{
+    "post_title": "Ratsasan (2018)",
+    "post_type": "movie",
+    "tmdb_id": 412862,
+    "imdb_id": "tt7060344",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_bw1ki1js72ameg"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yytnfnfttfve5da"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wg2s_ehc25c8cea"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n1aeeb1yue9yyu1"
+            }
+        ]
+    }
+}

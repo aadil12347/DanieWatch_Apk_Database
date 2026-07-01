@@ -1,0 +1,33 @@
+{
+    "post_title": "Baaplyok (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1182482,
+    "imdb_id": "tt28478337",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ew6ds9mmtre025w"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t3gkrzg3kxrxc3m"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/yfec6d6ytt1oyml"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/btaopgbijgas-dv"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Hello Zindagi (2022)",
+    "post_type": "movie",
+    "tmdb_id": 991995,
+    "imdb_id": "tt15809718",
+    "languages": [
+        "Gujarati"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/01trvuuck0tuku-"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s_zdz4kzdyjdqqg"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/3db1bmym1mmrrue"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tfx2glg9tfoshhv"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Iru Mugan (2016)",
+    "post_type": "movie",
+    "tmdb_id": 391274,
+    "imdb_id": "tt5372466",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/czybeciqgzxqubq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yff1yffv3ekz1fz"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/2vzww6qr9zql5bx"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1nnczy6na55n1ox"
+            }
+        ]
+    }
+}

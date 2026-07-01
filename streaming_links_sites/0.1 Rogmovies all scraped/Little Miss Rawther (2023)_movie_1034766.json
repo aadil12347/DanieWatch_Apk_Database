@@ -1,0 +1,34 @@
+{
+    "post_title": "Little Miss Rawther (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1034766,
+    "imdb_id": "tt21305488",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oxd6c868oygfxxf"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lr_n901lu_-xffb"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ksx_r2qhwuxwnhw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fy4zrymy9kzj7-e"
+            }
+        ]
+    }
+}

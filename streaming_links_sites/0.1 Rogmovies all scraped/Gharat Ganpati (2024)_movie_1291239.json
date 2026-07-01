@@ -1,0 +1,33 @@
+{
+    "post_title": "Gharat Ganpati (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1291239,
+    "imdb_id": "tt23554698",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/l3mqszqt1zeqmv0"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/igp4hen0fhc_pby"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/hbljnajnaawmbws"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iehgnhci5na66-_"
+            }
+        ]
+    }
+}

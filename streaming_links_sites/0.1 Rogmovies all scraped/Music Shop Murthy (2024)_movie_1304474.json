@@ -1,0 +1,30 @@
+{
+    "post_title": "Music Shop Murthy (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1304474,
+    "imdb_id": "tt32189369",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_wv-b711u1twb7j"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yxu07wcchmkrcm7"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x1g3ogmxgexje3k"
+            }
+        ]
+    }
+}

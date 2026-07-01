@@ -1,0 +1,39 @@
+{
+    "post_title": "Maa (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1389158,
+    "imdb_id": "tt30496762",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wlztuxj2jz42_gy"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8wuuwfe3uikiwfz"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ozf9t_alszz-fzb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ei1mkbibwj21ugm"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xzpt8504sa0t59o"
+            }
+        ]
+    }
+}

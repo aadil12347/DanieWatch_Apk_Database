@@ -1,0 +1,34 @@
+{
+    "post_title": "Velan (2021)",
+    "post_type": "movie",
+    "tmdb_id": 921682,
+    "imdb_id": "tt16478968",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yz_lxztacxklzpp"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h3ykhrkgirk-1ik"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/l2wwviwlps81wvf"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ebz4gk14kbz5eei"
+            }
+        ]
+    }
+}

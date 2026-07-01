@@ -1,0 +1,32 @@
+{
+    "post_title": "StarBeam (2020)",
+    "post_type": "series",
+    "tmdb_id": 101396,
+    "imdb_id": "tt10687184",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "4": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/v77vfjts4txgch1"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/yy5mwq6smvz8b5f"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/nzru8xbjjzxoq1o"
+                }
+            ]
+        }
+    }
+}

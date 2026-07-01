@@ -1,0 +1,29 @@
+{
+    "post_title": "Lajja (2001)",
+    "post_type": "movie",
+    "tmdb_id": 56317,
+    "imdb_id": "tt0293342",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/d8_p2g6enk2m8bm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ratktztu9mdb11k"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/apjzc6y6bakdvga"
+            }
+        ]
+    }
+}

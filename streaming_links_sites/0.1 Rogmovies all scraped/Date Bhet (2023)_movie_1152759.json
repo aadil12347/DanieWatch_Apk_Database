@@ -1,0 +1,33 @@
+{
+    "post_title": "Date Bhet (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1152759,
+    "imdb_id": "tt28306158",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z78io0vgz00m2oh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jiek4czatuughaz"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/lsypow2qx8lypc_"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1ipbyvc77i5ha1h"
+            }
+        ]
+    }
+}

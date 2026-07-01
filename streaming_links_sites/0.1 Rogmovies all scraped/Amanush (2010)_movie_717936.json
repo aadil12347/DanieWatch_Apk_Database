@@ -1,0 +1,33 @@
+{
+    "post_title": "Amanush (2010)",
+    "post_type": "movie",
+    "tmdb_id": 717936,
+    "imdb_id": "tt1677695",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qsompbdp81cv8wk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kuiyuu8zupi1fel"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/g5wbeu6--5masb0"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cddzc7pd0ll5dcd"
+            }
+        ]
+    }
+}

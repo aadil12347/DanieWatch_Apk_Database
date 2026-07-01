@@ -1,0 +1,32 @@
+{
+    "post_title": "Vadhuvu (2023)",
+    "post_type": "series",
+    "tmdb_id": 240575,
+    "imdb_id": "tt29961423",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/9vczo8uz9rr99od"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/tttl6_apbla1adv"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/_khjxsycvsm5mhf"
+                }
+            ]
+        }
+    }
+}

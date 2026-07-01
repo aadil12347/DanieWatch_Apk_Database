@@ -1,0 +1,34 @@
+{
+    "post_title": "Kooman (2022)",
+    "post_type": "movie",
+    "tmdb_id": 933833,
+    "imdb_id": "tt17632818",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/djtk7jgno7cyn9d"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/534tsbqso3jkqys"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/pjzcec9fvnxj5cn"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/99bm919e90jmtmc"
+            }
+        ]
+    }
+}

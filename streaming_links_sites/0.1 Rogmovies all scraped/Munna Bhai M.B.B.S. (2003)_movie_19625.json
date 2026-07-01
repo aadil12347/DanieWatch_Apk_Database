@@ -1,0 +1,33 @@
+{
+    "post_title": "Munna Bhai M.B.B.S. (2003)",
+    "post_type": "movie",
+    "tmdb_id": 19625,
+    "imdb_id": "tt0374887",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g91mxedqdpwb1rg"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ykpiea4wfa4_oo-"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e-nxmhv43ehv3wt"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/gvfvdf4g0afvgbg"
+            }
+        ]
+    }
+}

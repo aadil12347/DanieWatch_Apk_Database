@@ -1,0 +1,34 @@
+{
+    "post_title": "Shikaaru (2022)",
+    "post_type": "movie",
+    "tmdb_id": 943286,
+    "imdb_id": "tt20846944",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cpjmp1ja5-kymaj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ehzkp23ru2fyxhk"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ve6wshriwfvbyib"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z9cbtdila13zdci"
+            }
+        ]
+    }
+}

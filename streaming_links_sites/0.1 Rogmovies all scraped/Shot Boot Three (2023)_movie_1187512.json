@@ -1,0 +1,34 @@
+{
+    "post_title": "Shot Boot Three (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1187512,
+    "imdb_id": "tt28221886",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f1nbad0ev6rcwor"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hqrtq5eqgepuhdu"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/9kxnjbobe0zsjdx"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c1rlwfrxsro1cnq"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Enemy (2021)",
+    "post_type": "movie",
+    "tmdb_id": 798803,
+    "imdb_id": "tt13131186",
+    "languages": [
+        "Tamil"
+    ],
+    "links": {
+        "480p": [],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5pix1czx_pc51qr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4gbkn8l2g1k490z"
+            }
+        ]
+    }
+}

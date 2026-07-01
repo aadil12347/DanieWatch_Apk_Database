@@ -1,0 +1,29 @@
+{
+    "post_title": "Googly (2013)",
+    "post_type": "movie",
+    "tmdb_id": 267618,
+    "imdb_id": "tt3075360",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xbuwffzutlztjej"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gx0soqsoq0de0kd"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dwopl9yb9zybbwx"
+            }
+        ]
+    }
+}

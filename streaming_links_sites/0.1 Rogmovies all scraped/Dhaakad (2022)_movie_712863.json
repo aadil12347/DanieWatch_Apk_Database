@@ -1,0 +1,39 @@
+{
+    "post_title": "Dhaakad (2022)",
+    "post_type": "movie",
+    "tmdb_id": 712863,
+    "imdb_id": "tt10598156",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nsoypnjjffsxecs"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nluxaussaama3y1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/-rclvq-r61dv11f"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8ejdjeqqe110ur6"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8kdbg1v1qcd5iot"
+            }
+        ]
+    }
+}

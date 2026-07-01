@@ -1,0 +1,41 @@
+{
+    "post_title": "Anek (2022)",
+    "post_type": "movie",
+    "tmdb_id": 888268,
+    "imdb_id": "tt13919802",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/naa-1qkbp9abx_a"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ramsaw11dxebj-l"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mwmfqmxdmiekmjr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yp84w8fys884f7b"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/a5fo53gj_hjs2hu"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/0rffzdc0wlcevc_"
+            }
+        ]
+    }
+}

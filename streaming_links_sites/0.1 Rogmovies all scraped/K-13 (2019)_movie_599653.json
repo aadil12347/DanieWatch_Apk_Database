@@ -1,0 +1,34 @@
+{
+    "post_title": "K-13 (2019)",
+    "post_type": "movie",
+    "tmdb_id": 599653,
+    "imdb_id": "tt10275440",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ssb1lo1qzi6ozix"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c9dktl9xmzdi9kz"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/afxpyatpfahr_tk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/28g8qoe1e3owoib"
+            }
+        ]
+    }
+}

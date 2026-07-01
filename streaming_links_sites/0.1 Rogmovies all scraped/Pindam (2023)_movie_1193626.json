@@ -1,0 +1,34 @@
+{
+    "post_title": "Pindam (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1193626,
+    "imdb_id": "tt29548562",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ovz1nsnvl3p3ntk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ummolmnskvmop6z"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/7jjowh0j7ohacsb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ium_yvnzl7m50w7"
+            }
+        ]
+    }
+}

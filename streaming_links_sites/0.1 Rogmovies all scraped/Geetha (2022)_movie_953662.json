@@ -1,0 +1,29 @@
+{
+    "post_title": "Geetha (2022)",
+    "post_type": "movie",
+    "tmdb_id": 953662,
+    "imdb_id": "tt19636300",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=QjQwTzRIaW5PSHZYWTAwU2lpQ1llRk9TZHBoNU5JbGhKcHBOTENkaDJkMzBGYmZqMzFMQnVjbk11V2VHSEFucA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1tuuouuulhfxx1u"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=R0hrbmJBL0JVRTR5KzZJL2w2aTdCZVp1dFBpTGRRYjUzOVNTYklqRzNMak5tdVp0RS8vc2o3TzI3TmZidlJDYw=="
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Thana Sadar (2021)",
+    "post_type": "movie",
+    "tmdb_id": 898000,
+    "imdb_id": "tt14821184",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s1wfwsqc7jqgqg9"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/izn7w1b0hpff8v7"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fa1dybgrxjfvmwj"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Phantom (2015)",
+    "post_type": "movie",
+    "tmdb_id": 353879,
+    "imdb_id": "tt3469244",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/p1bbjp1j1vedjsh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8dp170-5f15rlp2"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lpapm6livr2s4m5"
+            }
+        ]
+    }
+}

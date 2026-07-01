@@ -1,0 +1,29 @@
+{
+    "post_title": "Super Model (2013)",
+    "post_type": "movie",
+    "tmdb_id": 326903,
+    "imdb_id": "tt2375567",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=Zk4wemZhZitkb1FTSmg5WXkzN3BYK1lScFE4R1RJOG9CNmk0bkttSVNJd0E5Tm9MRXdwYStjMjdXZ0ZOTDlESA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=d252enNvLzdjTVFYcWhOaDRhRTMrajJoakNkdFBJUXRkbW1obEZ5SytzMmloVnJSelAvM3FCc0Q2cWxEQVZtNw=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=dk1UNWtlZVJYeStWN3JXYTFsYTV2S3FEMFNxUC9uSmdnSTRvd2tlL00wNDZqbG9jck9WMzBJNmQ3aUl2UU8rMg=="
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Mastaney (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1161406,
+    "imdb_id": "tt15464390",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/flwgdhw7ttwflte"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hrvchvqqqyjy0vj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/15ikr3sirq1svvi"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9mb2p19dd9lp1ni"
+            }
+        ]
+    }
+}

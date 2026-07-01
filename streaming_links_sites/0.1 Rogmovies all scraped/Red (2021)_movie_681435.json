@@ -1,0 +1,33 @@
+{
+    "post_title": "Red (2021)",
+    "post_type": "movie",
+    "tmdb_id": 681435,
+    "imdb_id": "tt11191344",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gzjczhzkzeefrzp"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hbgaaczrg6ghhch"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/khsjizilwwjhes9"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wkpgrwu8ug1w_2r"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Rockstar (2011)",
+    "post_type": "movie",
+    "tmdb_id": 79464,
+    "imdb_id": "tt1839596",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/l---hgfw-iw2yis"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t2ft_lbh1_ax9et"
+            }
+        ]
+    }
+}

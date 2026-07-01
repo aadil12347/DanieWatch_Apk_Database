@@ -1,0 +1,35 @@
+{
+    "post_title": "Vaashi (2022)",
+    "post_type": "movie",
+    "tmdb_id": 866439,
+    "imdb_id": "tt13913068",
+    "languages": [
+        "Tamil",
+        "Telugu",
+        "Malayalam"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f0hcjmhk1zaidpt"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qtysrtwn1zw6889"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/of-ounjebbpfew5"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/hjnf1ff6-eqp6eq"
+            }
+        ]
+    }
+}

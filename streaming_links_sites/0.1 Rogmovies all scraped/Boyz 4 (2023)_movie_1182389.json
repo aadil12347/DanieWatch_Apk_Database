@@ -1,0 +1,33 @@
+{
+    "post_title": "Boyz 4 (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1182389,
+    "imdb_id": "tt27547570",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z_xuu5nlqucuy7l"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6z1v5l6xqxl5hnq"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/sbvekezfsqvzvzb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ymb2msy4fyyypu1"
+            }
+        ]
+    }
+}

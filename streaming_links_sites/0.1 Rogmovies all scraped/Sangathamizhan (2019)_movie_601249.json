@@ -1,0 +1,43 @@
+{
+    "post_title": "Sangathamizhan (2019)",
+    "post_type": "movie",
+    "tmdb_id": 601249,
+    "imdb_id": "tt10300380",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4fv0-gwfc_euw5v"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q1qnoknnn9msqoe"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/9x_9i1lwupsq0s8"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n8potuz4bamnux1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/jqsxqqnae2v22wc"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ngxjb8nanw-sgvy"
+            }
+        ]
+    }
+}

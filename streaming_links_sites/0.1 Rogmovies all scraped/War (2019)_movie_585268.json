@@ -1,0 +1,39 @@
+{
+    "post_title": "War (2019)",
+    "post_type": "movie",
+    "tmdb_id": 585268,
+    "imdb_id": "tt7430722",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c1lfy-qrtunpigi"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z6dv6ns9nlt8c11"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rkc1cizkxxs5sph"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/2kvg_xf2jo-1j_t"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xpyhwlff5t0j5ja"
+            }
+        ]
+    }
+}

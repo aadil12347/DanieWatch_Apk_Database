@@ -1,0 +1,33 @@
+{
+    "post_title": "Vedaa (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1148486,
+    "imdb_id": "tt28153480",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vpbvck7wpynpv9a"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/keo7ovkzv2ikqee"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/zh9k9tthn--j_oi"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eeyyacgoog-g9uk"
+            }
+        ]
+    }
+}

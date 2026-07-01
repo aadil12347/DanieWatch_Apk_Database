@@ -1,0 +1,29 @@
+{
+    "post_title": "Firangi (2017)",
+    "post_type": "movie",
+    "tmdb_id": 483208,
+    "imdb_id": "tt7549484",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/11jlxopem6fmjus"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1oxd0xxobpdp1sd"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0pdv1cpx1p1xvdc"
+            }
+        ]
+    }
+}

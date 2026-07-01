@@ -1,0 +1,29 @@
+{
+    "post_title": "Skylab (2021)",
+    "post_type": "movie",
+    "tmdb_id": 850166,
+    "imdb_id": "tt15029058",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7mriiau1wwia1mm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xqynddyszq9-xki"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kupppuhvshasqss"
+            }
+        ]
+    }
+}

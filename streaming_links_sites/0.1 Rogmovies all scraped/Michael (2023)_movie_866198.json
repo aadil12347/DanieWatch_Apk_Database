@@ -1,0 +1,44 @@
+{
+    "post_title": "Michael (2023)",
+    "post_type": "movie",
+    "tmdb_id": 866198,
+    "imdb_id": "tt15309808",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/audc3glgghj6jdw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jxvw__na5naaewa"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/i-wkqirsizfqrwu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/knivwvyc0gxppx0"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/orlzetfmrs7rrtm"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o6l15bizpil1f1l"
+            }
+        ]
+    }
+}

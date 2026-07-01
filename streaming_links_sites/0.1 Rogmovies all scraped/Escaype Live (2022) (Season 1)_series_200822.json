@@ -1,0 +1,56 @@
+{
+    "post_title": "Escaype Live (2022)",
+    "post_type": "series",
+    "tmdb_id": 200822,
+    "imdb_id": "tt15128122",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/b5deh5ohd5co5hs"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://vcloud.zip/ehccd1brchb52vb"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://vcloud.zip/3r1d3zdzlbwtcfu"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/fi41yieq1de4zsi"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://vcloud.zip/1s34oe0x3oxs46q"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://vcloud.zip/nhxe0esn1e80whs"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/l4gelsp-8svtc8y"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://vcloud.zip/msfxzqxncinnwft"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://vcloud.zip/yjrzu5em1eju15z"
+                }
+            ]
+        }
+    }
+}

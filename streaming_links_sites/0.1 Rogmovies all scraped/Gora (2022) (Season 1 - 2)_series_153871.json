@@ -1,0 +1,53 @@
+{
+    "post_title": "Gora (2022)",
+    "post_type": "series",
+    "tmdb_id": 153871,
+    "imdb_id": "tt15516200",
+    "languages": [
+        "Bengali",
+        "Hindi"
+    ],
+    "total_seasons": 2,
+    "seasons": {
+        "2": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/cb3ghbuvbchx1cu"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/1qizwru0eiogg8s"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/cpcyey9sckrokip"
+                }
+            ]
+        },
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/1snpvkxse3qs7ac"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/z1tpdhhox5mmfoo"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/zp1bauchzyrup8l"
+                }
+            ]
+        }
+    }
+}

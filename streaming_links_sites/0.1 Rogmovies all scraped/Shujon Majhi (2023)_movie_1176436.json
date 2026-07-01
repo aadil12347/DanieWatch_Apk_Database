@@ -1,0 +1,33 @@
+{
+    "post_title": "Shujon Majhi (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1176436,
+    "imdb_id": "tt29028804",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7bzhqhzuz3hg1kh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xch1guhdm1gbsco"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/o1ppvvvl5xazx_1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/d9kxe4-bb9eidpr"
+            }
+        ]
+    }
+}

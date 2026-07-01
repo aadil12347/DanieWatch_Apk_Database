@@ -1,0 +1,33 @@
+{
+    "post_title": "Maayakumari (2023)",
+    "post_type": "movie",
+    "tmdb_id": 718371,
+    "imdb_id": "tt12820542",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f4ingg8gz3dfusw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x4ni77prx5ipilx"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/_yhbh1wpzhhp9dj"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pks0tuthlqhqpno"
+            }
+        ]
+    }
+}

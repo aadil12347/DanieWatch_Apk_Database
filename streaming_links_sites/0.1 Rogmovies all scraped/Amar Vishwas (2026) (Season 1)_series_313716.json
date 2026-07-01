@@ -1,0 +1,36 @@
+{
+    "post_title": "Amar Vishwas (2026)",
+    "post_type": "series",
+    "tmdb_id": 313716,
+    "imdb_id": "tt39601175",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/knrkt3rw7vkjz1n"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/yddbqyjapajflhq"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://vcloud.zip/ezju7udxwpvannl"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/ppgu_dalsjwhljl"
+                }
+            ]
+        }
+    }
+}

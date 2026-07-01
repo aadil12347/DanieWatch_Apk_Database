@@ -1,0 +1,29 @@
+{
+    "post_title": "Seeds (2026)",
+    "post_type": "movie",
+    "tmdb_id": 1614475,
+    "imdb_id": "tt39387371",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w9urwow9ta_uaql"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bcklkzdc5hfpss1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dphp_h9gh_dftc_"
+            }
+        ]
+    }
+}

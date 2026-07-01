@@ -1,0 +1,33 @@
+{
+    "post_title": "Gold (2018)",
+    "post_type": "movie",
+    "tmdb_id": 478682,
+    "imdb_id": "tt6173990",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fpk5kbtjrkjpb5b"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/88sloukchnzku8u"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z1wz858pfodtd1e"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ui99o1lzhdc9iii"
+            }
+        ]
+    }
+}

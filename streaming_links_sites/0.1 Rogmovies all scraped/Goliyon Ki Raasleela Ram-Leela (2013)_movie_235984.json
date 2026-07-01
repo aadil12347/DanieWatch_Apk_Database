@@ -1,0 +1,33 @@
+{
+    "post_title": "Goliyon Ki Raasleela Ram-Leela (2013)",
+    "post_type": "movie",
+    "tmdb_id": 235984,
+    "imdb_id": "tt2215477",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1hydjlzdm0m0yly"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uhol9rdiuioc8id"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0fr5fzxuo5ezcmm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/c8j5ocz79c958hf"
+            }
+        ]
+    }
+}

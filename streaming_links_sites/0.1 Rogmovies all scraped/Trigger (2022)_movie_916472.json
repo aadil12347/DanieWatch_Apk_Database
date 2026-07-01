@@ -1,0 +1,40 @@
+{
+    "post_title": "Trigger (2022)",
+    "post_type": "movie",
+    "tmdb_id": 916472,
+    "imdb_id": "tt21653890",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hwp51-xtxddhoxo"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mamiux5zhkppkmq"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/nn0p0b0a-7r1f7g"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ec1bm2wb87unqjw"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1ctctwtjltxcxik"
+            }
+        ]
+    }
+}

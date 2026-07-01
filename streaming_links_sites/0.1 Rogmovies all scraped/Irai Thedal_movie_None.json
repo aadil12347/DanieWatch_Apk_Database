@@ -1,0 +1,24 @@
+{
+    "post_title": "Irai Thedal",
+    "post_type": "movie",
+    "tmdb_id": null,
+    "imdb_id": "tt14747990",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=cVd6OWxOdzk5N3JpcWo1UGErcmJ4OEdTaXBabmJyNDZwNFQyZE9OWlZ0OWJFK3ZUVk9YMjhsOHdoc084RHJDNA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=dG5PVXp4c3BaUElrZ09RVHRkZi9wQ1V2UWpiV2ZiWSs0WmJ0VkpMMWxVcHRhb0ZrY3dCZmFVU1ZvRFFscVFPYg=="
+            }
+        ],
+        "1080p": []
+    }
+}

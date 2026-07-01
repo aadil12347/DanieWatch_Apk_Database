@@ -1,0 +1,33 @@
+{
+    "post_title": "Big Brother (2020)",
+    "post_type": "movie",
+    "tmdb_id": 627342,
+    "imdb_id": "tt9101540",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=cTlJQmJ1Y21tNTROVDVEdS9acDhNcndKVXZvVEp0eWVRWm9DczczSmNwT3EwVXZZbVI3WlQzWWd6T1NBODVMeA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=eDNpMkRYMXJMYTFSWm51OXhJQTZUeDYzQTFtalhvVDRuMEpCWVE2VXFlMi9vQmh4cnprY3p1QjZudUVyaEpJSw=="
+            },
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=R1JCay9ScUpVdk5hYmQybGxpR2lFUm1ZNlN1V3A5R1F3cmtoRHFyN0JuVDRweFR5a1RGVzNkc0Nram1iNkk5NA=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=ZDZsS3g4TmJ4RzVWK0llbzUrZXRpMXFueXREYkZSOVN0ZENJWDl0Y243L1ltOElVQ0R5M2t5aFZKT2hEZTFPZg=="
+            }
+        ]
+    }
+}

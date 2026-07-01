@@ -1,0 +1,43 @@
+{
+    "post_title": "Gangubai Kathiawadi (2022)",
+    "post_type": "movie",
+    "tmdb_id": 664332,
+    "imdb_id": "tt10083340",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5uljw9uv6ytc9hv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mj2_7mqnwgpm3tm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/z35s15spjh38cqz"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2v5pb4rvekb54rf"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/-tl5f95l9ilkls8"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pokdk85mock9aqp"
+            }
+        ]
+    }
+}

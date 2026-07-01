@@ -1,0 +1,43 @@
+{
+    "post_title": "Samrat Prithviraj (2022)",
+    "post_type": "movie",
+    "tmdb_id": 611598,
+    "imdb_id": "tt9637132",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/aaqdbfqoqqfzdqk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5uia6tx3m6fu7ik"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/m4ky4bi6ie6iqkv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4d4yyqe9um4mejm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/4690m1u191mamz9"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uwpgtxdmxpwxg-x"
+            }
+        ]
+    }
+}

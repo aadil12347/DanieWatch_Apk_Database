@@ -1,0 +1,32 @@
+{
+    "post_title": "Viram (None)",
+    "post_type": "series",
+    "tmdb_id": 286682,
+    "imdb_id": "tt28283191",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/lmr1ptfccftpmtl"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/3rjbvozib5dyydz"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/wggfrfggrhfuagd"
+                }
+            ]
+        }
+    }
+}

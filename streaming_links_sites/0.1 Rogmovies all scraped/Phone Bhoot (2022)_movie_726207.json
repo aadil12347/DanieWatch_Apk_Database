@@ -1,0 +1,43 @@
+{
+    "post_title": "Phone Bhoot (2022)",
+    "post_type": "movie",
+    "tmdb_id": 726207,
+    "imdb_id": "tt12740760",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uc91hbbr6rbyqbb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8shshh7yseqaktu"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ndg49m9nbng1nm_"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jl3vhmhwo99h2o6"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/lrci7-dfdnvngkk"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=SFJmZStzR25GdE5BcUpSZGxVbjl0c1k2SVlnMjFITVVCak05cG12cEJIWnNONHBXVUZ1Q0lBYy81SGdpMVJKdg=="
+            }
+        ]
+    }
+}

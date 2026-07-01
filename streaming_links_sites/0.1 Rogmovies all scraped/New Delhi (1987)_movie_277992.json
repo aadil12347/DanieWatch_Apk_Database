@@ -1,0 +1,29 @@
+{
+    "post_title": "New Delhi (1987)",
+    "post_type": "movie",
+    "tmdb_id": 277992,
+    "imdb_id": "tt0246809",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qknakuhgcg6ag6e"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lm91hxdmhshcm9c"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/plxstltqsksr9b_"
+            }
+        ]
+    }
+}

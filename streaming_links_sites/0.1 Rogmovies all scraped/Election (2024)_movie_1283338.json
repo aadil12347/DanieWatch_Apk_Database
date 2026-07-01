@@ -1,0 +1,34 @@
+{
+    "post_title": "Election (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1283338,
+    "imdb_id": "tt26904032",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a1ov1hffhz3zyx1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0s8swh58ie81are"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mszs5-_evm_sec1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qakr0uhiac6phk_"
+            }
+        ]
+    }
+}

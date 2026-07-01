@@ -1,0 +1,33 @@
+{
+    "post_title": "Shubh Yatra (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1119250,
+    "imdb_id": "tt19514578",
+    "languages": [
+        "Gujarati"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rc11rolr1qrj2c1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cu1_fcty-1bgw52"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wn01ljwjslqrjxk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i5jg65229ji14ij"
+            }
+        ]
+    }
+}

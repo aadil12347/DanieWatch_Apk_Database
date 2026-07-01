@@ -1,0 +1,29 @@
+{
+    "post_title": "Pyaar Ka Punchnama (2011)",
+    "post_type": "movie",
+    "tmdb_id": 65521,
+    "imdb_id": "tt1926313",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/urn6hhu44d1ixtx"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ue2e1eh8d2u8ece"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wvycw3c7kttywle"
+            }
+        ]
+    }
+}

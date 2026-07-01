@@ -1,0 +1,29 @@
+{
+    "post_title": "Chudail Story (2016)",
+    "post_type": "movie",
+    "tmdb_id": 407825,
+    "imdb_id": "tt5914630",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=NjZaNnUxWHRmZkloWkdvWWEvdXJ5bVB0WUFKeGt2YXJSU0ZUZUM5WHowMTFiVEhnUDVUY3AxR3UrVWE0UnIxUA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=aW9YcVlRRWRueEVCSFUvZTFVMXNiTnhVM3czTFNEYXhrdU1uaXRSZkw5WThGYnY5bGkwSTZlZVJlUk5peTFoRQ=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=bGN3SFJsT2g2Z1lwSE1DbGhHRHFiaW53T1pBdXpZVXpoeDZDMDB0ZEFQeDZseEI2NHdmb0V4dm9NZGprSU1Leg=="
+            }
+        ]
+    }
+}

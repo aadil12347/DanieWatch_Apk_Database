@@ -1,0 +1,39 @@
+{
+    "post_title": "Thangalaan (2024)",
+    "post_type": "movie",
+    "tmdb_id": 910784,
+    "imdb_id": "tt23018924",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sy1cjbikcnqjfz1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1rv_fqrhjr10ffm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vkhveu0ou90dexk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0zm3qsgps2yy3gh"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nggun9mnl_ph1rh"
+            }
+        ]
+    }
+}

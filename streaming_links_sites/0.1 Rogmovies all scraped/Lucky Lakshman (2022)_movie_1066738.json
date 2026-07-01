@@ -1,0 +1,34 @@
+{
+    "post_title": "Lucky Lakshman (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1066738,
+    "imdb_id": "tt23897324",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_cjgzs0wxbcttgu"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dlc2rgsbiyo0yr2"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/jf2y22kykfz2lyv target="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/thfvsaf1sfmf3rz"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "One Friday Night (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1156337,
+    "imdb_id": "tt17425020",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5jygri3cgrgxxyy"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0ota0ra14ov7ica"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7s3lkoa1lagesgh"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/8_kqn3h4ft1cfqk"
+            }
+        ]
+    }
+}

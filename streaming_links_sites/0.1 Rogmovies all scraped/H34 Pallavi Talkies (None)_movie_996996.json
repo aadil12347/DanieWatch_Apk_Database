@@ -1,0 +1,33 @@
+{
+    "post_title": "H/34 Pallavi Talkies (None)",
+    "post_type": "movie",
+    "tmdb_id": 996996,
+    "imdb_id": "tt14780098",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ffmds18s_tbmsjw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cqf_q2klot0bkiv"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/e029qxqdoddq9y3"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vpe8iislxb8eqfq"
+            }
+        ]
+    }
+}

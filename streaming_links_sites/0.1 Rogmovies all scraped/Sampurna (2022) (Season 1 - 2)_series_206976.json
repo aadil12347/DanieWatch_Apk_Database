@@ -1,0 +1,47 @@
+{
+    "post_title": "Sampurna (2022)",
+    "post_type": "series",
+    "tmdb_id": 206976,
+    "imdb_id": "tt29120209",
+    "languages": [
+        "Bengali",
+        "Hindi"
+    ],
+    "total_seasons": 2,
+    "seasons": {
+        "2": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/5uzq9z12qebv4u1"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/2oerov3cxvaoaof"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/eleh4sfm1eptvlp"
+                }
+            ]
+        },
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/gqyh7f-ueddh-gv"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/t1j24bj7tbj4dfa"
+                }
+            ]
+        }
+    }
+}

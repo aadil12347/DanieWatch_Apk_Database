@@ -1,0 +1,34 @@
+{
+    "post_title": "Oxygen (2017)",
+    "post_type": "movie",
+    "tmdb_id": 482477,
+    "imdb_id": "tt6735678",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7ya3lgg1f1c19f7"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qa1zhqnvocvz_o0"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/arfiampgpatzshf"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4kowauzv7jvx1my"
+            }
+        ]
+    }
+}

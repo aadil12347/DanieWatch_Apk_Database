@@ -1,0 +1,34 @@
+{
+    "post_title": "Mahanati (2018)",
+    "post_type": "movie",
+    "tmdb_id": 459713,
+    "imdb_id": "tt7465992",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ddvbddecjreoamb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6ui2okrybn_n16x"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/lii-dtdo2-ei6lt"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/daufv1gr68d1g48"
+            }
+        ]
+    }
+}

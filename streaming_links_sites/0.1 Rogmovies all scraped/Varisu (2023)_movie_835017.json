@@ -1,0 +1,36 @@
+{
+    "post_title": "Varisu (2023)",
+    "post_type": "movie",
+    "tmdb_id": 835017,
+    "imdb_id": "tt11998558",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k1qmvkyjvvxvc_1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/669md56ts66jjww"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k6xctkra0__ecks"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kmd9fk7qjdf6gky"
+            }
+        ]
+    }
+}

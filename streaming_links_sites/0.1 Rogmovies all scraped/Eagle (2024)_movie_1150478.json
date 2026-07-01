@@ -1,0 +1,34 @@
+{
+    "post_title": "Eagle (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1150478,
+    "imdb_id": "tt28074691",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hn7pjhr7se7fmij"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/smg1zp21c22cbx1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/cc1t6dnv5p5pnuk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gzrozx7zz8evtdz"
+            }
+        ]
+    }
+}

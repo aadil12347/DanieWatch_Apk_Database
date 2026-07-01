@@ -1,0 +1,29 @@
+{
+    "post_title": "Moh (2022)",
+    "post_type": "movie",
+    "tmdb_id": 814296,
+    "imdb_id": "tt21842982",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o2pzckk7ppi6rgi"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/umm1tr01j1prjt7"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xia1kkg9s9ssoel"
+            }
+        ]
+    }
+}

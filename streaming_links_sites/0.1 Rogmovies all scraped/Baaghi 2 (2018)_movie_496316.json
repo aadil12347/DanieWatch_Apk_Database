@@ -1,0 +1,33 @@
+{
+    "post_title": "Baaghi 2 (2018)",
+    "post_type": "movie",
+    "tmdb_id": 496316,
+    "imdb_id": "tt6843812",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q6yi75qpy6fip66"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0330y13830k93kb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rggicxrnexrjexe"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/azc5uxnh44u4ftg"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Garadi (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1245091,
+    "imdb_id": "tt15964306",
+    "languages": [
+        "Hindi",
+        "Kannada"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eai1pu9at_3tpu1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ypl8e5cfe14lfkz"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hj910sp7txv9n8s"
+            }
+        ]
+    }
+}

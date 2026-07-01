@@ -1,0 +1,29 @@
+{
+    "post_title": "UI (2024)",
+    "post_type": "movie",
+    "tmdb_id": 984500,
+    "imdb_id": "tt23875550",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-2-6-qj1v-m2kkm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4dyxnt04bsyid1h"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lcc6ul1lilrll1v"
+            }
+        ]
+    }
+}

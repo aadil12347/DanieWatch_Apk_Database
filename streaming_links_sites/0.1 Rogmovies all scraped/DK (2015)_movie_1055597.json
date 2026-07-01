@@ -1,0 +1,24 @@
+{
+    "post_title": "DK (2015)",
+    "post_type": "movie",
+    "tmdb_id": 1055597,
+    "imdb_id": "tt5358998",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=WE1Vc1NCTU5UQ3E1ODdVOXkxUit0Wm96SU9wMXgyZ2ttdzhKWFFEayt2Y1J6V3dySUJHWmJTdEFjd3JMWU0waw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=UmtwamtEampkeTVtamVPUlV5aWZuMm9DMEZHTVo3d0dadmhiemVmRlJKekZTQ1BDSFFEd25aM3VzSkgrM1FEMA=="
+            }
+        ],
+        "1080p": []
+    }
+}

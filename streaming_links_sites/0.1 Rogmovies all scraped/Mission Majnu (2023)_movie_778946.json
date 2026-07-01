@@ -1,0 +1,37 @@
+{
+    "post_title": "Mission Majnu (2023)",
+    "post_type": "movie",
+    "tmdb_id": 778946,
+    "imdb_id": "tt13131232",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/24rsuypr42yxrzl"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kcxhb3bffkdggpd"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/hbmas7ie4wp7blw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q4lah-qfsfff1f8"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/8icocidv0ui05uh"
+            }
+        ]
+    }
+}

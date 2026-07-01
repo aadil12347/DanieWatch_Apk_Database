@@ -1,0 +1,34 @@
+{
+    "post_title": "Suryakantham (2019)",
+    "post_type": "movie",
+    "tmdb_id": 586753,
+    "imdb_id": "tt9468644",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xk-lfisx1kkkemk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b2bbbv6u3ax61ek"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vava_1hzrtthaat"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2n2yhv64m8ms3ym"
+            }
+        ]
+    }
+}

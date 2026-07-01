@@ -1,0 +1,34 @@
+{
+    "post_title": "Dada (2023)",
+    "post_type": "movie",
+    "tmdb_id": 965979,
+    "imdb_id": "tt25405130",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8rm8jbwm8cil2p1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oknkhknhldwnh0s"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/yhizz2ae2kz3_rx"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rxb8uxhu8gsv9zl"
+            }
+        ]
+    }
+}

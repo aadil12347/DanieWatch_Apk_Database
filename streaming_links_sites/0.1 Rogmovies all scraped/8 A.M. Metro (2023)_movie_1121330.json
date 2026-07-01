@@ -1,0 +1,39 @@
+{
+    "post_title": "8 A.M. Metro (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1121330,
+    "imdb_id": "tt27511275",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h11ds-1ndd4fncc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0zxdkiq7xtvllh0"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i1ywznbx83w63uw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ehdmivep3neeywp"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cn3lrhcotcncu3e"
+            }
+        ]
+    }
+}

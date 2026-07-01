@@ -1,0 +1,33 @@
+{
+    "post_title": "Greeku Veerudu (2013)",
+    "post_type": "movie",
+    "tmdb_id": 181930,
+    "imdb_id": "tt2653804",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g3kgv1yfsrmbemq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gyymffaflucy719"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xgiitgbstxbsenw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pgfrbgx14b24pgf"
+            }
+        ]
+    }
+}

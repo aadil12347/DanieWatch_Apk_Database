@@ -1,0 +1,29 @@
+{
+    "post_title": "Phillauri (2017)",
+    "post_type": "movie",
+    "tmdb_id": 413421,
+    "imdb_id": "tt5502766",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_4sw9d92zoj-9_w"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1dvvcg2-qdvjv12"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xg235g5s_n98xge"
+            }
+        ]
+    }
+}

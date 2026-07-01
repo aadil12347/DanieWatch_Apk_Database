@@ -1,0 +1,33 @@
+{
+    "post_title": "Brother's Day (2019)",
+    "post_type": "movie",
+    "tmdb_id": 607158,
+    "imdb_id": "tt9135800",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iul1dzozzozccdv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4mvuyvmuvuc0syv"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/nvlw505mxmqwwtv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vrdvrfrqkqr1urr"
+            }
+        ]
+    }
+}

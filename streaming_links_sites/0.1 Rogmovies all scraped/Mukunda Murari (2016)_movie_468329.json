@@ -1,0 +1,34 @@
+{
+    "post_title": "Mukunda Murari (2016)",
+    "post_type": "movie",
+    "tmdb_id": 468329,
+    "imdb_id": "tt5465216",
+    "languages": [
+        "Hindi",
+        "Kannada"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kd10ofhn1o128ik"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1bxkrlerlvbiiba"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/c-hqjhqjfqwzlzd"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gpbhsd99u9h8v9h"
+            }
+        ]
+    }
+}

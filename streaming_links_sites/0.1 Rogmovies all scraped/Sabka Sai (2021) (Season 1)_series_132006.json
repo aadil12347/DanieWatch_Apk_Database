@@ -1,0 +1,34 @@
+{
+    "post_title": "Sabka Sai (2021)",
+    "post_type": "series",
+    "tmdb_id": 132006,
+    "imdb_id": "tt15251018",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/api/index.php?link=N0NNdHNZUUMvK2tmUVNlRnBUdGc3QUszY1Q5K0V1K3dEbnRadG9sZG5mcWM2QW8zZllndS9LeVJLNThZVEN2eg=="
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://vcloud.zip/api/index.php?link=bWRTRU1GRmZVamVobXN4MU5VelE0cUZJcm9hSnZsSVFySytvRmxxVW5FRlZBcllBK2lwYkJvMFluRVZYU0xLcQ=="
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/api/index.php?link=U3JDWUI0bnBtUjBlOVVhNWpRUUZwSkRlb2ZyT3NwZ2pmeVhDVEh6N1BUTlFUZ2VHTXUwQ2pVUGdxRlk0N0Zabw=="
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://vcloud.zip/api/index.php?link=Nyt1SzlNaVpob2tVZGtwU0RUWmd1QU9zL0tpbTRkYTR0WWpDTnJvZGtRTnVQUk5kQ3NlL01HdWZ1OFEya3p2Yg=="
+                }
+            ]
+        }
+    }
+}

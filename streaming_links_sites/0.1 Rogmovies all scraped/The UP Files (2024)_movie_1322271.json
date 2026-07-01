@@ -1,0 +1,29 @@
+{
+    "post_title": "The UP Files (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1322271,
+    "imdb_id": "tt31704663",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c1hobxchi1ecitm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s4lvveslca2v4e6"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o3c9a339ldyc33e"
+            }
+        ]
+    }
+}

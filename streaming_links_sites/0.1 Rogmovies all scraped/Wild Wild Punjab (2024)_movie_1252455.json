@@ -1,0 +1,37 @@
+{
+    "post_title": "Wild Wild Punjab (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1252455,
+    "imdb_id": "tt31514262",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/11gmkutkccg1gvc"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vbu4tytxqdupbgd"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1-gegl9n1zvt7j9"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nigvkgrnjoaccfm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/lfqn42mh6hf2xfq"
+            }
+        ]
+    }
+}

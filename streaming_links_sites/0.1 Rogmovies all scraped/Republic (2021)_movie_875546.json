@@ -1,0 +1,33 @@
+{
+    "post_title": "Republic (2021)",
+    "post_type": "movie",
+    "tmdb_id": 875546,
+    "imdb_id": "tt13914000",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8m7lwytot99t8ic"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0jxzyyq6-1l0uz1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/rmo11qzmhhymogd"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oeqvetqdtgboe2s"
+            }
+        ]
+    }
+}

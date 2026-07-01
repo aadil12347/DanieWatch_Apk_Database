@@ -1,0 +1,33 @@
+{
+    "post_title": "Ittu Si Baat (2022)",
+    "post_type": "movie",
+    "tmdb_id": 983040,
+    "imdb_id": "tt20421014",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/srr-0srdqq0ni0e"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jatkv8trbo8vjnn"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/s4i1g81lmifs2si"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bld9md9hf1isdlm"
+            }
+        ]
+    }
+}

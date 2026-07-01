@@ -1,0 +1,30 @@
+{
+    "post_title": "Aneethi (2023)",
+    "post_type": "movie",
+    "tmdb_id": 875556,
+    "imdb_id": "tt15327052",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/69jgmb4q7qdsgzn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xqjblew5e0g3c54"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-fqg116bme2-vm8"
+            }
+        ]
+    }
+}

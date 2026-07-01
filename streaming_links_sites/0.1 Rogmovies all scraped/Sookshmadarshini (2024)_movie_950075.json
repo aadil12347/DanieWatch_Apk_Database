@@ -1,0 +1,34 @@
+{
+    "post_title": "Sookshmadarshini (2024)",
+    "post_type": "movie",
+    "tmdb_id": 950075,
+    "imdb_id": "tt32495687",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9q9qzi1gb03wbw9"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c5u751fjeczbnec"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qe9220qc7r1w28o"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/nd0cixxf5nfo1k8"
+            }
+        ]
+    }
+}

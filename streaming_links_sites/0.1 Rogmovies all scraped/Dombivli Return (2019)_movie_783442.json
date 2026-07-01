@@ -1,0 +1,30 @@
+{
+    "post_title": "Dombivli Return (2019)",
+    "post_type": "movie",
+    "tmdb_id": 783442,
+    "imdb_id": "tt3798718",
+    "languages": [
+        "Hindi",
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/68du4udp1d057qe"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pu8rlmmaomwreff"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7nbfmsiucxfid7u"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "post_title": "Tahalka (1992)",
+    "post_type": "movie",
+    "tmdb_id": 345988,
+    "imdb_id": "tt0423313",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sus_1s4mduu__om"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ziou11mxqrxbbol"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/onnxczsjrcbi_sc"
+            }
+        ],
+        "1080p": []
+    }
+}

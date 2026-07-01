@@ -1,0 +1,32 @@
+{
+    "post_title": "The Bonnie Hunt Show (2008)",
+    "post_type": "series",
+    "tmdb_id": 14321,
+    "imdb_id": "tt14603402",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=WEFKbGxtN0s1TG5YbkZ1VzQxbWQ4Rm1DUmE2L1MvNUdzTHlPbGJXZ1UxeWp4N0k0clk1di81R1RyckFZSUxJQg=="
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=a2prejN5akNSaFo3TVczNEJ5cVlJWWJZa0ZjUGNVNExDVmczWUVhR2tGR0hlWDl6L1RTTDF6SE1RQTFqWXNnMQ=="
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=SXREZkVRQ0x6TkVsUTJ5am5md3o3WmVIWmlFOWc0eExqOG93ZmptKzd1Q0NzWnVSYWxCSmV1TDFlazlZOWxLTg=="
+                }
+            ]
+        }
+    }
+}

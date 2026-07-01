@@ -1,0 +1,29 @@
+{
+    "post_title": "Ninnila Ninnila (2021)",
+    "post_type": "movie",
+    "tmdb_id": 755166,
+    "imdb_id": "tt11718526",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=dTdXanFBanFkZHZtRWFja1FNRmxVSTBwUGdnK2p6Tkp3WjlLUFBhTGRTTkhPU0IyeFNkMXJ1V2xNZ29BdGh0aA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=MmsveDVQYndubnNtbEdsVVAybytrNXlIQlpMOGF6Y3BTdjFMRGN4N21HMEhXODcyVUlOc3E0WDZTRUUwNS9uaw=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=aHZFQ1ZreUxoMFFweU9OWkZ1NTdjMEpSeVhlekljV3RnWXY5clFoNjVicDFVWEJqdnJhYzJieTFnRUJzTGZlYQ=="
+            }
+        ]
+    }
+}

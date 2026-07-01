@@ -1,0 +1,38 @@
+{
+    "post_title": "Kondal (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1179283,
+    "imdb_id": "tt29929060",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w-9zzut8zd5ork7"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fvgbh4evpkzfejz"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1b6abs1avybpv6t"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zkqnc_lzbtbczhx"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/h18rqyxegegl8ve"
+            }
+        ]
+    }
+}

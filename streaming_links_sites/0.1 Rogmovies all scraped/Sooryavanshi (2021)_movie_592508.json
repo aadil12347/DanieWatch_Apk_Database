@@ -1,0 +1,47 @@
+{
+    "post_title": "Sooryavanshi (2021)",
+    "post_type": "movie",
+    "tmdb_id": 592508,
+    "imdb_id": "tt9531772",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lev7k7mzdwzjmdj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-ioxiusis5-xusr"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ewv0r2fx6rr__az"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lisquzqmfi76isl"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/lbjn7tj7ho_st_n"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/yfjdbjv2dutjuu0?1047667"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5g51kft5omgid17"
+            }
+        ]
+    }
+}

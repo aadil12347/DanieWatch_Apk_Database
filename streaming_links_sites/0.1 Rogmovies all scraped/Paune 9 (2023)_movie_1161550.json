@@ -1,0 +1,33 @@
+{
+    "post_title": "Paune 9 (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1161550,
+    "imdb_id": "tt15263842",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ix_prgj4y_26bk2"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w1_jin871a8w1jj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ikt5hr3auy3r53y"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o_xu0occhlyocri"
+            }
+        ]
+    }
+}

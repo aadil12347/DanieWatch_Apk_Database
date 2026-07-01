@@ -1,0 +1,28 @@
+{
+    "post_title": "Hungama (2003)",
+    "post_type": "movie",
+    "tmdb_id": 21184,
+    "imdb_id": "tt0371735",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c-yt1l9p1eotddl"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1jqzlr6ofqqzr67"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ppisusu4rczv1tc"
+            }
+        ]
+    }
+}

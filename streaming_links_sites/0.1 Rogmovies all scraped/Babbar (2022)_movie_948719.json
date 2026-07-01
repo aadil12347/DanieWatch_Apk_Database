@@ -1,0 +1,43 @@
+{
+    "post_title": "Babbar (2022)",
+    "post_type": "movie",
+    "tmdb_id": 948719,
+    "imdb_id": "tt15248456",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j4fkni4ujxy5ujj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6q7r_t05tttptq_"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/c1ypxpkbpyk-h5d"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/bk6b1foj66ssiso"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o9yog9pmfevjdg-"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e-3lqlhl1ax37gh"
+            }
+        ]
+    }
+}

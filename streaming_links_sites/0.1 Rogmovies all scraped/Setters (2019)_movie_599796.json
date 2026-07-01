@@ -1,0 +1,29 @@
+{
+    "post_title": "Setters (2019)",
+    "post_type": "movie",
+    "tmdb_id": 599796,
+    "imdb_id": "tt9239772",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vxucuv7p7t2tnpo"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1mrrgrbrprlrm1b"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2a2oexkxwi1s7gt"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "post_title": "Bhai (2013)",
+    "post_type": "movie",
+    "tmdb_id": 241123,
+    "imdb_id": "tt2644178",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=TzNPZkYzeUtvckxmam5QTEhVcStrSmU1VVc1c2ZCUUxHVFRldlpFZDRUWnpKMUp2cXhybnJPT2l6cEs2ZktSeQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=SzlOSGl6Yy92RkY2cE9CVmNZbXB4bmgwb2JWVk8xQ1VCQWVWSzFCT3FDLzR3L3VaVEhqREJ4OEtJVC9NYTR4ZQ=="
+            }
+        ],
+        "1080p": []
+    }
+}

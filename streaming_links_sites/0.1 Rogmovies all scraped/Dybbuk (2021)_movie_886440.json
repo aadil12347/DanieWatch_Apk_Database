@@ -1,0 +1,39 @@
+{
+    "post_title": "Dybbuk (2021)",
+    "post_type": "movie",
+    "tmdb_id": 886440,
+    "imdb_id": "tt15715122",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fdpmzfyul57cjfj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/thiq9ebkqnt1iiu"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/dd05mulryey-rcq"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bpil0mnoiumt9it"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1wot2xiqasqqqww"
+            }
+        ]
+    }
+}

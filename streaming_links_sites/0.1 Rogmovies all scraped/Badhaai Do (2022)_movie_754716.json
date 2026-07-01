@@ -1,0 +1,37 @@
+{
+    "post_title": "Badhaai Do (2022)",
+    "post_type": "movie",
+    "tmdb_id": 754716,
+    "imdb_id": "tt11934846",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/62qshhwi6t_vu2a"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hzpivrarrii11fv"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/b1f1pjrv8rax1b9"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wxxm-dudtswtigw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/g815wgugwwbclyu"
+            }
+        ]
+    }
+}

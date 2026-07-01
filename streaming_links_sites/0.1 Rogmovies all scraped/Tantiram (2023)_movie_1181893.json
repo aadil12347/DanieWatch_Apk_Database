@@ -1,0 +1,33 @@
+{
+    "post_title": "Tantiram (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1181893,
+    "imdb_id": "tt28870064",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wv-mhtrpnj4hrhb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/75a9x2ec2fc7_hw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/-ltcrj2-dtl7ffl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k5zzuk7reo5e_va"
+            }
+        ]
+    }
+}

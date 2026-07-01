@@ -1,0 +1,33 @@
+{
+    "post_title": "Laal Shari (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1032023,
+    "imdb_id": "tt27714653",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q4dezrrjjryj_l-"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gaz1byz1z1vjvaj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1esxqqdogibadqb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ve66fgimqeqqukb"
+            }
+        ]
+    }
+}

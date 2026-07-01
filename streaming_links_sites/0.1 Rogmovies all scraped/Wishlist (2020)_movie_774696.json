@@ -1,0 +1,29 @@
+{
+    "post_title": "Wishlist (2020)",
+    "post_type": "movie",
+    "tmdb_id": 774696,
+    "imdb_id": "tt12997998",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/d7dq1s_zmzqf17v"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9cgf21q2zz1ufb_"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/umjoqqjjqe1mjql"
+            }
+        ]
+    }
+}

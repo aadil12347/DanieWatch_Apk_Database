@@ -1,0 +1,29 @@
+{
+    "post_title": "Bicchugatthi: Chapter 1 (2020)",
+    "post_type": "movie",
+    "tmdb_id": 1040262,
+    "imdb_id": "tt11681170",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=dU5pMlNnNUZha1J6elczRHM3RGFYRFJEREZDTEEwcms2SDZhUDhMckQwNERKZkpDSFNjMVpNQWNuek9QLzdDNA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=UWIvUit4U0FLUjlnU09keHg5SnlCa3h5T3RmRzczMU04dVVrS3J2TUM1RmNEV2F3TVJJc2I3UWU2bDJxelhpRw=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=OCtEN21sQlN6WUlsdmtXdkY2T0VHSlpROENwMXBqZC9aak0xN2VFZ3NJck5Fd0JVdlcyT2lIaFRzOUhhZXdiUQ=="
+            }
+        ]
+    }
+}

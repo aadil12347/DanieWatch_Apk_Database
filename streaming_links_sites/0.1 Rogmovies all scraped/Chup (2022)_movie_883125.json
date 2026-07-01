@@ -1,0 +1,39 @@
+{
+    "post_title": "Chup (2022)",
+    "post_type": "movie",
+    "tmdb_id": 883125,
+    "imdb_id": "tt15654262",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v2bbyonrc8bocsi"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6zc9pqm_1t-x1hc"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/tchubbmy1ocl1nu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i3izoiwzz3zozoi"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b767dvh1volv-fa"
+            }
+        ]
+    }
+}

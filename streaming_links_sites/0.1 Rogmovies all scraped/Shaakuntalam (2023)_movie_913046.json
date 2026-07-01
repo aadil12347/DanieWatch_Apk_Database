@@ -1,0 +1,39 @@
+{
+    "post_title": "Shaakuntalam (2023)",
+    "post_type": "movie",
+    "tmdb_id": 913046,
+    "imdb_id": "tt13761284",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fl0lp2-1ykw8se8"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tsiwawdhrrckyrc"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/l9kzav1veqw1kia"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7tb2oxxihsdssv2"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gbq1jh7_b17llj6"
+            }
+        ]
+    }
+}

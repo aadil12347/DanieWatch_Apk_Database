@@ -1,0 +1,33 @@
+{
+    "post_title": "Nene Naa - Meenakshi",
+    "post_type": "movie",
+    "tmdb_id": null,
+    "imdb_id": "tt28692097",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wriz-j91rkw6vfs"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qqpdcqutttbqtob"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/i481iwzvfssnzf_"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jwmeroe6-t4ryif"
+            }
+        ]
+    }
+}

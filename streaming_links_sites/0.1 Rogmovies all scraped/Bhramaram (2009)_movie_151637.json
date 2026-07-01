@@ -1,0 +1,33 @@
+{
+    "post_title": "Bhramaram (2009)",
+    "post_type": "movie",
+    "tmdb_id": 151637,
+    "imdb_id": "tt1459027",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/d8fdi07ywqccxnr"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jso0fxtr0fgrfdf"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xoii55dwvrurywv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gav926ug6oy5ffj"
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "post_title": "Hamara Bar Happy Hour (2021)",
+    "post_type": "series",
+    "tmdb_id": 125016,
+    "imdb_id": "tt14545242",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "720p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=eWF4Q2dEY1Z3V2IvcVNnZTZTV3kycjRDV1E5VmdpeFlTVFlGVjB2aTZ4dmVOeldGMHJoR2V3TFZ5Nm9jNWJMdQ=="
+                }
+            ],
+            "480p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=Yk1kQVpyK29qanZUQUhObkNWR2J6VUtkVTI3WndCemtHU0plSDZsbUFRcENXQ3U3VHRPQ0M2NlVxalBqTDh4dw=="
+                }
+            ]
+        }
+    }
+}

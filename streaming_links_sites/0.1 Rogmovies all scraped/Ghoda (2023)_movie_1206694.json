@@ -1,0 +1,33 @@
+{
+    "post_title": "Ghoda (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1206694,
+    "imdb_id": "tt26654887",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7mazauijioj3lzo"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sgwi42brkkwlpkl"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/po93lzsoxdbzrgp"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/errw0ywbncj_qe7"
+            }
+        ]
+    }
+}

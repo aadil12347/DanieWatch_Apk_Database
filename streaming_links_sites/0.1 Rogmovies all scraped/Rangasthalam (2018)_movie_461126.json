@@ -1,0 +1,34 @@
+{
+    "post_title": "Rangasthalam (2018)",
+    "post_type": "movie",
+    "tmdb_id": 461126,
+    "imdb_id": "tt7392212",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/44h7mvek977h1rh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xupxu91buc7xk1x"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/35ll_ml32e4-5lt"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/igg8g4zzryc-ggr"
+            }
+        ]
+    }
+}

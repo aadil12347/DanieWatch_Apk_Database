@@ -1,0 +1,33 @@
+{
+    "post_title": "Bhramam (2021)",
+    "post_type": "movie",
+    "tmdb_id": 803391,
+    "imdb_id": "tt13990280",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=L1QrczIva3owZVM0OGtwM29PbDJkZGtqb0Zpd3hxUXIzdXBOZ3FoNVdvcnhBT1kra2lva24wU1c4cnYzd091UA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=TWdjcTVqOGJpbHhMMUoyd2lmdW51Z2hSeUpTZFJINnluU2xDdE5vVXVEMHdqVStNOUxBaVoyZTJBRTBodXFpZg=="
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/api/index.php?link=TGJ4T0ZFNW9BZTEvRS9nOXpXYVBrODFjSkhBck5RZ2VaakJlWUlJWTdlRkVzb05QeHlPZlovL3FEcEJ4MG85bg=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=anR4a3ZQeWQ5SEdBMTVSQXY4N3hBNUNEemdxSkNRbVZjc3N3YzRPdlZpbkpGYzRhSkU0cVd3aHZkd09wTENxTA=="
+            }
+        ]
+    }
+}

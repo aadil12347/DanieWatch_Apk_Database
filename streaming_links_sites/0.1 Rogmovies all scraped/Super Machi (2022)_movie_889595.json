@@ -1,0 +1,34 @@
+{
+    "post_title": "Super Machi (2022)",
+    "post_type": "movie",
+    "tmdb_id": 889595,
+    "imdb_id": "tt11603828",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wfb71fphp7lnnww"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4e-1jqqwq1kf1e1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vzxgxzioixxgi-i"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jtxesaageaqkzk6"
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "post_title": "Valimai (2022)",
+    "post_type": "movie",
+    "tmdb_id": 640484,
+    "imdb_id": "tt10806040",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lmr1wcwuewmgm1x"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a1g1a4ewble46tz"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/p1mpfmupfhvmfap"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/821w8588z_8_z1z"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/m6kh7m7s_khsa-n"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/19m6wslb6qc6sqs"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/t7hnqqpv3unb9uq"
+            }
+        ]
+    }
+}

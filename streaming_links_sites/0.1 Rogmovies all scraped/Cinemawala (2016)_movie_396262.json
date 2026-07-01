@@ -1,0 +1,34 @@
+{
+    "post_title": "Cinemawala (2016)",
+    "post_type": "movie",
+    "tmdb_id": 396262,
+    "imdb_id": "tt5716302",
+    "languages": [
+        "Hindi",
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ie221rrkifvcek2"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1jbelzbqgliis7t"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/-bgfsetcueg5fvu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hp9f1ez33cp3ctg"
+            }
+        ]
+    }
+}

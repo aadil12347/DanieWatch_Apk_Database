@@ -1,0 +1,34 @@
+{
+    "post_title": "Night Drive (2022)",
+    "post_type": "movie",
+    "tmdb_id": 876828,
+    "imdb_id": "tt15477096",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ymslj1m7m1lfdlr"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/12ira4o4ndnzwln"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/a_dtbide-pb_e_e"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rpmrzrrlfzpzv7l"
+            }
+        ]
+    }
+}

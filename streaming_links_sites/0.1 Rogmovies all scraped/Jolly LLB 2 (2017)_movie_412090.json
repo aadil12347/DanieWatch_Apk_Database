@@ -1,0 +1,33 @@
+{
+    "post_title": "Jolly LLB 2 (2017)",
+    "post_type": "movie",
+    "tmdb_id": 412090,
+    "imdb_id": "tt5982852",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c9bqckpsmvs101b"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/44f5n1fy5_vx0nj"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nykmlu1v7uj7jkw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/b5kk3jnpbwowj5e"
+            }
+        ]
+    }
+}

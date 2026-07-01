@@ -1,0 +1,33 @@
+{
+    "post_title": "Hurdang (2022)",
+    "post_type": "movie",
+    "tmdb_id": 809309,
+    "imdb_id": "tt10919304",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iasqh7ihhhzszza"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ywjf19npphfziu4"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xdlt7dnmdg0y7tx"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nmx1mll1v-ltndm"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Darling (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1315143,
+    "imdb_id": "tt32199626",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8uhx66yhlx2mc6l"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hb6atghd7hkhjdc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2zr5ztw0m0rhtmb"
+            }
+        ]
+    }
+}

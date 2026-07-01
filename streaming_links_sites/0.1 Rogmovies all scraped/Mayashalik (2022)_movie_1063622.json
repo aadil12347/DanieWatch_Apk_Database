@@ -1,0 +1,33 @@
+{
+    "post_title": "Mayashalik (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1063622,
+    "imdb_id": "tt24800854",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/r6533orxkm3mjv6"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oltpxwtn10osbpt"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/o-txozticyza-nd"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zkhbqfufjqqzqvq"
+            }
+        ]
+    }
+}

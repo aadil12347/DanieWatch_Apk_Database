@@ -1,0 +1,33 @@
+{
+    "post_title": "Nanna Prakara (2019)",
+    "post_type": "movie",
+    "tmdb_id": 627261,
+    "imdb_id": "tt9266568",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vl8osqx4f8jw8pp"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/it__hgz06266fzr"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/un8q0sncolj0lqe"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2nsb_ecbdyd1kwy"
+            }
+        ]
+    }
+}

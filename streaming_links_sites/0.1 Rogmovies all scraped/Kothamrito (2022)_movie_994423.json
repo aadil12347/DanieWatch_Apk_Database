@@ -1,0 +1,33 @@
+{
+    "post_title": "Kothamrito (2022)",
+    "post_type": "movie",
+    "tmdb_id": 994423,
+    "imdb_id": "tt22543442",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jhlra_yryzy1ww_"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bo8w8bk8b-bso1k"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/dutujd1k8djdyql"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/urpvjyjrxwju1rr"
+            }
+        ]
+    }
+}

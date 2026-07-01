@@ -1,0 +1,37 @@
+{
+    "post_title": "D Block (2022)",
+    "post_type": "movie",
+    "tmdb_id": 864909,
+    "imdb_id": "tt15097344",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ikrrw2a4i9f5wda"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cjpy9hyhyppy04z"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/0gdgcrqc0w0ckug"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zt9w1hhadt0eljh"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/7o2y7xnlhhxrcxt"
+            }
+        ]
+    }
+}

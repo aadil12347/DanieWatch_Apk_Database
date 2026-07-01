@@ -1,0 +1,27 @@
+{
+    "post_title": "Vella Raja (2018)",
+    "post_type": "series",
+    "tmdb_id": 84755,
+    "imdb_id": "tt9377880",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/o-4ddrtjd--dxh-"
+                }
+            ],
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/hmv8xwmnhzikwza"
+                }
+            ],
+            "1080p": []
+        }
+    }
+}

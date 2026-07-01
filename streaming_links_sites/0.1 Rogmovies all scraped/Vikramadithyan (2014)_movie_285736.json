@@ -1,0 +1,33 @@
+{
+    "post_title": "Vikramadithyan (2014)",
+    "post_type": "movie",
+    "tmdb_id": 285736,
+    "imdb_id": "tt3895152",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6jdxmmsbtayad5d"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6w8-gs_z_abg_wa"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mokupv9qamrvkue"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t773oltqgv44r1e"
+            }
+        ]
+    }
+}

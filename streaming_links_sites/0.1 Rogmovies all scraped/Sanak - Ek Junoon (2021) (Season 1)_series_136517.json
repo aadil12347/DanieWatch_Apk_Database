@@ -1,0 +1,26 @@
+{
+    "post_title": "Sanak - Ek Junoon (2021)",
+    "post_type": "series",
+    "tmdb_id": 136517,
+    "imdb_id": "tt15662706",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/api/index.php?link=UDhKMURKUnQxMEVxOE1NWUREbld0VGlIZFZ0OTFTWjVFYWNTU2REWjBPMU5BWjlwN1pXRjkrVEhHemdCQTV3Mw=="
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/api/index.php?link=eUFSSDRTRTJ1djRHdmxWeE1EQXFsZGhCT1JGYTk4Rk1ybUZyYitQZzgySEwvbWZBZGNDMVhxb3JDNVBZSG5zZg=="
+                }
+            ]
+        }
+    }
+}

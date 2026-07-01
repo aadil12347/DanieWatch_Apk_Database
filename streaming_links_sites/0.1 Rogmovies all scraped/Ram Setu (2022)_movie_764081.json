@@ -1,0 +1,41 @@
+{
+    "post_title": "Ram Setu (2022)",
+    "post_type": "movie",
+    "tmdb_id": 764081,
+    "imdb_id": "tt11783766",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qnuyd-fzfblnrbf"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_osobpgsn_4sbia"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/byalimgeirmygy3"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ygx8nxff1u8saef"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xvrxvrme0nq9mqz"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/aygy5zyxd01ddpg"
+            }
+        ]
+    }
+}

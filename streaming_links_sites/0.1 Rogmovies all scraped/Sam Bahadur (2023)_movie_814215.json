@@ -1,0 +1,39 @@
+{
+    "post_title": "Sam Bahadur (2023)",
+    "post_type": "movie",
+    "tmdb_id": 814215,
+    "imdb_id": "tt10786774",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cvaowcptewqlvvk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1lz1hrgozg55pgs"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ogqz-8je91wt3mq"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/kpneoskv1q3ibey"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/77caqrajekmyrrt"
+            }
+        ]
+    }
+}

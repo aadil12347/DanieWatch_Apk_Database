@@ -1,0 +1,33 @@
+{
+    "post_title": "Meenakshi Sundareshwar (2021)",
+    "post_type": "movie",
+    "tmdb_id": 828871,
+    "imdb_id": "tt13529034",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4hia4g4cn4l2ti_"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6swvxjljplr8wra"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/brrhmhvsn7jzivl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kkaey6o1k1qykhk"
+            }
+        ]
+    }
+}

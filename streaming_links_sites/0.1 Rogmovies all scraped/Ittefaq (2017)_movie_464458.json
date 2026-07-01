@@ -1,0 +1,29 @@
+{
+    "post_title": "Ittefaq (2017)",
+    "post_type": "movie",
+    "tmdb_id": 464458,
+    "imdb_id": "tt6692354",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b1q5gqxsa8vixsg"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1rwngewxr8xt1pj"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n_k8eyh2lycddae"
+            }
+        ]
+    }
+}

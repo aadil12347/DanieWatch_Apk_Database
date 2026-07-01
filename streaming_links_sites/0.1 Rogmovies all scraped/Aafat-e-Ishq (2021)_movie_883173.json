@@ -1,0 +1,33 @@
+{
+    "post_title": "Aafat-e-Ishq (2021)",
+    "post_type": "movie",
+    "tmdb_id": 883173,
+    "imdb_id": "tt12631660",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=R0MyYlM0QnNtZGl0dEJlb3AzSUttaW1uemJlYnA1WjFFdTZMQUU0MXZsREVQTGNwNDhjL0JuOTBvQjFhcHl4Ng=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=K1ROTlA0TmxsSmdmcWJxaUgyRnBqTWRhQ1lnM01ONHBvVGt4VVh5eE1XOG1KbUhMZm82MW14SXV0b2tsRWVmOA=="
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/api/index.php?link=L3prV0RBTTFzZVpnWlc3ZndteE0zUms2VElqb0hWbkVrU3ExMGNaVktKYnBSTXFpQUl6VGJCak95SUV0d1JrOQ=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=YlQ5SHFoZUVJK0hUZVNXMThSNENCWE10VkwzbHdXWU5xK2JKNFBqbE5kUW1TSzRSV0NibU1namNIUFlYY25BNQ=="
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Kathalo Rajakumari (2017)",
+    "post_type": "movie",
+    "tmdb_id": 476850,
+    "imdb_id": "tt7111614",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=K3ZvSm90eno0ZnJhUlI5VUwyWkdjaXRZNnQ3OGNuRE1NYkgrb2JQaFg5ZzVWVGRFR0E2a0g1eGlUaW1oZHRJMA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=ZngrMjRKZGhtcG5nNHY5VzVOUFRRMXNFNm84d3RyYkcxSzV3NVRMV01OSzBzM0JuY2M1VVdLYmRXb2RwZ04vdA=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=SWpSZWlPWGk3REJPRHplS3dGemF6Rms0bDZXVSttUXkvSGZoMENGeXo0MUJ0R2xNTldzUkJhaEkwZFJuN3phYg=="
+            }
+        ]
+    }
+}

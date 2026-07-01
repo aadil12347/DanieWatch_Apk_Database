@@ -1,0 +1,34 @@
+{
+    "post_title": "Nishwas (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1020125,
+    "imdb_id": "tt22176418",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i_2z_slj-lzxxoh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k4uamag4c8fomg8"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/w5webe1bnwnemqw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/etcic11-0-ce--2"
+            }
+        ]
+    }
+}

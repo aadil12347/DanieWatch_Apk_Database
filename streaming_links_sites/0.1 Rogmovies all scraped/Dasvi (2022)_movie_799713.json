@@ -1,0 +1,51 @@
+{
+    "post_title": "Dasvi (2022)",
+    "post_type": "movie",
+    "tmdb_id": 799713,
+    "imdb_id": "tt14107554",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-fns419nfmsrtvr"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zkhz_01mz__q1wp"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/q156c9qn6i0j1n9"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/n0lpgy4jcm_2s9y"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1ae1esp--a7a1os"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/kkga7yytohg6h6y"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/3wfrfp3x7pwusrw"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-e1mb0rgvvg6fb1"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Bruce Lee (2017)",
+    "post_type": "movie",
+    "tmdb_id": 369835,
+    "imdb_id": "tt6656734",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gpqll1ql5q5zyqk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vvg_gaeu00g_hv1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hro3ly1gulca01h"
+            }
+        ]
+    }
+}

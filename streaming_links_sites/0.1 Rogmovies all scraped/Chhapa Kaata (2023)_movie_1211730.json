@@ -1,0 +1,33 @@
+{
+    "post_title": "Chhapa Kaata (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1211730,
+    "imdb_id": "tt30131877",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bds7eg1uvgge1kl"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2klgo2rfku99q1l"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/h-nhzpn6kq-zlp8"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ffmvhmzkfgwaf0c"
+            }
+        ]
+    }
+}

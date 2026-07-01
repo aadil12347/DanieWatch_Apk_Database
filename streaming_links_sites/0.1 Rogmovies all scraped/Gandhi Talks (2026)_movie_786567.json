@@ -1,0 +1,29 @@
+{
+    "post_title": "Gandhi Talks (2026)",
+    "post_type": "movie",
+    "tmdb_id": 786567,
+    "imdb_id": "tt8205190",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1hk7_3jlvkgfosm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cvzttrmcdaqmcv9"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ib6mgpphwizoxf6"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "post_title": "Mauka Ya Dhokha (2023)",
+    "post_type": "series",
+    "tmdb_id": 229705,
+    "imdb_id": "tt28100421",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/z7qrm5pb4z4ercq"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/svh46mkk1acmttl"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/zoczf1kt1-szrjs"
+                }
+            ]
+        }
+    }
+}

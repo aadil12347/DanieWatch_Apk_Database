@@ -1,0 +1,37 @@
+{
+    "post_title": "Waltair Veerayya (2023)",
+    "post_type": "movie",
+    "tmdb_id": 989017,
+    "imdb_id": "tt15281402",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jvrds6mogoodo8j"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jpg1tgjrkkqzvlo"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/g1mdode8demd8jl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lw5ij0dbd0_d7a0"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/u3t3wrmsp1fkfv4"
+            }
+        ]
+    }
+}

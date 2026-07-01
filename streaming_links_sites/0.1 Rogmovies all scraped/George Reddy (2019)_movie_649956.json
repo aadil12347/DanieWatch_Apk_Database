@@ -1,0 +1,33 @@
+{
+    "post_title": "George Reddy (2019)",
+    "post_type": "movie",
+    "tmdb_id": 649956,
+    "imdb_id": "tt11189056",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i5ynzw93wtkzrr5"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1yyxxsyxhlim1dn"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/uxtnusubr_lsttl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oesg33xy335egyu"
+            }
+        ]
+    }
+}

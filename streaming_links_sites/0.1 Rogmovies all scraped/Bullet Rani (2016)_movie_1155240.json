@@ -1,0 +1,24 @@
+{
+    "post_title": "Bullet Rani (2016)",
+    "post_type": "movie",
+    "tmdb_id": 1155240,
+    "imdb_id": "tt14611992",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=QkUwcVNmWG1pVTNPa2UyeHBDWU9veG5kV0FGb1lnMUVnVnhKZE03TGlBZEpUclRPZmZ6QmlBMGVTeWEzM0p0RA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=YTE0TVA3OTJITHpwN1ZSZkpTMlpOb0hYQ3BqcFcvZnBYSjVqL0plNCsxaGM4UWJPeXoycXQxRGJveURKTG9jUA=="
+            }
+        ],
+        "1080p": []
+    }
+}

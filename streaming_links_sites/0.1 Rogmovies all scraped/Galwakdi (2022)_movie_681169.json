@@ -1,0 +1,37 @@
+{
+    "post_title": "Galwakdi (2022)",
+    "post_type": "movie",
+    "tmdb_id": 681169,
+    "imdb_id": "tt12062432",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bz0w6y8b0sybnba"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/66k8tzj1vb1z3v8"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/qlurdddqqdublcb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z8zxc8-n1mz1998"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/6n5wqdbel9e9aag"
+            }
+        ]
+    }
+}

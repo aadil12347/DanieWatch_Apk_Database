@@ -1,0 +1,33 @@
+{
+    "post_title": "Aar Paar (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1145738,
+    "imdb_id": "tt27987936",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/22qgr3x3br-ugrp"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6f5oulh821o8nko"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/cxxiuknrsnncukr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uuhqwxbxjjrdu0s"
+            }
+        ]
+    }
+}

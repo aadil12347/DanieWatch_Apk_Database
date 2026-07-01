@@ -1,0 +1,33 @@
+{
+    "post_title": "Soppana Sundari (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1021760,
+    "imdb_id": "tt24485376",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sj29s_1uzs152j1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zn1oa06uuxuj6ih"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/cqoad7orsuxgkzr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vrn7anetnnoyswa"
+            }
+        ]
+    }
+}

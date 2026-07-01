@@ -1,0 +1,29 @@
+{
+    "post_title": "Tiger",
+    "post_type": "movie",
+    "tmdb_id": 1685740,
+    "imdb_id": "tt5995602",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oyay21ln7l4xnnn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/akbgnuttp33w5xn"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7h2hhmkhmjm1kh9"
+            }
+        ]
+    }
+}

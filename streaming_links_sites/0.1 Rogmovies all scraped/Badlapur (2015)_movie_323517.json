@@ -1,0 +1,33 @@
+{
+    "post_title": "Badlapur (2015)",
+    "post_type": "movie",
+    "tmdb_id": 323517,
+    "imdb_id": "tt3678782",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b8jugygouj1z88j"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/__yjvvyh7vxrvv2"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9c8y8f5k7gf5sqf"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/3y3u3fpqjatdr9i"
+            }
+        ]
+    }
+}

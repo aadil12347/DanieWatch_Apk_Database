@@ -1,0 +1,33 @@
+{
+    "post_title": "Waah Zindagi (2021)",
+    "post_type": "movie",
+    "tmdb_id": 921410,
+    "imdb_id": "tt7309776",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dt5gialdssbx5at"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8gipiojt8y1zopi"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/-hdwgqni71wj7ry"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/68uloln2878tuk5"
+            }
+        ]
+    }
+}

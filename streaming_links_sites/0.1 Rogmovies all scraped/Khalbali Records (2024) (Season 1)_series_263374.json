@@ -1,0 +1,33 @@
+{
+    "post_title": "Khalbali Records (2024)",
+    "post_type": "series",
+    "tmdb_id": 263374,
+    "imdb_id": "tt33318384",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/3m1gfl1s1k1l6gq"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/2mr4q91zrq44mkr"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/c93_361krb77561"
+                }
+            ]
+        }
+    }
+}

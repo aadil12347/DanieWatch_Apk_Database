@@ -1,0 +1,29 @@
+{
+    "post_title": "Tungabhadra (2015)",
+    "post_type": "movie",
+    "tmdb_id": 400719,
+    "imdb_id": "tt6543384",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=N20rc3hZWFRVc1paVG1OWDhBQWVJMHNKaGE1Z0FMSVEzU0k2azJZYXl3U2NNcVBSK0JudHNsWjBndk0zMUpiYg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=WkQ2SnJyVHY4Sy9POWVKZFBnYnEySkVOZWJzZUNUWXQrL1Q1SUNiTTNWaUxGZGQycmM4L0VzSTZ4cnBXOG1jTQ=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=REpHb2RDQTVBWVlLUE94dDJTNm5xbEVXWkJXaWdNWExKZFR4VWY2Vjl2dEZKMEZGRmFnWW1KRXZvR3FXSUh3bA=="
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Ugly (2013)",
+    "post_type": "movie",
+    "tmdb_id": 191726,
+    "imdb_id": "tt2882328",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=V2xIcU56bEg4NnhmRXdGNzRCbVhXcFJyeEM1MytlcUZqUCtjWFVuKzdYcjJ6QXl3V2hKYXd3NEx3RkNoWFRjNg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=V2dDVnhyZGI5QlRFZzkrU0hDcWlZYkxRbTEvZ1ZHVzlSUFk3akhEdEgyL3RUTDBkemcwdUQ1b2tEcDF2Yk5wVA=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b11smbkmmssafv6"
+            }
+        ]
+    }
+}

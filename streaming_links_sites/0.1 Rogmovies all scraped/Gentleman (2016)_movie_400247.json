@@ -1,0 +1,30 @@
+{
+    "post_title": "Gentleman (2016)",
+    "post_type": "movie",
+    "tmdb_id": 400247,
+    "imdb_id": "tt5815940",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eu9yiyc6l96imm9"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ah44222gnupwjue"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gu-vzx1eslwxbxb"
+            }
+        ]
+    }
+}

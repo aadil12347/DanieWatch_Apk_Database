@@ -1,0 +1,41 @@
+{
+    "post_title": "Chor Bazaar (2022)",
+    "post_type": "movie",
+    "tmdb_id": 895245,
+    "imdb_id": "tt15654292",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zpc3k3p9zsqthtq"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/t7_1ozp_q6-7v1j"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_52vajkb-hzvkw7"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/t4-dec1tc4bc_ye"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/l8jtc1gfltax5lm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/kllr_df1wdd9d1t"
+            }
+        ]
+    }
+}

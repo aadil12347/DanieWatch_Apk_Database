@@ -1,0 +1,24 @@
+{
+    "post_title": "Direct Ishq (2016)",
+    "post_type": "movie",
+    "tmdb_id": 386365,
+    "imdb_id": "tt4340180",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=emd0UHFqUjFjbUI4YmJIdFVBaEdFR2U2eEFWcnJKWktGWlZQL0RLMjdtK3czUGRpQ0UxSWJOU05XTE5HUHVsWA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=L3hwbGI0dkxFdHFDSVJkY1VCU3p3SEpJaUlzOXM5V2pqL3VjTHFKUDZVQ3J1M0phdXNGL3B2SzVGelZMT2Fibg=="
+            }
+        ],
+        "1080p": []
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Adanga Maru (2018)",
+    "post_type": "movie",
+    "tmdb_id": 500971,
+    "imdb_id": "tt8364418",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=UmJzclE3cTVJM1ozN2Z2NkZVeUpNWGRVRW9jL3FEcWU5T2t5ZFFOQnN0Z2IwS0RCQnY1UWcrVHdTNWlYZ2NNdw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=bkc5T0xnaUdoVG9lUklONzc5bll2ZDdFVlF0NS9neWcrQStrc203QWo1Si90WVRpdlVPSW5lT3A4R24wekhBSg=="
+            }
+        ],
+        "1080p": []
+    }
+}

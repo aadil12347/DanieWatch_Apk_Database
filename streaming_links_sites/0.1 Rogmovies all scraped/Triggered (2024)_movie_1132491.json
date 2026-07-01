@@ -1,0 +1,29 @@
+{
+    "post_title": "Triggered (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1132491,
+    "imdb_id": "tt23182472",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a4ub52dxxd-dfro"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/r1hhkhlk9rlyv1z"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tkzq9wzq3hrpoqv"
+            }
+        ]
+    }
+}

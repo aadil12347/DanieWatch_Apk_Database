@@ -1,0 +1,34 @@
+{
+    "post_title": "Mechanic Rocky (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1102353,
+    "imdb_id": "tt27191250",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rpiib8g5hquyoby"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g_gaoeakp8ywkgr"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/uem9vuyk5oztmfy"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1rfx61ga3g1rgqx"
+            }
+        ]
+    }
+}

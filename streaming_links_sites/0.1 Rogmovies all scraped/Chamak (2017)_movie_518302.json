@@ -1,0 +1,33 @@
+{
+    "post_title": "Chamak (2017)",
+    "post_type": "movie",
+    "tmdb_id": 518302,
+    "imdb_id": "tt7838228",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=MURKd3Z3S3c5OTJuZ09DQ294WHVLcEp6S0xEZ2tlZWJqOFRWSWNmUjFOOUp4YjNhY0xoZitoV2FHMVdzNE5ZZQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=QkRvakt1NW92NVJKQkt1RFNyeGdGbjRqMTZIbkNOT1NnLytPNkJFYTF1SjJqMjhldnQ1NW1hTnpxemJoOUFCSw=="
+            },
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=OTRWV29HMmZDYjRTNXFXaForRjkySnJEVnpQTitNdWVldnFVSVRVa1ZjbGNlZ2hMTis2L3gxaEFPYUdCSVdFcg=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=disyb0NwcWM0RGEzUlZFeVlaNXdjZFJHeEdEdzQ0dHhHVmNVUXMzeitjMTA4bEcxUHdwc3dBWFJ0a2hVZmFXbg=="
+            }
+        ]
+    }
+}

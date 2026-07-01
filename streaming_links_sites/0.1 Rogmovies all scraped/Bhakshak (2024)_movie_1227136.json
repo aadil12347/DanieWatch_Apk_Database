@@ -1,0 +1,33 @@
+{
+    "post_title": "Bhakshak (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1227136,
+    "imdb_id": "tt27936770",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ss5s51qzl1l5kh1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ul0euuc1t6ocrcp"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/i8sfnm9bnvf38k8"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ye6zsbgse09bcgb"
+            }
+        ]
+    }
+}

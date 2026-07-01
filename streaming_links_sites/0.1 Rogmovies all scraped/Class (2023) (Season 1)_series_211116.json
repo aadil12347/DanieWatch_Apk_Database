@@ -1,0 +1,36 @@
+{
+    "post_title": "Class (2023)",
+    "post_type": "series",
+    "tmdb_id": 211116,
+    "imdb_id": "tt22297684",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/vm9asay1rqbyfo3"
+                }
+            ],
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/enxarctjuijqfrd"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://vcloud.zip/tbsqi9jd9rctgjz"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/d6s6tmzsyjedbzk"
+                }
+            ]
+        }
+    }
+}

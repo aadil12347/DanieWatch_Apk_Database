@@ -1,0 +1,26 @@
+{
+    "post_title": "Operation Cobra (2019)",
+    "post_type": "series",
+    "tmdb_id": 86832,
+    "imdb_id": "tt6795580",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=V1ROWU9vblV2SUVyTjdpSDRaUjMvV1A0VXA0NW9qUTRuSmlPQXdwVUpkb1BCTExmUHF5SElWTElBRlRYQmRiMg=="
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=ZGl3MXpTeDVxSWpaNG9hUVJIUXNuUk1BOEFIUnpTcXhtMWR0R3dnQXlnNVoydDdGbHBKcndmSGRTaWl5dFMweQ=="
+                }
+            ]
+        }
+    }
+}

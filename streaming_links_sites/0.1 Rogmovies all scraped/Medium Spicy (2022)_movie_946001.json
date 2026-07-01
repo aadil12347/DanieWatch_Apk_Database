@@ -1,0 +1,33 @@
+{
+    "post_title": "Medium Spicy (2022)",
+    "post_type": "movie",
+    "tmdb_id": 946001,
+    "imdb_id": "tt11761216",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qw3qlxaqgmvn8k5"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-qddzzn0uzduzu0"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/enajfb_ad_gzgdt"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dev-8f073p-dbf-"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Subway (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1152895,
+    "imdb_id": "tt21963660",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z_zqmqr0eqzsomr"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n3cufprwce-1pd7"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bfe3eljgvbggvl3"
+            }
+        ]
+    }
+}

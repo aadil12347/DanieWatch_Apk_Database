@@ -1,0 +1,34 @@
+{
+    "post_title": "Vandi (2018)",
+    "post_type": "movie",
+    "tmdb_id": 570073,
+    "imdb_id": "tt7963996",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hkw6uiqpkyaqiu-"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c98p03b18r74zo4"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/9clnquhk74pncpp"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0eoge7zt7w1gjob"
+            }
+        ]
+    }
+}

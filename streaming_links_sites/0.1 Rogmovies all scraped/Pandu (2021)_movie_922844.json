@@ -1,0 +1,33 @@
+{
+    "post_title": "Pandu (2021)",
+    "post_type": "movie",
+    "tmdb_id": 922844,
+    "imdb_id": "tt15819074",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5e5i5_egz3bxbkb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jfndpkvfndpgf1d"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/pqqj1t6ahqqpqsa"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wrwg507w7wz5_vg"
+            }
+        ]
+    }
+}

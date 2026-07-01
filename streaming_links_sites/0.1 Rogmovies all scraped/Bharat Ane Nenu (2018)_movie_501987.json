@@ -1,0 +1,41 @@
+{
+    "post_title": "Bharat Ane Nenu (2018)",
+    "post_type": "movie",
+    "tmdb_id": 501987,
+    "imdb_id": "tt6980546",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yf1pfebfeyt5-ak"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dqktsm1tsuolg12"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/kckwn3t7ik93fi2"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2befxoaakvbkwwq"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/kzggk2wyuvv2jv1"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/wcypi-i8-m8cwww"
+            }
+        ]
+    }
+}

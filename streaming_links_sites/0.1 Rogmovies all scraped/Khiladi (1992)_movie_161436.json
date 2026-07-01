@@ -1,0 +1,29 @@
+{
+    "post_title": "Khiladi (1992)",
+    "post_type": "movie",
+    "tmdb_id": 161436,
+    "imdb_id": "tt0104605",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/r1sc0rs50kmwwpp"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bnu81bs5zxkftzk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/prjip9gvldv1vpx"
+            }
+        ]
+    }
+}

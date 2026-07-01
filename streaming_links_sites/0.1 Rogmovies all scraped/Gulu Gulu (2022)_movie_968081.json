@@ -1,0 +1,33 @@
+{
+    "post_title": "Gulu Gulu (2022)",
+    "post_type": "movie",
+    "tmdb_id": 968081,
+    "imdb_id": "tt21272402",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1lytg4kys1qmy1y"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z0va_auvzaliz0i"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/dt1nat7a1buzguw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7fimhtc5t5mygt7"
+            }
+        ]
+    }
+}

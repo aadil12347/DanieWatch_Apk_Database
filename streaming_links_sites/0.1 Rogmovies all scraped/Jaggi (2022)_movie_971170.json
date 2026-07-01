@@ -1,0 +1,33 @@
+{
+    "post_title": "Jaggi (2022)",
+    "post_type": "movie",
+    "tmdb_id": 971170,
+    "imdb_id": "tt16728368",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gpgigcq6n-rpnln"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f322wvdcwdlc1dz"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/lyoaezaynxempma"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/btmeefombomcfof"
+            }
+        ]
+    }
+}

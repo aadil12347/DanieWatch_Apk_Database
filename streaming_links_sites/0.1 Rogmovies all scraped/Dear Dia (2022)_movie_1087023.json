@@ -1,0 +1,33 @@
+{
+    "post_title": "Dear Dia (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1087023,
+    "imdb_id": "tt19632136",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pi-vi1sqgucio6k"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/r8t3f-mwc8bmcvc"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/uum42xikxsdcc50"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a6ugpk6mmlooug7"
+            }
+        ]
+    }
+}

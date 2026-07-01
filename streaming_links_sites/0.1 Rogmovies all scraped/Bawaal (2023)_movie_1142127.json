@@ -1,0 +1,43 @@
+{
+    "post_title": "Bawaal (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1142127,
+    "imdb_id": "tt19755170",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bgt7tmbbg7tcubt"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1bkwrhk0lqadv3y"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/kxwpksnkspxsx6k"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yarnraylcyazaro"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/skulnagwgnplsol"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vst6krvthsri1z6"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Gatham (2020)",
+    "post_type": "movie",
+    "tmdb_id": 760981,
+    "imdb_id": "tt13105536",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=VCtXUW55RVR2M3FWbXZqbUI2QXl2ZXRKRDJWV0I4TTVxVVJMYXZoQWhqbUVPS3MrbkFwNmVLakx5U0hLSkZ4eg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=SGZVMFU2UC9VNG41bW1TU1c3WjAzZWo1ai9FVSttU1VuUFI1Q2NENVdHcE1wY3M4WVNTeTUvMk5jNWFGbFJ5Sg=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=UmtmTVRjeHJ0L01URHl2dDFuNVd4TnBRdmNQTjUzZC8vK010aXNNWloxL0JRbzZnOHpXd2RhdXN0UC9rMU5vTg=="
+            }
+        ]
+    }
+}

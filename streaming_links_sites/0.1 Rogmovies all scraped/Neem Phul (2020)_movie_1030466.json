@@ -1,0 +1,33 @@
+{
+    "post_title": "Neem Phul (2020)",
+    "post_type": "movie",
+    "tmdb_id": 1030466,
+    "imdb_id": "tt11690360",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0r10g2x11ab1drw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bpsk615gvngeqsg"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/oe0kryurykp0lbi"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vpuzzux99nxun2u"
+            }
+        ]
+    }
+}

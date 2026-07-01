@@ -1,0 +1,38 @@
+{
+    "post_title": "Sabari (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1030060,
+    "imdb_id": "tt24225846",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xvuxfuxpr6brg1w"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ai8uvfg8wnovg1e"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ubpwb99cymooycb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/u9r_ewttr1drdee"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/plfejbo4rdg3_rd"
+            }
+        ]
+    }
+}

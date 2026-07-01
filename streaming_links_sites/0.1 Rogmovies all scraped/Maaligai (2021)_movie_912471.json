@@ -1,0 +1,33 @@
+{
+    "post_title": "Maaligai (2021)",
+    "post_type": "movie",
+    "tmdb_id": 912471,
+    "imdb_id": "tt11469726",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=VFNqZzdOaDVpNGp3MjJsekwwbU1icFRFaVNyWHJwNGU5K3d1clNienFxM1VmYWNlRjI3NldhV29SUzYxS0Z0dA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=VjFRZlR3aEpXMmovQTV3RWVnZWc0aGxUOERwSmpnWE9qajRGZkVzMzA2VW1jUitQNlJ5Q3YweGdMVUt3WGZJSA=="
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/api/index.php?link=TkZsb1pyUnpSc1lyMGhkVEF5RFFuT0U4dHNNNnFsQkg2N0x3Q0V2UnJGM2tIN2k3Z21JUWtLVys2Zlh3ZVF1cQ=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=S2h4SEtsUzUyMXI0SGVQb1VTV1BoSVRYeEpWd2xmanlOYUtTV0lsOS8wQWxRdmtJWnhUczVTMjcxeWV2cVJBTA=="
+            }
+        ]
+    }
+}

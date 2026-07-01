@@ -1,0 +1,33 @@
+{
+    "post_title": "Lagan Special (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1227502,
+    "imdb_id": "tt30321249",
+    "languages": [
+        "Gujarati"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s6_zhwg6wjggw_j"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ly99q9h0ubl91hu"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/8jlqoouvib8thjb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z3zq3i1h34wi3f9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Martin Luther King (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1186285,
+    "imdb_id": "tt29228476",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3z34plyzildttie"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e7bqgi7m78mj3in"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/gtu9f3mtcff9fmv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1j2hpjpthqb2182"
+            }
+        ]
+    }
+}

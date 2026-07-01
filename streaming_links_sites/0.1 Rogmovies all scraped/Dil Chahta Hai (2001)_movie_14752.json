@@ -1,0 +1,29 @@
+{
+    "post_title": "Dil Chahta Hai (2001)",
+    "post_type": "movie",
+    "tmdb_id": 14752,
+    "imdb_id": "tt0292490",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nlbsuycjpklbakn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hcs5zjhohvvjzwr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xim9eizavmqgtmt"
+            }
+        ]
+    }
+}

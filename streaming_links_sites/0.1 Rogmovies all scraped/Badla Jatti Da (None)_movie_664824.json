@@ -1,0 +1,29 @@
+{
+    "post_title": "Badla Jatti Da (None)",
+    "post_type": "movie",
+    "tmdb_id": 664824,
+    "imdb_id": "tt1401098",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/d8tttrlfjapwz1t"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/r1g53zcuabddwr3"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pq9w8p2ktl2l21g"
+            }
+        ]
+    }
+}

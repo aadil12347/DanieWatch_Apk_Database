@@ -1,0 +1,29 @@
+{
+    "post_title": "Pardes (1997)",
+    "post_type": "movie",
+    "tmdb_id": 25519,
+    "imdb_id": "tt0119861",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/l1vjjyxlnyqqjn_"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ub9aghfvvp5x5sv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gb9kqnnknkf1fm1"
+            }
+        ]
+    }
+}

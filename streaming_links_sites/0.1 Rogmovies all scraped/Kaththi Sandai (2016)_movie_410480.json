@@ -1,0 +1,25 @@
+{
+    "post_title": "Kaththi Sandai (2016)",
+    "post_type": "movie",
+    "tmdb_id": 410480,
+    "imdb_id": "tt6385842",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=TklvcEowdHJFK0RGbHh2ekNWZU5IeUZhSFpTZk53SVkySUNWMHJwd2hsZkJiOHl1WEhEWndjR0MvVTZSc2ZBaw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=YkowRkJFNmNkcHgyc3NjV1h3L1ByYzFUeHFFVkRKMGNlU0p2UmtqakhvcDUzMTlHRHVqb2cxUlBSYWpuTFJaTw=="
+            }
+        ],
+        "1080p": []
+    }
+}

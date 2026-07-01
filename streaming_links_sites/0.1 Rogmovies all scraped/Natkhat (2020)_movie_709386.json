@@ -1,0 +1,29 @@
+{
+    "post_title": "Natkhat (2020)",
+    "post_type": "movie",
+    "tmdb_id": 709386,
+    "imdb_id": "tt11058440",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i5vqqztkefkvlof"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tmk8bregqglg1gr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jov1ujd01hihwdt"
+            }
+        ]
+    }
+}

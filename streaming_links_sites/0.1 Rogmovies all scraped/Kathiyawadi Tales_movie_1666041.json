@@ -1,0 +1,29 @@
+{
+    "post_title": "Kathiyawadi Tales",
+    "post_type": "movie",
+    "tmdb_id": 1666041,
+    "imdb_id": "tt37062700",
+    "languages": [
+        "Gujarati"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tyj8wwk2yk1tr3-"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/phbr16mbk57-zry"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ahhr86r19wm1noj"
+            }
+        ]
+    }
+}

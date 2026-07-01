@@ -1,0 +1,37 @@
+{
+    "post_title": "Yaariyan 2 (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1001241,
+    "imdb_id": "tt22743064",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a1jlt5kosaos51c"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e86bzci7i6uizpv"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mumd3btdtidim2-"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fyrxryw5guku6gg"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/lwmgpwwnffntnei"
+            }
+        ]
+    }
+}

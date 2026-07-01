@@ -1,0 +1,29 @@
+{
+    "post_title": "Veere Di Wedding (2018)",
+    "post_type": "movie",
+    "tmdb_id": 483189,
+    "imdb_id": "tt5842616",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/l26qlk6lmjnl62l"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x3ged99erhapgq-"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lqtrghzko1hrh82"
+            }
+        ]
+    }
+}

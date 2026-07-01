@@ -1,0 +1,29 @@
+{
+    "post_title": "Aambat Shoukin",
+    "post_type": "movie",
+    "tmdb_id": 1500220,
+    "imdb_id": "tt36070089",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h_126taohvg6vph"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yzeo5wvsjsolpda"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q8ehf1gg18eaj-l"
+            }
+        ]
+    }
+}

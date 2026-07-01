@@ -1,0 +1,40 @@
+{
+    "post_title": "Fisaddi (2024)",
+    "post_type": "series",
+    "tmdb_id": 274367,
+    "imdb_id": "tt33986122",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/ge-y-6uavjj-n1-"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://vcloud.zip/ygy18w8lylsoqso"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/a-a93s-dd36sr9s"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://vcloud.zip/a7q661k1ttjcamj"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/p2dpgfoj4ejjlvd"
+                }
+            ]
+        }
+    }
+}

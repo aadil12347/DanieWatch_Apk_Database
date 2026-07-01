@@ -1,0 +1,40 @@
+{
+    "post_title": "Kingdom (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1124838,
+    "imdb_id": "tt11773426",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2eo01gecpogcppe"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8w1bkj98ndtx9b4"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/lsvr6gd6pelzfyp"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_nqy1vvavaggoe-"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1di-d0j1eyejcj7"
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "post_title": "DSP (2022)",
+    "post_type": "movie",
+    "tmdb_id": 806920,
+    "imdb_id": "tt23557940",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iaarma-1vg9rrvr"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ofwi6mommhkxfig"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/bqbsxdk92pmcjkp"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dvgvu17gn4v_7yd"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/tk11igc1tcqoqz8"
+            }
+        ]
+    }
+}

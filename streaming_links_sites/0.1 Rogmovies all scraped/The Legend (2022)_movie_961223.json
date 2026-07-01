@@ -1,0 +1,33 @@
+{
+    "post_title": "The Legend (2022)",
+    "post_type": "movie",
+    "tmdb_id": 961223,
+    "imdb_id": "tt11497716",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xmnw81y0xeyjnfn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dtbpb7t47zjue43"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/utxmdhdhxalop1o"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1xe57zb63br5enr"
+            }
+        ]
+    }
+}

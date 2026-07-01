@@ -1,0 +1,47 @@
+{
+    "post_title": "Bholaa (2023)",
+    "post_type": "movie",
+    "tmdb_id": 965606,
+    "imdb_id": "tt15302222",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zrw33xnbag7n75z"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wcnnbwb0n5bktxp"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/qewgeqhmned4w1z"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zuzvssteyuqdwtz"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/cw2ocfs6c0foq46"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/ukckr3rof39gcvv"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mrsr_q1iwiut_u1"
+            }
+        ]
+    }
+}

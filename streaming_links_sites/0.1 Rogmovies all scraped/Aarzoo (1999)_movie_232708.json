@@ -1,0 +1,29 @@
+{
+    "post_title": "Aarzoo (1999)",
+    "post_type": "movie",
+    "tmdb_id": 232708,
+    "imdb_id": "tt0284811",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/srkkb8s5zs1bvsb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bb0e0kppt_51k-b"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/clvkmbn60tc6il0"
+            }
+        ]
+    }
+}

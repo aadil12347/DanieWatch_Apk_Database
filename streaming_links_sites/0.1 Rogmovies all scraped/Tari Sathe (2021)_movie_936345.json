@@ -1,0 +1,34 @@
+{
+    "post_title": "Tari Sathe (2021)",
+    "post_type": "movie",
+    "tmdb_id": 936345,
+    "imdb_id": "tt13181612",
+    "languages": [
+        "English",
+        "Gujarati"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lt1e3wbzdbtzbbc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/thjcmry1dc1kmur"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/o5logwago5xlv21"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oqarrn918i1dfcr"
+            }
+        ]
+    }
+}

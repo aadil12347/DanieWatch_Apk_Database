@@ -1,0 +1,38 @@
+{
+    "post_title": "Baarish (2019)",
+    "post_type": "series",
+    "tmdb_id": 88959,
+    "imdb_id": "tt10042074",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 2,
+    "seasons": {
+        "1": {
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/yutlm1u2nvdupcp"
+                }
+            ],
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/_6tyt96wyyxxcii"
+                }
+            ]
+        },
+        "2": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/api/index.php?link=MmlJVTQ3b0xwaU5WazREN2NlTCtqaEhpZnU2Y3gvOGNqSmpIVXVjWk5Dd0Y5d3A2M1FzY1Vqd3NhUUtwS0UxaA=="
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://vcloud.zip/api/index.php?link=VjBYd1I0dU43Mzh4T3IzczltRzNrdVU5U0ltWnREcmtncE1GejFjN0VOZGxuNDlwS0VPenB4eThGR2RZN2pWRQ=="
+                }
+            ]
+        }
+    }
+}

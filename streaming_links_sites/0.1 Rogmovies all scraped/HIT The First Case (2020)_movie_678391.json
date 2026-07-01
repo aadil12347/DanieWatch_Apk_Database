@@ -1,0 +1,37 @@
+{
+    "post_title": "HIT: The First Case (2020)",
+    "post_type": "movie",
+    "tmdb_id": 678391,
+    "imdb_id": "tt11490170",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ceeixcjjx_bu1u3"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/afjs0zeg0bznsj1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/z_8zggsjkjsitz1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zaa1priqsxrtqjt"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mtkvxt5gza1h55t"
+            }
+        ]
+    }
+}

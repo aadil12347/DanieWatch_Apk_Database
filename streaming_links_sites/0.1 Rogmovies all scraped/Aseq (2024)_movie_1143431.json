@@ -1,0 +1,33 @@
+{
+    "post_title": "Aseq (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1143431,
+    "imdb_id": "tt15446834",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lh0ljddfqq8u1rl"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9t93wjoya7c6xas"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mc4psrr-rr__1rj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/c_xbamxxaauxbh_"
+            }
+        ]
+    }
+}

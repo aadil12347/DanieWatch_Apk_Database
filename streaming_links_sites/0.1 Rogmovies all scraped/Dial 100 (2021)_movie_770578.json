@@ -1,0 +1,29 @@
+{
+    "post_title": "Dial 100 (2021)",
+    "post_type": "movie",
+    "tmdb_id": 770578,
+    "imdb_id": "tt13562940",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2it7h8ji2yqa-hy"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1y6duaiky4akiak"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gs5m4e57s0ttj7i"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Vattam (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1002445,
+    "imdb_id": "tt11468230",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nhp33dh0czkhos6"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1xzn_rjxjjjj4zo"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/yyijqujgrgjiq1z"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n4a04pjpn1xtngt"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Sundarakanda (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1277726,
+    "imdb_id": "tt32161505",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/btuc8o8ohyy1qky"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oo0wizu9xjmqwj8"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/bj0z4miru7mqmpr"
+            }
+        ],
+        "1080p": []
+    }
+}

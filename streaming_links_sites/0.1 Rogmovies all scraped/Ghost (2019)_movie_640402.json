@@ -1,0 +1,29 @@
+{
+    "post_title": "Ghost (2019)",
+    "post_type": "movie",
+    "tmdb_id": 640402,
+    "imdb_id": "tt9378950",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/erxfje1wdexfv1u"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/td5qdtxf5tdy5ov"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dod5c6dzhxxehhd"
+            }
+        ]
+    }
+}

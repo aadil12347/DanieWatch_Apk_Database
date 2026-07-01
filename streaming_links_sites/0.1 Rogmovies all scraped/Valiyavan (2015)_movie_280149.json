@@ -1,0 +1,30 @@
+{
+    "post_title": "Valiyavan (2015)",
+    "post_type": "movie",
+    "tmdb_id": 280149,
+    "imdb_id": "tt4435628",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eqh1bqhmublr1m_"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oyhmrtmt9nm8lhl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pzfq0xjk13juil0"
+            }
+        ]
+    }
+}

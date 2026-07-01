@@ -1,0 +1,33 @@
+{
+    "post_title": "Bajre Da Sitta (2022)",
+    "post_type": "movie",
+    "tmdb_id": 999115,
+    "imdb_id": "tt13815702",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1llupyhruehxyxl"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m648nua-zkzo-bd"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1f1r1hy1xmyfdxb"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/smej1xdhh8ttsns"
+            }
+        ]
+    }
+}

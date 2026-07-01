@@ -1,0 +1,39 @@
+{
+    "post_title": "Yashoda (2022)",
+    "post_type": "movie",
+    "tmdb_id": 900222,
+    "imdb_id": "tt15710136",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e8rnv3rn1unuvb1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/55ecjxss1yvzppt"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1utirejffzgvc_c"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q-gm9dsuh1dmcho"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/evogzrp3zrzyvkp"
+            }
+        ]
+    }
+}

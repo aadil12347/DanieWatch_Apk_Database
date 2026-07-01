@@ -1,0 +1,29 @@
+{
+    "post_title": "Bharat (2019)",
+    "post_type": "movie",
+    "tmdb_id": 569594,
+    "imdb_id": "tt7721800",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9n_nbtab1q9j9ql"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z5zr--rwrz8z9or"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3hmb11hk_1k3hkq"
+            }
+        ]
+    }
+}

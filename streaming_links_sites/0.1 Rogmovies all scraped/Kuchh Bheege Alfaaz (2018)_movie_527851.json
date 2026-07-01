@@ -1,0 +1,33 @@
+{
+    "post_title": "Kuchh Bheege Alfaaz (2018)",
+    "post_type": "movie",
+    "tmdb_id": 527851,
+    "imdb_id": "tt7617988",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/owih9h4rvko1sse"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/y7ypor_nqx1yyvw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/kvgfvgve0-1k0se"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2qw231j81fdqvyw"
+            }
+        ]
+    }
+}

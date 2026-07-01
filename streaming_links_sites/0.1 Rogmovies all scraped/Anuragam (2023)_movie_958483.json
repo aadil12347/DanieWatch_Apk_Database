@@ -1,0 +1,33 @@
+{
+    "post_title": "Anuragam (2023)",
+    "post_type": "movie",
+    "tmdb_id": 958483,
+    "imdb_id": "tt23458618",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wfctwxehqxemese"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q7xycahqxujjhku"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1ewhaoom1o-9j-b"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2do7ifu5h8r6u2h"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Made In China (2019)",
+    "post_type": "movie",
+    "tmdb_id": 640076,
+    "imdb_id": "tt8983180",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=bHVVV1BKT1BRSmI5dFpBQUlBQmZORHdrdUZtQVZPb0dsQ0g2MldXU0dGZ280MC92YWVSaCt5ZHlvODc4TEhHMw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=MFpaOW9uVmJXQWoxazVIZWNtMFZXMnNsdXRuazJYelpwU2JKc3dNdEhsTFBzSXBYSDdhQWRDaHAwY2NQaGtkRw=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=c1MrYXVSR0w3UExnVUJwRmtTVUJmWUhva2tHUW5ucUJaVTEwY2VQOElnaFZCWFBHaThVbHB4T0dyOXZCOFZRSw=="
+            }
+        ]
+    }
+}

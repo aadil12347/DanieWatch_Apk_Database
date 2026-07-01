@@ -1,0 +1,50 @@
+{
+    "post_title": "Irul (2021)",
+    "post_type": "movie",
+    "tmdb_id": 807158,
+    "imdb_id": "tt13103212",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kx8yxyaumm728a8"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wk16vcbuzbb1syb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ccd4ziicwlhd9sx"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/oqeq2xt419lb0b2"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/4ixyhfvwl0dwlyo"
+            },
+            {
+                "episode_title": "Episode 4",
+                "link": "https://vcloud.zip/9vuosyyzwci_9yc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/78381_7h4k0qi0z"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/esv4tktzzvz1-uu"
+            }
+        ]
+    }
+}

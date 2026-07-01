@@ -1,0 +1,29 @@
+{
+    "post_title": "Bombay Velvet (2015)",
+    "post_type": "movie",
+    "tmdb_id": 316654,
+    "imdb_id": "tt2979920",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6j9pza9cspjw6sc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wnn14n04ryo_ddk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1b11cbp1ko1mlfx"
+            }
+        ]
+    }
+}

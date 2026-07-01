@@ -1,0 +1,34 @@
+{
+    "post_title": "Aanandam Paramanandam (2022)",
+    "post_type": "movie",
+    "tmdb_id": 964633,
+    "imdb_id": "tt21946198",
+    "languages": [
+        "Hindi",
+        "Kannada"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/y9lztz9ld-jg-sx"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lacp6ltc-hr4iwt"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/7ar7eiohneenphq"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dybf16oj0jxb0r_"
+            }
+        ]
+    }
+}

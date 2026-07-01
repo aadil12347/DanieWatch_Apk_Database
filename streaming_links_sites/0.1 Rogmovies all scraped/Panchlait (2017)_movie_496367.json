@@ -1,0 +1,41 @@
+{
+    "post_title": "Panchlait (2017)",
+    "post_type": "movie",
+    "tmdb_id": 496367,
+    "imdb_id": "tt7571718",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0itrqfotoi6nfwt"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1ohpv5c1avc1nrc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jv1nsaaaqqp1ww4"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/x23dofiokddbf52"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/raj_g4thpt-v4ta"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1oc14cc11c1ncxa"
+            }
+        ]
+    }
+}

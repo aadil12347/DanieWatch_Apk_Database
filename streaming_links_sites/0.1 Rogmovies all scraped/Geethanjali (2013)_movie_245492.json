@@ -1,0 +1,24 @@
+{
+    "post_title": "Geethanjali (2013)",
+    "post_type": "movie",
+    "tmdb_id": 245492,
+    "imdb_id": "tt3322506",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=bHpUU2ZMbEloWEdGenJWb245QU8wTEpkTjNoZWZicExNYzZRY0ZHQXNMa01seXdwT21iV0xoNXBJYWNBTFIzSA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=MUdFVTJ3cENaTEh4MndSYjMvYUs2bEY5V3hSSVlUa3MvcjVsVnF3RWdtek1paXRUdVRvOXo4c3YwN1dQNUF5MQ=="
+            }
+        ],
+        "1080p": []
+    }
+}

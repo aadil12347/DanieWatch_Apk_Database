@@ -1,0 +1,33 @@
+{
+    "post_title": "Angithee 3 (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1257361,
+    "imdb_id": "tt31601577",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jam0j02sg-sfgws"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rb2tc3p241u3nqe"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/026_xr26e0_2ozy"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pk9yhnzi1f-ufnw"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Zombivli (2022)",
+    "post_type": "movie",
+    "tmdb_id": 814609,
+    "imdb_id": "tt12915842",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zwufnozd1uld22w"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sogu-hsza1sns9a"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/6yjj3khve9ek3es"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7bywwyc17lufcbf"
+            }
+        ]
+    }
+}

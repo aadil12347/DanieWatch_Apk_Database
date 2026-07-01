@@ -1,0 +1,34 @@
+{
+    "post_title": "White Rose (2024)",
+    "post_type": "movie",
+    "tmdb_id": 927917,
+    "imdb_id": "tt17073540",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1nvbrrqbielvkav"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/umxfz4huskitjwi"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/apf22s-aa1iofpa"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_alq01t2ijlolzf"
+            }
+        ]
+    }
+}

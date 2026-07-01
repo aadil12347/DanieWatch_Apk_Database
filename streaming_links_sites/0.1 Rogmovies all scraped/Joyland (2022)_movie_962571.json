@@ -1,0 +1,33 @@
+{
+    "post_title": "Joyland (2022)",
+    "post_type": "movie",
+    "tmdb_id": 962571,
+    "imdb_id": "tt19719976",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/resm4xk7keq1min"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cd7iuukei1sseie"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1llk0xadm5gno5x"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6dut1c1tufznjuz"
+            }
+        ]
+    }
+}

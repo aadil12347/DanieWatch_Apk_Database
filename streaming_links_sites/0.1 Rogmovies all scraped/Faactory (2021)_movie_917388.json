@@ -1,0 +1,29 @@
+{
+    "post_title": "Faactory (2021)",
+    "post_type": "movie",
+    "tmdb_id": 917388,
+    "imdb_id": "tt13013820",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/imlss_zkzunncmk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2qasgqurzssqdad"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dx3fricoc1ww9r9"
+            }
+        ]
+    }
+}

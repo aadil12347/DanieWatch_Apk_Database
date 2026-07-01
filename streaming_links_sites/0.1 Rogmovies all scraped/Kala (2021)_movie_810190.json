@@ -1,0 +1,33 @@
+{
+    "post_title": "Kala (2021)",
+    "post_type": "movie",
+    "tmdb_id": 810190,
+    "imdb_id": "tt12687276",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pbf1_j8p1smscci"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j6tj3d1kmbtxt4t"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ahqixkiqee0qd_i"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e3noo54e59a5ese"
+            }
+        ]
+    }
+}

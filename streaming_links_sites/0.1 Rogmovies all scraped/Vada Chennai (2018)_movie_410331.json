@@ -1,0 +1,29 @@
+{
+    "post_title": "Vada Chennai (2018)",
+    "post_type": "movie",
+    "tmdb_id": 410331,
+    "imdb_id": "tt5959980",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9tkkz9hk1vuz91g"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zu8av5lhnszlvxz"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9o1ow0xg-0ahgmx"
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "post_title": "Bhairavam (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1388451,
+    "imdb_id": "tt34442678",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_mql1gxo1ools1x"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h3xxefc2xp2bdxz"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/sa7fcwwezyxyaer"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/aa79dzplo0o_0q_"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/02diwld7ds5u7ug"
+            }
+        ]
+    }
+}

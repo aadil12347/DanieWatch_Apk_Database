@@ -1,0 +1,26 @@
+{
+    "post_title": "Ties That Bind (2015)",
+    "post_type": "series",
+    "tmdb_id": 63610,
+    "imdb_id": "tt4671682",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=VCtWQ0xvcTdjTm05S09ja2Q2T1dUTnprK21RYURKUnVVVXIvQ04wcWZTdjhsRzkrT1FnWXk2SkZndmk3aGJ0QQ=="
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=YmVqZzdhMU5uMVMrVlJZL2xLdjlaa1d2aXozNXFrUTE3UEZxSUJmelV0UUFZeWt2WktJK1pINW5Vc0E5WnJENA=="
+                }
+            ]
+        }
+    }
+}

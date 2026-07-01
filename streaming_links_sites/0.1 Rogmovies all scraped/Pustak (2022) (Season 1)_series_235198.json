@@ -1,0 +1,32 @@
+{
+    "post_title": "Pustak (2022)",
+    "post_type": "series",
+    "tmdb_id": 235198,
+    "imdb_id": "tt23636016",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/5wkx5wqvsbbguvv"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/eel6szz3cisl3lh"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/wmr4gmmvfugmv4r"
+                }
+            ]
+        }
+    }
+}

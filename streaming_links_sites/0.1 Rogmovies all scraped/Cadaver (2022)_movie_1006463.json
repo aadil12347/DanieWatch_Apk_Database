@@ -1,0 +1,44 @@
+{
+    "post_title": "Cadaver (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1006463,
+    "imdb_id": "tt11102262",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mvhhnjw1-nfsnmh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yzrhvhmfzu1edef"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/f1yhb4muv9mtptt"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b_8d19819z1qdbn"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/op1dhopkmbolave"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yjtm99u5lcakaf5"
+            }
+        ]
+    }
+}

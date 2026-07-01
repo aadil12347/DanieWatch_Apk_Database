@@ -1,0 +1,29 @@
+{
+    "post_title": "Udta Punjab (2016)",
+    "post_type": "movie",
+    "tmdb_id": 398535,
+    "imdb_id": "tt4434004",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/12vnr7pf9vperpu"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fyhwfy0apl5dyh6"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jznspbsbddiudjs"
+            }
+        ]
+    }
+}

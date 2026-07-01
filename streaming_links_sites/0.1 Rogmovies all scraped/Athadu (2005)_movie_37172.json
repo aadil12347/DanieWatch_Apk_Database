@@ -1,0 +1,33 @@
+{
+    "post_title": "Athadu (2005)",
+    "post_type": "movie",
+    "tmdb_id": 37172,
+    "imdb_id": "tt0471571",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9r3ttjunuar9kyr"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/al_uupken9_z_rn"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ixc9dexh8kexez8"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/aq5nfbn2nsbah7h"
+            }
+        ]
+    }
+}

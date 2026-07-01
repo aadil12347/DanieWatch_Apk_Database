@@ -1,0 +1,29 @@
+{
+    "post_title": "Kala Shehar (2021)",
+    "post_type": "movie",
+    "tmdb_id": 870353,
+    "imdb_id": "tt15338698",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=YXdSUTJjc1Jka00xbmczT2t0dEcxTFJUQlk4NlJ0SXI0WGs1a1I0UkJuQ1pTbnAyVjlybW1rS0F0T2laazlRNA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=M0l6L0ZJS0wreUNhUXQyaEF4SHBrbkJYRFdOYkkzd3o0dFFrZGdEU3RqeitWN28rN0xYTWx3UnV0M1FvR2ZMYw=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=emZnR0JNWHc1VXRuY0tvbWhsZmo5bnhOTjh0Slc3cTAvRGVsQU5YVnVEbVE2MWxNbkNJSlpLcDMweTZXWUNUbA=="
+            }
+        ]
+    }
+}

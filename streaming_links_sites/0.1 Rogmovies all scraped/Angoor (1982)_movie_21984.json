@@ -1,0 +1,29 @@
+{
+    "post_title": "Angoor (1982)",
+    "post_type": "movie",
+    "tmdb_id": 21984,
+    "imdb_id": "tt0215517",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6sqd9ksnlsl8tnl"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zpwyzyyq5sivpzy"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e_4ccg1l4caoce1"
+            }
+        ]
+    }
+}

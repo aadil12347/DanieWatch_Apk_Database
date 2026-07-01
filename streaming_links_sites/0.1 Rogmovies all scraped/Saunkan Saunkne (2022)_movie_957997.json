@@ -1,0 +1,37 @@
+{
+    "post_title": "Saunkan Saunkne (2022)",
+    "post_type": "movie",
+    "tmdb_id": 957997,
+    "imdb_id": "tt14230846",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j5qyzpyvmdjyl5l"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fq6k2kqw2xjlu6z"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/kx2wrxna53ygf3k"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/41y1app0pyynqm0"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/enhhhh0gfii13ka"
+            }
+        ]
+    }
+}

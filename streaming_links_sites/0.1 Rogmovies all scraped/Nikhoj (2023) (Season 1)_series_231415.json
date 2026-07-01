@@ -1,0 +1,33 @@
+{
+    "post_title": "Nikhoj (2023)",
+    "post_type": "series",
+    "tmdb_id": 231415,
+    "imdb_id": "tt28501295",
+    "languages": [
+        "Hindi",
+        "Bengali"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/jkko4uvij6cj4ju"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/a9u1vk6ieamyhih"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/sb3saezb0ehg1sq"
+                }
+            ]
+        }
+    }
+}

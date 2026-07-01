@@ -1,0 +1,33 @@
+{
+    "post_title": "London Misal (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1211387,
+    "imdb_id": "tt27557226",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1eydwxgzl1h1rey"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/twhzszgs1vsv5vg"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/-tax-ttu-sa1h5a"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/taf31vat7-vox7s"
+            }
+        ]
+    }
+}

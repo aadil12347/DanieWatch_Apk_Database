@@ -1,0 +1,33 @@
+{
+    "post_title": "Chanakya (2019)",
+    "post_type": "movie",
+    "tmdb_id": 607885,
+    "imdb_id": "tt8933650",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-n8y_g-kopey31l"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lcr1eertlher3eq"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/m1sagnighh8sk1p"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lyqjtcqi-wcptop"
+            }
+        ]
+    }
+}

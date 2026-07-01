@@ -1,0 +1,34 @@
+{
+    "post_title": "Ulidavaru Kandanthe (2014)",
+    "post_type": "movie",
+    "tmdb_id": 262476,
+    "imdb_id": "tt3394420",
+    "languages": [
+        "Hindi",
+        "Kannada"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/71ymntxqlv7wzvt"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cokpw5b38r8ugpg"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/urbthh3shw3m1pr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q9qmii7agj0ix5h"
+            }
+        ]
+    }
+}

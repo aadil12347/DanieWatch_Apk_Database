@@ -1,0 +1,24 @@
+{
+    "post_title": "Omme Nishyabda Omme Yudda",
+    "post_type": "movie",
+    "tmdb_id": null,
+    "imdb_id": "tt12374500",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hr0glkqycpsszbh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/55weeorvpewzv2k"
+            }
+        ],
+        "1080p": []
+    }
+}

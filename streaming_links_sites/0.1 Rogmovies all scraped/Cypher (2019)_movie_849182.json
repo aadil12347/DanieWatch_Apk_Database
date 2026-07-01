@@ -1,0 +1,24 @@
+{
+    "post_title": "Cypher (2019)",
+    "post_type": "movie",
+    "tmdb_id": 849182,
+    "imdb_id": "tt10179154",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=M0F0cG5sY2F0ZGc5UEh5Y3FUSGRlOU9vbm0zbWVHWDJId0NDVmFtS2JlS0Q2RW11dGZTZTVYaEx1TFgwYitRaw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=ZktueEVUOEZVbXQvZis2ZUNWWVhIYmJHZHBzMURzUUUrT1UwSkpCVWFWazBhL1FjMnZ6TW1yV0J2U2VXNFdObQ=="
+            }
+        ],
+        "1080p": []
+    }
+}

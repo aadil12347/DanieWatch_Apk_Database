@@ -1,0 +1,38 @@
+{
+    "post_title": "Atithi Devobhava (2022)",
+    "post_type": "movie",
+    "tmdb_id": 890107,
+    "imdb_id": "tt15341118",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hu6cdy_bdhuzdey"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ce1vcz0vnbvmsbv"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/clkbxkmkc-tmbty"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eu5g1rea6_d9fde"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/5dfu69jduodmeoc"
+            }
+        ]
+    }
+}

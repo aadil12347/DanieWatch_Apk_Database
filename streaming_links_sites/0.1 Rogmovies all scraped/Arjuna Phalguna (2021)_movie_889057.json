@@ -1,0 +1,33 @@
+{
+    "post_title": "Arjuna Phalguna (2021)",
+    "post_type": "movie",
+    "tmdb_id": 889057,
+    "imdb_id": "tt14072690",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kfo4lajffo54lpc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/02sxeqxv82jivsr"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/pe81veyyppfez1l"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qv4govt1pfas6tm"
+            }
+        ]
+    }
+}

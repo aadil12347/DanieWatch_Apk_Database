@@ -1,0 +1,33 @@
+{
+    "post_title": "Rishton Ka Chakravyuh (2017)",
+    "post_type": "series",
+    "tmdb_id": 75240,
+    "imdb_id": "tt7236124",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/i1i5-dqbwlj5xqo"
+                }
+            ],
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/1oecncpqjieqohp"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/ldo2mvun6mmlh1h"
+                }
+            ]
+        }
+    }
+}

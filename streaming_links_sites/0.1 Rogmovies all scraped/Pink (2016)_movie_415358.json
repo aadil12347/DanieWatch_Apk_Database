@@ -1,0 +1,29 @@
+{
+    "post_title": "Pink (2016)",
+    "post_type": "movie",
+    "tmdb_id": 415358,
+    "imdb_id": "tt5571734",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=RmJXOWNoQ3JWNDFscW9qckQvUFVDRmhMZC9jZXhKYi93THZFY3VHYXROOGs2aFphazNMZ05HYUdxZEUzdlFneg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=VkFweVpZRzBGakJGbTRuS2RoakdtQVBUTmdSS2tFajcrSjcvYmFOdGlxWnVQZnpVY3prWFhPRHpwRm9pbFFDOA=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=NlYwZTErcXZDRkgwUk4rdHlzMjBObVZ0MWk5V2pHaE1kWTQweWxMVUUyRW1BdWZXOThhTnNLQTZhYlJIUWlZZA=="
+            }
+        ]
+    }
+}

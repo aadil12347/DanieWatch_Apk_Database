@@ -1,0 +1,38 @@
+{
+    "post_title": "Case of Kondana (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1230162,
+    "imdb_id": "tt30429449",
+    "languages": [
+        "Hindi",
+        "Kannada"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yuqkoaq7vv3gqva"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ar--6nnky1ngnke"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/uabpdlt_vyo6k1_"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i19t5m_llfmztmt"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/i19t5m_llfmztmt"
+            }
+        ]
+    }
+}

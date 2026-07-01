@@ -1,0 +1,33 @@
+{
+    "post_title": "Afwaah (2023)",
+    "post_type": "movie",
+    "tmdb_id": 939423,
+    "imdb_id": "tt15832148",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/27n7cm79vbmar00"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ogllpgml11pzpeo"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o3x0k4lkt4tj3m8"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/orb17pwf4-2cvdq"
+            }
+        ]
+    }
+}

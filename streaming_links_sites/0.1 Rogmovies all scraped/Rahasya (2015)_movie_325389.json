@@ -1,0 +1,29 @@
+{
+    "post_title": "Rahasya (2015)",
+    "post_type": "movie",
+    "tmdb_id": 325389,
+    "imdb_id": "tt3337550",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4qfitjqe2iut4x1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xpq96z7k1ddzge7"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dwb0w00tmiap1t_"
+            }
+        ]
+    }
+}

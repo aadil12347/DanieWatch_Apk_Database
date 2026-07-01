@@ -1,0 +1,30 @@
+{
+    "post_title": "Gaalodu (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1046083,
+    "imdb_id": "tt21378182",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iey_1eugiqy1uce"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v2lw2nli7osg7ci"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s1s2wpjw1awbwkp"
+            }
+        ]
+    }
+}

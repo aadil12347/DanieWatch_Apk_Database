@@ -1,0 +1,29 @@
+{
+    "post_title": "Dear Vaappi (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1008621,
+    "imdb_id": "tt21609938",
+    "languages": [
+        "Malayalam"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pntyuqyftbf0tx1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1n31kuzi4u1ozng"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4lv400wdv0olpdv"
+            }
+        ]
+    }
+}

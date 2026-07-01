@@ -1,0 +1,34 @@
+{
+    "post_title": "Afsos (2020)",
+    "post_type": "series",
+    "tmdb_id": 99109,
+    "imdb_id": "tt10174244",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/911z8c3schvy6hr"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://vcloud.zip/m1hyxv3j0jaujh-"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/3trmio3q9gsy5qq"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://vcloud.zip/7rrpqk0gy1vw_x8"
+                }
+            ]
+        }
+    }
+}

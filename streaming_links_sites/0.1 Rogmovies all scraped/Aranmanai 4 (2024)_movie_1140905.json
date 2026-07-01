@@ -1,0 +1,44 @@
+{
+    "post_title": "Aranmanai 4 (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1140905,
+    "imdb_id": "tt26493971",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c0oq9covo1e0tot"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/idhxl7mihetqbex"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/d1934dnymy4hnp3"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dmerqh4hnoexk0c"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/nc2sgrsmzg1vhlc"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i31p4m4z3casaul"
+            }
+        ]
+    }
+}

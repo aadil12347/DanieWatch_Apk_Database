@@ -1,0 +1,29 @@
+{
+    "post_title": "Vijayanand (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1057367,
+    "imdb_id": "tt15373738",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7ky_1zk_go1ozvq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/llzs4zuu9em1drc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qmjejqjfdfwpxfl"
+            }
+        ]
+    }
+}

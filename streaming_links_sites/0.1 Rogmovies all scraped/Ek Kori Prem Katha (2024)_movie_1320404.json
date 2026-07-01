@@ -1,0 +1,33 @@
+{
+    "post_title": "Ek Kori Prem Katha (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1320404,
+    "imdb_id": "tt27208639",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q5uil9cn22l2ufl"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xci3llx3iwqlgkt"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/eez34uf5zone51c"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/elfzs6pwpistwpt"
+            }
+        ]
+    }
+}

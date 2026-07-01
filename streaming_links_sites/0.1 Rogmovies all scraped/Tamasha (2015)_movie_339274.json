@@ -1,0 +1,29 @@
+{
+    "post_title": "Tamasha (2015)",
+    "post_type": "movie",
+    "tmdb_id": 339274,
+    "imdb_id": "tt3148502",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a1f05mufqhnhktc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sbfpbvfaabo4sqt"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0vplpaah-f1ziaw"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Rang Panjab (2018)",
+    "post_type": "movie",
+    "tmdb_id": 564335,
+    "imdb_id": "tt8316026",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=MDQ4dHZ3a0lXOGI5M2R5Q2I4Z2tRcGR2R2xZVzUxZjNKRU90S2JMUGV2NGdFMW5Ma1dEMVdyNitYOVZPRksxQw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=YmRSTE1HZ0lnSVBKNEpvV0NQQXNoODQranlrNXNSajdoSkJza29wcEVnSU8rVHJkMnZJekJFa2FqSXJVelk1dg=="
+            }
+        ],
+        "1080p": []
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "post_title": "Hekimoğlu (2019)",
+    "post_type": "series",
+    "tmdb_id": 96342,
+    "imdb_id": "tt11256260",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=WFpCaTY1YklySGw2SlZ0K1JmNWxIelNxVldoblNvQlY2enUxS3UycnRpOUUzYW5GRXpWV2htcDltUitOdHZmbw=="
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Drive-[No Login]",
+                    "link": "https://vcloud.zip/api/index.php?link=dUtqZVpQSE1BSGZIbGV2U0xKYmhkTHRTZ0NvTFZ6M3ZhckYwMm5sRW9MYVZrK1lkcUpCWjIvdy9KR3d4cHNISw=="
+                }
+            ]
+        }
+    }
+}

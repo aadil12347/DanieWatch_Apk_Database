@@ -1,0 +1,37 @@
+{
+    "post_title": "Bade Miyan Chote Miyan (2024)",
+    "post_type": "movie",
+    "tmdb_id": 936622,
+    "imdb_id": "tt18072316",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6v_utkpbmgbbaya"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dop6apao8okria6"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ctgnvvadxcogusq"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oxfq01th_3or33f"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ttcu5i5zcl0vpnh"
+            }
+        ]
+    }
+}

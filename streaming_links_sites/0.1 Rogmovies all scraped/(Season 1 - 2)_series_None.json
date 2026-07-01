@@ -1,0 +1,52 @@
+{
+    "post_title": "Bhalobashar Bari",
+    "post_type": "series",
+    "tmdb_id": null,
+    "imdb_id": "tt37530417",
+    "languages": [
+        "Bengali",
+        "Hindi",
+        "English"
+    ],
+    "total_seasons": 2,
+    "seasons": {
+        "1": {
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/pb37pvpm7m4zlb1"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/yy181n1i1qrs11w"
+                }
+            ],
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/wajykqy1dmj1zsk"
+                }
+            ]
+        },
+        "2": {
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/f9-_mv331scv4em"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://vcloud.zip/9c3cy7dhzvz1vpj"
+                }
+            ],
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/api/index.php?link=THRKZng5NEFsU1NZVHRWT09YdHZXTkxiRmF5Y1dBTGl1bzVveE9CTVdJZW9nZHN1K2QycVZFQ3BXYmJLTnlmVw=="
+                }
+            ]
+        }
+    }
+}

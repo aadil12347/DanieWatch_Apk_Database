@@ -1,0 +1,29 @@
+{
+    "post_title": "Fandry (2013)",
+    "post_type": "movie",
+    "tmdb_id": 230846,
+    "imdb_id": "tt2827320",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eyix5fe4axeey1m"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pqsp2xywqwq7szx"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g2pibl6vyw441_b"
+            }
+        ]
+    }
+}

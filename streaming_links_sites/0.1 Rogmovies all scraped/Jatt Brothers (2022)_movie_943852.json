@@ -1,0 +1,33 @@
+{
+    "post_title": "Jatt Brothers (2022)",
+    "post_type": "movie",
+    "tmdb_id": 943852,
+    "imdb_id": "tt17278510",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o6jfggl44-y6tsq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oc9c9m1g4c98cpe"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/yrs68s4s7e6skks"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/10c1ctdhx7gzdnd"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Bakasuran (2023)",
+    "post_type": "movie",
+    "tmdb_id": 981371,
+    "imdb_id": "tt21926684",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ss3zxfcaxh6d3d0"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/91k9n9cnok9p2n5"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/91k9n9cnok9p2n5"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lvs_ammeiohkvlo"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Rangula Ratnam (2018)",
+    "post_type": "movie",
+    "tmdb_id": 499373,
+    "imdb_id": "tt7820526",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n1kfdy31n5uu1do"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/edkpdddceyyfpeq"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/udmstxu1lvyaytu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i1uli-ylntxwxut"
+            }
+        ]
+    }
+}

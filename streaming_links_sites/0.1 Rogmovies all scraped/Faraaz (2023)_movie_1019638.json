@@ -1,0 +1,41 @@
+{
+    "post_title": "Faraaz (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1019638,
+    "imdb_id": "tt15175188",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/45v4uk54aoqooho"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ugdgexnx4xod41l"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/todkzg2s1sg6box"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/9lpr4raw9l9_l4p"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/trgamawlg8nx1lg"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/igubqv4nuqaquak"
+            }
+        ]
+    }
+}

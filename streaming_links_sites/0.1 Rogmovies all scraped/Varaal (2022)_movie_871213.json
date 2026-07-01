@@ -1,0 +1,34 @@
+{
+    "post_title": "Varaal (2022)",
+    "post_type": "movie",
+    "tmdb_id": 871213,
+    "imdb_id": "tt15354110",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zwjzvver8se6rzd"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iddgmtdrzzrm11g"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wsiudtdfia03t7u"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dafon1nz9d59vaz"
+            }
+        ]
+    }
+}

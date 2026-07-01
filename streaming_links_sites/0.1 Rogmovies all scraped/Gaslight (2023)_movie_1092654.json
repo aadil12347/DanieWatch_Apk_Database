@@ -1,0 +1,43 @@
+{
+    "post_title": "Gaslight (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1092654,
+    "imdb_id": "tt27012110",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7aiaq11atdsuaqs"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xxnviixwuyhb6wj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/7hd1odqga7udtuk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m2iiomi-7vao3oj"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7bfyd1wwxxfwwyd"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/umvh6usq1lz6-_k"
+            }
+        ]
+    }
+}

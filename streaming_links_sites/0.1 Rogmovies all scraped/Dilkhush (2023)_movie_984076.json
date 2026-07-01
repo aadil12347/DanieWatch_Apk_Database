@@ -1,0 +1,29 @@
+{
+    "post_title": "Dilkhush (2023)",
+    "post_type": "movie",
+    "tmdb_id": 984076,
+    "imdb_id": "tt22543474",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3aqtfatavw1eata"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8xt1mimxmm1k1ou"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pwo51utj1xdwsyf"
+            }
+        ]
+    }
+}

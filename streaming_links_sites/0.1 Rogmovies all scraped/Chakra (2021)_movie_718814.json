@@ -1,0 +1,33 @@
+{
+    "post_title": "Chakra (2021)",
+    "post_type": "movie",
+    "tmdb_id": 718814,
+    "imdb_id": "tt11640022",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3hh2lrckhaj8a3l"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qsvfkuksfgsyfey"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/asv2gqmmcch2qqy"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nvnbnwxoh2npjww"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Paappan (2022)",
+    "post_type": "movie",
+    "tmdb_id": 845343,
+    "imdb_id": "tt14056670",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m7xrtsmlgweyde0"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/etv9d1eirac169d"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/cd1141f6ee8s-fs"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7cmcdroc17pdnc9"
+            }
+        ]
+    }
+}

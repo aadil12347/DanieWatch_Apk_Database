@@ -1,0 +1,43 @@
+{
+    "post_title": "FIR (2022)",
+    "post_type": "movie",
+    "tmdb_id": 667255,
+    "imdb_id": "tt11468258",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j4ab5lj4gwb-l4p"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jn-nh-sn6li-bzj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/glmmg3zhi4lii1n"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9jhr9gpawczcwhb"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/zarzdd2zxdr9xoo"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4qx_1cqp11hhx4l"
+            }
+        ]
+    }
+}

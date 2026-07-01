@@ -1,0 +1,24 @@
+{
+    "post_title": "Jugni (2016)",
+    "post_type": "movie",
+    "tmdb_id": 400484,
+    "imdb_id": "tt3453964",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=anhMT01BTFVhVzJuQ0NPNVZRZWh1ejRDaHJjV2F1V0JqenEwMm5TMzljNHhxSWRrNzRZSVpQd29UQmUwR3ZVTg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=SncyL3BYZEZHaWFjMlNOTXVBVWFIc3llWlVXWStVdXVLZmJGSGZTdU9VYnBGNXJVTjNSUXpub1ZXSlRxWEMxZg=="
+            }
+        ],
+        "1080p": []
+    }
+}

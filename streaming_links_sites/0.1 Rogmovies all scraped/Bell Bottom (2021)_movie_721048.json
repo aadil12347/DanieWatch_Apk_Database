@@ -1,0 +1,33 @@
+{
+    "post_title": "Bell Bottom (2021)",
+    "post_type": "movie",
+    "tmdb_id": 721048,
+    "imdb_id": "tt11260832",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0jklpl2o0kx30lz"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n5n7gnn5zgrp0zr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8bwl6g6j4g8glqp"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/weugbdx1kyd4xxw"
+            }
+        ]
+    }
+}

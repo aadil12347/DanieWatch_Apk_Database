@@ -1,0 +1,34 @@
+{
+    "post_title": "Poikkal Kuthirai (2022)",
+    "post_type": "movie",
+    "tmdb_id": 894074,
+    "imdb_id": "tt15056872",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t-7orw71gsw7dbn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c1lsspl1g1jhl7d"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mekec44_1qgr14f"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q6aoaiuza69dmtv"
+            }
+        ]
+    }
+}

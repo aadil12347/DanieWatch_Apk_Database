@@ -1,0 +1,34 @@
+{
+    "post_title": "Chilli Chicken (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1305602,
+    "imdb_id": "tt28054637",
+    "languages": [
+        "Hindi",
+        "Kannada"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iaccjxnqjfyymwk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ollxfw1jmyuynah"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/bpsop4rnrd1x11n"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1i9riv4jij496pm"
+            }
+        ]
+    }
+}

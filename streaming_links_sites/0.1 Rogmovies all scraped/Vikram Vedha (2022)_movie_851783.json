@@ -1,0 +1,41 @@
+{
+    "post_title": "Vikram Vedha (2022)",
+    "post_type": "movie",
+    "tmdb_id": 851783,
+    "imdb_id": "tt13131350",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pfuzdm21pxpkup1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1opo2w2rwlljpwp"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/6ttvrlwkvbjoial"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4aqbuaqubnrnnr6"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/atkssuso1qznauq"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/7y51ekmu55f1bfg"
+            }
+        ]
+    }
+}

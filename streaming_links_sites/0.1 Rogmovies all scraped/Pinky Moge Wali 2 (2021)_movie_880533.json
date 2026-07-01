@@ -1,0 +1,33 @@
+{
+    "post_title": "Pinky Moge Wali 2 (2021)",
+    "post_type": "movie",
+    "tmdb_id": 880533,
+    "imdb_id": "tt15416126",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [Cloud]",
+                "link": "https://vcloud.zip/api/index.php?link=ZWF5S1hvanpUQ3JGTlFFaHR4YjhKUHYxcVdXc1ZpU0wvK1Y2V3BpcVloWFRhRmpWalZKWlMvSXZKRnJHQU1aRQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [Cloud]",
+                "link": "https://vcloud.zip/api/index.php?link=bE5pU1VBckZhaTZzSHAxd0FGY0s0MHQ5MGdaSkl6c3Z6dFl2TVExbzNReHV6RTlxU2xXZnhxc1N0STdzV0JKbQ=="
+            },
+            {
+                "episode_title": "G-Drive [Cloud]",
+                "link": "https://vcloud.zip/api/index.php?link=cUNQTE1NZEJGbURNRHQxc3A3ZUZIZzhqUllxR2gwaitQWk8zVmpwMWcrSlFsYXQxRjJDZGJsRTZFQWFKR1cvNQ=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "G-Drive [Cloud]",
+                "link": "https://vcloud.zip/api/index.php?link=V3hyT3BrSnAzalZGWkpzK1JkWWpsWVNlczJXRERZR0JTNEc5SEUrSzkrMENFNGU1VklTQzJlYVVBSjhjdXZxSQ=="
+            }
+        ]
+    }
+}

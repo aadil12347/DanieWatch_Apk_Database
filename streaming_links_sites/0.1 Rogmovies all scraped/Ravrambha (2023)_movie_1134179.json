@@ -1,0 +1,29 @@
+{
+    "post_title": "Ravrambha (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1134179,
+    "imdb_id": "tt15464420",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c9kcmhapd1srzee"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xx80yooiyfiqt8k"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yl5enktektdbd1l"
+            }
+        ]
+    }
+}

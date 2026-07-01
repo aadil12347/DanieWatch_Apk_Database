@@ -1,0 +1,34 @@
+{
+    "post_title": "Drushyam 2 (2021)",
+    "post_type": "movie",
+    "tmdb_id": 847767,
+    "imdb_id": "tt14176094",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zpxwxsppkzpz1oa"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z18eo8mheaogjqg"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/5415gmswfpwwmnv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/upyizy2k02yiono"
+            }
+        ]
+    }
+}

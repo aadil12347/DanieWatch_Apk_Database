@@ -1,0 +1,34 @@
+{
+    "post_title": "Tughlaq Durbar (2021)",
+    "post_type": "movie",
+    "tmdb_id": 620637,
+    "imdb_id": "tt9769668",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/22soj-zr2xjjjde"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gqk181qitugyn7i"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vctevt6heh46vkv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qaaqvkwmmmjklwq"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Bihu Attack",
+    "post_type": "movie",
+    "tmdb_id": null,
+    "imdb_id": "tt32065626",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rcrcp1cgdqgcta1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zhloopxz1ltdogt"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h__vpnpzgk_q1nn"
+            }
+        ]
+    }
+}

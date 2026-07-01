@@ -1,0 +1,37 @@
+{
+    "post_title": "Maaveeran (2023)",
+    "post_type": "movie",
+    "tmdb_id": 987895,
+    "imdb_id": "tt22543326",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3d-qt-o_ug3tnkx"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4ymvyv9symp15g4"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/8djjvvn8djqd2nj"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/31a7y3a7azw6q1t"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/juzq2mkzzhihi5_"
+            }
+        ]
+    }
+}

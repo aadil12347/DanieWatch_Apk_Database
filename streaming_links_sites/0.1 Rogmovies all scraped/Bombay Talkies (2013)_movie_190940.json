@@ -1,0 +1,29 @@
+{
+    "post_title": "Bombay Talkies (2013)",
+    "post_type": "movie",
+    "tmdb_id": 190940,
+    "imdb_id": "tt2797242",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k3sqssg7mmvg7ga"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w8ye-g3w8xnnxlw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bop7k7sssm07z5l"
+            }
+        ]
+    }
+}

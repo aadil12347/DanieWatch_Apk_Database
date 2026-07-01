@@ -1,0 +1,34 @@
+{
+    "post_title": "Kali Jotta (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1071819,
+    "imdb_id": "tt15464742",
+    "languages": [
+        "English",
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o2_ywds0grw_2o6"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8vmy-cc8bvkvm1l"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/4t1el4st-6l-_m1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jvmhxhaumc8axeb"
+            }
+        ]
+    }
+}

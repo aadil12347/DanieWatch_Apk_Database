@@ -1,0 +1,37 @@
+{
+    "post_title": "Pill (2024)",
+    "post_type": "series",
+    "tmdb_id": 257669,
+    "imdb_id": "tt32729607",
+    "languages": [
+        "Hindi",
+        "Bengali"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/lld66ydgxzu6dku"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/zzq8gx9xhxfjx4z"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://vcloud.zip/rhiax3anzhmf1fm"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/iixqt91twdldtgh"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "post_title": "Mahapaap (2022)",
+    "post_type": "series",
+    "tmdb_id": 253703,
+    "imdb_id": "tt21071618",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/gt7g39jzlarjlvw"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/fdffnmo-sccd1rm"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/sigudlxgukb1dn3"
+                }
+            ]
+        }
+    }
+}

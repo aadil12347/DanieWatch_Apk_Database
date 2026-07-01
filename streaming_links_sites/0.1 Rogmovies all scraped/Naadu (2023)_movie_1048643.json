@@ -1,0 +1,34 @@
+{
+    "post_title": "Naadu (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1048643,
+    "imdb_id": "tt28182832",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rh22mr7m7qynr17"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/16_qqqjmhq4dbqm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xv8kgxxqvpgxqdk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hiokvk5dd4px4yy"
+            }
+        ]
+    }
+}

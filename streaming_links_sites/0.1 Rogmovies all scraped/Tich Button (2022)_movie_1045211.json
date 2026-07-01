@@ -1,0 +1,29 @@
+{
+    "post_title": "Tich Button (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1045211,
+    "imdb_id": "tt12259888",
+    "languages": [
+        "Urdu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lvv7f4c4mvcvemn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jwuddq40udld_tm"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bzb1lettbdhmghg"
+            }
+        ]
+    }
+}

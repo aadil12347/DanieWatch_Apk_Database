@@ -1,0 +1,33 @@
+{
+    "post_title": "Kaatera (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1212788,
+    "imdb_id": "tt26744208",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ixqxais0dtv8tdx"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g-ymoscosjpwcj1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/hvurunhyvokxyux"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ot1k9bzyox0yokj"
+            }
+        ]
+    }
+}

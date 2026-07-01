@@ -1,0 +1,29 @@
+{
+    "post_title": "Kooki (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1216872,
+    "imdb_id": "tt29310746",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dl2gbdmwg1my1s0"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f9qb4bffclwyj9s"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f1gzrjec5weiqvi"
+            }
+        ]
+    }
+}

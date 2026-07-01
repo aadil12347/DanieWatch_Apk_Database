@@ -1,0 +1,30 @@
+{
+    "post_title": "Keedam (2022)",
+    "post_type": "movie",
+    "tmdb_id": 896440,
+    "imdb_id": "tt15943910",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vyx55hhfqrh3tqx"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x7gkkpclhndlvuk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qlk6zg6w6iowjbh"
+            }
+        ]
+    }
+}

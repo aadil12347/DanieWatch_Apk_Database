@@ -1,0 +1,33 @@
+{
+    "post_title": "Googly (2019)",
+    "post_type": "movie",
+    "tmdb_id": 1092300,
+    "imdb_id": "tt10913120",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i96g_2ll1sdqq2g"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vrz8lzldcq8oiub"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/hnhxhqlhxw-x4d6"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qeesbmmxepcn-dq"
+            }
+        ]
+    }
+}

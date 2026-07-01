@@ -1,0 +1,33 @@
+{
+    "post_title": "Aagadu (2014)",
+    "post_type": "movie",
+    "tmdb_id": 294413,
+    "imdb_id": "tt2988020",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qcp88ju33qlhdro"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2zkzd1b4fkw21kz"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xgwygrnhwylxugz"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ynnaaf1mckpu1t1"
+            }
+        ]
+    }
+}

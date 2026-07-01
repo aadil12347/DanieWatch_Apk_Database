@@ -1,0 +1,29 @@
+{
+    "post_title": "Godavari (2021)",
+    "post_type": "movie",
+    "tmdb_id": 879142,
+    "imdb_id": "tt13098894",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m_3fv69iqlcimm6"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ibh1rgjt-m9mohg"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5q025ldy_41nu5t"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Kadamban (2017)",
+    "post_type": "movie",
+    "tmdb_id": 411311,
+    "imdb_id": "tt6722870",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9t9bat9e_aj3_1i"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nunyq9kdgtdunkq"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/5l-s52528q27e4b"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m13zplxxmlwix1a"
+            }
+        ]
+    }
+}

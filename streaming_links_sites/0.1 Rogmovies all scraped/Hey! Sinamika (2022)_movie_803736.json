@@ -1,0 +1,41 @@
+{
+    "post_title": "Hey! Sinamika (2022)",
+    "post_type": "movie",
+    "tmdb_id": 803736,
+    "imdb_id": "tt11953194",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ye_okq11wwr7_q-"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/to_zn1ydduiqdit"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1wsdssq54f4kzl4"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i1jpy1tpxputv31"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/nwclvl1_j7m5c4x"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/x8dks3ekksooj5f"
+            }
+        ]
+    }
+}

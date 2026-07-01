@@ -1,0 +1,37 @@
+{
+    "post_title": "Madam Chief Minister (2021)",
+    "post_type": "movie",
+    "tmdb_id": 782848,
+    "imdb_id": "tt13773882",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1f71qzshfqwf2kx"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k1r3kvg1acu3tcg"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ou99cpl-x0t1l9o"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s3v33sjbd3yp1le"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/17blwiiyv27mi2l"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Din - The Day (2022)",
+    "post_type": "movie",
+    "tmdb_id": 997936,
+    "imdb_id": "tt14668224",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3ew87-h0pxpeaw0"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1d1933z1nm3un1e"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/0u10u_bj4ppmgh4"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3rkwnorugown7a_"
+            }
+        ]
+    }
+}

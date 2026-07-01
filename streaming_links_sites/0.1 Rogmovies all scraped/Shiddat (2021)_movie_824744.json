@@ -1,0 +1,39 @@
+{
+    "post_title": "Shiddat (2021)",
+    "post_type": "movie",
+    "tmdb_id": 824744,
+    "imdb_id": "tt11314148",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iia4zj-qiq3jkjz"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w20wsureqwcls_6"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/i8miw86x87r8xwj"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6tw61ftjetcf2t6"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/itip6idip5rabpd"
+            }
+        ]
+    }
+}

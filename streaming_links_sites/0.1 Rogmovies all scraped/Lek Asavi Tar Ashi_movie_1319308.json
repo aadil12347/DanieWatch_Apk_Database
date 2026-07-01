@@ -1,0 +1,33 @@
+{
+    "post_title": "Lek Asavi Tar Ashi",
+    "post_type": "movie",
+    "tmdb_id": 1319308,
+    "imdb_id": "tt32026647",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vfmtiw-cz6tt6qd"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7nb_sdl21wcvblp"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/88_wmxnss2jnrhx"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hycrshdhzu3vusv"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Legend (2015)",
+    "post_type": "movie",
+    "tmdb_id": 276907,
+    "imdb_id": "tt3569230",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k5pmrbsmhrbr6r1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/r1ckpczove044op"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/hvbrebl7gwkrew7"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dv197qdcx-nbbh1"
+            }
+        ]
+    }
+}
