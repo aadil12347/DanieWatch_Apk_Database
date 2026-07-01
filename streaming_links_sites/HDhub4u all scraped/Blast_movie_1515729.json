@@ -1,0 +1,46 @@
+{
+    "post_title": "Blast",
+    "post_type": "movie",
+    "tmdb_id": 1515729,
+    "imdb_id": "tt37971394",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1849820638"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2711111414"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2346915457"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2050866556"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/7334862147"
+            }
+        ],
+        "4K SDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/14020868128"
+            }
+        ]
+    }
+}

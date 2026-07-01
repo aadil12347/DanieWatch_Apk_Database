@@ -1,0 +1,24 @@
+{
+    "post_title": "Rambo First Blood",
+    "post_type": "movie",
+    "tmdb_id": 1369,
+    "imdb_id": "tt0083944",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2619976009"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2215390464"
+            }
+        ]
+    }
+}

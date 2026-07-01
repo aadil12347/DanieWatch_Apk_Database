@@ -1,0 +1,29 @@
+{
+    "post_title": "Sarbjit",
+    "post_type": "movie",
+    "tmdb_id": 393421,
+    "imdb_id": "tt5120640",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1932923711"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1840880887"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4281257081"
+            }
+        ]
+    }
+}

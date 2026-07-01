@@ -1,0 +1,24 @@
+{
+    "post_title": "Prometheus",
+    "post_type": "movie",
+    "tmdb_id": 70981,
+    "imdb_id": "tt1446714",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2449406727"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3518655606"
+            }
+        ]
+    }
+}

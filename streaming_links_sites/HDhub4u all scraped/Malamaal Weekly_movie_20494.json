@@ -1,0 +1,39 @@
+{
+    "post_title": "Malamaal Weekly",
+    "post_type": "movie",
+    "tmdb_id": 20494,
+    "imdb_id": "tt0476805",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2057958797"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2364994640"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2953447110"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2691585869"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/3472946846"
+            }
+        ]
+    }
+}

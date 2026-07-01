@@ -1,0 +1,46 @@
+{
+    "post_title": "Bad Boys: Ride or Die",
+    "post_type": "movie",
+    "tmdb_id": 573435,
+    "imdb_id": "tt4919268",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1901740867"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1826153236"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2420164991"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3732042097"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/7487707866"
+            }
+        ],
+        "4K HEVC SDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/9418100471"
+            }
+        ]
+    }
+}

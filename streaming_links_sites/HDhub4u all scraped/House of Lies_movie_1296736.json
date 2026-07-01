@@ -1,0 +1,35 @@
+{
+    "post_title": "House of Lies",
+    "post_type": "movie",
+    "tmdb_id": 1296736,
+    "imdb_id": "tt32481179",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1944660654"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1912381390"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3036788066"
+            }
+        ],
+        "4K SDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2074101726"
+            }
+        ]
+    }
+}

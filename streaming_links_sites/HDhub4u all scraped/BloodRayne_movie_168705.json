@@ -1,0 +1,24 @@
+{
+    "post_title": "BloodRayne",
+    "post_type": "movie",
+    "tmdb_id": 168705,
+    "imdb_id": "tt0383222",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1963767796"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1889129120"
+            }
+        ]
+    }
+}

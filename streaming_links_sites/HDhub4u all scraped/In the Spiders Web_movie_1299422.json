@@ -1,0 +1,24 @@
+{
+    "post_title": "In the Spiders Web",
+    "post_type": "movie",
+    "tmdb_id": 1299422,
+    "imdb_id": "tt1065092",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1824342339"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2386149959"
+            }
+        ]
+    }
+}

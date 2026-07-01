@@ -1,0 +1,34 @@
+{
+    "post_title": "King",
+    "post_type": "movie",
+    "tmdb_id": 1543151,
+    "imdb_id": "tt14073780",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/0fufh08iai848hi"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/jt3et9jj53he5yh"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/jt3et9jj53he5yh"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubcloud.cx/drive/0fufh08iai848hi"
+            }
+        ]
+    }
+}

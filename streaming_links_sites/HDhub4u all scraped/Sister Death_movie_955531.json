@@ -1,0 +1,30 @@
+{
+    "post_title": "Sister Death",
+    "post_type": "movie",
+    "tmdb_id": 955531,
+    "imdb_id": "tt19175696",
+    "languages": [
+        "Hindi",
+        "Spanish"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698402254"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698402220"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698402144"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Shakespeare in Love",
+    "post_type": "movie",
+    "tmdb_id": 1934,
+    "imdb_id": "tt0138097",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1898406688"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2253436986"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3416442822"
+            }
+        ]
+    }
+}

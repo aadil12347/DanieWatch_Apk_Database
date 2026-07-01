@@ -1,0 +1,29 @@
+{
+    "post_title": "Kinds of Kindness",
+    "post_type": "movie",
+    "tmdb_id": 1029955,
+    "imdb_id": null,
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1925816459"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2105428565"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4193971587"
+            }
+        ]
+    }
+}

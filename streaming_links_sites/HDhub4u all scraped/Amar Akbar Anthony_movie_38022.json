@@ -1,0 +1,34 @@
+{
+    "post_title": "Amar Akbar Anthony",
+    "post_type": "movie",
+    "tmdb_id": 38022,
+    "imdb_id": "tt8107464",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/dtggtgvlodbqx1d"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/51cocyfgpu36yb1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubcloud.cx/drive/ob5o2s_bh8xqoyl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/e7ehddeqwgqdqde"
+            }
+        ]
+    }
+}

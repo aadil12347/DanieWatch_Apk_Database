@@ -1,0 +1,35 @@
+{
+    "post_title": "Maaran",
+    "post_type": "movie",
+    "tmdb_id": 1421358,
+    "imdb_id": "tt11730914",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1848390660"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1676869899"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2350313187"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2868227910"
+            }
+        ]
+    }
+}

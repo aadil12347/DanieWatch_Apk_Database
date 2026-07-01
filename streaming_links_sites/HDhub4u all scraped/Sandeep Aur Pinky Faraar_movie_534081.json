@@ -1,0 +1,29 @@
+{
+    "post_title": "Sandeep Aur Pinky Faraar",
+    "post_type": "movie",
+    "tmdb_id": 534081,
+    "imdb_id": "tt7094488",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2419712770"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1072658231"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/390732025"
+            }
+        ]
+    }
+}

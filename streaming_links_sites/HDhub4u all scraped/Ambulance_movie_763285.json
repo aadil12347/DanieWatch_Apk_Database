@@ -1,0 +1,36 @@
+{
+    "post_title": "Ambulance",
+    "post_type": "movie",
+    "tmdb_id": 763285,
+    "imdb_id": "tt4998632",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1998886814"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2351074449"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2900918596"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3845696450"
+            }
+        ]
+    }
+}

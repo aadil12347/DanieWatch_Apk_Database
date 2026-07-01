@@ -1,0 +1,30 @@
+{
+    "post_title": "Upon the Magic Roads",
+    "post_type": "movie",
+    "tmdb_id": 576784,
+    "imdb_id": "tt11390180",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1962450912"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1769318228"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/elhcl1x44uj3lvh"
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "post_title": "Hot Dog",
+    "post_type": "movie",
+    "tmdb_id": 956541,
+    "imdb_id": "tt6284564",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/480p.Hot.Dog.2018.UNCUT.Dual.Audio.Hindi.German-HDHub4u.mkv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/720p.Hot.Dog.2018.UNCUT.Dual.Audio.Hindi.German-HDHub4u.mkv"
+            }
+        ]
+    }
+}

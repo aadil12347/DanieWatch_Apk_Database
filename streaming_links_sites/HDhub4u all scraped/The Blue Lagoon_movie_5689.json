@@ -1,0 +1,24 @@
+{
+    "post_title": "The Blue Lagoon",
+    "post_type": "movie",
+    "tmdb_id": 5689,
+    "imdb_id": "tt0080453",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1779627240"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2356682820"
+            }
+        ]
+    }
+}

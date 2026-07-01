@@ -1,0 +1,51 @@
+{
+    "post_title": "Toxic Town",
+    "post_type": "series",
+    "tmdb_id": 232342,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/2237799996"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/1917668773"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://hubdrive.tips/file/2250383292"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://hubdrive.tips/file/2114207745"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/2871272437"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/2189735219"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://hubdrive.tips/file/2060522002"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://hubdrive.tips/file/2755144083"
+                }
+            ]
+        }
+    }
+}

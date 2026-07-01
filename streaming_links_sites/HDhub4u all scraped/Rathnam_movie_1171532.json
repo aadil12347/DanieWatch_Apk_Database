@@ -1,0 +1,46 @@
+{
+    "post_title": "Rathnam",
+    "post_type": "movie",
+    "tmdb_id": 1171532,
+    "imdb_id": "tt27577888",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2098248945"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3208275333"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3430665954"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3475386646"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/6417672897"
+            }
+        ],
+        "1080p HQ": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/9043546243"
+            }
+        ]
+    }
+}

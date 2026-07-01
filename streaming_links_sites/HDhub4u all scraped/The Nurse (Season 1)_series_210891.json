@@ -1,0 +1,33 @@
+{
+    "post_title": "The Nurse",
+    "post_type": "series",
+    "tmdb_id": 210891,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/2585210568"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/1682611207"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://hubdrive.tips/file/3193479961"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://hubdrive.tips/file/1682611209"
+                }
+            ]
+        }
+    }
+}

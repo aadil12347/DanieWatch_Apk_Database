@@ -1,0 +1,40 @@
+{
+    "post_title": "Trending",
+    "post_type": "movie",
+    "tmdb_id": 1643473,
+    "imdb_id": "tt35279943",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3205000496"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2475787294"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ]
+    }
+}

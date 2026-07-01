@@ -1,0 +1,36 @@
+{
+    "post_title": "Violent Night",
+    "post_type": "movie",
+    "tmdb_id": 899112,
+    "imdb_id": "tt12003946",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1855704229"
+            }
+        ],
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2101215995"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2145016115"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3171647251"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "post_title": "The Witch",
+    "post_type": "movie",
+    "tmdb_id": 310131,
+    "imdb_id": "tt4263482",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1655487629"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/2241290210"
+            }
+        ]
+    }
+}

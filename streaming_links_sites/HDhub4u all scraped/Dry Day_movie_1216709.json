@@ -1,0 +1,29 @@
+{
+    "post_title": "Dry Day",
+    "post_type": "movie",
+    "tmdb_id": 1216709,
+    "imdb_id": "tt28024755",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1703173667"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1703177126"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1703173677"
+            }
+        ]
+    }
+}

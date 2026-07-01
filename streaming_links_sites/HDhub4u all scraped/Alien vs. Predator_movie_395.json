@@ -1,0 +1,30 @@
+{
+    "post_title": "Alien vs. Predator",
+    "post_type": "movie",
+    "tmdb_id": 395,
+    "imdb_id": "tt0370263",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/409387638"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1165701703"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2630338390"
+            }
+        ]
+    }
+}

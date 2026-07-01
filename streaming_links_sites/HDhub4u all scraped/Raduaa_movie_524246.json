@@ -1,0 +1,29 @@
+{
+    "post_title": "Raduaa",
+    "post_type": "movie",
+    "tmdb_id": 524246,
+    "imdb_id": "tt8767626",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2733819927"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2025753203"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1736629478"
+            }
+        ]
+    }
+}

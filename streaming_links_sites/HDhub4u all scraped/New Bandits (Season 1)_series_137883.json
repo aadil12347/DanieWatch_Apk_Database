@@ -1,0 +1,49 @@
+{
+    "post_title": "New Bandits",
+    "post_type": "series",
+    "tmdb_id": 137883,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "720p HEVC": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1692460081"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/1692460082"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://hubdrive.tips/file/3332127174"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://hubdrive.tips/file/1692460083"
+                },
+                {
+                    "episode_title": "Episode 5",
+                    "link": "https://hubdrive.tips/file/2458486612"
+                },
+                {
+                    "episode_title": "Episode 6",
+                    "link": "https://hubdrive.tips/file/1692460084"
+                },
+                {
+                    "episode_title": "Episode 7",
+                    "link": "https://hubdrive.tips/file/2965808371"
+                },
+                {
+                    "episode_title": "Episode 8",
+                    "link": "https://hubdrive.tips/file/1692460085"
+                }
+            ]
+        }
+    }
+}

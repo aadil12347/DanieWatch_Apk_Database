@@ -1,0 +1,24 @@
+{
+    "post_title": "Slapface",
+    "post_type": "movie",
+    "tmdb_id": 812320,
+    "imdb_id": "tt10601552",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1705135770"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1705135769"
+            }
+        ]
+    }
+}

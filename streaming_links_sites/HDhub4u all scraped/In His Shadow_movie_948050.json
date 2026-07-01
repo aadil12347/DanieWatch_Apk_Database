@@ -1,0 +1,30 @@
+{
+    "post_title": "In His Shadow",
+    "post_type": "movie",
+    "tmdb_id": 948050,
+    "imdb_id": "tt26763229",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1865317337"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2106780371"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2595189681"
+            }
+        ]
+    }
+}

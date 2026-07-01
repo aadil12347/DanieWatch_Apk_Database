@@ -1,0 +1,36 @@
+{
+    "post_title": "DC League of Super-Pets",
+    "post_type": "movie",
+    "tmdb_id": 539681,
+    "imdb_id": "tt10648342",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1969156917"
+            }
+        ],
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2324284673"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2189219363"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2015194782"
+            }
+        ]
+    }
+}

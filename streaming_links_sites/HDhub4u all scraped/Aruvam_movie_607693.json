@@ -1,0 +1,24 @@
+{
+    "post_title": "Aruvam",
+    "post_type": "movie",
+    "tmdb_id": 607693,
+    "imdb_id": "tt10334624",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/451471150"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1411882624"
+            }
+        ]
+    }
+}

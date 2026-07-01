@@ -1,0 +1,30 @@
+{
+    "post_title": "Champions",
+    "post_type": "movie",
+    "tmdb_id": 933419,
+    "imdb_id": "tt15339570",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2115573176"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3177985709"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1694992205"
+            }
+        ]
+    }
+}

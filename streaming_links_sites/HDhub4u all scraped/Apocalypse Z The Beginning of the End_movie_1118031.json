@@ -1,0 +1,46 @@
+{
+    "post_title": "Apocalypse Z: The Beginning of the End",
+    "post_type": "movie",
+    "tmdb_id": 1118031,
+    "imdb_id": "tt27599851",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2190722339"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1800246182"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2416068214"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3375981136"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/7917919298"
+            }
+        ],
+        "4K SDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/13804649887"
+            }
+        ]
+    }
+}

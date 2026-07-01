@@ -1,0 +1,83 @@
+{
+    "post_title": "The Trunk",
+    "post_type": "series",
+    "tmdb_id": 230777,
+    "imdb_id": "tt26773401",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/2202749052"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/1826277309"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://hubdrive.tips/file/2246035147"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://hubdrive.tips/file/2006168487"
+                },
+                {
+                    "episode_title": "Episode 5",
+                    "link": "https://hubdrive.tips/file/2285775769"
+                },
+                {
+                    "episode_title": "Episode 6",
+                    "link": "https://hubdrive.tips/file/2108213971"
+                },
+                {
+                    "episode_title": "Episode 7",
+                    "link": "https://hubdrive.tips/file/2188934337"
+                },
+                {
+                    "episode_title": "Episode 8",
+                    "link": "https://hubdrive.tips/file/2334061882"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/2889001088"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/2608573192"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://hubdrive.tips/file/1913887918"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://hubdrive.tips/file/1910234796"
+                },
+                {
+                    "episode_title": "Episode 5",
+                    "link": "https://hubdrive.tips/file/2925536506"
+                },
+                {
+                    "episode_title": "Episode 6",
+                    "link": "https://hubdrive.tips/file/2868754470"
+                },
+                {
+                    "episode_title": "Episode 7",
+                    "link": "https://hubdrive.tips/file/2779557998"
+                },
+                {
+                    "episode_title": "Episode 8",
+                    "link": "https://hubdrive.tips/file/2103599942"
+                }
+            ]
+        }
+    }
+}

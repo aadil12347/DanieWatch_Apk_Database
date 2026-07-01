@@ -1,0 +1,29 @@
+{
+    "post_title": "Prince",
+    "post_type": "movie",
+    "tmdb_id": 13763,
+    "imdb_id": "tt15576578",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1783676298"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2423671792"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2251449883"
+            }
+        ]
+    }
+}

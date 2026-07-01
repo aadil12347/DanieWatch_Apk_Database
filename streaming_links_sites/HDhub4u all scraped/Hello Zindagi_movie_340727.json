@@ -1,0 +1,29 @@
+{
+    "post_title": "Hello Zindagi",
+    "post_type": "movie",
+    "tmdb_id": 340727,
+    "imdb_id": "tt15809718",
+    "languages": [
+        "Gujarati"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1912028845"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2459951632"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2687031857"
+            }
+        ]
+    }
+}

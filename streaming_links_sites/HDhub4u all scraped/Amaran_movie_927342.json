@@ -1,0 +1,64 @@
+{
+    "post_title": "Amaran",
+    "post_type": "movie",
+    "tmdb_id": 927342,
+    "imdb_id": "tt27118357",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1854828740"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2374042152"
+            }
+        ],
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1737735978"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1744406408"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3838702401"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2919252945"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4396532213"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/3005042287"
+            }
+        ],
+        "4K SDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/10654585440"
+            }
+        ]
+    }
+}

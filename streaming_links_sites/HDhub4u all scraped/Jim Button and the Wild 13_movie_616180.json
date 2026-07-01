@@ -1,0 +1,24 @@
+{
+    "post_title": "Jim Button and the Wild 13",
+    "post_type": "movie",
+    "tmdb_id": 616180,
+    "imdb_id": "tt9839038",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1869326279"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2523633463"
+            }
+        ]
+    }
+}

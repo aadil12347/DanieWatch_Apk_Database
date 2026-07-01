@@ -1,0 +1,67 @@
+{
+    "post_title": "Viral Hit",
+    "post_type": "series",
+    "tmdb_id": 312493,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/2027959101"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/2180029179"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://hubdrive.tips/file/2130943706"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://hubdrive.tips/file/1942290692"
+                },
+                {
+                    "episode_title": "Episode 5",
+                    "link": "https://hubdrive.tips/file/2289238947"
+                },
+                {
+                    "episode_title": "Episode 6",
+                    "link": "https://hubdrive.tips/file/2254626549"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1981657874"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/2277915855"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://hubdrive.tips/file/2670574331"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://hubdrive.tips/file/2573343664"
+                },
+                {
+                    "episode_title": "Episode 5",
+                    "link": "https://hubdrive.tips/file/2692994672"
+                },
+                {
+                    "episode_title": "Episode 6",
+                    "link": "https://hubdrive.tips/file/2519782399"
+                }
+            ]
+        }
+    }
+}

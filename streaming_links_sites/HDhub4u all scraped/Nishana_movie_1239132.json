@@ -1,0 +1,23 @@
+{
+    "post_title": "Nishana",
+    "post_type": "movie",
+    "tmdb_id": 1239132,
+    "imdb_id": "tt11899856",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2010661721"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2032434754"
+            }
+        ]
+    }
+}

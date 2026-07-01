@@ -1,0 +1,39 @@
+{
+    "post_title": "SAVi",
+    "post_type": "movie",
+    "tmdb_id": 1264800,
+    "imdb_id": "tt32308617",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1914616501"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2213788914"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3348580680"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2064795774"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/4648973414"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Two Night Stand",
+    "post_type": "movie",
+    "tmdb_id": 286554,
+    "imdb_id": "tt2140619",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1829471000"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2231635373"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1928222746"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ]
+    }
+}

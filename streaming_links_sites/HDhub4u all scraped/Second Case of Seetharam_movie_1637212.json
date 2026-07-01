@@ -1,0 +1,52 @@
+{
+    "post_title": "Second Case of Seetharam",
+    "post_type": "movie",
+    "tmdb_id": 1637212,
+    "imdb_id": "tt39444607",
+    "languages": [
+        "Hindi",
+        "Kannada"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2323134451"
+            }
+        ],
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2361176298"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2285332956"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1817040581"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1930357125"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3256263153"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/6245402494"
+            }
+        ]
+    }
+}

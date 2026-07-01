@@ -1,0 +1,24 @@
+{
+    "post_title": "Stuart Little",
+    "post_type": "movie",
+    "tmdb_id": 10137,
+    "imdb_id": "tt0164912",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2894989865"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3624652291"
+            }
+        ]
+    }
+}

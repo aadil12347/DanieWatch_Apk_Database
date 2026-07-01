@@ -1,0 +1,35 @@
+{
+    "post_title": "Bunty Aur Babli 2",
+    "post_type": "movie",
+    "tmdb_id": 666390,
+    "imdb_id": "tt10569922",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1769301155"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1872560527"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2178510885"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2416384089"
+            }
+        ]
+    }
+}

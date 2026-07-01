@@ -1,0 +1,39 @@
+{
+    "post_title": "Nadaaniyan",
+    "post_type": "movie",
+    "tmdb_id": 1216780,
+    "imdb_id": "tt30422937",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1780836717"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2607249945"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3059283624"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2797625252"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/2653724307"
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "post_title": "Scrapper",
+    "post_type": "movie",
+    "tmdb_id": 935906,
+    "imdb_id": "tt8649252",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701690004"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701690002"
+            }
+        ]
+    }
+}

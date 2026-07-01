@@ -1,0 +1,29 @@
+{
+    "post_title": "Manmarziyaan",
+    "post_type": "movie",
+    "tmdb_id": 523277,
+    "imdb_id": "tt5474036",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1894230930"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2027540464"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2302945812"
+            }
+        ]
+    }
+}

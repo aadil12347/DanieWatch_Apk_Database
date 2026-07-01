@@ -1,0 +1,24 @@
+{
+    "post_title": "The Diary of a Teenage Girl",
+    "post_type": "movie",
+    "tmdb_id": 250124,
+    "imdb_id": "tt3172532",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1704436638"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1704436636"
+            }
+        ]
+    }
+}

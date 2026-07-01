@@ -1,0 +1,34 @@
+{
+    "post_title": "It’s What’s Inside",
+    "post_type": "movie",
+    "tmdb_id": 1052280,
+    "imdb_id": "tt14577874",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2287279422"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1841461371"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2975425378"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/5442785604"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Return to the Blue Lagoon",
+    "post_type": "movie",
+    "tmdb_id": 13888,
+    "imdb_id": "tt0102782",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1841952098"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1812232455"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "post_title": "Chor Nikal Ke Bhaga",
+    "post_type": "movie",
+    "tmdb_id": 1018228,
+    "imdb_id": "tt22297828",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1895921575"
+            }
+        ],
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1968344627"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2202031592"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2675272383"
+            }
+        ]
+    }
+}

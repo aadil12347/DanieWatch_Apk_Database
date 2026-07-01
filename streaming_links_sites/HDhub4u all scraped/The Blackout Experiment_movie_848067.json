@@ -1,0 +1,24 @@
+{
+    "post_title": "The Blackout Experiment",
+    "post_type": "movie",
+    "tmdb_id": 848067,
+    "imdb_id": "tt3659284",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1779509329"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2373821253"
+            }
+        ]
+    }
+}

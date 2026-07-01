@@ -1,0 +1,24 @@
+{
+    "post_title": "The Conference",
+    "post_type": "movie",
+    "tmdb_id": 229113,
+    "imdb_id": "tt26547864",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1697186290"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1697186208"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "EuroTrip",
+    "post_type": "movie",
+    "tmdb_id": 9352,
+    "imdb_id": "tt0356150",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2050067671"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2334627916"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3010729239"
+            }
+        ]
+    }
+}

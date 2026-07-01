@@ -1,0 +1,29 @@
+{
+    "post_title": "Operation Fryday",
+    "post_type": "movie",
+    "tmdb_id": 1079170,
+    "imdb_id": "tt2599878",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1940553903"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2775201731"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2984008527"
+            }
+        ]
+    }
+}

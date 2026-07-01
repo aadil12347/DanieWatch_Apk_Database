@@ -1,0 +1,42 @@
+{
+    "post_title": "Drive-Away Dolls",
+    "post_type": "movie",
+    "tmdb_id": 957304,
+    "imdb_id": "tt19356262",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2202199835"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1997044913"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2215057608"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3225220978"
+            }
+        ],
+        "4K HEVC SDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/5318383097"
+            }
+        ]
+    }
+}

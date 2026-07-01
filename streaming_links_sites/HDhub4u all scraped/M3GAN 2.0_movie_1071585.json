@@ -1,0 +1,36 @@
+{
+    "post_title": "M3GAN 2.0",
+    "post_type": "movie",
+    "tmdb_id": 1071585,
+    "imdb_id": "tt26342662",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2514402081"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2936870177"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3455023564"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2807873471"
+            }
+        ]
+    }
+}

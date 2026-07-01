@@ -1,0 +1,36 @@
+{
+    "post_title": "Malayalee from India",
+    "post_type": "movie",
+    "tmdb_id": 1101175,
+    "imdb_id": "tt26655359",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2452205646"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3135835209"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2332206651"
+            }
+        ],
+        "4K SDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4896013749"
+            }
+        ]
+    }
+}

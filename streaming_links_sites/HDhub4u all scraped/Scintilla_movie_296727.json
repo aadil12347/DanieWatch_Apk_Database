@@ -1,0 +1,24 @@
+{
+    "post_title": "Scintilla",
+    "post_type": "movie",
+    "tmdb_id": 296727,
+    "imdb_id": "tt2798456",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1702203629"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1684547140"
+            }
+        ]
+    }
+}

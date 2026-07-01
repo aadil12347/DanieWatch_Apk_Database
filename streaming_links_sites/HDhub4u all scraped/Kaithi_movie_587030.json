@@ -1,0 +1,42 @@
+{
+    "post_title": "Kaithi",
+    "post_type": "movie",
+    "tmdb_id": 587030,
+    "imdb_id": "tt9900782",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2727798811"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3072579558"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2661227877"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2770744011"
+            }
+        ],
+        "1080p HQ": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ]
+    }
+}

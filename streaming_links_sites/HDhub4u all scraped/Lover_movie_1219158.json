@@ -1,0 +1,30 @@
+{
+    "post_title": "Lover",
+    "post_type": "movie",
+    "tmdb_id": 1219158,
+    "imdb_id": "tt28566478",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1951389218"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711566871"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711566870"
+            }
+        ]
+    }
+}

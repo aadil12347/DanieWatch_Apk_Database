@@ -1,0 +1,36 @@
+{
+    "post_title": "Wonka",
+    "post_type": "movie",
+    "tmdb_id": 787699,
+    "imdb_id": "tt6166392",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2394906407"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1912925162"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3413741248"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3142046103"
+            }
+        ]
+    }
+}

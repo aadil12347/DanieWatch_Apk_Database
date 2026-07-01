@@ -1,0 +1,29 @@
+{
+    "post_title": "Elektra",
+    "post_type": "movie",
+    "tmdb_id": 9947,
+    "imdb_id": null,
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1963866338"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2146256888"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3176780117"
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "post_title": "Kondal",
+    "post_type": "movie",
+    "tmdb_id": 3021,
+    "imdb_id": "tt29929060",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2750617638"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2292370110"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2084375081"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3185697882"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/1760480022"
+            }
+        ]
+    }
+}

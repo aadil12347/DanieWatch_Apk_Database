@@ -1,0 +1,24 @@
+{
+    "post_title": "Battle of Defense",
+    "post_type": "movie",
+    "tmdb_id": 668574,
+    "imdb_id": "tt9408568",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1754542132"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2306999167"
+            }
+        ]
+    }
+}

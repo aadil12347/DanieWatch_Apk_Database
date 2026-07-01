@@ -1,0 +1,29 @@
+{
+    "post_title": "Jab Tak Hai Jaan",
+    "post_type": "movie",
+    "tmdb_id": 132316,
+    "imdb_id": "tt2176013",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1993126423"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2923420228"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3917181174"
+            }
+        ]
+    }
+}

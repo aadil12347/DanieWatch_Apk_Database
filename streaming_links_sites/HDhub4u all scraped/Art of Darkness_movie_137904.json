@@ -1,0 +1,24 @@
+{
+    "post_title": "Art of Darkness",
+    "post_type": "movie",
+    "tmdb_id": 137904,
+    "imdb_id": "tt2162574",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1729776951"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1853979032"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "So duk 2 Tin dei duei kuet",
+    "post_type": "movie",
+    "tmdb_id": 512731,
+    "imdb_id": "tt8239806",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2000141101"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2204469371"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3161055292"
+            }
+        ]
+    }
+}

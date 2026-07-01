@@ -1,0 +1,24 @@
+{
+    "post_title": "Predators",
+    "post_type": "movie",
+    "tmdb_id": 34851,
+    "imdb_id": "tt1424381",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2827217430"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2665520857"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Monkey King Reloaded",
+    "post_type": "movie",
+    "tmdb_id": 502234,
+    "imdb_id": "tt9837530",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1728027543"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2038398494"
+            }
+        ]
+    }
+}

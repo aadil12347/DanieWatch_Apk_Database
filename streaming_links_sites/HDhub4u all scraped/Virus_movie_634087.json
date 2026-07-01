@@ -1,0 +1,34 @@
+{
+    "post_title": "Virus",
+    "post_type": "movie",
+    "tmdb_id": 634087,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1901152292"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2535011063"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1783171764"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ]
+    }
+}

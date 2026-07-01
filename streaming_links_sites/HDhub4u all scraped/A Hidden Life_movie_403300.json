@@ -1,0 +1,30 @@
+{
+    "post_title": "A Hidden Life",
+    "post_type": "movie",
+    "tmdb_id": 403300,
+    "imdb_id": "tt1981115",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1783907830"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3213922675"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3050722621"
+            }
+        ]
+    }
+}

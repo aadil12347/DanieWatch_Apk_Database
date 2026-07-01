@@ -1,0 +1,23 @@
+{
+    "post_title": "WitchStars",
+    "post_type": "movie",
+    "tmdb_id": 608569,
+    "imdb_id": "tt9235982",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1940838643"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1751282408"
+            }
+        ]
+    }
+}

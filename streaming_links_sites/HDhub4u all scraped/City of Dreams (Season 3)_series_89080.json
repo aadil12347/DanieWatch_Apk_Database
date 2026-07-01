@@ -1,0 +1,52 @@
+{
+    "post_title": "City of Dreams",
+    "post_type": "series",
+    "tmdb_id": 89080,
+    "imdb_id": null,
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "3": {
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1685072029"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/1685072030"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://hubdrive.tips/file/1685072031"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://hubdrive.tips/file/1685072032"
+                },
+                {
+                    "episode_title": "Episode 5",
+                    "link": "https://hubdrive.tips/file/1685072033"
+                },
+                {
+                    "episode_title": "Episode 6",
+                    "link": "https://hubdrive.tips/file/2967201075"
+                },
+                {
+                    "episode_title": "Episode 7",
+                    "link": "https://hubdrive.tips/file/1685072035"
+                },
+                {
+                    "episode_title": "Episode 8",
+                    "link": "https://hubdrive.tips/file/2913152982"
+                },
+                {
+                    "episode_title": "Episode 9",
+                    "link": "https://hubdrive.tips/file/1685072036"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "post_title": "Chhaava",
+    "post_type": "movie",
+    "tmdb_id": 1196943,
+    "imdb_id": "tt27922706",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2532841250"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2427040024"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3865135252"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3505963590"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ],
+        "4K SDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ]
+    }
+}

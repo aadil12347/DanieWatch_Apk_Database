@@ -1,0 +1,49 @@
+{
+    "post_title": "Deadloch",
+    "post_type": "series",
+    "tmdb_id": 225780,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "720p HEVC": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1688678677"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/2618336041"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://hubdrive.tips/file/1688678678"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://hubdrive.tips/file/2671720759"
+                },
+                {
+                    "episode_title": "Episode 5",
+                    "link": "https://hubdrive.tips/file/1688678679"
+                },
+                {
+                    "episode_title": "Episode 6",
+                    "link": "https://hubdrive.tips/file/1688678680"
+                },
+                {
+                    "episode_title": "Episode 7",
+                    "link": "https://hubdrive.tips/file/2043608097"
+                },
+                {
+                    "episode_title": "Episode 8",
+                    "link": "https://hubdrive.tips/file/1688678681"
+                }
+            ]
+        }
+    }
+}

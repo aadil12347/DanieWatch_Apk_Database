@@ -1,0 +1,45 @@
+{
+    "post_title": "The Great Grand Superhero",
+    "post_type": "movie",
+    "tmdb_id": 1653208,
+    "imdb_id": "tt40769151",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1941813264"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2111975154"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3007356576"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3336867575"
+            }
+        ],
+        "1080p HQ": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/5918947114"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/11676765970"
+            }
+        ]
+    }
+}

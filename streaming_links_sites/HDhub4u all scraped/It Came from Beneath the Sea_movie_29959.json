@@ -1,0 +1,34 @@
+{
+    "post_title": "It Came from Beneath the Sea",
+    "post_type": "movie",
+    "tmdb_id": 29959,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1937517523"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2092715721"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1794838668"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ]
+    }
+}

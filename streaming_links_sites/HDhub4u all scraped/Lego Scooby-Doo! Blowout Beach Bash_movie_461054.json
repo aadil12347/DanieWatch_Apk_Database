@@ -1,0 +1,34 @@
+{
+    "post_title": "Lego Scooby-Doo! Blowout Beach Bash",
+    "post_type": "movie",
+    "tmdb_id": 461054,
+    "imdb_id": "tt6946580",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1793153586"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1876241434"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2402557552"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ]
+    }
+}

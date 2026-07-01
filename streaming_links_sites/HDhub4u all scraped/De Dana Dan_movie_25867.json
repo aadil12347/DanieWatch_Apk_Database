@@ -1,0 +1,29 @@
+{
+    "post_title": "De Dana Dan",
+    "post_type": "movie",
+    "tmdb_id": 25867,
+    "imdb_id": "tt1255951",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2840864459"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1853483909"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2551819289"
+            }
+        ]
+    }
+}

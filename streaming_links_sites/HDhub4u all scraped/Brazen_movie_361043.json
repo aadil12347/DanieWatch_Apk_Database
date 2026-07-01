@@ -1,0 +1,24 @@
+{
+    "post_title": "Brazen",
+    "post_type": "movie",
+    "tmdb_id": 361043,
+    "imdb_id": "tt15251128",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1684768200"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1853975983"
+            }
+        ]
+    }
+}

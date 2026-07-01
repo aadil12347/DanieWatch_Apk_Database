@@ -1,0 +1,36 @@
+{
+    "post_title": "Manada Kadalu",
+    "post_type": "movie",
+    "tmdb_id": 1456539,
+    "imdb_id": "tt34853311",
+    "languages": [
+        "Hindi",
+        "Kannada"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ]
+    }
+}

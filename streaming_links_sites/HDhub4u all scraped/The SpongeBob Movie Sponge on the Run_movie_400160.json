@@ -1,0 +1,30 @@
+{
+    "post_title": "The SpongeBob Movie Sponge on the Run",
+    "post_type": "movie",
+    "tmdb_id": 400160,
+    "imdb_id": "tt4823776",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1990318581"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2563172916"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3358433042"
+            }
+        ]
+    }
+}

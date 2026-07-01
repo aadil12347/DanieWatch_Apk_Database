@@ -1,0 +1,30 @@
+{
+    "post_title": "Lyle Lyle Crocodile",
+    "post_type": "movie",
+    "tmdb_id": 830784,
+    "imdb_id": "tt14668630",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2408305637"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3214283922"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4602098936"
+            }
+        ]
+    }
+}

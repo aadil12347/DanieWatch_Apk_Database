@@ -1,0 +1,30 @@
+{
+    "post_title": "Orey Bujjiga",
+    "post_type": "movie",
+    "tmdb_id": 748818,
+    "imdb_id": "tt11854074",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2066036145"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2396326101"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3205006683"
+            }
+        ]
+    }
+}

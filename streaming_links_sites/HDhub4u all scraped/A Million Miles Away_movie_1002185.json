@@ -1,0 +1,30 @@
+{
+    "post_title": "A Million Miles Away",
+    "post_type": "movie",
+    "tmdb_id": 1002185,
+    "imdb_id": "tt21940010",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1694794022"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1987441546"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1694794021"
+            }
+        ]
+    }
+}

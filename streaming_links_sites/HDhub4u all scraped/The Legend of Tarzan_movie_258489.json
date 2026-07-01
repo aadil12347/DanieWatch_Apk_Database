@@ -1,0 +1,34 @@
+{
+    "post_title": "The Legend of Tarzan",
+    "post_type": "movie",
+    "tmdb_id": 258489,
+    "imdb_id": "tt0918940",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2552374955"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ]
+    }
+}

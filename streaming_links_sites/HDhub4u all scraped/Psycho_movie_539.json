@@ -1,0 +1,40 @@
+{
+    "post_title": "Psycho",
+    "post_type": "movie",
+    "tmdb_id": 539,
+    "imdb_id": "tt9109976",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2124363502"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3057667712"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3565926369"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3170347625"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/1794534287"
+            }
+        ]
+    }
+}

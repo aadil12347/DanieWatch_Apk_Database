@@ -1,0 +1,47 @@
+{
+    "post_title": "Euphoria",
+    "post_type": "movie",
+    "tmdb_id": 1438392,
+    "imdb_id": "tt33737583",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2025167165"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2498731970"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1844781578"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4893185947"
+            }
+        ],
+        "1080p HQ": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/7758003497"
+            }
+        ],
+        "4K SDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/15463973181"
+            }
+        ]
+    }
+}

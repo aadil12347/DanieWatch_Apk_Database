@@ -1,0 +1,29 @@
+{
+    "post_title": "Gandhi Godse Ek Yudh",
+    "post_type": "movie",
+    "tmdb_id": 1067209,
+    "imdb_id": "tt13801462",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1763890265"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2250794304"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2899285184"
+            }
+        ]
+    }
+}

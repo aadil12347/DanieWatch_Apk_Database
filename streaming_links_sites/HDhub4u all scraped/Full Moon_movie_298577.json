@@ -1,0 +1,29 @@
+{
+    "post_title": "Full Moon",
+    "post_type": "movie",
+    "tmdb_id": 298577,
+    "imdb_id": "tt30254152",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1981035009"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2378549920"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4411622809"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "post_title": "Railroad Tigers",
+    "post_type": "movie",
+    "tmdb_id": 377447,
+    "imdb_id": "tt4687848",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2945165911"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3720858048"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3767017369"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4835119078"
+            }
+        ]
+    }
+}

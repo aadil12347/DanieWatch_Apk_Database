@@ -1,0 +1,34 @@
+{
+    "post_title": "Hello Guru Prema Kosame",
+    "post_type": "movie",
+    "tmdb_id": 517508,
+    "imdb_id": "tt8072400",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/clb4rncctnbdp1n"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/mf1kblmfkkfuy1p"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubcloud.cx/drive/tpzw5z1vwngvzsp"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/ruzhrpnczjuqzsr"
+            }
+        ]
+    }
+}

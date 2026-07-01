@@ -1,0 +1,29 @@
+{
+    "post_title": "John Luther",
+    "post_type": "movie",
+    "tmdb_id": 865464,
+    "imdb_id": "tt12908508",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1836419541"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2853610570"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1898146555"
+            }
+        ]
+    }
+}

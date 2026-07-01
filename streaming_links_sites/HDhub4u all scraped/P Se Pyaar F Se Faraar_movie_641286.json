@@ -1,0 +1,29 @@
+{
+    "post_title": "P Se Pyaar F Se Faraar",
+    "post_type": "movie",
+    "tmdb_id": 641286,
+    "imdb_id": "tt10816510",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2037681739"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2113434764"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3281649870"
+            }
+        ]
+    }
+}

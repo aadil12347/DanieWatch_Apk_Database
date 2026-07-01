@@ -1,0 +1,29 @@
+{
+    "post_title": "PM Narendra Modi",
+    "post_type": "movie",
+    "tmdb_id": 589291,
+    "imdb_id": "tt9558612",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/419580679"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1171759108"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2561015315"
+            }
+        ]
+    }
+}

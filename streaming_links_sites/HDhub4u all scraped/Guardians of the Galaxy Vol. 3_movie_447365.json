@@ -1,0 +1,42 @@
+{
+    "post_title": "Guardians of the Galaxy Vol. 3",
+    "post_type": "movie",
+    "tmdb_id": 447365,
+    "imdb_id": "tt6791350",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1690962108"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1690962019"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1690962048"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1690962077"
+            }
+        ],
+        "2160p 10bit SDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1690962954"
+            }
+        ]
+    }
+}

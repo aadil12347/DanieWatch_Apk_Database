@@ -1,0 +1,24 @@
+{
+    "post_title": "April Rain",
+    "post_type": "movie",
+    "tmdb_id": 268823,
+    "imdb_id": "tt2676350",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1680987925"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2240013896"
+            }
+        ]
+    }
+}

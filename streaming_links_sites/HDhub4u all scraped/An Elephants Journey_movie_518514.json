@@ -1,0 +1,24 @@
+{
+    "post_title": "An Elephants Journey",
+    "post_type": "movie",
+    "tmdb_id": 518514,
+    "imdb_id": "tt6849128",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1903664482"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2406642149"
+            }
+        ]
+    }
+}

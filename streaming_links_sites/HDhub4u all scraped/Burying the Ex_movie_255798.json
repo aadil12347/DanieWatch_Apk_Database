@@ -1,0 +1,28 @@
+{
+    "post_title": "Burying the Ex",
+    "post_type": "movie",
+    "tmdb_id": 255798,
+    "imdb_id": "tt3339674",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1801470502"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/2051469363"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2578902043"
+            }
+        ]
+    }
+}

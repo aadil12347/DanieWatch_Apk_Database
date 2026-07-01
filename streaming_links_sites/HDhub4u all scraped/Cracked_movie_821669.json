@@ -1,0 +1,29 @@
+{
+    "post_title": "Cracked",
+    "post_type": "movie",
+    "tmdb_id": 821669,
+    "imdb_id": "tt18362996",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1783631506"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2184735145"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2594291643"
+            }
+        ]
+    }
+}

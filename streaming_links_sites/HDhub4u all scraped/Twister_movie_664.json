@@ -1,0 +1,30 @@
+{
+    "post_title": "Twister",
+    "post_type": "movie",
+    "tmdb_id": 664,
+    "imdb_id": "tt0117998",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2088133791"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2477178033"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2623099861"
+            }
+        ]
+    }
+}

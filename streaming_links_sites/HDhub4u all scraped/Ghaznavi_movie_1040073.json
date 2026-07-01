@@ -1,0 +1,29 @@
+{
+    "post_title": "Ghaznavi",
+    "post_type": "movie",
+    "tmdb_id": 1040073,
+    "imdb_id": "tt20224620",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1926843344"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2204865276"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1802014847"
+            }
+        ]
+    }
+}

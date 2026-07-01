@@ -1,0 +1,35 @@
+{
+    "post_title": "Adbhut",
+    "post_type": "movie",
+    "tmdb_id": 881614,
+    "imdb_id": "tt15560952",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2133951846"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2750883041"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2861998594"
+            }
+        ],
+        "1080p HQ": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3262827668"
+            }
+        ]
+    }
+}

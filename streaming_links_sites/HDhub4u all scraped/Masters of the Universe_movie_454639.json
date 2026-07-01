@@ -1,0 +1,29 @@
+{
+    "post_title": "Masters of the Universe",
+    "post_type": "movie",
+    "tmdb_id": 454639,
+    "imdb_id": "tt0427340",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2504709427"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3667258138"
+            }
+        ],
+        "1080p HQ": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2597373523"
+            }
+        ]
+    }
+}

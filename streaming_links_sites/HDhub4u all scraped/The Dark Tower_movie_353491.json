@@ -1,0 +1,30 @@
+{
+    "post_title": "The Dark Tower",
+    "post_type": "movie",
+    "tmdb_id": 353491,
+    "imdb_id": "tt1648190",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1685454591"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1685454589"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1685454587"
+            }
+        ]
+    }
+}

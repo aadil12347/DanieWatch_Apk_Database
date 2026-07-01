@@ -1,0 +1,29 @@
+{
+    "post_title": "Jannat",
+    "post_type": "movie",
+    "tmdb_id": 776527,
+    "imdb_id": "tt1216300",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1984467702"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1753008301"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3091197834"
+            }
+        ]
+    }
+}

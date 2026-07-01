@@ -1,0 +1,29 @@
+{
+    "post_title": "Bhram",
+    "post_type": "movie",
+    "tmdb_id": 1606785,
+    "imdb_id": "tt1214948",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2140054258"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2561883555"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4001946617 target="
+            }
+        ]
+    }
+}

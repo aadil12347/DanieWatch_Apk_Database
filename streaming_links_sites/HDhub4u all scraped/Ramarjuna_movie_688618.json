@@ -1,0 +1,23 @@
+{
+    "post_title": "Ramarjuna",
+    "post_type": "movie",
+    "tmdb_id": 688618,
+    "imdb_id": "tt9592348",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/442277269"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1224664340"
+            }
+        ]
+    }
+}

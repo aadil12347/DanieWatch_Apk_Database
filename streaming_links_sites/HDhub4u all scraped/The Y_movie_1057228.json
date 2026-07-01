@@ -1,0 +1,35 @@
+{
+    "post_title": "The Y",
+    "post_type": "movie",
+    "tmdb_id": 1057228,
+    "imdb_id": "tt11565160",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1697575455"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1697575456"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1697575454"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2183456408"
+            }
+        ]
+    }
+}

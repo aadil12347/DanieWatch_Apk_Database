@@ -1,0 +1,30 @@
+{
+    "post_title": "Clash of the Titans",
+    "post_type": "movie",
+    "tmdb_id": 18823,
+    "imdb_id": "tt0800320",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1818578142"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2446563952"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3073132021"
+            }
+        ]
+    }
+}

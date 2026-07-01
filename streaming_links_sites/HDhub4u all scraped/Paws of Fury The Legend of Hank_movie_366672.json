@@ -1,0 +1,30 @@
+{
+    "post_title": "Paws of Fury: The Legend of Hank",
+    "post_type": "movie",
+    "tmdb_id": 366672,
+    "imdb_id": "tt4428398",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2062008640"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2581282895"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3083759271"
+            }
+        ]
+    }
+}

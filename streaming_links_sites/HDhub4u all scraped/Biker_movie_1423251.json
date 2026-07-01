@@ -1,0 +1,46 @@
+{
+    "post_title": "Biker",
+    "post_type": "movie",
+    "tmdb_id": 1423251,
+    "imdb_id": "tt31593809",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/4xs42s43bx182bz"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/uuub414hhsds144"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ],
+        "4K SDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ]
+    }
+}

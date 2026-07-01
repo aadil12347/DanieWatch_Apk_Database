@@ -1,0 +1,24 @@
+{
+    "post_title": "Adiós",
+    "post_type": "movie",
+    "tmdb_id": 66089,
+    "imdb_id": "tt9786512",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2067569622"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2445006048"
+            }
+        ]
+    }
+}

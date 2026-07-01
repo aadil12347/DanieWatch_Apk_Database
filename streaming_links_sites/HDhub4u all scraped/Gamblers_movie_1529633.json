@@ -1,0 +1,36 @@
+{
+    "post_title": "Gamblers",
+    "post_type": "movie",
+    "tmdb_id": 1529633,
+    "imdb_id": "tt37039919",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1967057842"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1864254010"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3389809067"
+            }
+        ],
+        "4K SDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4867144322"
+            }
+        ]
+    }
+}

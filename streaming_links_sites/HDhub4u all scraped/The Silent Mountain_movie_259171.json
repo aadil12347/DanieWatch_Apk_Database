@@ -1,0 +1,24 @@
+{
+    "post_title": "The Silent Mountain",
+    "post_type": "movie",
+    "tmdb_id": 259171,
+    "imdb_id": "tt2014295",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1756299374"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2487571334"
+            }
+        ]
+    }
+}

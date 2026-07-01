@@ -1,0 +1,24 @@
+{
+    "post_title": "A Perfect Getaway",
+    "post_type": "movie",
+    "tmdb_id": 12403,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1642769784"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2285854562"
+            }
+        ]
+    }
+}

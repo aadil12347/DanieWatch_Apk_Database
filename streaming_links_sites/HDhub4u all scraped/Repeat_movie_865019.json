@@ -1,0 +1,29 @@
+{
+    "post_title": "Repeat",
+    "post_type": "movie",
+    "tmdb_id": 865019,
+    "imdb_id": "tt21873708",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1739539592"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1931642208"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3039483208"
+            }
+        ]
+    }
+}

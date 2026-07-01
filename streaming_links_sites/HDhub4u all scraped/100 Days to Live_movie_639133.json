@@ -1,0 +1,24 @@
+{
+    "post_title": "100 Days to Live",
+    "post_type": "movie",
+    "tmdb_id": 639133,
+    "imdb_id": "tt10949778",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1870707286"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1930584904"
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "post_title": "Kuch Kuch Hota Hai",
+    "post_type": "movie",
+    "tmdb_id": 11854,
+    "imdb_id": "tt0172684",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1777445667"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/613023592"
+            }
+        ]
+    }
+}

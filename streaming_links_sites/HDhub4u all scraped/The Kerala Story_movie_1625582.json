@@ -1,0 +1,41 @@
+{
+    "post_title": "The Kerala Story",
+    "post_type": "movie",
+    "tmdb_id": 1625582,
+    "imdb_id": "tt24268454",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1708059561"
+            }
+        ],
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2685402697"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1708059560"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1708059559"
+            }
+        ],
+        "4K HEVC SDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1708021888"
+            }
+        ]
+    }
+}

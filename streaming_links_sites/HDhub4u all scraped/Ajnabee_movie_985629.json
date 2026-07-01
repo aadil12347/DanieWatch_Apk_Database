@@ -1,0 +1,29 @@
+{
+    "post_title": "Ajnabee",
+    "post_type": "movie",
+    "tmdb_id": 985629,
+    "imdb_id": "tt0278291",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2124707418"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2217907620"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3085679660"
+            }
+        ]
+    }
+}

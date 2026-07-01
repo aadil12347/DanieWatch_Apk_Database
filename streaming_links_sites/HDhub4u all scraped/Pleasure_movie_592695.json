@@ -1,0 +1,23 @@
+{
+    "post_title": "Pleasure",
+    "post_type": "movie",
+    "tmdb_id": 592695,
+    "imdb_id": "tt8550054",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1928109465"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2475685219"
+            }
+        ]
+    }
+}

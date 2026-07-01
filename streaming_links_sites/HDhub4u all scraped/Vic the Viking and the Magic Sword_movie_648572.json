@@ -1,0 +1,30 @@
+{
+    "post_title": "Vic the Viking and the Magic Sword",
+    "post_type": "movie",
+    "tmdb_id": 648572,
+    "imdb_id": "tt8065768",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1723552849"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1786237878"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1699033831"
+            }
+        ]
+    }
+}

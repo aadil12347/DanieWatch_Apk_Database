@@ -1,0 +1,23 @@
+{
+    "post_title": "Hamari Adhuri Kahani",
+    "post_type": "movie",
+    "tmdb_id": 339367,
+    "imdb_id": "tt3483612",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1788075689"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3182366550"
+            }
+        ]
+    }
+}

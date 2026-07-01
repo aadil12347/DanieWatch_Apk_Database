@@ -1,0 +1,24 @@
+{
+    "post_title": "Vamperifica",
+    "post_type": "movie",
+    "tmdb_id": 119677,
+    "imdb_id": "tt1691020",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1993722141"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1671338466"
+            }
+        ]
+    }
+}

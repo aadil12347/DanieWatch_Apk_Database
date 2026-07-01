@@ -1,0 +1,29 @@
+{
+    "post_title": "Laung Laachi 2",
+    "post_type": "movie",
+    "tmdb_id": 1013615,
+    "imdb_id": "tt21420596",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2146129176"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2107637904"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3034714957"
+            }
+        ]
+    }
+}

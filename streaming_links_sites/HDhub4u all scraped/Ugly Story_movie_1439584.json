@@ -1,0 +1,40 @@
+{
+    "post_title": "Ugly Story",
+    "post_type": "movie",
+    "tmdb_id": 1439584,
+    "imdb_id": "tt35992024",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2376160230"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2827629853"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1972785904"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4243614220"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/9432650494"
+            }
+        ]
+    }
+}

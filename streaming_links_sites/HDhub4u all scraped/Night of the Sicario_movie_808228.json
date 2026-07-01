@@ -1,0 +1,30 @@
+{
+    "post_title": "Night of the Sicario",
+    "post_type": "movie",
+    "tmdb_id": 808228,
+    "imdb_id": "tt10375916",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2065013077"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2374409126"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1991970020"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Jinde Meriye",
+    "post_type": "movie",
+    "tmdb_id": 666340,
+    "imdb_id": "tt10984686",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1392279920"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/462796831"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3002164173"
+            }
+        ]
+    }
+}

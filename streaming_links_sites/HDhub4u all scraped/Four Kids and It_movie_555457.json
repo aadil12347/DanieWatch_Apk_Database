@@ -1,0 +1,24 @@
+{
+    "post_title": "Four Kids and It",
+    "post_type": "movie",
+    "tmdb_id": 555457,
+    "imdb_id": "tt5556054",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2017994052"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1887698360"
+            }
+        ]
+    }
+}

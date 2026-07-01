@@ -1,0 +1,24 @@
+{
+    "post_title": "Resident Evil Damnation",
+    "post_type": "movie",
+    "tmdb_id": 133121,
+    "imdb_id": "tt1753496",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/349706923"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/882366107"
+            }
+        ]
+    }
+}

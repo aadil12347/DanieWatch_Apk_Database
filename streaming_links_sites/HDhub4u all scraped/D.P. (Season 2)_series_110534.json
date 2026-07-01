@@ -1,0 +1,41 @@
+{
+    "post_title": "D.P.",
+    "post_type": "series",
+    "tmdb_id": 110534,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "2": {
+            "720p HEVC 10bit": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1690651842"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/2626296139"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://hubdrive.tips/file/1690651843"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://hubdrive.tips/file/1690651844"
+                },
+                {
+                    "episode_title": "Episode 5",
+                    "link": "https://hubdrive.tips/file/2901970301"
+                },
+                {
+                    "episode_title": "Episode 6",
+                    "link": "https://hubdrive.tips/file/1690651845"
+                }
+            ]
+        }
+    }
+}

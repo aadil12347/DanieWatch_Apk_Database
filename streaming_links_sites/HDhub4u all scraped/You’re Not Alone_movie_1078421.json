@@ -1,0 +1,24 @@
+{
+    "post_title": "You’re Not Alone",
+    "post_type": "movie",
+    "tmdb_id": 1078421,
+    "imdb_id": "tt6332158",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1704436632"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1704436631"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "post_title": "The Yeti",
+    "post_type": "movie",
+    "tmdb_id": 1418657,
+    "imdb_id": "tt14500286",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2168808380"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2688441687"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/6911136042"
+            }
+        ]
+    }
+}

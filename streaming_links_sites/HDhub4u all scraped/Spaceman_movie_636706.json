@@ -1,0 +1,24 @@
+{
+    "post_title": "Spaceman",
+    "post_type": "movie",
+    "tmdb_id": 636706,
+    "imdb_id": "tt11097384",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1709288085"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1709288024"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "post_title": "Kisi Ka Bhai Kisi Ki Jaan",
+    "post_type": "movie",
+    "tmdb_id": 966719,
+    "imdb_id": "tt3679040",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1687533373"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1687533374"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2335348318"
+            }
+        ],
+        "2160p HEVC SDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1687496099"
+            }
+        ]
+    }
+}

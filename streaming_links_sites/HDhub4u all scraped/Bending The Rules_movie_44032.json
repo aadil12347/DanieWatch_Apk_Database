@@ -1,0 +1,24 @@
+{
+    "post_title": "Bending The Rules",
+    "post_type": "movie",
+    "tmdb_id": 44032,
+    "imdb_id": "tt1715320",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1985322693"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2660592290"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Dead Heading",
+    "post_type": "movie",
+    "tmdb_id": 725303,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1842856892"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2715198082"
+            }
+        ]
+    }
+}

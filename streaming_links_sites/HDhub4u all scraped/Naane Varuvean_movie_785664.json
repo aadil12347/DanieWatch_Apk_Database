@@ -1,0 +1,29 @@
+{
+    "post_title": "Naane Varuvean",
+    "post_type": "movie",
+    "tmdb_id": 785664,
+    "imdb_id": "tt13845438",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1678163766"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1781315660"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2405504310"
+            }
+        ]
+    }
+}

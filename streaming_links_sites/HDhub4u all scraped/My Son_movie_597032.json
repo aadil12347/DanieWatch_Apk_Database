@@ -1,0 +1,23 @@
+{
+    "post_title": "My Son",
+    "post_type": "movie",
+    "tmdb_id": 597032,
+    "imdb_id": "tt13234058",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/324839604"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/877700594"
+            }
+        ]
+    }
+}

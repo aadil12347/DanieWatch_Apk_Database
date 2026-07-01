@@ -1,0 +1,29 @@
+{
+    "post_title": "Chhota Bheem Ki Citi Pitti Gul",
+    "post_type": "movie",
+    "tmdb_id": 1055672,
+    "imdb_id": null,
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1795172584"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1737112110"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1943513163"
+            }
+        ]
+    }
+}

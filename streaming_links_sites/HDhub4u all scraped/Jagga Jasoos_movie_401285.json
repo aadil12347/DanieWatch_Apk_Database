@@ -1,0 +1,29 @@
+{
+    "post_title": "Jagga Jasoos",
+    "post_type": "movie",
+    "tmdb_id": 401285,
+    "imdb_id": "tt4129428",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1913718449"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2372554102"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1849530073"
+            }
+        ]
+    }
+}

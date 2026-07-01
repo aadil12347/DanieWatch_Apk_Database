@@ -1,0 +1,29 @@
+{
+    "post_title": "Jhalle Pai Gaye Palle",
+    "post_type": "movie",
+    "tmdb_id": 986578,
+    "imdb_id": "tt15351940",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1885672619"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1908505176"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3249246384"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "post_title": "Ka Pae Ranasingam",
+    "post_type": "movie",
+    "tmdb_id": 745275,
+    "imdb_id": "tt11731768",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/578726399"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/823207440"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1557432558"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2859243509"
+            }
+        ]
+    }
+}

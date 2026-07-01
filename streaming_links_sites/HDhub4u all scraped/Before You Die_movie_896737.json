@@ -1,0 +1,29 @@
+{
+    "post_title": "Before You Die",
+    "post_type": "movie",
+    "tmdb_id": 896737,
+    "imdb_id": "tt16024234",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1794294843"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1922142141"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1792938294"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "post_title": "A Different Man",
+    "post_type": "movie",
+    "tmdb_id": 989662,
+    "imdb_id": "tt21097228",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1949542512"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1921588780"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2324247517"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4057921929"
+            }
+        ]
+    }
+}

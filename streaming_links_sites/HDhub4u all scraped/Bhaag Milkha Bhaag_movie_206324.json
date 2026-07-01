@@ -1,0 +1,35 @@
+{
+    "post_title": "Bhaag Milkha Bhaag",
+    "post_type": "movie",
+    "tmdb_id": 206324,
+    "imdb_id": "tt2356180",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2117270294"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2666943722"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2388940206"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3909434221"
+            }
+        ]
+    }
+}

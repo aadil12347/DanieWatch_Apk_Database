@@ -1,0 +1,24 @@
+{
+    "post_title": "Dorasani",
+    "post_type": "movie",
+    "tmdb_id": 611284,
+    "imdb_id": "tt10369210",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1420238351"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/485575793"
+            }
+        ]
+    }
+}

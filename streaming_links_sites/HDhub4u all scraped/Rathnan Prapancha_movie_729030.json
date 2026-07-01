@@ -1,0 +1,40 @@
+{
+    "post_title": "Rathnan Prapancha",
+    "post_type": "movie",
+    "tmdb_id": 729030,
+    "imdb_id": "tt15264532",
+    "languages": [
+        "Hindi",
+        "Kannada"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1896690817"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2571579086"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3947527141"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3034427533"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/4983577586"
+            }
+        ]
+    }
+}

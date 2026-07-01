@@ -1,0 +1,24 @@
+{
+    "post_title": "The Infernal Machine",
+    "post_type": "movie",
+    "tmdb_id": 916605,
+    "imdb_id": "tt15275256",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1690757938"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2441480588"
+            }
+        ]
+    }
+}

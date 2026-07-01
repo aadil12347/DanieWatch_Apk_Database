@@ -1,0 +1,24 @@
+{
+    "post_title": "The Dragon Warrior",
+    "post_type": "movie",
+    "tmdb_id": 407255,
+    "imdb_id": "tt1623772",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701329469"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701329468"
+            }
+        ]
+    }
+}

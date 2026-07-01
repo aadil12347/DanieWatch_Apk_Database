@@ -1,0 +1,30 @@
+{
+    "post_title": "My love puppy",
+    "post_type": "movie",
+    "tmdb_id": 527270,
+    "imdb_id": "tt24218390",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701428357"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701428356"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701428354"
+            }
+        ]
+    }
+}

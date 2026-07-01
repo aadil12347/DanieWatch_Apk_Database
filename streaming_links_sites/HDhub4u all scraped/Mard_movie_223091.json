@@ -1,0 +1,29 @@
+{
+    "post_title": "Mard",
+    "post_type": "movie",
+    "tmdb_id": 223091,
+    "imdb_id": "tt4148838",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1813810610"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2774893577"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1872810944"
+            }
+        ]
+    }
+}

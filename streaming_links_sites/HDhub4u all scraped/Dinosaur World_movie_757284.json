@@ -1,0 +1,24 @@
+{
+    "post_title": "Dinosaur World",
+    "post_type": "movie",
+    "tmdb_id": 757284,
+    "imdb_id": "tt13670808",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1919696402"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2527080727"
+            }
+        ]
+    }
+}

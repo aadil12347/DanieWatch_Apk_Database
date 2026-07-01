@@ -1,0 +1,28 @@
+{
+    "post_title": "Center Stage: Turn It Up",
+    "post_type": "movie",
+    "tmdb_id": 16346,
+    "imdb_id": "tt1145144",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1859798188"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2165384168"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/11286333158"
+            }
+        ]
+    }
+}

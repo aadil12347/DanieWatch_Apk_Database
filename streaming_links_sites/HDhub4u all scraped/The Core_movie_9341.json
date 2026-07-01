@@ -1,0 +1,30 @@
+{
+    "post_title": "The Core",
+    "post_type": "movie",
+    "tmdb_id": 9341,
+    "imdb_id": "tt0298814",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2041505228"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2851813153"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2443962631 target="
+            }
+        ]
+    }
+}

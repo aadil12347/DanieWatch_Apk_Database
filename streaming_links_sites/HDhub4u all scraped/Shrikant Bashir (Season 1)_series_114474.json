@@ -1,0 +1,30 @@
+{
+    "post_title": "Shrikant Bashir",
+    "post_type": "series",
+    "tmdb_id": 114474,
+    "imdb_id": "tt12392274",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/3386773665"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/3233403511"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/302929222"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "post_title": "All Is Well",
+    "post_type": "movie",
+    "tmdb_id": 355279,
+    "imdb_id": "tt3547616",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1192870739"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/396271830"
+            }
+        ]
+    }
+}

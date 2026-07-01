@@ -1,0 +1,29 @@
+{
+    "post_title": "Nambiar",
+    "post_type": "movie",
+    "tmdb_id": 307877,
+    "imdb_id": "tt3557978",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1229897987"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/408683907"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2154655931"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Zombieland",
+    "post_type": "movie",
+    "tmdb_id": 19908,
+    "imdb_id": "tt1156398",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1778342390"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1858614951"
+            }
+        ]
+    }
+}

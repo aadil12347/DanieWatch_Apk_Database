@@ -1,0 +1,30 @@
+{
+    "post_title": "Crazy, Stupid, Love.",
+    "post_type": "movie",
+    "tmdb_id": 50646,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2065019699"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2226962401"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2873068415"
+            }
+        ]
+    }
+}

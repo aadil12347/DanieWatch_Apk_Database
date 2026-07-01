@@ -1,0 +1,24 @@
+{
+    "post_title": "Mufti",
+    "post_type": "movie",
+    "tmdb_id": 1119527,
+    "imdb_id": "tt6405208",
+    "languages": [
+        "Hindi",
+        "Kannada"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1546881503"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/528838248"
+            }
+        ]
+    }
+}

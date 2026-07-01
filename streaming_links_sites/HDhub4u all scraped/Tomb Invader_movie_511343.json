@@ -1,0 +1,24 @@
+{
+    "post_title": "Tomb Invader",
+    "post_type": "movie",
+    "tmdb_id": 511343,
+    "imdb_id": "tt7781732",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1696673240"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1873907475"
+            }
+        ]
+    }
+}

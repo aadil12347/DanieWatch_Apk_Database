@@ -1,0 +1,29 @@
+{
+    "post_title": "Aravindha Sametha",
+    "post_type": "movie",
+    "tmdb_id": 534530,
+    "imdb_id": "tt7765910",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2413276620"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2082378509"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4022124361"
+            }
+        ]
+    }
+}

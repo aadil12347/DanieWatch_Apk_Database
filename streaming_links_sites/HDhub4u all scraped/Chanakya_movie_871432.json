@@ -1,0 +1,36 @@
+{
+    "post_title": "Chanakya",
+    "post_type": "movie",
+    "tmdb_id": 871432,
+    "imdb_id": "tt8933650",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Chanakya.2019.480p.UNCUT.WEB-DL.Hindi-Telugu.x264-HDHub4u.uno.mkv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Chanakya.2019.720p.UNCUT.WEB-DL.Hindi.DD2.0-Telugu.x264-HDHub4u.uno.mkv"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Chanakya.2019.UNCUT.720p.HEVC.WEB-DL.Hindi-Telugu.x265-HDHub4u.uno.mkv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Chanakya.2019.1080p.UNCUT.WEB-DL.Hindi.DD2.0-Telugu.x264-HDHub4u.uno.mkv"
+            }
+        ]
+    }
+}

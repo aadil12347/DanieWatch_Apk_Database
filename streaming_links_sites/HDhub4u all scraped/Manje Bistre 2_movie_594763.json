@@ -1,0 +1,29 @@
+{
+    "post_title": "Manje Bistre 2",
+    "post_type": "movie",
+    "tmdb_id": 594763,
+    "imdb_id": "tt8785322",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2102034189"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1891746172"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3632338344"
+            }
+        ]
+    }
+}

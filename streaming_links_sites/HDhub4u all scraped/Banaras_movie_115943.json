@@ -1,0 +1,29 @@
+{
+    "post_title": "Banaras",
+    "post_type": "movie",
+    "tmdb_id": 115943,
+    "imdb_id": "tt15768294",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2127918843"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2785659259"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3008704177"
+            }
+        ]
+    }
+}

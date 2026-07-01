@@ -1,0 +1,24 @@
+{
+    "post_title": "The Little Vampire",
+    "post_type": "movie",
+    "tmdb_id": 24100,
+    "imdb_id": "tt0192255",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/339716714"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1718239239"
+            }
+        ]
+    }
+}

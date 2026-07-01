@@ -1,0 +1,50 @@
+{
+    "post_title": "One Fast Move",
+    "post_type": "movie",
+    "tmdb_id": 1281826,
+    "imdb_id": "tt21096576",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2349149418"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2164368361"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2630804438"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3454924634"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/5434522271"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://hubdrive.tips/file/3706640666"
+            }
+        ],
+        "4K SDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/13925257700"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Joshila",
+    "post_type": "movie",
+    "tmdb_id": 499236,
+    "imdb_id": "tt0158690",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1836617053"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2272150858"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4337183290"
+            }
+        ]
+    }
+}

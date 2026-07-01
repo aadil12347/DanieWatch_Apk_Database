@@ -1,0 +1,24 @@
+{
+    "post_title": "Recovery",
+    "post_type": "movie",
+    "tmdb_id": 1503851,
+    "imdb_id": "tt5473124",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711685833"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711685832"
+            }
+        ]
+    }
+}

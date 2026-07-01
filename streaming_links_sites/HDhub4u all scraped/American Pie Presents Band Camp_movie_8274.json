@@ -1,0 +1,30 @@
+{
+    "post_title": "American Pie Presents Band Camp",
+    "post_type": "movie",
+    "tmdb_id": 8274,
+    "imdb_id": "tt0436058",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1795422564"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2588180564"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4264835693"
+            }
+        ]
+    }
+}

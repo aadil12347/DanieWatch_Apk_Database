@@ -1,0 +1,29 @@
+{
+    "post_title": "Punjab",
+    "post_type": "movie",
+    "tmdb_id": 1273041,
+    "imdb_id": "tt3607198",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1831714663"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2838569456"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4284112293"
+            }
+        ]
+    }
+}

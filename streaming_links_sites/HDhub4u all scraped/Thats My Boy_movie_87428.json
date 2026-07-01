@@ -1,0 +1,24 @@
+{
+    "post_title": "Thats My Boy",
+    "post_type": "movie",
+    "tmdb_id": 87428,
+    "imdb_id": "tt1232200",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1688142364"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2063995931"
+            }
+        ]
+    }
+}

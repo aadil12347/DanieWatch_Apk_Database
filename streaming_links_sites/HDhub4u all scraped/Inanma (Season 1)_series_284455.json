@@ -1,0 +1,40 @@
+{
+    "post_title": "Inanma",
+    "post_type": "series",
+    "tmdb_id": 284455,
+    "imdb_id": null,
+    "languages": [
+        "Punjabi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1935153936"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/2238255019"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://hubdrive.tips/file/1761676736"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://hubdrive.tips/file/2311916419"
+                },
+                {
+                    "episode_title": "Episode 5",
+                    "link": "https://hubdrive.tips/file/2341839716"
+                },
+                {
+                    "episode_title": "Episode 6",
+                    "link": "https://hubdrive.tips/file/1999519128"
+                }
+            ]
+        }
+    }
+}

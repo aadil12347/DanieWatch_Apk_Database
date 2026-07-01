@@ -1,0 +1,29 @@
+{
+    "post_title": "Dig",
+    "post_type": "movie",
+    "tmdb_id": 242582,
+    "imdb_id": "tt14830582",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1776103039"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2040929608"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2780292826"
+            }
+        ]
+    }
+}

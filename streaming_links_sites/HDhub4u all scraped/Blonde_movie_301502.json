@@ -1,0 +1,24 @@
+{
+    "post_title": "Blonde",
+    "post_type": "movie",
+    "tmdb_id": 301502,
+    "imdb_id": "tt2005185",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1954258061"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2262293218"
+            }
+        ]
+    }
+}

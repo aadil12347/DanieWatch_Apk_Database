@@ -1,0 +1,36 @@
+{
+    "post_title": "Trollhunters Rise of the Titans",
+    "post_type": "movie",
+    "tmdb_id": 730840,
+    "imdb_id": "tt12851396",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/396972892"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/633520315"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1112217519"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2399138441"
+            }
+        ]
+    }
+}

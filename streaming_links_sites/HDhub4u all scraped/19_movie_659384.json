@@ -1,0 +1,29 @@
+{
+    "post_title": "19",
+    "post_type": "movie",
+    "tmdb_id": 659384,
+    "imdb_id": "tt13394304",
+    "languages": [
+        "Malayalam"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1961684942"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2421890287"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1788190513"
+            }
+        ]
+    }
+}

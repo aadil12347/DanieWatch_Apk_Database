@@ -1,0 +1,30 @@
+{
+    "post_title": "Fair Play",
+    "post_type": "movie",
+    "tmdb_id": 910571,
+    "imdb_id": "tt16304446",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3275904588"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1696898790"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1696898789"
+            }
+        ]
+    }
+}

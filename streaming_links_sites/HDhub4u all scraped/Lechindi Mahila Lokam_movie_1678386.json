@@ -1,0 +1,28 @@
+{
+    "post_title": "Lechindi Mahila Lokam",
+    "post_type": "movie",
+    "tmdb_id": 1678386,
+    "imdb_id": "tt20114020",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2267592894"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2405059121"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/5995482229"
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "post_title": "Kakababur Protyaborton",
+    "post_type": "movie",
+    "tmdb_id": 716395,
+    "imdb_id": "tt8919364",
+    "languages": [
+        "Bengali"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1867962264"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1909497399"
+            }
+        ]
+    }
+}

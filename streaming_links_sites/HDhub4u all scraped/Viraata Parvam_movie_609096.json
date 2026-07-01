@@ -1,0 +1,30 @@
+{
+    "post_title": "Viraata Parvam",
+    "post_type": "movie",
+    "tmdb_id": 609096,
+    "imdb_id": "tt11023732",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3182834384"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2755539686"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1692664434"
+            }
+        ]
+    }
+}

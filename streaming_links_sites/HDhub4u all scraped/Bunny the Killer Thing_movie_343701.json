@@ -1,0 +1,24 @@
+{
+    "post_title": "Bunny the Killer Thing",
+    "post_type": "movie",
+    "tmdb_id": 343701,
+    "imdb_id": "tt3375286",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1837285273"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2329074010"
+            }
+        ]
+    }
+}

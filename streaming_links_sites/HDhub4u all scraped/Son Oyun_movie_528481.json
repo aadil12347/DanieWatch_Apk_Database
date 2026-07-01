@@ -1,0 +1,24 @@
+{
+    "post_title": "Son Oyun",
+    "post_type": "movie",
+    "tmdb_id": 528481,
+    "imdb_id": "tt3765310",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1947495898"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2263321243"
+            }
+        ]
+    }
+}

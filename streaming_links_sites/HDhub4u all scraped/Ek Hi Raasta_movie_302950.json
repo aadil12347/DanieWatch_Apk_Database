@@ -1,0 +1,29 @@
+{
+    "post_title": "Ek Hi Raasta",
+    "post_type": "movie",
+    "tmdb_id": 302950,
+    "imdb_id": "tt0106799",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2251715256"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2613007094"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2259053846"
+            }
+        ]
+    }
+}

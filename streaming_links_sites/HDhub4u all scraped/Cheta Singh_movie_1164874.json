@@ -1,0 +1,39 @@
+{
+    "post_title": "Cheta Singh",
+    "post_type": "movie",
+    "tmdb_id": 1164874,
+    "imdb_id": "tt21264776",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2202287173"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2809707362"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2727877760"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2656197302"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/7236344910"
+            }
+        ]
+    }
+}

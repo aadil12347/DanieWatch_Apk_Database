@@ -1,0 +1,24 @@
+{
+    "post_title": "Mermaid Down",
+    "post_type": "movie",
+    "tmdb_id": 504631,
+    "imdb_id": "tt3584496",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1652314849"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1700121424"
+            }
+        ]
+    }
+}

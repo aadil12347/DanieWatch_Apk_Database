@@ -1,0 +1,35 @@
+{
+    "post_title": "Dilwale",
+    "post_type": "movie",
+    "tmdb_id": 19404,
+    "imdb_id": "tt4535650",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2179507317"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2786531909"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2144219787"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3254537927"
+            }
+        ]
+    }
+}

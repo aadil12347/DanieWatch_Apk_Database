@@ -1,0 +1,35 @@
+{
+    "post_title": "Sector 17",
+    "post_type": "movie",
+    "tmdb_id": 1379273,
+    "imdb_id": "tt33044935",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1858537079"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2363779864"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3944506664"
+            }
+        ],
+        "4K SDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4285146580"
+            }
+        ]
+    }
+}

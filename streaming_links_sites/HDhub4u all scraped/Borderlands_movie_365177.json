@@ -1,0 +1,29 @@
+{
+    "post_title": "Borderlands",
+    "post_type": "movie",
+    "tmdb_id": 365177,
+    "imdb_id": "tt4978420",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1892641719"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2274868310"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3505757325"
+            }
+        ]
+    }
+}

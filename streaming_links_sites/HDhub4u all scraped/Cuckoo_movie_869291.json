@@ -1,0 +1,24 @@
+{
+    "post_title": "Cuckoo",
+    "post_type": "movie",
+    "tmdb_id": 869291,
+    "imdb_id": "tt12349832",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2100832182"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2583536724"
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "post_title": "Happy New Year",
+    "post_type": "movie",
+    "tmdb_id": 277432,
+    "imdb_id": "tt2461132",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1726684417"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/595768919"
+            }
+        ]
+    }
+}

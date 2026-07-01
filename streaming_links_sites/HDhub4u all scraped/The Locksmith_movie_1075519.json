@@ -1,0 +1,23 @@
+{
+    "post_title": "The Locksmith",
+    "post_type": "movie",
+    "tmdb_id": 1075519,
+    "imdb_id": "tt15829724",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1944790915"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1943806904"
+            }
+        ]
+    }
+}

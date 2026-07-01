@@ -1,0 +1,23 @@
+{
+    "post_title": "Triangle of Sadness",
+    "post_type": "movie",
+    "tmdb_id": 497828,
+    "imdb_id": "tt7322224",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1768460429"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2187731073"
+            }
+        ]
+    }
+}

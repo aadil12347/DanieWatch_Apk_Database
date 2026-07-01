@@ -1,0 +1,29 @@
+{
+    "post_title": "Lakadbaggha",
+    "post_type": "movie",
+    "tmdb_id": 1069567,
+    "imdb_id": "tt20319598",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1688111816"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1688111815"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1688111814"
+            }
+        ]
+    }
+}

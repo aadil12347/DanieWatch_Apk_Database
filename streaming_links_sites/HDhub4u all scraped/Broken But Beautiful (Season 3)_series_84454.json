@@ -1,0 +1,34 @@
+{
+    "post_title": "Broken But Beautiful",
+    "post_type": "series",
+    "tmdb_id": 84454,
+    "imdb_id": "tt8317568",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "3": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/428686771"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/518798214"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1219904736"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/1392351865"
+                }
+            ]
+        }
+    }
+}

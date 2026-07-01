@@ -1,0 +1,29 @@
+{
+    "post_title": "Baadshaho",
+    "post_type": "movie",
+    "tmdb_id": 441894,
+    "imdb_id": "tt4906960",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2133025101"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1864431822"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3922946693"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Haywire",
+    "post_type": "movie",
+    "tmdb_id": 70435,
+    "imdb_id": "tt1506999",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1865496152"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2163788866"
+            }
+        ]
+    }
+}

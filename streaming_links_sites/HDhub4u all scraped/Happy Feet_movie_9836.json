@@ -1,0 +1,24 @@
+{
+    "post_title": "Happy Feet",
+    "post_type": "movie",
+    "tmdb_id": 9836,
+    "imdb_id": "tt0366548",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1952133903"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1699786238"
+            }
+        ]
+    }
+}

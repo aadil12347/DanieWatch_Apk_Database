@@ -1,0 +1,24 @@
+{
+    "post_title": "Zhuan Yu King",
+    "post_type": "movie",
+    "tmdb_id": 798881,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1684200962"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1684200961"
+            }
+        ]
+    }
+}

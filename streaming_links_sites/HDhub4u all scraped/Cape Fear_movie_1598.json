@@ -1,0 +1,24 @@
+{
+    "post_title": "Cape Fear",
+    "post_type": "movie",
+    "tmdb_id": 1598,
+    "imdb_id": "tt0101540",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2436151699"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3262498798"
+            }
+        ]
+    }
+}

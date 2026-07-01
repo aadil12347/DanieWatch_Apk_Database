@@ -1,0 +1,24 @@
+{
+    "post_title": "Toxin",
+    "post_type": "movie",
+    "tmdb_id": 322061,
+    "imdb_id": "tt2118009",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1719676745"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1661601619"
+            }
+        ]
+    }
+}

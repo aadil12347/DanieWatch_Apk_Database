@@ -1,0 +1,32 @@
+{
+    "post_title": "Jhansi",
+    "post_type": "series",
+    "tmdb_id": 18654,
+    "imdb_id": null,
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "2": {
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1928609605"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/2007356478"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://hubdrive.tips/file/1784957820"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://hubdrive.tips/file/1940782477"
+                }
+            ]
+        }
+    }
+}

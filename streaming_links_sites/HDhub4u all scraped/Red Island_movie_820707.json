@@ -1,0 +1,24 @@
+{
+    "post_title": "Red Island",
+    "post_type": "movie",
+    "tmdb_id": 820707,
+    "imdb_id": "tt4965146",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1728088119"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1710019797"
+            }
+        ]
+    }
+}

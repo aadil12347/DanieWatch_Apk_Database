@@ -1,0 +1,29 @@
+{
+    "post_title": "19 1 a",
+    "post_type": "movie",
+    "tmdb_id": 766418,
+    "imdb_id": "tt13394304",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1909613390"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2334961778"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4082721018"
+            }
+        ]
+    }
+}

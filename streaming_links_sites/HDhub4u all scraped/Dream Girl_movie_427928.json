@@ -1,0 +1,29 @@
+{
+    "post_title": "Dream Girl",
+    "post_type": "movie",
+    "tmdb_id": 427928,
+    "imdb_id": "tt0157556",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1872406290"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2192008203"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3220697059"
+            }
+        ]
+    }
+}

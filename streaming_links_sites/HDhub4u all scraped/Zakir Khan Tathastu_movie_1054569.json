@@ -1,0 +1,29 @@
+{
+    "post_title": "Zakir Khan: Tathastu",
+    "post_type": "movie",
+    "tmdb_id": 1054569,
+    "imdb_id": "tt23623070",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1980000421"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1980000421"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3488084035"
+            }
+        ]
+    }
+}

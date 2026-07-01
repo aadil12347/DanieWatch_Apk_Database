@@ -1,0 +1,24 @@
+{
+    "post_title": "Seven Swords",
+    "post_type": "movie",
+    "tmdb_id": 10703,
+    "imdb_id": "tt25892298",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1819521723"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1956870605"
+            }
+        ]
+    }
+}

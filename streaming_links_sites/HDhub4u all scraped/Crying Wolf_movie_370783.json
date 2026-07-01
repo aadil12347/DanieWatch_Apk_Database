@@ -1,0 +1,24 @@
+{
+    "post_title": "Crying Wolf",
+    "post_type": "movie",
+    "tmdb_id": 370783,
+    "imdb_id": "tt2308583",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1956840590"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2330810023"
+            }
+        ]
+    }
+}

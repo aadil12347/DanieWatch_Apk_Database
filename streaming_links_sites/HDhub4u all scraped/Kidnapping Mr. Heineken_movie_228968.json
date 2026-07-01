@@ -1,0 +1,34 @@
+{
+    "post_title": "Kidnapping Mr. Heineken",
+    "post_type": "movie",
+    "tmdb_id": 228968,
+    "imdb_id": "tt2917388",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3064250414"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2943192238"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/4195407754"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4242974262"
+            }
+        ]
+    }
+}

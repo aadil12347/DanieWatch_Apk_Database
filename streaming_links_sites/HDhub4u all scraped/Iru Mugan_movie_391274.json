@@ -1,0 +1,24 @@
+{
+    "post_title": "Iru Mugan",
+    "post_type": "movie",
+    "tmdb_id": 391274,
+    "imdb_id": "tt5372466",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1557032510"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/532330280"
+            }
+        ]
+    }
+}

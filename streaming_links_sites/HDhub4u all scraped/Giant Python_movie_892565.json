@@ -1,0 +1,24 @@
+{
+    "post_title": "Giant Python",
+    "post_type": "movie",
+    "tmdb_id": 892565,
+    "imdb_id": "tt21097864",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1664153337"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2420843252"
+            }
+        ]
+    }
+}

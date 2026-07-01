@@ -1,0 +1,24 @@
+{
+    "post_title": "Gaia",
+    "post_type": "movie",
+    "tmdb_id": 795853,
+    "imdb_id": "tt11881160",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2484493197"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2295067412"
+            }
+        ]
+    }
+}

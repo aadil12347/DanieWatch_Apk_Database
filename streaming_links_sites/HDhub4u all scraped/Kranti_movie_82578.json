@@ -1,0 +1,33 @@
+{
+    "post_title": "Kranti",
+    "post_type": "movie",
+    "tmdb_id": 82578,
+    "imdb_id": "tt15373868",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2103712318"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2292528117"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/2892185259"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1965034217"
+            }
+        ]
+    }
+}

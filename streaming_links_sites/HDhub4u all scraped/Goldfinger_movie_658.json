@@ -1,0 +1,30 @@
+{
+    "post_title": "Goldfinger",
+    "post_type": "movie",
+    "tmdb_id": 658,
+    "imdb_id": "tt0058150",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1833028162"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1974697179"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1971550105"
+            }
+        ]
+    }
+}

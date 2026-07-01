@@ -1,0 +1,29 @@
+{
+    "post_title": "Paani Ch Madhaani",
+    "post_type": "movie",
+    "tmdb_id": 890453,
+    "imdb_id": "tt12839622",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1990575116"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2220223371"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3987520812"
+            }
+        ]
+    }
+}

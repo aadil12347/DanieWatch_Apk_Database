@@ -1,0 +1,29 @@
+{
+    "post_title": "Maanikya",
+    "post_type": "movie",
+    "tmdb_id": 256023,
+    "imdb_id": "tt3184756",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1390046260"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/461742147"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2748994632"
+            }
+        ]
+    }
+}

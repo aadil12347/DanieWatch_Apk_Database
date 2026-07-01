@@ -1,0 +1,29 @@
+{
+    "post_title": "What Happened To Monday",
+    "post_type": "movie",
+    "tmdb_id": 406990,
+    "imdb_id": "tt1536537",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695376652"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695376650"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695376649"
+            }
+        ]
+    }
+}

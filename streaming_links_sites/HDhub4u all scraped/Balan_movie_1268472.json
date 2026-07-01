@@ -1,0 +1,30 @@
+{
+    "post_title": "Balan",
+    "post_type": "movie",
+    "tmdb_id": 1268472,
+    "imdb_id": "tt35254624",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2019688091"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4238142787"
+            }
+        ],
+        "1080p HQ": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4703887419"
+            }
+        ]
+    }
+}

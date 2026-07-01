@@ -1,0 +1,29 @@
+{
+    "post_title": "Saroj Ka Rishta",
+    "post_type": "movie",
+    "tmdb_id": 1007946,
+    "imdb_id": "tt8690140",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1843099685"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1892382540"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3228765959"
+            }
+        ]
+    }
+}

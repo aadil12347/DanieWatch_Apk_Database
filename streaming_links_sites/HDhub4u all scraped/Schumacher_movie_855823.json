@@ -1,0 +1,29 @@
+{
+    "post_title": "Schumacher",
+    "post_type": "movie",
+    "tmdb_id": 855823,
+    "imdb_id": "tt10322274",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2121532976"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2101022973"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3464920349"
+            }
+        ]
+    }
+}

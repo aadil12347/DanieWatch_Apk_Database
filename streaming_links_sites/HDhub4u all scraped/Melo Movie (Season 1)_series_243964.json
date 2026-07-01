@@ -1,0 +1,99 @@
+{
+    "post_title": "Melo Movie",
+    "post_type": "series",
+    "tmdb_id": 243964,
+    "imdb_id": "tt35450649",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/2103033743"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/2206521911"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://hubdrive.tips/file/2083918688"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://hubdrive.tips/file/1982504773"
+                },
+                {
+                    "episode_title": "Episode 5",
+                    "link": "https://hubdrive.tips/file/1783306238"
+                },
+                {
+                    "episode_title": "Episode 6",
+                    "link": "https://hubdrive.tips/file/1769256321"
+                },
+                {
+                    "episode_title": "Episode 7",
+                    "link": "https://hubdrive.tips/file/2238146908"
+                },
+                {
+                    "episode_title": "Episode 8",
+                    "link": "https://hubdrive.tips/file/1920497175"
+                },
+                {
+                    "episode_title": "Episode 9",
+                    "link": "https://hubdrive.tips/file/1780433780"
+                },
+                {
+                    "episode_title": "Episode 10",
+                    "link": "https://hubdrive.tips/file/1755446444"
+                }
+            ],
+            "1080p 10bit": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/2260013630"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/1833944935"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://hubdrive.tips/file/1907616912"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://hubdrive.tips/file/2361314463"
+                },
+                {
+                    "episode_title": "Episode 5",
+                    "link": "https://hubdrive.tips/file/1908882617"
+                },
+                {
+                    "episode_title": "Episode 6",
+                    "link": "https://hubdrive.tips/file/2012265096"
+                },
+                {
+                    "episode_title": "Episode 7",
+                    "link": "https://hubdrive.tips/file/2047741944"
+                },
+                {
+                    "episode_title": "Episode 8",
+                    "link": "https://hubdrive.tips/file/1751454597"
+                },
+                {
+                    "episode_title": "Episode 9",
+                    "link": "https://hubdrive.tips/file/2713554356"
+                },
+                {
+                    "episode_title": "Episode 10",
+                    "link": "https://hubdrive.tips/file/2908748458"
+                }
+            ]
+        }
+    }
+}

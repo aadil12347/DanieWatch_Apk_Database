@@ -1,0 +1,30 @@
+{
+    "post_title": "The Kissing Booth 3",
+    "post_type": "movie",
+    "tmdb_id": 727745,
+    "imdb_id": "tt12783454",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2107821361"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2604946547"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3936009865"
+            }
+        ]
+    }
+}

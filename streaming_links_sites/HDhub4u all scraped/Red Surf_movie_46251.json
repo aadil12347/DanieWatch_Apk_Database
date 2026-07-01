@@ -1,0 +1,24 @@
+{
+    "post_title": "Red Surf",
+    "post_type": "movie",
+    "tmdb_id": 46251,
+    "imdb_id": "tt0100468",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1672849973"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1981696614"
+            }
+        ]
+    }
+}

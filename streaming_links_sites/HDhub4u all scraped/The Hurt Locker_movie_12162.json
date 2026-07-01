@@ -1,0 +1,30 @@
+{
+    "post_title": "The Hurt Locker",
+    "post_type": "movie",
+    "tmdb_id": 12162,
+    "imdb_id": "tt0887912",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2070384880"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2142824484"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2774393224"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "99 Songs",
+    "post_type": "movie",
+    "tmdb_id": 545071,
+    "imdb_id": "tt7559180",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2592329265"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1160162070"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/414111308"
+            }
+        ]
+    }
+}

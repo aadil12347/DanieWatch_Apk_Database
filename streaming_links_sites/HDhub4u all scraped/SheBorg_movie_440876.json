@@ -1,0 +1,24 @@
+{
+    "post_title": "SheBorg",
+    "post_type": "movie",
+    "tmdb_id": 440876,
+    "imdb_id": "tt5196516",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1824457855"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2138531736"
+            }
+        ]
+    }
+}

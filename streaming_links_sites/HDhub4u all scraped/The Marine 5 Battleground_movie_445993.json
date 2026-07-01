@@ -1,0 +1,30 @@
+{
+    "post_title": "The Marine 5: Battleground",
+    "post_type": "movie",
+    "tmdb_id": 445993,
+    "imdb_id": "tt5781798",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/395143659"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/876222904"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1762242399"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Bol Radha Bol",
+    "post_type": "movie",
+    "tmdb_id": 168489,
+    "imdb_id": "tt0172188",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2216674559"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2509000473"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2438666557"
+            }
+        ]
+    }
+}

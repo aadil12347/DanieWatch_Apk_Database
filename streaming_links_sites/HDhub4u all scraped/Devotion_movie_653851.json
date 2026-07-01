@@ -1,0 +1,23 @@
+{
+    "post_title": "Devotion",
+    "post_type": "movie",
+    "tmdb_id": 653851,
+    "imdb_id": "tt7693316",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1978329906"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1691544470"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Ted 2",
+    "post_type": "movie",
+    "tmdb_id": 214756,
+    "imdb_id": "tt2637276",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2161264102"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2724982596"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2124752555"
+            }
+        ]
+    }
+}

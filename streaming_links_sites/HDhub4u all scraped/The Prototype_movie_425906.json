@@ -1,0 +1,23 @@
+{
+    "post_title": "The Prototype",
+    "post_type": "movie",
+    "tmdb_id": 425906,
+    "imdb_id": "tt1754700",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1804126341"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2465996899"
+            }
+        ]
+    }
+}

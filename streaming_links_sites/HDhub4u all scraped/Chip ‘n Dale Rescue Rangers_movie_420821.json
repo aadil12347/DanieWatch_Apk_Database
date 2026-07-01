@@ -1,0 +1,23 @@
+{
+    "post_title": "Chip ‘n Dale: Rescue Rangers",
+    "post_type": "movie",
+    "tmdb_id": 420821,
+    "imdb_id": "tt3513500",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1951348459"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1933271161"
+            }
+        ]
+    }
+}

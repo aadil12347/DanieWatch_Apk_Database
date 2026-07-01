@@ -1,0 +1,30 @@
+{
+    "post_title": "The Ghost Station",
+    "post_type": "movie",
+    "tmdb_id": 844386,
+    "imdb_id": "tt22505124",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2803027645"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1990776262"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1691266069"
+            }
+        ]
+    }
+}

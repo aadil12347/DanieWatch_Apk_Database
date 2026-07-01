@@ -1,0 +1,64 @@
+{
+    "post_title": "Bloodhounds",
+    "post_type": "series",
+    "tmdb_id": 127529,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "English",
+        "Korean"
+    ],
+    "total_seasons": 2,
+    "seasons": {
+        "2": {
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://gadgetsweb.xyz/"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://gadgetsweb.xyz/"
+                }
+            ]
+        },
+        "1": {
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1686340899"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/1686340900"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://hubdrive.tips/file/1686340901"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://hubdrive.tips/file/1686340902"
+                },
+                {
+                    "episode_title": "Episode 5",
+                    "link": "https://hubdrive.tips/file/1686340903"
+                },
+                {
+                    "episode_title": "Episode 6",
+                    "link": "https://hubdrive.tips/file/1686340904"
+                },
+                {
+                    "episode_title": "Episode 7",
+                    "link": "https://hubdrive.tips/file/1686340905"
+                },
+                {
+                    "episode_title": "Episode 8",
+                    "link": "https://hubdrive.tips/file/1686340906"
+                }
+            ]
+        }
+    }
+}

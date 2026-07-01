@@ -1,0 +1,24 @@
+{
+    "post_title": "Ghost Storm",
+    "post_type": "movie",
+    "tmdb_id": 146028,
+    "imdb_id": "tt1939686",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1820357284"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2799415893"
+            }
+        ]
+    }
+}

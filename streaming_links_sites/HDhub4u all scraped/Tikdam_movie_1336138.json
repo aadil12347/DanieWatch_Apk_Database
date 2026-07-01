@@ -1,0 +1,27 @@
+{
+    "post_title": "Tikdam",
+    "post_type": "movie",
+    "tmdb_id": 1336138,
+    "imdb_id": "tt33095240",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2155062990"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1925878419"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/1906249967"
+            }
+        ]
+    }
+}

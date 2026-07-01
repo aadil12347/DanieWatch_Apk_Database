@@ -1,0 +1,29 @@
+{
+    "post_title": "Nanak Naam Jahaz Hai",
+    "post_type": "movie",
+    "tmdb_id": 277555,
+    "imdb_id": "tt0142681",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2157868518"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1949386762"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2739104609"
+            }
+        ]
+    }
+}

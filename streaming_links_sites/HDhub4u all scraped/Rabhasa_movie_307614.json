@@ -1,0 +1,29 @@
+{
+    "post_title": "Rabhasa",
+    "post_type": "movie",
+    "tmdb_id": 307614,
+    "imdb_id": "tt3916762",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1374607960"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/454482024"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2317329192"
+            }
+        ]
+    }
+}

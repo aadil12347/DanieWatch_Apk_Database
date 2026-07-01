@@ -1,0 +1,30 @@
+{
+    "post_title": "Aftermath",
+    "post_type": "movie",
+    "tmdb_id": 390051,
+    "imdb_id": "tt4581576",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1852598615"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2576053562"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2262981565"
+            }
+        ]
+    }
+}

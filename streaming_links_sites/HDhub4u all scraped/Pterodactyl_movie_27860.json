@@ -1,0 +1,24 @@
+{
+    "post_title": "Pterodactyl",
+    "post_type": "movie",
+    "tmdb_id": 27860,
+    "imdb_id": "tt0452668",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1745849812"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2383333436"
+            }
+        ]
+    }
+}

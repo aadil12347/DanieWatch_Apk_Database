@@ -1,0 +1,30 @@
+{
+    "post_title": "Peach Blossom Origin",
+    "post_type": "movie",
+    "tmdb_id": 971978,
+    "imdb_id": "tt27750365",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/karbtpdb1a1pd1a"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698386024"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698386021"
+            }
+        ]
+    }
+}

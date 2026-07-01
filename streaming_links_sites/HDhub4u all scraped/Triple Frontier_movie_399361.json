@@ -1,0 +1,24 @@
+{
+    "post_title": "Triple Frontier",
+    "post_type": "movie",
+    "tmdb_id": 399361,
+    "imdb_id": "tt1488606",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/6d_3rr161rvqpxp"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/kzomzkl48on1vao"
+            }
+        ]
+    }
+}

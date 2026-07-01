@@ -1,0 +1,29 @@
+{
+    "post_title": "Khushi",
+    "post_type": "movie",
+    "tmdb_id": 345426,
+    "imdb_id": "tt0348656",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2218106755"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1915903419"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2734743168"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Serendipity",
+    "post_type": "movie",
+    "tmdb_id": 9778,
+    "imdb_id": "tt0240890",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/319916749"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/874492701"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1626994318"
+            }
+        ]
+    }
+}

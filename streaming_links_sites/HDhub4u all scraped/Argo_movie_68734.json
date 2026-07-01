@@ -1,0 +1,24 @@
+{
+    "post_title": "Argo",
+    "post_type": "movie",
+    "tmdb_id": 68734,
+    "imdb_id": "tt1024648",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1986888765"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2143609919"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Scary Movie",
+    "post_type": "movie",
+    "tmdb_id": 1273221,
+    "imdb_id": "tt0175142",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1995665941"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1783602023"
+            }
+        ]
+    }
+}

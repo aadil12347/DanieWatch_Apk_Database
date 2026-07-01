@@ -1,0 +1,23 @@
+{
+    "post_title": "The Valet",
+    "post_type": "movie",
+    "tmdb_id": 1149302,
+    "imdb_id": "tt4081630",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2063626843"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2264297024"
+            }
+        ]
+    }
+}

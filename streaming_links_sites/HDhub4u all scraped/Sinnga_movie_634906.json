@@ -1,0 +1,30 @@
+{
+    "post_title": "Sinnga",
+    "post_type": "movie",
+    "tmdb_id": 634906,
+    "imdb_id": "tt10298052",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/434654003"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1169799346"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2466476814"
+            }
+        ]
+    }
+}

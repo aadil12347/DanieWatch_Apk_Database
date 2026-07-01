@@ -1,0 +1,36 @@
+{
+    "post_title": "Agent Sai Srinivasa Athreya",
+    "post_type": "movie",
+    "tmdb_id": 610482,
+    "imdb_id": "tt10214826",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/473661335"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/794745091"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1385906233"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2863997257"
+            }
+        ]
+    }
+}

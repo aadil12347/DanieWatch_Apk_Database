@@ -1,0 +1,23 @@
+{
+    "post_title": "Faith in the Family",
+    "post_type": "movie",
+    "tmdb_id": 1180538,
+    "imdb_id": "tt27698077",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1853594207"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2430921228"
+            }
+        ]
+    }
+}

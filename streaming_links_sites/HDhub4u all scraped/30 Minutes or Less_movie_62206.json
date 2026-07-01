@@ -1,0 +1,24 @@
+{
+    "post_title": "30 Minutes or Less",
+    "post_type": "movie",
+    "tmdb_id": 62206,
+    "imdb_id": "tt1622547",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1826918273"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2424826993"
+            }
+        ]
+    }
+}

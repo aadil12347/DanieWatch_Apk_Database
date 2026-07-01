@@ -1,0 +1,35 @@
+{
+    "post_title": "Nanpakal Nerathu Mayakkam",
+    "post_type": "movie",
+    "tmdb_id": 876845,
+    "imdb_id": "tt15875712",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1782348967"
+            }
+        ],
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2049110280"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2208296376"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2724056010"
+            }
+        ]
+    }
+}

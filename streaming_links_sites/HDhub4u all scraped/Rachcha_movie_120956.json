@@ -1,0 +1,30 @@
+{
+    "post_title": "Rachcha",
+    "post_type": "movie",
+    "tmdb_id": 120956,
+    "imdb_id": "tt2287973",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2698713143"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1654135037"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3191996725"
+            }
+        ]
+    }
+}

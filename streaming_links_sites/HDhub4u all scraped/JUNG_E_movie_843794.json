@@ -1,0 +1,36 @@
+{
+    "post_title": "JUNG_E",
+    "post_type": "movie",
+    "tmdb_id": 843794,
+    "imdb_id": "tt22352848",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1910424890"
+            }
+        ],
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2324547486"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2605716880"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3480804843"
+            }
+        ]
+    }
+}

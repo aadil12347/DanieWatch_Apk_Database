@@ -1,0 +1,24 @@
+{
+    "post_title": "IKE Boys",
+    "post_type": "movie",
+    "tmdb_id": 786415,
+    "imdb_id": "tt11348164",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701329478"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701329477"
+            }
+        ]
+    }
+}

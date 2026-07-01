@@ -1,0 +1,34 @@
+{
+    "post_title": "Manjummel Boys",
+    "post_type": "movie",
+    "tmdb_id": 1069945,
+    "imdb_id": "tt26458038",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2492461619"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2984682350"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3997230208"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/4672617169"
+            }
+        ]
+    }
+}

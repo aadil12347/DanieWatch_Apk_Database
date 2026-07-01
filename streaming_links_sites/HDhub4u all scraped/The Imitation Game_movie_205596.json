@@ -1,0 +1,30 @@
+{
+    "post_title": "The Imitation Game",
+    "post_type": "movie",
+    "tmdb_id": 205596,
+    "imdb_id": "tt2084970",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2001708561"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2602109919"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3810543570"
+            }
+        ]
+    }
+}

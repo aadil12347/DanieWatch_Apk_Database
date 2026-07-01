@@ -1,0 +1,35 @@
+{
+    "post_title": "Cube",
+    "post_type": "movie",
+    "tmdb_id": 431,
+    "imdb_id": "tt0123755",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1984770502"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1914096906"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2946188198"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1829726947"
+            }
+        ]
+    }
+}

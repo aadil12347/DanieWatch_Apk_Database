@@ -1,0 +1,24 @@
+{
+    "post_title": "Cult of Chucky",
+    "post_type": "movie",
+    "tmdb_id": 393345,
+    "imdb_id": "tt3280262",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1705098229"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1943007640"
+            }
+        ]
+    }
+}

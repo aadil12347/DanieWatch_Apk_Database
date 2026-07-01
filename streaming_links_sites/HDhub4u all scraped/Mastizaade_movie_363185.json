@@ -1,0 +1,29 @@
+{
+    "post_title": "Mastizaade",
+    "post_type": "movie",
+    "tmdb_id": 363185,
+    "imdb_id": null,
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711882989"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711882988"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711882986"
+            }
+        ]
+    }
+}

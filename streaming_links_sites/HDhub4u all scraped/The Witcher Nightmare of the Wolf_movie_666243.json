@@ -1,0 +1,30 @@
+{
+    "post_title": "The Witcher: Nightmare of the Wolf",
+    "post_type": "movie",
+    "tmdb_id": 666243,
+    "imdb_id": "tt11657662",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2002578260"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1827629270"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3116710054"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Lakiro",
+    "post_type": "movie",
+    "tmdb_id": 1066773,
+    "imdb_id": "tt15522950",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1688401083"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1688401082"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1688401080"
+            }
+        ]
+    }
+}

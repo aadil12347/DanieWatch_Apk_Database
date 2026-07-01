@@ -1,0 +1,29 @@
+{
+    "post_title": "Karaa",
+    "post_type": "movie",
+    "tmdb_id": 1696756,
+    "imdb_id": "tt41943990",
+    "languages": [
+        "Tamil"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2410285392"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3881630918"
+            }
+        ],
+        "1080p HQ": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4397416086"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Pambattam",
+    "post_type": "movie",
+    "tmdb_id": 1055753,
+    "imdb_id": null,
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2019572125"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1868391935"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1785953822"
+            }
+        ]
+    }
+}

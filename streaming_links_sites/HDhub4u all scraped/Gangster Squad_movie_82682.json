@@ -1,0 +1,24 @@
+{
+    "post_title": "Gangster Squad",
+    "post_type": "movie",
+    "tmdb_id": 82682,
+    "imdb_id": "tt1321870",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1193911756"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/408130810"
+            }
+        ]
+    }
+}

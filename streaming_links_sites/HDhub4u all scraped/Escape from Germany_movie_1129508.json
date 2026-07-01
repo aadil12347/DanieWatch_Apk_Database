@@ -1,0 +1,29 @@
+{
+    "post_title": "Escape from Germany",
+    "post_type": "movie",
+    "tmdb_id": 1129508,
+    "imdb_id": "tt28172032",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1959691880"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2615157054"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3116421190"
+            }
+        ]
+    }
+}

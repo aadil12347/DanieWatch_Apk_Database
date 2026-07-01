@@ -1,0 +1,29 @@
+{
+    "post_title": "Ae Dil Hai Mushkil",
+    "post_type": "movie",
+    "tmdb_id": 393445,
+    "imdb_id": "tt4559006",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1702469585"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1702469583"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1702469581"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Bodyguard",
+    "post_type": "movie",
+    "tmdb_id": 515771,
+    "imdb_id": "tt1729637",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1742182187"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2711473405"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1775920202"
+            }
+        ]
+    }
+}

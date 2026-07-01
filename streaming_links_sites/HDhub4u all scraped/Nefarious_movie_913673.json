@@ -1,0 +1,24 @@
+{
+    "post_title": "Nefarious",
+    "post_type": "movie",
+    "tmdb_id": 913673,
+    "imdb_id": "tt14537248",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698954160"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698954159"
+            }
+        ]
+    }
+}

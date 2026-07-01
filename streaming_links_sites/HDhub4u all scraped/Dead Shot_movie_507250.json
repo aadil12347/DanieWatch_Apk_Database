@@ -1,0 +1,29 @@
+{
+    "post_title": "Dead Shot",
+    "post_type": "movie",
+    "tmdb_id": 507250,
+    "imdb_id": "tt8019518",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1684562985"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1684562983"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1684562981"
+            }
+        ]
+    }
+}

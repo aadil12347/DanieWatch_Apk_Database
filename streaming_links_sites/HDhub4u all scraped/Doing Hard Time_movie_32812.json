@@ -1,0 +1,24 @@
+{
+    "post_title": "Doing Hard Time",
+    "post_type": "movie",
+    "tmdb_id": 32812,
+    "imdb_id": "tt0427166",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1741981434"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698930671"
+            }
+        ]
+    }
+}

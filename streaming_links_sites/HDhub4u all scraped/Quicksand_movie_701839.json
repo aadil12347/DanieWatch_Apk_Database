@@ -1,0 +1,30 @@
+{
+    "post_title": "Quicksand",
+    "post_type": "movie",
+    "tmdb_id": 701839,
+    "imdb_id": "tt19056070",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698081650"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2759090890"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698081649"
+            }
+        ]
+    }
+}

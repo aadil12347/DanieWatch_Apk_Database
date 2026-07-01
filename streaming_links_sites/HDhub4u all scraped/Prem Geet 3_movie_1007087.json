@@ -1,0 +1,29 @@
+{
+    "post_title": "Prem Geet 3",
+    "post_type": "movie",
+    "tmdb_id": 1007087,
+    "imdb_id": "tt21741272",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1825153892"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1979023597"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1794759581"
+            }
+        ]
+    }
+}

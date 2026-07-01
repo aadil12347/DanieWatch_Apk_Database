@@ -1,0 +1,24 @@
+{
+    "post_title": "New Fist of Fury",
+    "post_type": "movie",
+    "tmdb_id": 18666,
+    "imdb_id": "tt0075439",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1686294882"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1686294880"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Quantum of Solace",
+    "post_type": "movie",
+    "tmdb_id": 10764,
+    "imdb_id": "tt0830515",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1812347038"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2081680895"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1896897778"
+            }
+        ]
+    }
+}

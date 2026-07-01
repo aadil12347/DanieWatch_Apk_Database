@@ -1,0 +1,35 @@
+{
+    "post_title": "Meenakshi Sundareshwar",
+    "post_type": "movie",
+    "tmdb_id": 828871,
+    "imdb_id": "tt13529034",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/441648605"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/836409212"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1248617906"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2883608283"
+            }
+        ]
+    }
+}

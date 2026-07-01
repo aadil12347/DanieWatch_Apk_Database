@@ -1,0 +1,30 @@
+{
+    "post_title": "Cast Away",
+    "post_type": "movie",
+    "tmdb_id": 8358,
+    "imdb_id": "tt0162222",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1843386290"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2627961307"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4768871291"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "post_title": "Operation Fortune: Ruse de Guerre",
+    "post_type": "movie",
+    "tmdb_id": 739405,
+    "imdb_id": "tt7985704",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1683185941"
+            }
+        ],
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/cgpjfjjdntrqj1c"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1683185980"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1683185862"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Ittefaq",
+    "post_type": "movie",
+    "tmdb_id": 386449,
+    "imdb_id": "tt0297983",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2168580456"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2732094557"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3340932983"
+            }
+        ]
+    }
+}

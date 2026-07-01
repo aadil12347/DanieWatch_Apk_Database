@@ -1,0 +1,24 @@
+{
+    "post_title": "City of Fear",
+    "post_type": "movie",
+    "tmdb_id": 1425063,
+    "imdb_id": "tt0193065",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1702185846"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1702185848"
+            }
+        ]
+    }
+}

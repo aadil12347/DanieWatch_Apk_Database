@@ -1,0 +1,24 @@
+{
+    "post_title": "Brawl",
+    "post_type": "movie",
+    "tmdb_id": 1458509,
+    "imdb_id": "tt2360334",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1686294892"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1686294890"
+            }
+        ]
+    }
+}

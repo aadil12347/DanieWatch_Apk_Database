@@ -1,0 +1,24 @@
+{
+    "post_title": "Swarmed",
+    "post_type": "movie",
+    "tmdb_id": 37035,
+    "imdb_id": "tt0437498",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1780994421"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2421772162"
+            }
+        ]
+    }
+}

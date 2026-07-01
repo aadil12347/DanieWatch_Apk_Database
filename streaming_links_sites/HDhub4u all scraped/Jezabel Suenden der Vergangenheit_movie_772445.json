@@ -1,0 +1,30 @@
+{
+    "post_title": "Jezabel Suenden der Vergangenheit",
+    "post_type": "movie",
+    "tmdb_id": 772445,
+    "imdb_id": "tt9339850",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1987940841"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2311091270"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3663786816"
+            }
+        ]
+    }
+}

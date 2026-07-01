@@ -1,0 +1,31 @@
+{
+    "post_title": "Zodiac",
+    "post_type": "movie",
+    "tmdb_id": 1949,
+    "imdb_id": "tt0443706",
+    "languages": [
+        "Hindi",
+        "English",
+        "Odia"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2140747191"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2551677881"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4157403610"
+            }
+        ]
+    }
+}

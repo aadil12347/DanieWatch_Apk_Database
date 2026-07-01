@@ -1,0 +1,29 @@
+{
+    "post_title": "Crazy Cukkad Family",
+    "post_type": "movie",
+    "tmdb_id": 321793,
+    "imdb_id": "tt4094820",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1927362290"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1843127818"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2550576935"
+            }
+        ]
+    }
+}

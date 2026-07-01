@@ -1,0 +1,24 @@
+{
+    "post_title": "Father of the Bride",
+    "post_type": "movie",
+    "tmdb_id": 11846,
+    "imdb_id": "tt13249596",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1664132568"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1909783873"
+            }
+        ]
+    }
+}

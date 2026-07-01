@@ -1,0 +1,29 @@
+{
+    "post_title": "Hindutva",
+    "post_type": "movie",
+    "tmdb_id": 1052680,
+    "imdb_id": "tt15502162",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1849801897"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2087774922"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2847889114"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "M3GAN",
+    "post_type": "movie",
+    "tmdb_id": 536554,
+    "imdb_id": "tt8760708",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1722695165"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2424189267"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2663958522"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Treasure Inn",
+    "post_type": "movie",
+    "tmdb_id": 72063,
+    "imdb_id": "tt1941705",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1947736764"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2335937497"
+            }
+        ]
+    }
+}

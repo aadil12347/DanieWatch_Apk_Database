@@ -1,0 +1,24 @@
+{
+    "post_title": "The Water Man",
+    "post_type": "movie",
+    "tmdb_id": 346687,
+    "imdb_id": "tt4779326",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1939000387"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2420200485"
+            }
+        ]
+    }
+}

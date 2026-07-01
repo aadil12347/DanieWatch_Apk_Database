@@ -1,0 +1,30 @@
+{
+    "post_title": "Bee Team 2",
+    "post_type": "movie",
+    "tmdb_id": 657483,
+    "imdb_id": "tt9306714",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1844898621"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2140636696"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2384705222"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Nippu",
+    "post_type": "movie",
+    "tmdb_id": 104069,
+    "imdb_id": "tt2175823",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2798415518"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1691293583"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3994259147"
+            }
+        ]
+    }
+}

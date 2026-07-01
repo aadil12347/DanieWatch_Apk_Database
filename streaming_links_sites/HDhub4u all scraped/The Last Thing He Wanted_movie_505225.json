@@ -1,0 +1,30 @@
+{
+    "post_title": "The Last Thing He Wanted",
+    "post_type": "movie",
+    "tmdb_id": 505225,
+    "imdb_id": "tt7456312",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2051812676"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1803108394"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4463061681"
+            }
+        ]
+    }
+}

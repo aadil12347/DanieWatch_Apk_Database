@@ -1,0 +1,44 @@
+{
+    "post_title": "Sunflower",
+    "post_type": "series",
+    "tmdb_id": 127332,
+    "imdb_id": "tt13304410",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "2": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1709265512"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1709265458"
+                }
+            ],
+            "720p HEVC": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1709265562"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1709265622"
+                }
+            ],
+            "1080p HEVC": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1709265435"
+                }
+            ]
+        }
+    }
+}

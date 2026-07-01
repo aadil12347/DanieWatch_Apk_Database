@@ -1,0 +1,24 @@
+{
+    "post_title": "Rising Fear",
+    "post_type": "movie",
+    "tmdb_id": 442949,
+    "imdb_id": "tt3006588",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1863496792"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1839522819"
+            }
+        ]
+    }
+}

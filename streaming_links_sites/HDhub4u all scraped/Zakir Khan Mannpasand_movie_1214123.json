@@ -1,0 +1,33 @@
+{
+    "post_title": "Zakir Khan: Mannpasand",
+    "post_type": "movie",
+    "tmdb_id": 1214123,
+    "imdb_id": "tt30151562",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701892644"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701892643"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3242863290"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/1701892889"
+            }
+        ]
+    }
+}

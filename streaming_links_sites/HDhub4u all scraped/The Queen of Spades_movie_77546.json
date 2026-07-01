@@ -1,0 +1,24 @@
+{
+    "post_title": "The Queen of Spades",
+    "post_type": "movie",
+    "tmdb_id": 77546,
+    "imdb_id": "tt2231457",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1682572723"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1682572722"
+            }
+        ]
+    }
+}

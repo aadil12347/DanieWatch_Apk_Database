@@ -1,0 +1,23 @@
+{
+    "post_title": "The Royal Hotel",
+    "post_type": "movie",
+    "tmdb_id": 944952,
+    "imdb_id": "tt18363072",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698301361"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698301360"
+            }
+        ]
+    }
+}

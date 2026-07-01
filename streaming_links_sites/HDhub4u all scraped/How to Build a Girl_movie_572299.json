@@ -1,0 +1,24 @@
+{
+    "post_title": "How to Build a Girl",
+    "post_type": "movie",
+    "tmdb_id": 572299,
+    "imdb_id": "tt4193072",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1964925870"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1815665515"
+            }
+        ]
+    }
+}

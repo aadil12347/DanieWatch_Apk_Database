@@ -1,0 +1,29 @@
+{
+    "post_title": "Gunday",
+    "post_type": "movie",
+    "tmdb_id": 250551,
+    "imdb_id": "tt2574698",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1848689594"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2565861282"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3540366664"
+            }
+        ]
+    }
+}

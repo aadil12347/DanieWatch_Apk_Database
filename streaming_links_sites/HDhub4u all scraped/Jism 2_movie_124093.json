@@ -1,0 +1,29 @@
+{
+    "post_title": "Jism 2",
+    "post_type": "movie",
+    "tmdb_id": 124093,
+    "imdb_id": "tt2226666",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1777154992"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2435952328"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3130914692"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Rowdy Rathore",
+    "post_type": "movie",
+    "tmdb_id": 102632,
+    "imdb_id": "tt2077833",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1758878501"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2078881709"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4682021653"
+            }
+        ]
+    }
+}

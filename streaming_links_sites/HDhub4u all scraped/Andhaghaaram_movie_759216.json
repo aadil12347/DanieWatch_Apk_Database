@@ -1,0 +1,36 @@
+{
+    "post_title": "Andhaghaaram",
+    "post_type": "movie",
+    "tmdb_id": 759216,
+    "imdb_id": "tt9110340",
+    "languages": [
+        "English",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/526690885"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/802785131"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1517223518"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2851834109"
+            }
+        ]
+    }
+}

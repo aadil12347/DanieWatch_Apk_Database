@@ -1,0 +1,30 @@
+{
+    "post_title": "Beethoven’s 2nd",
+    "post_type": "movie",
+    "tmdb_id": 10438,
+    "imdb_id": "tt0106375",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1931014096"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2070693667"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2730515804"
+            }
+        ]
+    }
+}

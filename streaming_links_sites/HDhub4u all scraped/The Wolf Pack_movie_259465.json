@@ -1,0 +1,29 @@
+{
+    "post_title": "The Wolf Pack",
+    "post_type": "movie",
+    "tmdb_id": 259465,
+    "imdb_id": "tt9800694",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711962758"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711962757"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711962756"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Scooby-Doo! Abracadabra-Doo",
+    "post_type": "movie",
+    "tmdb_id": 32916,
+    "imdb_id": "tt1599351",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1917012333"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2004538557"
+            }
+        ]
+    }
+}

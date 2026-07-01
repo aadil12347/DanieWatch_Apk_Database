@@ -1,0 +1,30 @@
+{
+    "post_title": "The Living Daylights",
+    "post_type": "movie",
+    "tmdb_id": 708,
+    "imdb_id": "tt0093428",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2013937279"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1930835239"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1829996056"
+            }
+        ]
+    }
+}

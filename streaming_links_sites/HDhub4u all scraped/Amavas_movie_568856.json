@@ -1,0 +1,29 @@
+{
+    "post_title": "Amavas",
+    "post_type": "movie",
+    "tmdb_id": 568856,
+    "imdb_id": "tt8396186",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1971266256"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1889785012"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2382105463"
+            }
+        ]
+    }
+}

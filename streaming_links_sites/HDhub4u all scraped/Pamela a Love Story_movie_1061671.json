@@ -1,0 +1,24 @@
+{
+    "post_title": "Pamela a Love Story",
+    "post_type": "movie",
+    "tmdb_id": 1061671,
+    "imdb_id": "tt18376122",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1692148882"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2451345093"
+            }
+        ]
+    }
+}

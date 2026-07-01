@@ -1,0 +1,30 @@
+{
+    "post_title": "Captain Phillips",
+    "post_type": "movie",
+    "tmdb_id": 109424,
+    "imdb_id": "tt1535109",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2001332601"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2319088030"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3052920101"
+            }
+        ]
+    }
+}

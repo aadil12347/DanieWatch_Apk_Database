@@ -1,0 +1,24 @@
+{
+    "post_title": "Killem All",
+    "post_type": "movie",
+    "tmdb_id": 449503,
+    "imdb_id": "tt5767628",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1811837175"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2228229445"
+            }
+        ]
+    }
+}

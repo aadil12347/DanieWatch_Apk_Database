@@ -1,0 +1,29 @@
+{
+    "post_title": "Naukri",
+    "post_type": "movie",
+    "tmdb_id": 552097,
+    "imdb_id": "tt0244674",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2086749232"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2645736819"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2829577392"
+            }
+        ]
+    }
+}

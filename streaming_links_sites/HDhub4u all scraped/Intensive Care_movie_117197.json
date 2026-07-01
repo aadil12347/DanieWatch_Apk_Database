@@ -1,0 +1,24 @@
+{
+    "post_title": "Intensive Care",
+    "post_type": "movie",
+    "tmdb_id": 117197,
+    "imdb_id": "tt5231992",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/282131293"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1031195271"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "xXx",
+    "post_type": "movie",
+    "tmdb_id": 7451,
+    "imdb_id": "tt0295701",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2008351803"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1874108667"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3140828775"
+            }
+        ]
+    }
+}

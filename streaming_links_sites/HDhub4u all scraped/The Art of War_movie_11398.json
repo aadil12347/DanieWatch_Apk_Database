@@ -1,0 +1,24 @@
+{
+    "post_title": "The Art of War",
+    "post_type": "movie",
+    "tmdb_id": 11398,
+    "imdb_id": "tt0160009",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1977791001"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1829322482"
+            }
+        ]
+    }
+}

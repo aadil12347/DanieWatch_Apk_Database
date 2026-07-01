@@ -1,0 +1,28 @@
+{
+    "post_title": "Rise of the Legend",
+    "post_type": "movie",
+    "tmdb_id": 294993,
+    "imdb_id": "tt3469592",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2133147322"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1957124015"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/2775904235"
+            }
+        ]
+    }
+}

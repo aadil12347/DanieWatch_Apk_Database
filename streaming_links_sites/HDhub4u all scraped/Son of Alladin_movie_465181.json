@@ -1,0 +1,29 @@
+{
+    "post_title": "Son of Alladin",
+    "post_type": "movie",
+    "tmdb_id": 465181,
+    "imdb_id": "tt0380724",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1975175372"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1943617020"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2231202891"
+            }
+        ]
+    }
+}

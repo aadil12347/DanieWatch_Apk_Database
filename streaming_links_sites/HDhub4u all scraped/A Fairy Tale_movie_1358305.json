@@ -1,0 +1,18 @@
+{
+    "post_title": "A Fairy Tale",
+    "post_type": "movie",
+    "tmdb_id": 1358305,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1693859479"
+            }
+        ]
+    }
+}

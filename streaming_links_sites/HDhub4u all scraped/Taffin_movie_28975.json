@@ -1,0 +1,24 @@
+{
+    "post_title": "Taffin",
+    "post_type": "movie",
+    "tmdb_id": 28975,
+    "imdb_id": "tt0096211",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1712114610"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1712114608"
+            }
+        ]
+    }
+}

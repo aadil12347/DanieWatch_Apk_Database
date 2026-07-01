@@ -1,0 +1,30 @@
+{
+    "post_title": "Ism",
+    "post_type": "movie",
+    "tmdb_id": 1398354,
+    "imdb_id": "tt6130166",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2901755235"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1796060084"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3494490794"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Chor Police",
+    "post_type": "movie",
+    "tmdb_id": 274714,
+    "imdb_id": "tt0271432",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1749110047"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2728707435"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2467477704"
+            }
+        ]
+    }
+}

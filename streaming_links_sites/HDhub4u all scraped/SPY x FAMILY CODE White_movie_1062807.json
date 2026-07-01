@@ -1,0 +1,42 @@
+{
+    "post_title": "SPY x FAMILY CODE: White",
+    "post_type": "movie",
+    "tmdb_id": 1062807,
+    "imdb_id": "tt26684398",
+    "languages": [
+        "Hindi",
+        "Japanese"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2136418967"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2556086695"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2911638590"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2569810232"
+            }
+        ],
+        "1080p HQ": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/5492085858"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "post_title": "Lakshmi",
+    "post_type": "movie",
+    "tmdb_id": 260267,
+    "imdb_id": "tt8042324",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Lakshmi.2018.UNCUT.Hindi.Tamil.Dual.Audio.720p.HEVC.WEB-DL-HDHub4u.mkv"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Lakshmi.2018.UNCUT.Hindi.Tamil.Dual.Audio.480p.WEB-DL-HDHub4u.mkv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Lakshmi.2018.UNCUT.Hindi.Tamil.Dual.Audio.720p.WEB-DL-HDHub4u.mkv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Lakshmi.2018.UNCUT.Hindi.Tamil.Dual.Audio.1080p.WEB-DL-HDHub4u.mkv"
+            }
+        ]
+    }
+}

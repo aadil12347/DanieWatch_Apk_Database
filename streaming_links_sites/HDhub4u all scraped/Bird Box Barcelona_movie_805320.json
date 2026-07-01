@@ -1,0 +1,36 @@
+{
+    "post_title": "Bird Box: Barcelona",
+    "post_type": "movie",
+    "tmdb_id": 805320,
+    "imdb_id": "tt14400246",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1689322504"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1689322665"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1689323390"
+            }
+        ],
+        "1080p HQ": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1689322300"
+            }
+        ]
+    }
+}

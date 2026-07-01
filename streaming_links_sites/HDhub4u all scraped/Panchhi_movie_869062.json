@@ -1,0 +1,23 @@
+{
+    "post_title": "Panchhi",
+    "post_type": "movie",
+    "tmdb_id": 869062,
+    "imdb_id": "tt15307258",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/816817423"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/311980160"
+            }
+        ]
+    }
+}

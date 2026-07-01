@@ -1,0 +1,30 @@
+{
+    "post_title": "Yaadhum Oore Yaavarum Kelir",
+    "post_type": "movie",
+    "tmdb_id": 752883,
+    "imdb_id": "tt11580914",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1697534732"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1697534700"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1697534677"
+            }
+        ]
+    }
+}

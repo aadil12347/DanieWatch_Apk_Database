@@ -1,0 +1,32 @@
+{
+    "post_title": "Koffee with Karan",
+    "post_type": "series",
+    "tmdb_id": 14544,
+    "imdb_id": null,
+    "languages": [
+        "English"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "7": {
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1964987727"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/1816537007"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://hubdrive.tips/file/2103201175"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://hubdrive.tips/file/2055287918"
+                }
+            ]
+        }
+    }
+}

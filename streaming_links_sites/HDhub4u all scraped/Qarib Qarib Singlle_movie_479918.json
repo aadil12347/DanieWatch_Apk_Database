@@ -1,0 +1,29 @@
+{
+    "post_title": "Qarib Qarib Singlle",
+    "post_type": "movie",
+    "tmdb_id": 479918,
+    "imdb_id": "tt7399470",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2065344021"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2075773951"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1768388436"
+            }
+        ]
+    }
+}

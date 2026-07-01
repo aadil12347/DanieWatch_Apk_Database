@@ -1,0 +1,24 @@
+{
+    "post_title": "Adhurs",
+    "post_type": "movie",
+    "tmdb_id": 38677,
+    "imdb_id": "tt1582466",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1582888307"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/541097908"
+            }
+        ]
+    }
+}

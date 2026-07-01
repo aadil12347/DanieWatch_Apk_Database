@@ -1,0 +1,30 @@
+{
+    "post_title": "Veerame Vaagai Soodum",
+    "post_type": "movie",
+    "tmdb_id": 828827,
+    "imdb_id": "tt10981012",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1660774509"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1930810429"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3413168222"
+            }
+        ]
+    }
+}

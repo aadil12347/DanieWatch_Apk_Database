@@ -1,0 +1,23 @@
+{
+    "post_title": "West Side Story",
+    "post_type": "movie",
+    "tmdb_id": 511809,
+    "imdb_id": "tt3581652",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1738392633"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4542929259"
+            }
+        ]
+    }
+}

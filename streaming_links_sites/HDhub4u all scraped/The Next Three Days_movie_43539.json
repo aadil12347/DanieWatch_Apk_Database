@@ -1,0 +1,30 @@
+{
+    "post_title": "The Next Three Days",
+    "post_type": "movie",
+    "tmdb_id": 43539,
+    "imdb_id": "tt1458175",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1928461083"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2318811210"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2492578386"
+            }
+        ]
+    }
+}

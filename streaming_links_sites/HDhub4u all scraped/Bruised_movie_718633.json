@@ -1,0 +1,30 @@
+{
+    "post_title": "Bruised",
+    "post_type": "movie",
+    "tmdb_id": 718633,
+    "imdb_id": "tt8310474",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1947322019"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2151144055"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2966749391"
+            }
+        ]
+    }
+}

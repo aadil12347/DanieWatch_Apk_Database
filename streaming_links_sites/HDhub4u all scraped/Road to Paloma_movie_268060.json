@@ -1,0 +1,24 @@
+{
+    "post_title": "Road to Paloma",
+    "post_type": "movie",
+    "tmdb_id": 268060,
+    "imdb_id": "tt2386285",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1892117724"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2256164312"
+            }
+        ]
+    }
+}

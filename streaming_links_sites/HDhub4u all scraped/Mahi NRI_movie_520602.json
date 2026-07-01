@@ -1,0 +1,29 @@
+{
+    "post_title": "Mahi NRI",
+    "post_type": "movie",
+    "tmdb_id": 520602,
+    "imdb_id": "tt5910902",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1763074300"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2199136070"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3596246681"
+            }
+        ]
+    }
+}

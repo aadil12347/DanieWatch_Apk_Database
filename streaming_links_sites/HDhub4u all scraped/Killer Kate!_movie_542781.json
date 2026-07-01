@@ -1,0 +1,24 @@
+{
+    "post_title": "Killer Kate!",
+    "post_type": "movie",
+    "tmdb_id": 542781,
+    "imdb_id": "tt7319064",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/287019076"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/721020320"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "post_title": "Jaysuk Zdpayo",
+    "post_type": "movie",
+    "tmdb_id": 1006717,
+    "imdb_id": "tt19865040",
+    "languages": [
+        "Gujarati"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1670196525"
+            }
+        ],
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2386791284"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2442971034"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2356221742"
+            }
+        ]
+    }
+}

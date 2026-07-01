@@ -1,0 +1,30 @@
+{
+    "post_title": "Hitman",
+    "post_type": "movie",
+    "tmdb_id": 1620,
+    "imdb_id": "tt0465494",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/341082888"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/893440821"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1580059479"
+            }
+        ]
+    }
+}

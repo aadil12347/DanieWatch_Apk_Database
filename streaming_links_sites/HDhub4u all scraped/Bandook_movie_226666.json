@@ -1,0 +1,29 @@
+{
+    "post_title": "Bandook",
+    "post_type": "movie",
+    "tmdb_id": 226666,
+    "imdb_id": "tt2318401",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1985834977"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2216674559"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2171960440"
+            }
+        ]
+    }
+}

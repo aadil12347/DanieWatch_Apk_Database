@@ -1,0 +1,23 @@
+{
+    "post_title": "The Long Night",
+    "post_type": "movie",
+    "tmdb_id": 44626,
+    "imdb_id": "tt10509906",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1675255264"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1694232484"
+            }
+        ]
+    }
+}

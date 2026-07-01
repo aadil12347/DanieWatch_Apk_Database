@@ -1,0 +1,23 @@
+{
+    "post_title": "Double Blind",
+    "post_type": "movie",
+    "tmdb_id": 1140648,
+    "imdb_id": "tt14729020",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1708235726"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1708235724"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Daruvu",
+    "post_type": "movie",
+    "tmdb_id": 152875,
+    "imdb_id": "tt2304573",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2947591792"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1826950689"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695482265"
+            }
+        ]
+    }
+}

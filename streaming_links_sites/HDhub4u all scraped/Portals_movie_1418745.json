@@ -1,0 +1,24 @@
+{
+    "post_title": "Portals",
+    "post_type": "movie",
+    "tmdb_id": 1418745,
+    "imdb_id": "tt10327842",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701060973"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701060971"
+            }
+        ]
+    }
+}

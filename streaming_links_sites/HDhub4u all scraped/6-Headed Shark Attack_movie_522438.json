@@ -1,0 +1,24 @@
+{
+    "post_title": "6-Headed Shark Attack",
+    "post_type": "movie",
+    "tmdb_id": 522438,
+    "imdb_id": "tt8360902",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1964678575"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1843838043"
+            }
+        ]
+    }
+}

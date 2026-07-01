@@ -1,0 +1,34 @@
+{
+    "post_title": "The Book of Eli",
+    "post_type": "movie",
+    "tmdb_id": 20504,
+    "imdb_id": "tt1037705",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1786222860"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2294870731"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3099240318"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/1786222860"
+            }
+        ]
+    }
+}

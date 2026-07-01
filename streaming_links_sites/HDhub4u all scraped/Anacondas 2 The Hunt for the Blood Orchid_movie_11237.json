@@ -1,0 +1,30 @@
+{
+    "post_title": "Anacondas 2: The Hunt for the Blood Orchid",
+    "post_type": "movie",
+    "tmdb_id": 11237,
+    "imdb_id": "tt0366174",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2473296105"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1824092952"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3000179247"
+            }
+        ]
+    }
+}

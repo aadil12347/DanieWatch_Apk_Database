@@ -1,0 +1,23 @@
+{
+    "post_title": "Aranmanai 2",
+    "post_type": "movie",
+    "tmdb_id": 367842,
+    "imdb_id": "tt5389922",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1159943906"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/385266713"
+            }
+        ]
+    }
+}

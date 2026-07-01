@@ -1,0 +1,24 @@
+{
+    "post_title": "FoolProof",
+    "post_type": "movie",
+    "tmdb_id": 14527,
+    "imdb_id": "tt0356614",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/344746660"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1025220141"
+            }
+        ]
+    }
+}

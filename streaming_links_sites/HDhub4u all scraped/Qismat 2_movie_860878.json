@@ -1,0 +1,29 @@
+{
+    "post_title": "Qismat 2",
+    "post_type": "movie",
+    "tmdb_id": 860878,
+    "imdb_id": "tt11173160",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2114959222"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2456245905"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2011876133"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Wrong Place, Wrong Time",
+    "post_type": "movie",
+    "tmdb_id": 1449010,
+    "imdb_id": "tt13281312",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1667022038"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1668576336"
+            }
+        ]
+    }
+}

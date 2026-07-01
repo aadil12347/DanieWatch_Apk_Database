@@ -1,0 +1,24 @@
+{
+    "post_title": "LIE",
+    "post_type": "movie",
+    "tmdb_id": 1323263,
+    "imdb_id": "tt7249874",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1491713356"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/510028802"
+            }
+        ]
+    }
+}

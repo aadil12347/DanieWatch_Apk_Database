@@ -1,0 +1,30 @@
+{
+    "post_title": "Enakkul Oruvan",
+    "post_type": "movie",
+    "tmdb_id": 307002,
+    "imdb_id": "tt4047104",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2080951002"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2343518926"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4045704158"
+            }
+        ]
+    }
+}

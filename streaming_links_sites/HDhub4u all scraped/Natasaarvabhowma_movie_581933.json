@@ -1,0 +1,34 @@
+{
+    "post_title": "Natasaarvabhowma",
+    "post_type": "movie",
+    "tmdb_id": 581933,
+    "imdb_id": "tt8785134",
+    "languages": [
+        "Hindi",
+        "Kannada"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2234616186"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2346898657"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3111496927"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/2377672741"
+            }
+        ]
+    }
+}

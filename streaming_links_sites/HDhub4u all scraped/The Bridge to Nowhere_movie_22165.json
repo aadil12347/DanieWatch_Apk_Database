@@ -1,0 +1,24 @@
+{
+    "post_title": "The Bridge to Nowhere",
+    "post_type": "movie",
+    "tmdb_id": 22165,
+    "imdb_id": "tt0973785",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1831395816"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1780655382"
+            }
+        ]
+    }
+}

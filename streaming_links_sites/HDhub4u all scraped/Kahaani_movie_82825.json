@@ -1,0 +1,23 @@
+{
+    "post_title": "Kahaani",
+    "post_type": "movie",
+    "tmdb_id": 82825,
+    "imdb_id": "tt1821480",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1174883128"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/405464224"
+            }
+        ]
+    }
+}

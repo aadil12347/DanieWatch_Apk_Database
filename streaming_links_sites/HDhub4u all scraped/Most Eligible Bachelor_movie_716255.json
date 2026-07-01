@@ -1,0 +1,35 @@
+{
+    "post_title": "Most Eligible Bachelor",
+    "post_type": "movie",
+    "tmdb_id": 716255,
+    "imdb_id": "tt11725680",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1782617081"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2032077755"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2231182317"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2512535547"
+            }
+        ]
+    }
+}

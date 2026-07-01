@@ -1,0 +1,24 @@
+{
+    "post_title": "Opasnyy soblazn",
+    "post_type": "movie",
+    "tmdb_id": 588092,
+    "imdb_id": "tt7550498",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2409743735"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2528539257"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Impact Earth",
+    "post_type": "movie",
+    "tmdb_id": 338838,
+    "imdb_id": "tt4160208",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/322177762"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/851032566"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "My Name Is Loh Kiwan",
+    "post_type": "movie",
+    "tmdb_id": 1039882,
+    "imdb_id": "tt26672512",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1709293295"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1709293337"
+            }
+        ]
+    }
+}

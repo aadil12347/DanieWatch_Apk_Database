@@ -1,0 +1,24 @@
+{
+    "post_title": "O Brother, Where Art Thou?",
+    "post_type": "movie",
+    "tmdb_id": 134,
+    "imdb_id": "tt0190590",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/371625249"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/987153996"
+            }
+        ]
+    }
+}

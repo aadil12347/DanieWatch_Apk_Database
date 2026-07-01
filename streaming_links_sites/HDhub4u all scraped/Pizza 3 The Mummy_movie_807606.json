@@ -1,0 +1,34 @@
+{
+    "post_title": "Pizza 3 The Mummy",
+    "post_type": "movie",
+    "tmdb_id": 807606,
+    "imdb_id": "tt13773770",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695810655"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695810659"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/1695810658"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695810657"
+            }
+        ]
+    }
+}

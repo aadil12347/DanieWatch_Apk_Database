@@ -1,0 +1,36 @@
+{
+    "post_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "post_type": "movie",
+    "tmdb_id": 120,
+    "imdb_id": "tt0120737",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2585240031"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2713732817"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3438567663"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4236676597"
+            }
+        ]
+    }
+}

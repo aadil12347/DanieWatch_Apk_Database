@@ -1,0 +1,24 @@
+{
+    "post_title": "The Lords of Flatbush",
+    "post_type": "movie",
+    "tmdb_id": 38925,
+    "imdb_id": "tt0071772",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1927661294"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1842558492"
+            }
+        ]
+    }
+}

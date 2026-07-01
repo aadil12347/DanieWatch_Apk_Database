@@ -1,0 +1,24 @@
+{
+    "post_title": "Money Plane",
+    "post_type": "movie",
+    "tmdb_id": 694919,
+    "imdb_id": "tt7286966",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1760546795"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1915646167"
+            }
+        ]
+    }
+}

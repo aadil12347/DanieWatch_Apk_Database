@@ -1,0 +1,24 @@
+{
+    "post_title": "King Kong Lives",
+    "post_type": "movie",
+    "tmdb_id": 31947,
+    "imdb_id": "tt0091344",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2004810208"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2376512314"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Kushi",
+    "post_type": "movie",
+    "tmdb_id": 646330,
+    "imdb_id": "tt15380630",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1712254315"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1696110564"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1696110563"
+            }
+        ]
+    }
+}

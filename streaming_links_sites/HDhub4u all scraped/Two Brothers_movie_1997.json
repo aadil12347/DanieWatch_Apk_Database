@@ -1,0 +1,24 @@
+{
+    "post_title": "Two Brothers",
+    "post_type": "movie",
+    "tmdb_id": 1997,
+    "imdb_id": "tt0338512",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1689331537"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2312889194"
+            }
+        ]
+    }
+}

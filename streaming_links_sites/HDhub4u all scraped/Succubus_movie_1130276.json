@@ -1,0 +1,24 @@
+{
+    "post_title": "Succubus",
+    "post_type": "movie",
+    "tmdb_id": 1130276,
+    "imdb_id": "tt13358878",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2006481104"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3175735413"
+            }
+        ]
+    }
+}

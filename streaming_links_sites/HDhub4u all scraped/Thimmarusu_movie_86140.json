@@ -1,0 +1,29 @@
+{
+    "post_title": "Thimmarusu",
+    "post_type": "movie",
+    "tmdb_id": 86140,
+    "imdb_id": "tt9675464",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/413911663"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1067135925"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1696570620"
+            }
+        ]
+    }
+}

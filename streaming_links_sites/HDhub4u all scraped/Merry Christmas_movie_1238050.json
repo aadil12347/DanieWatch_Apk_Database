@@ -1,0 +1,29 @@
+{
+    "post_title": "Merry Christmas",
+    "post_type": "movie",
+    "tmdb_id": 1238050,
+    "imdb_id": "tt15392282",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2522626975"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1709870325"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1709870323"
+            }
+        ]
+    }
+}

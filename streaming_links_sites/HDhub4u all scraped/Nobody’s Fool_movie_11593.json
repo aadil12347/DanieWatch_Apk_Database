@@ -1,0 +1,30 @@
+{
+    "post_title": "Nobody’s Fool",
+    "post_type": "movie",
+    "tmdb_id": 11593,
+    "imdb_id": "tt8097306",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2135311804"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1863782881"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1911100123"
+            }
+        ]
+    }
+}

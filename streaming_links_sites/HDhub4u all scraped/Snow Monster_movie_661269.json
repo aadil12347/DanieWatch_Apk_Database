@@ -1,0 +1,24 @@
+{
+    "post_title": "Snow Monster",
+    "post_type": "movie",
+    "tmdb_id": 661269,
+    "imdb_id": "tt16226674",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1891058994"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1940291541"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "The Archies",
+    "post_type": "movie",
+    "tmdb_id": 975533,
+    "imdb_id": "tt15979666",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2295211300"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701940447"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701943294"
+            }
+        ]
+    }
+}

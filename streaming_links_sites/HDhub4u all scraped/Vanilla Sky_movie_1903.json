@@ -1,0 +1,24 @@
+{
+    "post_title": "Vanilla Sky",
+    "post_type": "movie",
+    "tmdb_id": 1903,
+    "imdb_id": "tt0259711",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/play"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/play"
+            }
+        ]
+    }
+}

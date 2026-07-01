@@ -1,0 +1,24 @@
+{
+    "post_title": "Inside Out",
+    "post_type": "movie",
+    "tmdb_id": 150540,
+    "imdb_id": "tt1640486",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1803460700"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2709598968"
+            }
+        ]
+    }
+}

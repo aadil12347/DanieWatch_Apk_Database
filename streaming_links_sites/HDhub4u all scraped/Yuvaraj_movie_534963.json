@@ -1,0 +1,29 @@
+{
+    "post_title": "Yuvaraj",
+    "post_type": "movie",
+    "tmdb_id": 534963,
+    "imdb_id": "tt24225188",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2017552280"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2869644675"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4264129993"
+            }
+        ]
+    }
+}

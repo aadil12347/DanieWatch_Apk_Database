@@ -1,0 +1,24 @@
+{
+    "post_title": "The Magnificent Five",
+    "post_type": "movie",
+    "tmdb_id": 762780,
+    "imdb_id": "tt0808418",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2039777597"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3012515602"
+            }
+        ]
+    }
+}

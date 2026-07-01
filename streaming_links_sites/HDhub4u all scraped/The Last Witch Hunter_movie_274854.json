@@ -1,0 +1,30 @@
+{
+    "post_title": "The Last Witch Hunter",
+    "post_type": "movie",
+    "tmdb_id": 274854,
+    "imdb_id": "tt1618442",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1762484692"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2222081678"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2526685882"
+            }
+        ]
+    }
+}

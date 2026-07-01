@@ -1,0 +1,29 @@
+{
+    "post_title": "Mehar",
+    "post_type": "movie",
+    "tmdb_id": 1114909,
+    "imdb_id": "tt36328115",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ],
+        "1080p HQ": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ]
+    }
+}

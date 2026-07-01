@@ -1,0 +1,24 @@
+{
+    "post_title": "Haunted",
+    "post_type": "movie",
+    "tmdb_id": 1486860,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1684200970"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1684200968"
+            }
+        ]
+    }
+}

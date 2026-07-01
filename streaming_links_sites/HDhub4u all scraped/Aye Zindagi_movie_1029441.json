@@ -1,0 +1,23 @@
+{
+    "post_title": "Aye Zindagi",
+    "post_type": "movie",
+    "tmdb_id": 1029441,
+    "imdb_id": null,
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1848775083"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2083444744"
+            }
+        ]
+    }
+}

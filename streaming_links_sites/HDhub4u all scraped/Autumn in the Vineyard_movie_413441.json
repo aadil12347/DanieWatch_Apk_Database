@@ -1,0 +1,24 @@
+{
+    "post_title": "Autumn in the Vineyard",
+    "post_type": "movie",
+    "tmdb_id": 413441,
+    "imdb_id": "tt6041048",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1703659425"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1703659422"
+            }
+        ]
+    }
+}

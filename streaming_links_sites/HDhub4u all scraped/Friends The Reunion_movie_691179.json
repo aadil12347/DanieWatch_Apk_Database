@@ -1,0 +1,29 @@
+{
+    "post_title": "Friends The Reunion",
+    "post_type": "movie",
+    "tmdb_id": 691179,
+    "imdb_id": "tt11337862",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/345299231"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/972182504"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1797242349"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Dragon Kingdom",
+    "post_type": "movie",
+    "tmdb_id": 566810,
+    "imdb_id": "tt6603378",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/305591215"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1850519867"
+            }
+        ]
+    }
+}

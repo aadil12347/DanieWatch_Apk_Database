@@ -1,0 +1,24 @@
+{
+    "post_title": "The Punished",
+    "post_type": "movie",
+    "tmdb_id": 1135330,
+    "imdb_id": "tt9155048",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1659608872"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2169500051"
+            }
+        ]
+    }
+}

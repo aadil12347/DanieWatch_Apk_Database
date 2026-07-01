@@ -1,0 +1,35 @@
+{
+    "post_title": "Tara vs Bilal",
+    "post_type": "movie",
+    "tmdb_id": 1033878,
+    "imdb_id": "tt14398454",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1994654945"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1906263558"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2751918011"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2958565216"
+            }
+        ]
+    }
+}

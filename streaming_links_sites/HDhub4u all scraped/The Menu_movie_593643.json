@@ -1,0 +1,23 @@
+{
+    "post_title": "The Menu",
+    "post_type": "movie",
+    "tmdb_id": 593643,
+    "imdb_id": "tt9764362",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1845347013"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2083715023"
+            }
+        ]
+    }
+}

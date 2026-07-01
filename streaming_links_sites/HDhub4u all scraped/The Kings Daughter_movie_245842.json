@@ -1,0 +1,23 @@
+{
+    "post_title": "The Kings Daughter",
+    "post_type": "movie",
+    "tmdb_id": 245842,
+    "imdb_id": "tt2328678",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1825855859"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2224647246"
+            }
+        ]
+    }
+}

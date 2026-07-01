@@ -1,0 +1,35 @@
+{
+    "post_title": "Kalagathalaivan",
+    "post_type": "movie",
+    "tmdb_id": 1004554,
+    "imdb_id": "tt21371218",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1742512704"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1741927489"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1882326945"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1960908924"
+            }
+        ]
+    }
+}

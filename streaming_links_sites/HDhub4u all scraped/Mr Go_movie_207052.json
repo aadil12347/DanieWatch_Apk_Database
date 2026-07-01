@@ -1,0 +1,24 @@
+{
+    "post_title": "Mr Go",
+    "post_type": "movie",
+    "tmdb_id": 207052,
+    "imdb_id": "tt2969458",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/465607461"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1056211640"
+            }
+        ]
+    }
+}

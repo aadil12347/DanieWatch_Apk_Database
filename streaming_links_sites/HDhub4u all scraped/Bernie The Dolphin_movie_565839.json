@@ -1,0 +1,24 @@
+{
+    "post_title": "Bernie The Dolphin",
+    "post_type": "movie",
+    "tmdb_id": 565839,
+    "imdb_id": "tt7549618",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1703469105"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1703469101"
+            }
+        ]
+    }
+}

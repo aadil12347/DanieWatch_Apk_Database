@@ -1,0 +1,24 @@
+{
+    "post_title": "Happily",
+    "post_type": "movie",
+    "tmdb_id": 673319,
+    "imdb_id": "tt9849004",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1921546355"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1685760732"
+            }
+        ]
+    }
+}

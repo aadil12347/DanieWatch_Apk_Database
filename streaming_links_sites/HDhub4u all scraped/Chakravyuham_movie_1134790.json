@@ -1,0 +1,29 @@
+{
+    "post_title": "Chakravyuham",
+    "post_type": "movie",
+    "tmdb_id": 1134790,
+    "imdb_id": "tt27906902",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2355400622"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1692212639"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1692212638"
+            }
+        ]
+    }
+}

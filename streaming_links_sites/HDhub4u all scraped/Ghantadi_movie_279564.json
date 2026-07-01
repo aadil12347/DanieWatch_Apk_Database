@@ -1,0 +1,23 @@
+{
+    "post_title": "Ghantadi",
+    "post_type": "movie",
+    "tmdb_id": 279564,
+    "imdb_id": "tt20205270",
+    "languages": [
+        "Gujarati"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1855565081"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2468040128"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Fukrey",
+    "post_type": "movie",
+    "tmdb_id": 199139,
+    "imdb_id": "tt2806788",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695827410"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695827307"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695827305"
+            }
+        ]
+    }
+}

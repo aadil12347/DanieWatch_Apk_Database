@@ -1,0 +1,23 @@
+{
+    "post_title": "Aftersun",
+    "post_type": "movie",
+    "tmdb_id": 965150,
+    "imdb_id": "tt19770238",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1743215726"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2313959910"
+            }
+        ]
+    }
+}

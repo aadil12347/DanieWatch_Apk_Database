@@ -1,0 +1,32 @@
+{
+    "post_title": "Chinese Zodiac",
+    "post_type": "movie",
+    "tmdb_id": 98567,
+    "imdb_id": "tt1424310",
+    "languages": [
+        "Hindi",
+        "English",
+        "Odia",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701428024"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701428026"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701428023"
+            }
+        ]
+    }
+}

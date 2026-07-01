@@ -1,0 +1,24 @@
+{
+    "post_title": "Assassin X",
+    "post_type": "movie",
+    "tmdb_id": 453899,
+    "imdb_id": "tt3616894",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1862561195"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2013342866"
+            }
+        ]
+    }
+}

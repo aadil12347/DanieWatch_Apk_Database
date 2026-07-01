@@ -1,0 +1,24 @@
+{
+    "post_title": "Gulliver’s Travels",
+    "post_type": "movie",
+    "tmdb_id": 38745,
+    "imdb_id": "tt1320261",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1717968179"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2381892566"
+            }
+        ]
+    }
+}

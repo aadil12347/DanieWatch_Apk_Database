@@ -1,0 +1,23 @@
+{
+    "post_title": "Last Words",
+    "post_type": "movie",
+    "tmdb_id": 712110,
+    "imdb_id": "tt12443726",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1756648601"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2021737401"
+            }
+        ]
+    }
+}

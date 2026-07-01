@@ -1,0 +1,29 @@
+{
+    "post_title": "Hun Iqbal",
+    "post_type": "movie",
+    "tmdb_id": 1090540,
+    "imdb_id": "tt26629768",
+    "languages": [
+        "Gujarati"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2093244814"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1950476693"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2988521903"
+            }
+        ]
+    }
+}

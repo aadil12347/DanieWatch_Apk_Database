@@ -1,0 +1,24 @@
+{
+    "post_title": "The Legend of Sleepy Hollow",
+    "post_type": "movie",
+    "tmdb_id": 485003,
+    "imdb_id": "tt0214874",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1805509630"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2480444298"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "post_title": "RamLeela",
+    "post_type": "movie",
+    "tmdb_id": 456462,
+    "imdb_id": "tt2215477",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2952374926"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/579649576"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1514937544"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/7169956266"
+            }
+        ]
+    }
+}

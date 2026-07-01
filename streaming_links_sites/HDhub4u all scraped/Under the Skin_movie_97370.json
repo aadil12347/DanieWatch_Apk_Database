@@ -1,0 +1,24 @@
+{
+    "post_title": "Under the Skin",
+    "post_type": "movie",
+    "tmdb_id": 97370,
+    "imdb_id": "tt1441395",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/927163177"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/375242075"
+            }
+        ]
+    }
+}

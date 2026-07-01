@@ -1,0 +1,30 @@
+{
+    "post_title": "The Amazing Spider-Man 2",
+    "post_type": "movie",
+    "tmdb_id": 102382,
+    "imdb_id": "tt1872181",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2034779615"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2444368533"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4578826947"
+            }
+        ]
+    }
+}

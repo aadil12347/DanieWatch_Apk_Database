@@ -1,0 +1,29 @@
+{
+    "post_title": "Odiyan",
+    "post_type": "movie",
+    "tmdb_id": 461166,
+    "imdb_id": "tt6707906",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/582117259"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1573401567"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/663448304"
+            }
+        ]
+    }
+}

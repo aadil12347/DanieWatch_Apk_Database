@@ -1,0 +1,24 @@
+{
+    "post_title": "CJ7",
+    "post_type": "movie",
+    "tmdb_id": 13688,
+    "imdb_id": "tt0940709",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1688005638"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1688005637"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "post_title": "Judaa Hoke Bhi",
+    "post_type": "movie",
+    "tmdb_id": 988988,
+    "imdb_id": "tt21237108",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1777283835"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1885979199"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2274283122"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1933790897"
+            }
+        ]
+    }
+}

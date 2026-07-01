@@ -1,0 +1,29 @@
+{
+    "post_title": "Harry Potter 20th Anniversary: Return to Hogwarts",
+    "post_type": "movie",
+    "tmdb_id": 899082,
+    "imdb_id": "tt16116174",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1964693376"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2268141135"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2416438263"
+            }
+        ]
+    }
+}

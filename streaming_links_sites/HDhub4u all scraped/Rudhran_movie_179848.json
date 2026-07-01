@@ -1,0 +1,29 @@
+{
+    "post_title": "Rudhran",
+    "post_type": "movie",
+    "tmdb_id": 179848,
+    "imdb_id": "tt15303192",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1713655799"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2817822725"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1713644916"
+            }
+        ]
+    }
+}

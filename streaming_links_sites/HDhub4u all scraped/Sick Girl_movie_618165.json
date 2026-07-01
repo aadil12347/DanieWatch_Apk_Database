@@ -1,0 +1,23 @@
+{
+    "post_title": "Sick Girl",
+    "post_type": "movie",
+    "tmdb_id": 618165,
+    "imdb_id": "tt3701150",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1700632186"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1700632187"
+            }
+        ]
+    }
+}

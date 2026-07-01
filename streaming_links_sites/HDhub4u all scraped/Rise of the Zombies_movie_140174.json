@@ -1,0 +1,24 @@
+{
+    "post_title": "Rise of the Zombies",
+    "post_type": "movie",
+    "tmdb_id": 140174,
+    "imdb_id": "tt2236182",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1654178683"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1676755854"
+            }
+        ]
+    }
+}

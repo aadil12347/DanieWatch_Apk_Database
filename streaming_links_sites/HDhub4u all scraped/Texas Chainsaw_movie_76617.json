@@ -1,0 +1,30 @@
+{
+    "post_title": "Texas Chainsaw",
+    "post_type": "movie",
+    "tmdb_id": 76617,
+    "imdb_id": "tt1572315",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1753362157"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2034748499"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1928053532"
+            }
+        ]
+    }
+}

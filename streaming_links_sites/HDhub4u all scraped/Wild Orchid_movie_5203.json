@@ -1,0 +1,24 @@
+{
+    "post_title": "Wild Orchid",
+    "post_type": "movie",
+    "tmdb_id": 5203,
+    "imdb_id": "tt0100934",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1671677179"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2439277183"
+            }
+        ]
+    }
+}

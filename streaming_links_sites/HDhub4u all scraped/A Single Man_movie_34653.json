@@ -1,0 +1,24 @@
+{
+    "post_title": "A Single Man",
+    "post_type": "movie",
+    "tmdb_id": 34653,
+    "imdb_id": "tt1315981",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/339819859"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/793896489"
+            }
+        ]
+    }
+}

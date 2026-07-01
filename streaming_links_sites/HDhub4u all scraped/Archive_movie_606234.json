@@ -1,0 +1,30 @@
+{
+    "post_title": "Archive",
+    "post_type": "movie",
+    "tmdb_id": 606234,
+    "imdb_id": "tt6882604",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1688950844"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2581294642"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3182640311"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Ninnu Kori",
+    "post_type": "movie",
+    "tmdb_id": 465099,
+    "imdb_id": "tt6996016",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/477891547"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1280288265"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2596506096"
+            }
+        ]
+    }
+}

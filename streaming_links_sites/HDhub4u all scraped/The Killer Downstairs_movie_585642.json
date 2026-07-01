@@ -1,0 +1,24 @@
+{
+    "post_title": "The Killer Downstairs",
+    "post_type": "movie",
+    "tmdb_id": 585642,
+    "imdb_id": "tt9287206",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1830698907"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2372061139"
+            }
+        ]
+    }
+}

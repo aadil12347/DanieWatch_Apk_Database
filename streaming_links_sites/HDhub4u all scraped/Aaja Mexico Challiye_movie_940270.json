@@ -1,0 +1,29 @@
+{
+    "post_title": "Aaja Mexico Challiye",
+    "post_type": "movie",
+    "tmdb_id": 940270,
+    "imdb_id": "tt15554410",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2328362248"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1858957405"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4314387270"
+            }
+        ]
+    }
+}

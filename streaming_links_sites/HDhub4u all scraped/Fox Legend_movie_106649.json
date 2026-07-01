@@ -1,0 +1,24 @@
+{
+    "post_title": "Fox Legend",
+    "post_type": "movie",
+    "tmdb_id": 106649,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1809217015"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2623854634"
+            }
+        ]
+    }
+}

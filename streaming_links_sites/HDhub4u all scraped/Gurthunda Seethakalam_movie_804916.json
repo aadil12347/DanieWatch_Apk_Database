@@ -1,0 +1,33 @@
+{
+    "post_title": "Gurthunda Seethakalam",
+    "post_type": "movie",
+    "tmdb_id": 804916,
+    "imdb_id": "tt13130370",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1874321346"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2174576595"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/2726727886"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4151547990"
+            }
+        ]
+    }
+}

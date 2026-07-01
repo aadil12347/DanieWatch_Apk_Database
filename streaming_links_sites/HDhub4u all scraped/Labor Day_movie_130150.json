@@ -1,0 +1,24 @@
+{
+    "post_title": "Labor Day",
+    "post_type": "movie",
+    "tmdb_id": 130150,
+    "imdb_id": "tt1967545",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1673985719"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2149598658"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Ruslaan",
+    "post_type": "movie",
+    "tmdb_id": 22442,
+    "imdb_id": "tt24245466",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2046417421"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2344412019"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2371434785"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/4840572367"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Trapped",
+    "post_type": "movie",
+    "tmdb_id": 1454800,
+    "imdb_id": "tt0280380",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711262889"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711262888"
+            }
+        ]
+    }
+}

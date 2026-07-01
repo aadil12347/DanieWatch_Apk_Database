@@ -1,0 +1,29 @@
+{
+    "post_title": "Rudraksh",
+    "post_type": "movie",
+    "tmdb_id": 361866,
+    "imdb_id": "tt0366985",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2042685776"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1920884434"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3523014773"
+            }
+        ]
+    }
+}

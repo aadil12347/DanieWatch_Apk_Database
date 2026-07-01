@@ -1,0 +1,30 @@
+{
+    "post_title": "The Man From Toronto",
+    "post_type": "movie",
+    "tmdb_id": 667739,
+    "imdb_id": "tt11671006",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695878807"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695878806"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695878804"
+            }
+        ]
+    }
+}

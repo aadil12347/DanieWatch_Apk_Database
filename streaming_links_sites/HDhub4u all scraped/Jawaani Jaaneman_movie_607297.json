@@ -1,0 +1,23 @@
+{
+    "post_title": "Jawaani Jaaneman",
+    "post_type": "movie",
+    "tmdb_id": 607297,
+    "imdb_id": "tt9248952",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1915782455"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3880410811"
+            }
+        ]
+    }
+}

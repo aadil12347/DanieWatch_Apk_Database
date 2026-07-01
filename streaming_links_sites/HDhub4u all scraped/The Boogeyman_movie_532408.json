@@ -1,0 +1,29 @@
+{
+    "post_title": "The Boogeyman",
+    "post_type": "movie",
+    "tmdb_id": 532408,
+    "imdb_id": "tt3427252",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1693322619"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1952809662"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1693322618"
+            }
+        ]
+    }
+}

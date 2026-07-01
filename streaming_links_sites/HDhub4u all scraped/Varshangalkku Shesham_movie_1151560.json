@@ -1,0 +1,34 @@
+{
+    "post_title": "Varshangalkku Shesham",
+    "post_type": "movie",
+    "tmdb_id": 1151560,
+    "imdb_id": "tt28364355",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1847135522"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2764494772"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4357350364"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/6444101406"
+            }
+        ]
+    }
+}

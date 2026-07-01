@@ -1,0 +1,24 @@
+{
+    "post_title": "Echoes of Fear",
+    "post_type": "movie",
+    "tmdb_id": 552294,
+    "imdb_id": "tt8236588",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1893465198"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1889628183"
+            }
+        ]
+    }
+}

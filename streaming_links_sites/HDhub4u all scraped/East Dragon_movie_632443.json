@@ -1,0 +1,30 @@
+{
+    "post_title": "East Dragon",
+    "post_type": "movie",
+    "tmdb_id": 632443,
+    "imdb_id": "tt12838736",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1775016080"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2252468421"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1681545236"
+            }
+        ]
+    }
+}

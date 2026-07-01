@@ -1,0 +1,33 @@
+{
+    "post_title": "Sauda Khara Khara",
+    "post_type": "movie",
+    "tmdb_id": 1424308,
+    "imdb_id": "tt35419748",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2173944395"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2185584597"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3282751590"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/5891837775"
+            }
+        ]
+    }
+}

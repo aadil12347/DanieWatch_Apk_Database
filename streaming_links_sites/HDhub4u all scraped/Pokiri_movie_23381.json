@@ -1,0 +1,23 @@
+{
+    "post_title": "Pokiri",
+    "post_type": "movie",
+    "tmdb_id": 23381,
+    "imdb_id": "tt0816258",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1291153250"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/429070462"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Trolls World Tour",
+    "post_type": "movie",
+    "tmdb_id": 446893,
+    "imdb_id": "tt6587640",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1889095259"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2424168761"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3133752530"
+            }
+        ]
+    }
+}

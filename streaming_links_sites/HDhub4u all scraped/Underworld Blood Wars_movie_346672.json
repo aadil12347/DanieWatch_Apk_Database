@@ -1,0 +1,30 @@
+{
+    "post_title": "Underworld Blood Wars",
+    "post_type": "movie",
+    "tmdb_id": 346672,
+    "imdb_id": "tt3717252",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2051743151"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1853515080"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2778463814"
+            }
+        ]
+    }
+}

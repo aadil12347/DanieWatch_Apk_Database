@@ -1,0 +1,23 @@
+{
+    "post_title": "FinestKind",
+    "post_type": "movie",
+    "tmdb_id": 507532,
+    "imdb_id": "tt7991508",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1702804123"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1702804121"
+            }
+        ]
+    }
+}

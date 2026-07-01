@@ -1,0 +1,36 @@
+{
+    "post_title": "Express Raja",
+    "post_type": "movie",
+    "tmdb_id": 378774,
+    "imdb_id": "tt5340534",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Express.Raja.(2016).UNCUT.Hindi.Telugu.Dual.Audio.720p.WEB-DL.HEVC-HDHub4u.mkv"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Express.Raja.(2016).UNCUT.Hindi.Telugu.Dual.Audio.480p.WEB-DL-HDHub4u.mkv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Express.Raja.(2016).UNCUT.Hindi.Telugu.Dual.Audio.720p.WEB-DL-HDHub4u.mkv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Express.Raja.(2016).UNCUT.Hindi.Telugu.Dual.Audio.1080p.WEB-DL-HDHub4u.mkv"
+            }
+        ]
+    }
+}

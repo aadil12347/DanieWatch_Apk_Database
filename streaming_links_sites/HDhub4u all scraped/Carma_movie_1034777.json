@@ -1,0 +1,29 @@
+{
+    "post_title": "Carma",
+    "post_type": "movie",
+    "tmdb_id": 1034777,
+    "imdb_id": "tt14992864",
+    "languages": [
+        "Urdu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1930624211"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1966816176"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2982923695"
+            }
+        ]
+    }
+}

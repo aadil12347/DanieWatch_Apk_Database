@@ -1,0 +1,29 @@
+{
+    "post_title": "Haunted Evil Dead",
+    "post_type": "movie",
+    "tmdb_id": 1003960,
+    "imdb_id": "tt9280366",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1844356998"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2526492365"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1678907920"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Modi Ji Ki Beti",
+    "post_type": "movie",
+    "tmdb_id": 1007945,
+    "imdb_id": "tt11157934",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1954419368"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1721180631"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2804037307"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Torque",
+    "post_type": "movie",
+    "tmdb_id": 10718,
+    "imdb_id": "tt0329691",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/888585219"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/303852152"
+            }
+        ]
+    }
+}

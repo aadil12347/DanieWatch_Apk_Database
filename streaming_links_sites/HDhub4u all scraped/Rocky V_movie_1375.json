@@ -1,0 +1,24 @@
+{
+    "post_title": "Rocky V",
+    "post_type": "movie",
+    "tmdb_id": 1375,
+    "imdb_id": "tt0100507",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3682115224"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2251295987"
+            }
+        ]
+    }
+}

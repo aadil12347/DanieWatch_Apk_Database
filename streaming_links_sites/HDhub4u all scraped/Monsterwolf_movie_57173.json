@@ -1,0 +1,24 @@
+{
+    "post_title": "Monsterwolf",
+    "post_type": "movie",
+    "tmdb_id": 57173,
+    "imdb_id": "tt1535608",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698301364"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698301363"
+            }
+        ]
+    }
+}

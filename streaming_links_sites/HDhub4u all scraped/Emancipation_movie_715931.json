@@ -1,0 +1,23 @@
+{
+    "post_title": "Emancipation",
+    "post_type": "movie",
+    "tmdb_id": 715931,
+    "imdb_id": "tt12530246",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1896729047"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2285820104"
+            }
+        ]
+    }
+}

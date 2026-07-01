@@ -1,0 +1,24 @@
+{
+    "post_title": "Interview with a Hitman",
+    "post_type": "movie",
+    "tmdb_id": 118737,
+    "imdb_id": "tt2061712",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1938728982"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1912990113"
+            }
+        ]
+    }
+}

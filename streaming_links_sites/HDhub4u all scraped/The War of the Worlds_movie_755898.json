@@ -1,0 +1,23 @@
+{
+    "post_title": "The War of the Worlds",
+    "post_type": "movie",
+    "tmdb_id": 755898,
+    "imdb_id": "tt0046534",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2051344382"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3127703860"
+            }
+        ]
+    }
+}

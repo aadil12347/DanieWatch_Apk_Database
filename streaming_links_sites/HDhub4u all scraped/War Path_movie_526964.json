@@ -1,0 +1,24 @@
+{
+    "post_title": "War Path",
+    "post_type": "movie",
+    "tmdb_id": 526964,
+    "imdb_id": "tt3520056",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1797095202"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1731578681"
+            }
+        ]
+    }
+}

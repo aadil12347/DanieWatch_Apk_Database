@@ -1,0 +1,24 @@
+{
+    "post_title": "Seeds of Destruction",
+    "post_type": "movie",
+    "tmdb_id": 82756,
+    "imdb_id": "tt1706680",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1826238567"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1686450404"
+            }
+        ]
+    }
+}

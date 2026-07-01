@@ -1,0 +1,30 @@
+{
+    "post_title": "To All the Boys I’ve Loved Before",
+    "post_type": "movie",
+    "tmdb_id": 466282,
+    "imdb_id": "tt3846674",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2158831527"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1805335733"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3959759600"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "The Illusionist",
+    "post_type": "movie",
+    "tmdb_id": 1491,
+    "imdb_id": "tt0443543",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1151805693"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/393863797"
+            }
+        ]
+    }
+}

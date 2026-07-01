@@ -1,0 +1,29 @@
+{
+    "post_title": "Patna Shuklla",
+    "post_type": "movie",
+    "tmdb_id": 1257074,
+    "imdb_id": "tt23709962",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711658027"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711655485"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711659096"
+            }
+        ]
+    }
+}

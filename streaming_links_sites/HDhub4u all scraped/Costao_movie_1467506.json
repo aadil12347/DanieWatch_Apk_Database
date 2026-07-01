@@ -1,0 +1,23 @@
+{
+    "post_title": "Costao",
+    "post_type": "movie",
+    "tmdb_id": 1467506,
+    "imdb_id": "tt13261550",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2602471898"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2465566478"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "The Ice Road",
+    "post_type": "movie",
+    "tmdb_id": 646207,
+    "imdb_id": "tt3758814",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/382183643"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1025947037"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1808479241"
+            }
+        ]
+    }
+}

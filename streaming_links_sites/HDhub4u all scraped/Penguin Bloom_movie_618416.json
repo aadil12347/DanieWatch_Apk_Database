@@ -1,0 +1,23 @@
+{
+    "post_title": "Penguin Bloom",
+    "post_type": "movie",
+    "tmdb_id": 618416,
+    "imdb_id": "tt6317656",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/420500079"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/839053581"
+            }
+        ]
+    }
+}

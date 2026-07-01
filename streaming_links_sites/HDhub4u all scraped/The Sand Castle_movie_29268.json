@@ -1,0 +1,27 @@
+{
+    "post_title": "The Sand Castle",
+    "post_type": "movie",
+    "tmdb_id": 29268,
+    "imdb_id": "tt22804850",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2289116185"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2746012002"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/5170642747"
+            }
+        ]
+    }
+}

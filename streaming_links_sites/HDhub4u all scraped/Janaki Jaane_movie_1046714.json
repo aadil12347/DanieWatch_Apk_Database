@@ -1,0 +1,29 @@
+{
+    "post_title": "Janaki Jaane",
+    "post_type": "movie",
+    "tmdb_id": 1046714,
+    "imdb_id": "tt26008876",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1689018893"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2427436059"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1689018988"
+            }
+        ]
+    }
+}

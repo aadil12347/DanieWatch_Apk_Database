@@ -1,0 +1,28 @@
+{
+    "post_title": "Azure Dragon Sword",
+    "post_type": "movie",
+    "tmdb_id": 1711875,
+    "imdb_id": "tt30761205",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2603968033"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2919363073"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/4758211220"
+            }
+        ]
+    }
+}

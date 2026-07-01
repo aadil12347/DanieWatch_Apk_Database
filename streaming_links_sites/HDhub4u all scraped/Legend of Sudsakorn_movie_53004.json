@@ -1,0 +1,23 @@
+{
+    "post_title": "Legend of Sudsakorn",
+    "post_type": "movie",
+    "tmdb_id": 53004,
+    "imdb_id": "tt0926151",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1860169363"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2473036448"
+            }
+        ]
+    }
+}

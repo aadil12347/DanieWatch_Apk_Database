@@ -1,0 +1,108 @@
+{
+    "post_title": "Naruto",
+    "post_type": "series",
+    "tmdb_id": 46260,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "Japanese",
+        "English"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "2": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/2327249054"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/1867164015"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1781855650"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/1684355760"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://hubdrive.tips/file/1794628878"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://hubdrive.tips/file/1883037323"
+                },
+                {
+                    "episode_title": "Episode 5",
+                    "link": "https://hubdrive.tips/file/1807803569"
+                },
+                {
+                    "episode_title": "Episode 6",
+                    "link": "https://hubdrive.tips/file/1688197438"
+                },
+                {
+                    "episode_title": "Episode 7",
+                    "link": "https://hubdrive.tips/file/1766502551"
+                },
+                {
+                    "episode_title": "Episode 8",
+                    "link": "https://hubdrive.tips/file/1677746629"
+                },
+                {
+                    "episode_title": "Episode 9",
+                    "link": "https://hubdrive.tips/file/1766334397"
+                },
+                {
+                    "episode_title": "Episode 10",
+                    "link": "https://hubdrive.tips/file/1825675122"
+                },
+                {
+                    "episode_title": "Episode 11",
+                    "link": "https://hubdrive.tips/file/1723806930"
+                },
+                {
+                    "episode_title": "Episode 12",
+                    "link": "https://hubdrive.tips/file/1711179069"
+                },
+                {
+                    "episode_title": "Episode 13",
+                    "link": "https://hubdrive.tips/file/1683483114"
+                },
+                {
+                    "episode_title": "Episode 14",
+                    "link": "https://hubdrive.tips/file/1746090201"
+                },
+                {
+                    "episode_title": "Episode 15",
+                    "link": "https://hubdrive.tips/file/1807160999"
+                },
+                {
+                    "episode_title": "Episode 16",
+                    "link": "https://hubdrive.tips/file/1687087182"
+                },
+                {
+                    "episode_title": "Episode 17",
+                    "link": "https://hubdrive.tips/file/1689949943"
+                },
+                {
+                    "episode_title": "Episode 18",
+                    "link": "https://hubdrive.tips/file/1722119312"
+                },
+                {
+                    "episode_title": "Episode 19",
+                    "link": "https://hubdrive.tips/file/1806913703"
+                },
+                {
+                    "episode_title": "Episode 20",
+                    "link": "https://hubdrive.tips/file/1811930549"
+                }
+            ]
+        }
+    }
+}

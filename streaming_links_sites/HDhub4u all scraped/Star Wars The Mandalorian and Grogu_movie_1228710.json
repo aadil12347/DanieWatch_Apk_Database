@@ -1,0 +1,29 @@
+{
+    "post_title": "Star Wars: The Mandalorian and Grogu",
+    "post_type": "movie",
+    "tmdb_id": 1228710,
+    "imdb_id": "tt30825738",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2762450545"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3531710880"
+            }
+        ],
+        "1080p HQ": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/6014421246"
+            }
+        ]
+    }
+}

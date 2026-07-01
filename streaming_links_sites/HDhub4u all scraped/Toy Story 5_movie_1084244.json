@@ -1,0 +1,30 @@
+{
+    "post_title": "Toy Story 5",
+    "post_type": "movie",
+    "tmdb_id": 1084244,
+    "imdb_id": "tt29355505",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2342441736"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2537085394"
+            }
+        ],
+        "1080p HQ": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/9246549484"
+            }
+        ]
+    }
+}

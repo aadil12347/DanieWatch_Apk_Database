@@ -1,0 +1,42 @@
+{
+    "post_title": "Aadu 3",
+    "post_type": "movie",
+    "tmdb_id": 1260210,
+    "imdb_id": "tt8142672",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/xnaxy1xhkn1nnaq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/q7pdtppkjmyp7yy"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/t91kx9dfp7wvd3b"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/hxrw2a4am1ufafp"
+            }
+        ],
+        "4K SDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ]
+    }
+}

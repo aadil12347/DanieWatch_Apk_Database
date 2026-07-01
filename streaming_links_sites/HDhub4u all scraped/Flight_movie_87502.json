@@ -1,0 +1,24 @@
+{
+    "post_title": "Flight",
+    "post_type": "movie",
+    "tmdb_id": 87502,
+    "imdb_id": "tt1907668",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3025787755"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4011622126"
+            }
+        ]
+    }
+}

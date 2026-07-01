@@ -1,0 +1,29 @@
+{
+    "post_title": "Dark Wind",
+    "post_type": "movie",
+    "tmdb_id": 91396,
+    "imdb_id": "tt6143422",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1808896742"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2274687474"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2610525066"
+            }
+        ]
+    }
+}

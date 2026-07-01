@@ -1,0 +1,36 @@
+{
+    "post_title": "Fast & Furious Presents: Hobbs & Shaw",
+    "post_type": "movie",
+    "tmdb_id": 384018,
+    "imdb_id": "tt6806448",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2847462684"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2943890375"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2062672637"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1823726248"
+            }
+        ]
+    }
+}

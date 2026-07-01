@@ -1,0 +1,23 @@
+{
+    "post_title": "New York",
+    "post_type": "movie",
+    "tmdb_id": 4960,
+    "imdb_id": "tt1328634",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2422682370"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2014068750"
+            }
+        ]
+    }
+}

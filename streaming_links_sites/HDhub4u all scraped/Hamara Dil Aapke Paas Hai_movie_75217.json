@@ -1,0 +1,29 @@
+{
+    "post_title": "Hamara Dil Aapke Paas Hai",
+    "post_type": "movie",
+    "tmdb_id": 75217,
+    "imdb_id": "tt0255212",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1901501723"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2949890369"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3524009463"
+            }
+        ]
+    }
+}

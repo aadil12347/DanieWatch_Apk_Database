@@ -1,0 +1,29 @@
+{
+    "post_title": "Jalebi",
+    "post_type": "movie",
+    "tmdb_id": 547865,
+    "imdb_id": "tt8426854",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1987292152"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2140280046"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1986349247"
+            }
+        ]
+    }
+}

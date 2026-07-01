@@ -1,0 +1,24 @@
+{
+    "post_title": "Legend of The Book",
+    "post_type": "movie",
+    "tmdb_id": 399014,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1738981500"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2578827003"
+            }
+        ]
+    }
+}

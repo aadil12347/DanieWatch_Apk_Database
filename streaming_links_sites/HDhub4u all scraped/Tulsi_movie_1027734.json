@@ -1,0 +1,23 @@
+{
+    "post_title": "Tulsi",
+    "post_type": "movie",
+    "tmdb_id": 1027734,
+    "imdb_id": "tt1199534",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1706729836"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2358559813"
+            }
+        ]
+    }
+}

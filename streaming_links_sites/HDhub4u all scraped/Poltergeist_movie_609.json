@@ -1,0 +1,24 @@
+{
+    "post_title": "Poltergeist",
+    "post_type": "movie",
+    "tmdb_id": 609,
+    "imdb_id": "tt1029360",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2098808177"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3423967076"
+            }
+        ]
+    }
+}

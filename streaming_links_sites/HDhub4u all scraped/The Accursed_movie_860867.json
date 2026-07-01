@@ -1,0 +1,23 @@
+{
+    "post_title": "The Accursed",
+    "post_type": "movie",
+    "tmdb_id": 860867,
+    "imdb_id": "tt14617254",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1792892188"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2456864110"
+            }
+        ]
+    }
+}

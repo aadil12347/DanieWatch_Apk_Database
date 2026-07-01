@@ -1,0 +1,35 @@
+{
+    "post_title": "Well Done C.A. Sahab!",
+    "post_type": "movie",
+    "tmdb_id": 1506821,
+    "imdb_id": "tt35327667",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2425200575"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2294578796"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2011875566"
+            }
+        ],
+        "4K SDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4548514836"
+            }
+        ]
+    }
+}

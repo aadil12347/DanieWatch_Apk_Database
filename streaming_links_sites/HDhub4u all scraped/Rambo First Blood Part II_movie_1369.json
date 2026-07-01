@@ -1,0 +1,24 @@
+{
+    "post_title": "Rambo: First Blood Part II",
+    "post_type": "movie",
+    "tmdb_id": 1369,
+    "imdb_id": "tt0089880",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2603728548"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3915123651"
+            }
+        ]
+    }
+}

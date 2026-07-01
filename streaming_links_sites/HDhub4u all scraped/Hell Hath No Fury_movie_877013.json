@@ -1,0 +1,23 @@
+{
+    "post_title": "Hell Hath No Fury",
+    "post_type": "movie",
+    "tmdb_id": 877013,
+    "imdb_id": "tt15141632",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/311578793"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/833777913"
+            }
+        ]
+    }
+}

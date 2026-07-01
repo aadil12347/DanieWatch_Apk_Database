@@ -1,0 +1,29 @@
+{
+    "post_title": "Attack: Part 1",
+    "post_type": "movie",
+    "tmdb_id": 1268569,
+    "imdb_id": "tt7529298",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1942024173"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2445316347"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2492585180"
+            }
+        ]
+    }
+}

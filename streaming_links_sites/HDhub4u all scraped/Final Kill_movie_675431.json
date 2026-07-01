@@ -1,0 +1,24 @@
+{
+    "post_title": "Final Kill",
+    "post_type": "movie",
+    "tmdb_id": 675431,
+    "imdb_id": "tt9347750",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1820443264"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1785323295"
+            }
+        ]
+    }
+}

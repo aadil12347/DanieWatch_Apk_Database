@@ -1,0 +1,24 @@
+{
+    "post_title": "Displacement",
+    "post_type": "movie",
+    "tmdb_id": 1566824,
+    "imdb_id": "tt2712758",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1713767342"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1713767339"
+            }
+        ]
+    }
+}

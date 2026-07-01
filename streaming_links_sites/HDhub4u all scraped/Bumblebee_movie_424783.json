@@ -1,0 +1,30 @@
+{
+    "post_title": "Bumblebee",
+    "post_type": "movie",
+    "tmdb_id": 424783,
+    "imdb_id": "tt4701182",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1814902474"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2780575908"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2223024374"
+            }
+        ]
+    }
+}

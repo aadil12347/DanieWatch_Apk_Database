@@ -1,0 +1,36 @@
+{
+    "post_title": "Train To Busan 2: Peninsula",
+    "post_type": "movie",
+    "tmdb_id": 581392,
+    "imdb_id": "tt8850222",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/401614459"
+            }
+        ],
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/921617843"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1171911472"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2508492007"
+            }
+        ]
+    }
+}

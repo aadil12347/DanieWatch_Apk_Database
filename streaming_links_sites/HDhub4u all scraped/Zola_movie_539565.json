@@ -1,0 +1,24 @@
+{
+    "post_title": "Zola",
+    "post_type": "movie",
+    "tmdb_id": 539565,
+    "imdb_id": "tt5439812",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1773730315"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1934201723"
+            }
+        ]
+    }
+}

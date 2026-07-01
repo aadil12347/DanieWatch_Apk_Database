@@ -1,0 +1,24 @@
+{
+    "post_title": "Sarocharu",
+    "post_type": "movie",
+    "tmdb_id": 199994,
+    "imdb_id": "tt2520342",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2199010011"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3380822905"
+            }
+        ]
+    }
+}

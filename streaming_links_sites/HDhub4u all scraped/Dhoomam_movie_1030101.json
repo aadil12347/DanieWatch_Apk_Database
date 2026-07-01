@@ -1,0 +1,29 @@
+{
+    "post_title": "Dhoomam",
+    "post_type": "movie",
+    "tmdb_id": 1030101,
+    "imdb_id": "tt15380630",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1696280031"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1696280000"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1696280073"
+            }
+        ]
+    }
+}

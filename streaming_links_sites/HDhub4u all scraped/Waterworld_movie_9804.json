@@ -1,0 +1,30 @@
+{
+    "post_title": "Waterworld",
+    "post_type": "movie",
+    "tmdb_id": 9804,
+    "imdb_id": "tt0114898",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2186667656"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2569828345"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4280621721"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Blue Miracle",
+    "post_type": "movie",
+    "tmdb_id": 671295,
+    "imdb_id": "tt7084386",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1937142589"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1843545606"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2009498471"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Aafat-e-Ishq",
+    "post_type": "movie",
+    "tmdb_id": 883173,
+    "imdb_id": "tt12631660",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/364240187"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/962107829"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2263664096"
+            }
+        ]
+    }
+}

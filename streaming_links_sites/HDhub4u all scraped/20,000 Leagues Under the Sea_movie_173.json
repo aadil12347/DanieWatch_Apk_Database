@@ -1,0 +1,30 @@
+{
+    "post_title": "20,000 Leagues Under the Sea",
+    "post_type": "movie",
+    "tmdb_id": 173,
+    "imdb_id": "tt0046672",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2148138967"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2189505816"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1862190385"
+            }
+        ]
+    }
+}

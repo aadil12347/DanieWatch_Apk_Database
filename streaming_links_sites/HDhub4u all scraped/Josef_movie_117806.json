@@ -1,0 +1,24 @@
+{
+    "post_title": "Josef",
+    "post_type": "movie",
+    "tmdb_id": 117806,
+    "imdb_id": "tt11237638",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1956808439"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2379144404"
+            }
+        ]
+    }
+}

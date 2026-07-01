@@ -1,0 +1,30 @@
+{
+    "post_title": "Mama",
+    "post_type": "movie",
+    "tmdb_id": 132232,
+    "imdb_id": "tt2023587",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1951916956"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3510053764"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2299807931"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Dohchay",
+    "post_type": "movie",
+    "tmdb_id": 336082,
+    "imdb_id": "tt4463780",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3049551753"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2726845562"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "post_title": "Minions and More Volume 1",
+    "post_type": "movie",
+    "tmdb_id": 1029119,
+    "imdb_id": "tt22184976",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1799734020"
+            }
+        ],
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1758400790"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1753150573"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1855920913"
+            }
+        ]
+    }
+}

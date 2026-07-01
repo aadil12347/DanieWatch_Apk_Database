@@ -1,0 +1,24 @@
+{
+    "post_title": "The Cut",
+    "post_type": "movie",
+    "tmdb_id": 1215798,
+    "imdb_id": "tt26697087",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2572972377"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2879955889"
+            }
+        ]
+    }
+}

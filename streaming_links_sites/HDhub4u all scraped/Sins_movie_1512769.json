@@ -1,0 +1,24 @@
+{
+    "post_title": "Sins",
+    "post_type": "movie",
+    "tmdb_id": 1512769,
+    "imdb_id": "tt2182241",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1732803903"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2421769278"
+            }
+        ]
+    }
+}

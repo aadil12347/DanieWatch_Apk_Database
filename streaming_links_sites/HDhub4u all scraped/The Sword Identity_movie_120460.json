@@ -1,0 +1,24 @@
+{
+    "post_title": "The Sword Identity",
+    "post_type": "movie",
+    "tmdb_id": 120460,
+    "imdb_id": "tt2044077",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1789780820"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2574853551"
+            }
+        ]
+    }
+}

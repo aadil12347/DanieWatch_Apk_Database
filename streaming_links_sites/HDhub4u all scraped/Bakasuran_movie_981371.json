@@ -1,0 +1,32 @@
+{
+    "post_title": "Bakasuran",
+    "post_type": "movie",
+    "tmdb_id": 981371,
+    "imdb_id": "tt21926684",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1686058989"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1686058983"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/1686058987"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://hubdrive.tips/file/1686058985"
+            }
+        ]
+    }
+}

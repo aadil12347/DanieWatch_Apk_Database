@@ -1,0 +1,29 @@
+{
+    "post_title": "Mr. White Mr. Black",
+    "post_type": "movie",
+    "tmdb_id": 46411,
+    "imdb_id": "tt1228726",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1896449548"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2907244349"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2878983503"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Thellavarithe Guruvaram",
+    "post_type": "movie",
+    "tmdb_id": 811553,
+    "imdb_id": "tt13843858",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2389824712"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1704232072"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3635323256"
+            }
+        ]
+    }
+}

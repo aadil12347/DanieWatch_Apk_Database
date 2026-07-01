@@ -1,0 +1,30 @@
+{
+    "post_title": "The Fate of the Furious",
+    "post_type": "movie",
+    "tmdb_id": 337339,
+    "imdb_id": "tt4630562",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2017497570"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1774184886"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2518399350"
+            }
+        ]
+    }
+}

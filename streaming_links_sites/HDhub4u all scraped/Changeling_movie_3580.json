@@ -1,0 +1,30 @@
+{
+    "post_title": "Changeling",
+    "post_type": "movie",
+    "tmdb_id": 3580,
+    "imdb_id": "tt0824747",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1960139652"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2125541765"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2590884815"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "The Two Popes",
+    "post_type": "movie",
+    "tmdb_id": 551332,
+    "imdb_id": "tt8404614",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1918464386"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2479468535"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4157291449"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "The Return of Jafar",
+    "post_type": "movie",
+    "tmdb_id": 15969,
+    "imdb_id": "tt0107952",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1762787966"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3028411857"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1962929558"
+            }
+        ]
+    }
+}

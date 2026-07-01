@@ -1,0 +1,30 @@
+{
+    "post_title": "Pacific Rim",
+    "post_type": "movie",
+    "tmdb_id": 68726,
+    "imdb_id": "tt1663662",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1896782556"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1948499431"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1955814107"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Hot Blood",
+    "post_type": "movie",
+    "tmdb_id": 93745,
+    "imdb_id": "tt15101054",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1835002634"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2340310838"
+            }
+        ]
+    }
+}

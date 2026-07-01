@@ -1,0 +1,23 @@
+{
+    "post_title": "Armor",
+    "post_type": "movie",
+    "tmdb_id": 1182387,
+    "imdb_id": "tt29252358",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1853383995"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2001742713"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Chokehold",
+    "post_type": "movie",
+    "tmdb_id": 571117,
+    "imdb_id": "tt5862172",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1934288078"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2063879405"
+            }
+        ]
+    }
+}

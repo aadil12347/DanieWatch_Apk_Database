@@ -1,0 +1,29 @@
+{
+    "post_title": "Padavettu",
+    "post_type": "movie",
+    "tmdb_id": 657995,
+    "imdb_id": "tt10518176",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2022616624"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1910274103"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2939846738"
+            }
+        ]
+    }
+}

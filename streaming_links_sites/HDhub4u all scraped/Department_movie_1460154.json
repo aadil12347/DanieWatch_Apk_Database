@@ -1,0 +1,23 @@
+{
+    "post_title": "Department",
+    "post_type": "movie",
+    "tmdb_id": 1460154,
+    "imdb_id": "tt2186731",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1424894731"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/473238560"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Falimy",
+    "post_type": "movie",
+    "tmdb_id": 1044558,
+    "imdb_id": "tt11410312",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1702854004"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1945957692"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1702854003"
+            }
+        ]
+    }
+}

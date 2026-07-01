@@ -1,0 +1,36 @@
+{
+    "post_title": "Song of the Assassins",
+    "post_type": "movie",
+    "tmdb_id": 504071,
+    "imdb_id": "tt8032932",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1743405369"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2128521883"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3308020896"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3385154047"
+            }
+        ]
+    }
+}

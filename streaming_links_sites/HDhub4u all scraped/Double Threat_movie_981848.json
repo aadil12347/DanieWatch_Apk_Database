@@ -1,0 +1,24 @@
+{
+    "post_title": "Double Threat",
+    "post_type": "movie",
+    "tmdb_id": 981848,
+    "imdb_id": "tt13302660",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1850932469"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2601989362"
+            }
+        ]
+    }
+}

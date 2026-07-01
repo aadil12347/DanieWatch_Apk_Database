@@ -1,0 +1,24 @@
+{
+    "post_title": "Space Jam",
+    "post_type": "movie",
+    "tmdb_id": 2300,
+    "imdb_id": "tt0117705",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/923604775"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/315730271"
+            }
+        ]
+    }
+}

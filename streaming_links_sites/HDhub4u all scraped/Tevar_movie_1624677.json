@@ -1,0 +1,23 @@
+{
+    "post_title": "Tevar",
+    "post_type": "movie",
+    "tmdb_id": 1624677,
+    "imdb_id": "tt3398048",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1552964226"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/515649451"
+            }
+        ]
+    }
+}

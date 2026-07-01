@@ -1,0 +1,24 @@
+{
+    "post_title": "Firequake",
+    "post_type": "movie",
+    "tmdb_id": 313788,
+    "imdb_id": "tt3969972",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1708514455"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2671477753"
+            }
+        ]
+    }
+}

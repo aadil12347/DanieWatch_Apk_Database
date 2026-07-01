@@ -1,0 +1,30 @@
+{
+    "post_title": "The Day After Tomorrow",
+    "post_type": "movie",
+    "tmdb_id": 435,
+    "imdb_id": "tt0319262",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2016775223"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2022202538"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2697390262"
+            }
+        ]
+    }
+}

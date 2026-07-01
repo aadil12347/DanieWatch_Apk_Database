@@ -1,0 +1,30 @@
+{
+    "post_title": "Jingle All the Way",
+    "post_type": "movie",
+    "tmdb_id": 9279,
+    "imdb_id": "tt0116705",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1856243369"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2160496795"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3222385100"
+            }
+        ]
+    }
+}

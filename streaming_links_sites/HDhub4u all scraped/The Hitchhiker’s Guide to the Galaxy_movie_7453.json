@@ -1,0 +1,24 @@
+{
+    "post_title": "The Hitchhiker’s Guide to the Galaxy",
+    "post_type": "movie",
+    "tmdb_id": 7453,
+    "imdb_id": "tt0371724",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1873838021"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1763515772"
+            }
+        ]
+    }
+}

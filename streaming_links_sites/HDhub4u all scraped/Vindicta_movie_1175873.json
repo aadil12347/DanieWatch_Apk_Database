@@ -1,0 +1,29 @@
+{
+    "post_title": "Vindicta",
+    "post_type": "movie",
+    "tmdb_id": 1175873,
+    "imdb_id": "tt28682039",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1697376133"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1697376132"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1697376131"
+            }
+        ]
+    }
+}

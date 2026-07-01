@@ -1,0 +1,24 @@
+{
+    "post_title": "My Chilling Roommate",
+    "post_type": "movie",
+    "tmdb_id": 996827,
+    "imdb_id": "tt21809394",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1700717661"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1700717660"
+            }
+        ]
+    }
+}

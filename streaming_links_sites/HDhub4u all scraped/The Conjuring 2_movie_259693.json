@@ -1,0 +1,24 @@
+{
+    "post_title": "The Conjuring 2",
+    "post_type": "movie",
+    "tmdb_id": 259693,
+    "imdb_id": "tt3065204",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2817951581"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3862919622"
+            }
+        ]
+    }
+}

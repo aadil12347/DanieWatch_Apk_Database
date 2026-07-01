@@ -1,0 +1,24 @@
+{
+    "post_title": "Vincent N Roxxy",
+    "post_type": "movie",
+    "tmdb_id": 300672,
+    "imdb_id": "tt3704298",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1829206628"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2327604389"
+            }
+        ]
+    }
+}

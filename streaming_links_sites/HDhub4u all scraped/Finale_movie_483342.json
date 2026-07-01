@@ -1,0 +1,23 @@
+{
+    "post_title": "Finale",
+    "post_type": "movie",
+    "tmdb_id": 483342,
+    "imdb_id": "tt5039416",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1908750337"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1829111979"
+            }
+        ]
+    }
+}

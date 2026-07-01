@@ -1,0 +1,29 @@
+{
+    "post_title": "Blacklight",
+    "post_type": "movie",
+    "tmdb_id": 823625,
+    "imdb_id": "tt14060094",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1841845180"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2093732598"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2671153424"
+            }
+        ]
+    }
+}

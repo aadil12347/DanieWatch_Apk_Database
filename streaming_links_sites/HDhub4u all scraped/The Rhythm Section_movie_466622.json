@@ -1,0 +1,30 @@
+{
+    "post_title": "The Rhythm Section",
+    "post_type": "movie",
+    "tmdb_id": 466622,
+    "imdb_id": "tt7134096",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1937338691"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2664798660"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1782833264"
+            }
+        ]
+    }
+}

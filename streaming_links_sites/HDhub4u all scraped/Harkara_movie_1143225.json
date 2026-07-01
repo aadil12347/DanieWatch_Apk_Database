@@ -1,0 +1,29 @@
+{
+    "post_title": "Harkara",
+    "post_type": "movie",
+    "tmdb_id": 1143225,
+    "imdb_id": "tt27925780",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3355279616"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1697311405"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1697311404"
+            }
+        ]
+    }
+}

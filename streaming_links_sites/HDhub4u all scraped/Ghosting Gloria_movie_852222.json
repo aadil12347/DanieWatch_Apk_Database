@@ -1,0 +1,24 @@
+{
+    "post_title": "Ghosting Gloria",
+    "post_type": "movie",
+    "tmdb_id": 852222,
+    "imdb_id": "tt13508962",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1906074180"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2567611255"
+            }
+        ]
+    }
+}

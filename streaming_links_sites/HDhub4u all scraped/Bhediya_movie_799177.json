@@ -1,0 +1,29 @@
+{
+    "post_title": "Bhediya",
+    "post_type": "movie",
+    "tmdb_id": 799177,
+    "imdb_id": "tt14099334",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1685026125"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1685026070"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1685027027"
+            }
+        ]
+    }
+}

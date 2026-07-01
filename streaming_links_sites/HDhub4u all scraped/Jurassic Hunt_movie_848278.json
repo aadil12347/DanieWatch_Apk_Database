@@ -1,0 +1,24 @@
+{
+    "post_title": "Jurassic Hunt",
+    "post_type": "movie",
+    "tmdb_id": 848278,
+    "imdb_id": "tt14442328",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1685765421"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1844697809"
+            }
+        ]
+    }
+}

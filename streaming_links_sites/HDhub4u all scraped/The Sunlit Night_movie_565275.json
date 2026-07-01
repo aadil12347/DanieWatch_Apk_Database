@@ -1,0 +1,24 @@
+{
+    "post_title": "The Sunlit Night",
+    "post_type": "movie",
+    "tmdb_id": 565275,
+    "imdb_id": "tt8368394",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1680929279"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1966860795"
+            }
+        ]
+    }
+}

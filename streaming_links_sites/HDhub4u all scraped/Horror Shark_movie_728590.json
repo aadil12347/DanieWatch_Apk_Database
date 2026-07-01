@@ -1,0 +1,24 @@
+{
+    "post_title": "Horror Shark",
+    "post_type": "movie",
+    "tmdb_id": 728590,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1950323032"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1861827456"
+            }
+        ]
+    }
+}

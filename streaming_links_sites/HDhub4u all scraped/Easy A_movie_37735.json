@@ -1,0 +1,30 @@
+{
+    "post_title": "Easy A",
+    "post_type": "movie",
+    "tmdb_id": 37735,
+    "imdb_id": "tt1282140",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1960175879"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1874605227"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2557539234"
+            }
+        ]
+    }
+}

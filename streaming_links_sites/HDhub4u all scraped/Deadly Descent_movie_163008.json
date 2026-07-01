@@ -1,0 +1,24 @@
+{
+    "post_title": "Deadly Descent",
+    "post_type": "movie",
+    "tmdb_id": 163008,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1860284855"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1762573174"
+            }
+        ]
+    }
+}

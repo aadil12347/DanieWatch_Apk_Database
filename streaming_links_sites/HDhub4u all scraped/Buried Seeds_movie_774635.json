@@ -1,0 +1,24 @@
+{
+    "post_title": "Buried Seeds",
+    "post_type": "movie",
+    "tmdb_id": 774635,
+    "imdb_id": "tt6820982",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/733080822"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/267721407"
+            }
+        ]
+    }
+}

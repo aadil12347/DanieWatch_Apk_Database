@@ -1,0 +1,24 @@
+{
+    "post_title": "Robot Riot",
+    "post_type": "movie",
+    "tmdb_id": 713825,
+    "imdb_id": "tt12416066",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1789736704"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1911727979"
+            }
+        ]
+    }
+}

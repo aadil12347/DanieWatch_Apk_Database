@@ -1,0 +1,29 @@
+{
+    "post_title": "Vinaro Bhagyamu Vishnu Katha",
+    "post_type": "movie",
+    "tmdb_id": 1001256,
+    "imdb_id": "tt21338696",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1685939338"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1685939336"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1685939335"
+            }
+        ]
+    }
+}

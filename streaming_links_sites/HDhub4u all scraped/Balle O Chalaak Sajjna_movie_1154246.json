@@ -1,0 +1,29 @@
+{
+    "post_title": "Balle O Chalaak Sajjna",
+    "post_type": "movie",
+    "tmdb_id": 1154246,
+    "imdb_id": "tt28253080",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1864331116"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2588717778"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2720746901"
+            }
+        ]
+    }
+}

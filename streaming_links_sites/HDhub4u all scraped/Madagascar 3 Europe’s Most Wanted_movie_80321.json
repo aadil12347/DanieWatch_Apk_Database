@@ -1,0 +1,30 @@
+{
+    "post_title": "Madagascar 3 Europe’s Most Wanted",
+    "post_type": "movie",
+    "tmdb_id": 80321,
+    "imdb_id": "tt1277953",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1891685000"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1867840417"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2750760836"
+            }
+        ]
+    }
+}

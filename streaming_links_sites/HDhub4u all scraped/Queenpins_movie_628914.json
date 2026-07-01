@@ -1,0 +1,23 @@
+{
+    "post_title": "Queenpins",
+    "post_type": "movie",
+    "tmdb_id": 628914,
+    "imdb_id": "tt9054192",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1905495397"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2330509306"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Jind Mahi",
+    "post_type": "movie",
+    "tmdb_id": 1008671,
+    "imdb_id": "tt15170506",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1858484434"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1858484434"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1858484434"
+            }
+        ]
+    }
+}

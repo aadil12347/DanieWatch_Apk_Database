@@ -1,0 +1,29 @@
+{
+    "post_title": "Pitt Siyapa",
+    "post_type": "movie",
+    "tmdb_id": 1650939,
+    "imdb_id": "tt39387317",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2620339578"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3908145601"
+            }
+        ],
+        "1080p HQ": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/6226437640"
+            }
+        ]
+    }
+}

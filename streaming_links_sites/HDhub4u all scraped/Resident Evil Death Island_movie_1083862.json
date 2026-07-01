@@ -1,0 +1,30 @@
+{
+    "post_title": "Resident Evil: Death Island",
+    "post_type": "movie",
+    "tmdb_id": 1083862,
+    "imdb_id": "tt26674627",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1690300814"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1690300815"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1690300813"
+            }
+        ]
+    }
+}

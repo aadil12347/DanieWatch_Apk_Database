@@ -1,0 +1,27 @@
+{
+    "post_title": "Hahacar",
+    "post_type": "movie",
+    "tmdb_id": 1373471,
+    "imdb_id": "tt33085883",
+    "languages": [
+        "Gujarati"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1921972770"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4025247623"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ]
+    }
+}

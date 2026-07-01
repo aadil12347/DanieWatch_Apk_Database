@@ -1,0 +1,30 @@
+{
+    "post_title": "The School for Good and Evil",
+    "post_type": "movie",
+    "tmdb_id": 779782,
+    "imdb_id": "tt2935622",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1866334165"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2180456722"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2267195822"
+            }
+        ]
+    }
+}

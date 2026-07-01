@@ -1,0 +1,29 @@
+{
+    "post_title": "Raaz",
+    "post_type": "movie",
+    "tmdb_id": 20731,
+    "imdb_id": "tt0307873",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1867827260"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2376678741"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3929155531"
+            }
+        ]
+    }
+}

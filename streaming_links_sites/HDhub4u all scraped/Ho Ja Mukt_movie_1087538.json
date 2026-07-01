@@ -1,0 +1,29 @@
+{
+    "post_title": "Ho Ja Mukt",
+    "post_type": "movie",
+    "tmdb_id": 1087538,
+    "imdb_id": "tt25150506",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1862449078"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2172086296"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3039617477"
+            }
+        ]
+    }
+}

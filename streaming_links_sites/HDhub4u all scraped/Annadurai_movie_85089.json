@@ -1,0 +1,24 @@
+{
+    "post_title": "Annadurai",
+    "post_type": "movie",
+    "tmdb_id": 85089,
+    "imdb_id": "tt7512592",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Annadurai.2017.480p.UNCUT.WEB-DL.Hindi-Tamil.ESub.x264-HDHub4u.Life.mkv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Annadurai.2017.720p.UNCUT.WEB-DL.Hindi-Tamil.ESub.x264-HDHub4u.Life.mkv"
+            }
+        ]
+    }
+}

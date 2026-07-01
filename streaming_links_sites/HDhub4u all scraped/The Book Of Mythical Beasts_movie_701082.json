@@ -1,0 +1,24 @@
+{
+    "post_title": "The Book Of Mythical Beasts",
+    "post_type": "movie",
+    "tmdb_id": 701082,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1919648567"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1671637905"
+            }
+        ]
+    }
+}

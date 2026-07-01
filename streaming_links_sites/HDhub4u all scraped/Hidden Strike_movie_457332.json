@@ -1,0 +1,29 @@
+{
+    "post_title": "Hidden Strike",
+    "post_type": "movie",
+    "tmdb_id": 457332,
+    "imdb_id": "tt6879446",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2174886000"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1691342956"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1691342955"
+            }
+        ]
+    }
+}

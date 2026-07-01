@@ -1,0 +1,24 @@
+{
+    "post_title": "Big Octopus",
+    "post_type": "movie",
+    "tmdb_id": 813313,
+    "imdb_id": "tt13506320",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1664670760"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701224080"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "The Blade of Storm",
+    "post_type": "movie",
+    "tmdb_id": 680327,
+    "imdb_id": "tt10086692",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/316188482"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/856606391"
+            }
+        ]
+    }
+}

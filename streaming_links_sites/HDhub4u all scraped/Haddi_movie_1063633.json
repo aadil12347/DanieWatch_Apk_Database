@@ -1,0 +1,29 @@
+{
+    "post_title": "Haddi",
+    "post_type": "movie",
+    "tmdb_id": 1063633,
+    "imdb_id": "tt22188452",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3117665675"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1694061012"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1694061011"
+            }
+        ]
+    }
+}

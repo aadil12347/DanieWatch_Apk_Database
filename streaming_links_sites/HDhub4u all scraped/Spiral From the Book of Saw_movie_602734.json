@@ -1,0 +1,36 @@
+{
+    "post_title": "Spiral: From the Book of Saw",
+    "post_type": "movie",
+    "tmdb_id": 602734,
+    "imdb_id": "tt10342730",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/317154485"
+            }
+        ],
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/671908954"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/925514971"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2453720150"
+            }
+        ]
+    }
+}

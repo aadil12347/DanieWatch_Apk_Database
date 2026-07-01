@@ -1,0 +1,24 @@
+{
+    "post_title": "Kill Switch",
+    "post_type": "movie",
+    "tmdb_id": 423988,
+    "imdb_id": "tt5464234",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/317598173"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/824839320"
+            }
+        ]
+    }
+}

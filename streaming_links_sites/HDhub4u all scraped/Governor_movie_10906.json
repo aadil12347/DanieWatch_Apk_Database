@@ -1,0 +1,29 @@
+{
+    "post_title": "Governor",
+    "post_type": "movie",
+    "tmdb_id": 10906,
+    "imdb_id": "tt36822418",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2408438336"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3504000438"
+            }
+        ],
+        "1080p HQ": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4923694490"
+            }
+        ]
+    }
+}

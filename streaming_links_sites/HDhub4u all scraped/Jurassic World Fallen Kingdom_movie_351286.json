@@ -1,0 +1,30 @@
+{
+    "post_title": "Jurassic World Fallen Kingdom",
+    "post_type": "movie",
+    "tmdb_id": 351286,
+    "imdb_id": "tt4881806",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2001677914"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2037596447"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2094202152"
+            }
+        ]
+    }
+}

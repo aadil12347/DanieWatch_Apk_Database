@@ -1,0 +1,30 @@
+{
+    "post_title": "Entrapment",
+    "post_type": "movie",
+    "tmdb_id": 1844,
+    "imdb_id": "tt0137494",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1972710388"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1779781648"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2961916521"
+            }
+        ]
+    }
+}

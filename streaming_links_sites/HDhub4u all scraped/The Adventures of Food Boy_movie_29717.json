@@ -1,0 +1,24 @@
+{
+    "post_title": "The Adventures of Food Boy",
+    "post_type": "movie",
+    "tmdb_id": 29717,
+    "imdb_id": "tt1059773",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1870728922"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1915610420"
+            }
+        ]
+    }
+}

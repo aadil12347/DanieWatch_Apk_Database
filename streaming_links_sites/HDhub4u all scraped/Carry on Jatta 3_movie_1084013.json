@@ -1,0 +1,35 @@
+{
+    "post_title": "Carry on Jatta 3",
+    "post_type": "movie",
+    "tmdb_id": 1084013,
+    "imdb_id": "tt11720440",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1710452692"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2286815158"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1710452691"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1710452690"
+            }
+        ]
+    }
+}

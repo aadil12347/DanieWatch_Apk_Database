@@ -1,0 +1,30 @@
+{
+    "post_title": "No Country For Old Men",
+    "post_type": "movie",
+    "tmdb_id": 6977,
+    "imdb_id": "tt0477348",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1968318941"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2470979055"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3175699411"
+            }
+        ]
+    }
+}

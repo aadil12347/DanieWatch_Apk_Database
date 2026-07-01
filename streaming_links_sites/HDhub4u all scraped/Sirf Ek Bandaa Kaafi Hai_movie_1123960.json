@@ -1,0 +1,29 @@
+{
+    "post_title": "Sirf Ek Bandaa Kaafi Hai",
+    "post_type": "movie",
+    "tmdb_id": 1123960,
+    "imdb_id": "tt24485052",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1684804661"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1684804662"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1684804660"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Footloose",
+    "post_type": "movie",
+    "tmdb_id": 1788,
+    "imdb_id": "tt1068242",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/404450188"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/927257740"
+            }
+        ]
+    }
+}

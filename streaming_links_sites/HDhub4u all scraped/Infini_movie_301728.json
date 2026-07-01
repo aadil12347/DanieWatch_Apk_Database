@@ -1,0 +1,24 @@
+{
+    "post_title": "Infini",
+    "post_type": "movie",
+    "tmdb_id": 301728,
+    "imdb_id": "tt3327624",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/397880084"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/815737884"
+            }
+        ]
+    }
+}

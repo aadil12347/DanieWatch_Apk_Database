@@ -1,0 +1,24 @@
+{
+    "post_title": "Four Assassins",
+    "post_type": "movie",
+    "tmdb_id": 132236,
+    "imdb_id": "tt1478804",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1770469260"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2570846840"
+            }
+        ]
+    }
+}

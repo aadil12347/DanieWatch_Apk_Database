@@ -1,0 +1,30 @@
+{
+    "post_title": "Petta",
+    "post_type": "movie",
+    "tmdb_id": 534993,
+    "imdb_id": "tt8959820",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1999641257"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2187020316"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4193431431"
+            }
+        ]
+    }
+}

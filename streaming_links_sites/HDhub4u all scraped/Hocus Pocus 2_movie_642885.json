@@ -1,0 +1,23 @@
+{
+    "post_title": "Hocus Pocus 2",
+    "post_type": "movie",
+    "tmdb_id": 642885,
+    "imdb_id": "tt11909878",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1793254342"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2085327386"
+            }
+        ]
+    }
+}

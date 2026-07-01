@@ -1,0 +1,36 @@
+{
+    "post_title": "Thambi",
+    "post_type": "movie",
+    "tmdb_id": 487090,
+    "imdb_id": "tt8011302",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Tha3bi.UNCUT.720p.HEVC.HD-HDHub4u.mkv"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Tha3bi.UNCUT.480p.HD-HDHub4u.mkv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Tha3bi.UNCUT.720p.HD-HDHub4u.mkv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Tha3bi.UNCUT.1080p.HD-HDHub4u.mkv"
+            }
+        ]
+    }
+}

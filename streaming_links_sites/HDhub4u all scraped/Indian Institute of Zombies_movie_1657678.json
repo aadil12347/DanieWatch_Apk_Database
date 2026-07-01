@@ -1,0 +1,29 @@
+{
+    "post_title": "Indian Institute of Zombies",
+    "post_type": "movie",
+    "tmdb_id": 1657678,
+    "imdb_id": "tt41113860",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2072067048"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4442052031"
+            }
+        ],
+        "1080p HQ": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/5953594165"
+            }
+        ]
+    }
+}

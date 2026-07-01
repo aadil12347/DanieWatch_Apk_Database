@@ -1,0 +1,30 @@
+{
+    "post_title": "The Wonder",
+    "post_type": "movie",
+    "tmdb_id": 823766,
+    "imdb_id": "tt9288822",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1723118354"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1830847176"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2368375437"
+            }
+        ]
+    }
+}

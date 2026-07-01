@@ -1,0 +1,23 @@
+{
+    "post_title": "Benaam Badsha",
+    "post_type": "movie",
+    "tmdb_id": 304088,
+    "imdb_id": "tt0101432",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1602643310"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/562902076"
+            }
+        ]
+    }
+}

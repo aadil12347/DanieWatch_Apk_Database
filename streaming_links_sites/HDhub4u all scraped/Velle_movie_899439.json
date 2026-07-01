@@ -1,0 +1,29 @@
+{
+    "post_title": "Velle",
+    "post_type": "movie",
+    "tmdb_id": 899439,
+    "imdb_id": "tt13131636",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1868329033"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2375775271"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2257460989"
+            }
+        ]
+    }
+}

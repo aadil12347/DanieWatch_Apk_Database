@@ -1,0 +1,29 @@
+{
+    "post_title": "Shankara",
+    "post_type": "movie",
+    "tmdb_id": 917533,
+    "imdb_id": "tt3740118",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1141319236"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/379127900"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2342849572"
+            }
+        ]
+    }
+}

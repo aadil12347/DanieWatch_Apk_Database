@@ -1,0 +1,29 @@
+{
+    "post_title": "Kiss of the Spider Woman",
+    "post_type": "movie",
+    "tmdb_id": 1214684,
+    "imdb_id": "tt30400277",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2028149931"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2225962994"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4268406807"
+            }
+        ]
+    }
+}

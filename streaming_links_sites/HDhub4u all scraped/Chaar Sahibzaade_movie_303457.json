@@ -1,0 +1,23 @@
+{
+    "post_title": "Chaar Sahibzaade",
+    "post_type": "movie",
+    "tmdb_id": 303457,
+    "imdb_id": "tt4168188",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2315779453"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1883703427"
+            }
+        ]
+    }
+}

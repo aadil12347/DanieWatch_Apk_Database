@@ -1,0 +1,23 @@
+{
+    "post_title": "Theeran Adhigaaram Ondru",
+    "post_type": "movie",
+    "tmdb_id": 456218,
+    "imdb_id": "tt7060460",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1403207019"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/466903445"
+            }
+        ]
+    }
+}

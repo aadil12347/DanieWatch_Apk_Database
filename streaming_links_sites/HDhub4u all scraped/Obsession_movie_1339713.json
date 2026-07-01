@@ -1,0 +1,29 @@
+{
+    "post_title": "Obsession",
+    "post_type": "movie",
+    "tmdb_id": 1339713,
+    "imdb_id": "tt37287335",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2373080773"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2358111300"
+            }
+        ],
+        "1080p HQ": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/6939814467"
+            }
+        ]
+    }
+}

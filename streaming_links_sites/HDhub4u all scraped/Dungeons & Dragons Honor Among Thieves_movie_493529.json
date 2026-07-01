@@ -1,0 +1,36 @@
+{
+    "post_title": "Dungeons & Dragons: Honor Among Thieves",
+    "post_type": "movie",
+    "tmdb_id": 493529,
+    "imdb_id": "tt2906216",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1683039849"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1683039847"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1683039845"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1683039844"
+            }
+        ]
+    }
+}

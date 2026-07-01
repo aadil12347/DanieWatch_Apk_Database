@@ -1,0 +1,24 @@
+{
+    "post_title": "Battle of the Warriors",
+    "post_type": "movie",
+    "tmdb_id": 14808,
+    "imdb_id": "tt0485863",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1994548520"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1904095429"
+            }
+        ]
+    }
+}

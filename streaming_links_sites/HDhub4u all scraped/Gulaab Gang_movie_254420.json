@@ -1,0 +1,23 @@
+{
+    "post_title": "Gulaab Gang",
+    "post_type": "movie",
+    "tmdb_id": 254420,
+    "imdb_id": "tt2573750",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1831636379"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2445224568"
+            }
+        ]
+    }
+}

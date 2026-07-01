@@ -1,0 +1,95 @@
+{
+    "post_title": "The Sandman",
+    "post_type": "series",
+    "tmdb_id": 90802,
+    "imdb_id": "tt1751634",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "total_seasons": 2,
+    "seasons": {
+        "2": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/2285277684"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/1882385562"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/3848826451"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/2230925445"
+                }
+            ],
+            "720p HEVC 10bit": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1809562394"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1919060719"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/1790118138"
+                }
+            ],
+            "1080p HEVC 10bit": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1811657668"
+                }
+            ],
+            "4K SDR": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/5587536538"
+                }
+            ]
+        },
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1671999191"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1903362841"
+                }
+            ],
+            "720p HEVC 10bit": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1929174072"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1704936317"
+                }
+            ],
+            "1080p HEVC 10bit": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/2203337364"
+                }
+            ]
+        }
+    }
+}

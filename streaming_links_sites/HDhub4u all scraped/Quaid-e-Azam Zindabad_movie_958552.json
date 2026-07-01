@@ -1,0 +1,29 @@
+{
+    "post_title": "Quaid-e-Azam Zindabad",
+    "post_type": "movie",
+    "tmdb_id": 958552,
+    "imdb_id": "tt12138574",
+    "languages": [
+        "Urdu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1895346828"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2599973390"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2945893566"
+            }
+        ]
+    }
+}

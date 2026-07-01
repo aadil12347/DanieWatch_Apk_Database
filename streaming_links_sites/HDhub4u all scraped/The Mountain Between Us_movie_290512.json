@@ -1,0 +1,30 @@
+{
+    "post_title": "The Mountain Between Us",
+    "post_type": "movie",
+    "tmdb_id": 290512,
+    "imdb_id": "tt2226597",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1771417299"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2278006852"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3890771568"
+            }
+        ]
+    }
+}

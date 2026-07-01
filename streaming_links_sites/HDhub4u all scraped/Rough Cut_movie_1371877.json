@@ -1,0 +1,24 @@
+{
+    "post_title": "Rough Cut",
+    "post_type": "movie",
+    "tmdb_id": 1371877,
+    "imdb_id": "tt1411238",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/play"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/play"
+            }
+        ]
+    }
+}

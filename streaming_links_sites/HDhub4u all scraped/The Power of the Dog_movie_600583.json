@@ -1,0 +1,30 @@
+{
+    "post_title": "The Power of the Dog",
+    "post_type": "movie",
+    "tmdb_id": 600583,
+    "imdb_id": "tt10293406",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1785622180"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2519045927"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3086581091"
+            }
+        ]
+    }
+}

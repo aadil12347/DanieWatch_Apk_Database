@@ -1,0 +1,24 @@
+{
+    "post_title": "Flushed Away",
+    "post_type": "movie",
+    "tmdb_id": 11619,
+    "imdb_id": "tt0424095",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1919577120"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2471464184"
+            }
+        ]
+    }
+}

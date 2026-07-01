@@ -1,0 +1,24 @@
+{
+    "post_title": "Vixen",
+    "post_type": "movie",
+    "tmdb_id": 5721,
+    "imdb_id": "tt8392146",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1769765693"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2185457998"
+            }
+        ]
+    }
+}

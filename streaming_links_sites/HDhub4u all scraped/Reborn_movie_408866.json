@@ -1,0 +1,24 @@
+{
+    "post_title": "Reborn",
+    "post_type": "movie",
+    "tmdb_id": 408866,
+    "imdb_id": "tt4902266",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1793351339"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1981527432"
+            }
+        ]
+    }
+}

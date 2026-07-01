@@ -1,0 +1,29 @@
+{
+    "post_title": "Babu Bangaram",
+    "post_type": "movie",
+    "tmdb_id": 410572,
+    "imdb_id": "tt5953594",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1265302405"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/420309817"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2216759491"
+            }
+        ]
+    }
+}

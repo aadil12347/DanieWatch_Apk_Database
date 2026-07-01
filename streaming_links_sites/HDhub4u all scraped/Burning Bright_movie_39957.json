@@ -1,0 +1,24 @@
+{
+    "post_title": "Burning Bright",
+    "post_type": "movie",
+    "tmdb_id": 39957,
+    "imdb_id": "tt1244658",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/326283820"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/954048310"
+            }
+        ]
+    }
+}

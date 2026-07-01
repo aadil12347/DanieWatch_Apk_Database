@@ -1,0 +1,24 @@
+{
+    "post_title": "Dolphin Island",
+    "post_type": "movie",
+    "tmdb_id": 800993,
+    "imdb_id": "tt11692070",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1954189142"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2522528755"
+            }
+        ]
+    }
+}

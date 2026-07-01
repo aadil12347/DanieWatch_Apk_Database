@@ -1,0 +1,23 @@
+{
+    "post_title": "Piku",
+    "post_type": "movie",
+    "tmdb_id": 332835,
+    "imdb_id": "tt3767372",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1179201147"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/407137971"
+            }
+        ]
+    }
+}

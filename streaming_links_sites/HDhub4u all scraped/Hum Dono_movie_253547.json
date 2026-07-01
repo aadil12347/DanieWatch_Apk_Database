@@ -1,0 +1,29 @@
+{
+    "post_title": "Hum Dono",
+    "post_type": "movie",
+    "tmdb_id": 253547,
+    "imdb_id": "tt0286705",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2035274158"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3170551603"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4031442054"
+            }
+        ]
+    }
+}

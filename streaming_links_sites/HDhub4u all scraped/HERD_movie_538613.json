@@ -1,0 +1,23 @@
+{
+    "post_title": "HERD",
+    "post_type": "movie",
+    "tmdb_id": 538613,
+    "imdb_id": "tt14348734",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1697629037"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1697629036"
+            }
+        ]
+    }
+}

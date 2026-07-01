@@ -1,0 +1,29 @@
+{
+    "post_title": "InCar",
+    "post_type": "movie",
+    "tmdb_id": 1092973,
+    "imdb_id": "tt26744173",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1887244296"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2192667166"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2448914591"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Weather Wars",
+    "post_type": "movie",
+    "tmdb_id": 223758,
+    "imdb_id": "tt1743375",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2619699608"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2619699608"
+            }
+        ]
+    }
+}

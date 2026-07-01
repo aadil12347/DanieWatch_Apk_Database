@@ -1,0 +1,30 @@
+{
+    "post_title": "The Forest",
+    "post_type": "movie",
+    "tmdb_id": 329440,
+    "imdb_id": "tt3387542",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1685884206"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1685884202"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1685884204"
+            }
+        ]
+    }
+}

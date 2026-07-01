@@ -1,0 +1,30 @@
+{
+    "post_title": "Pantham",
+    "post_type": "movie",
+    "tmdb_id": 317291,
+    "imdb_id": "tt7963804",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1688660168"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2454555332"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1688660167"
+            }
+        ]
+    }
+}

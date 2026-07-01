@@ -1,0 +1,30 @@
+{
+    "post_title": "SkyFire",
+    "post_type": "movie",
+    "tmdb_id": 604872,
+    "imdb_id": "tt9203190",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/329022445"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1009438981"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2473589378"
+            }
+        ]
+    }
+}

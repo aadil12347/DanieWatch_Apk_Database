@@ -1,0 +1,24 @@
+{
+    "post_title": "Ghatikachalam",
+    "post_type": "movie",
+    "tmdb_id": 81081,
+    "imdb_id": "tt34117876",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2366559984"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4238475438"
+            }
+        ]
+    }
+}

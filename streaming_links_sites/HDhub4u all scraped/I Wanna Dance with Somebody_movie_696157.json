@@ -1,0 +1,23 @@
+{
+    "post_title": "I Wanna Dance with Somebody",
+    "post_type": "movie",
+    "tmdb_id": 696157,
+    "imdb_id": "tt12193804",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2105213350"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2713482174"
+            }
+        ]
+    }
+}

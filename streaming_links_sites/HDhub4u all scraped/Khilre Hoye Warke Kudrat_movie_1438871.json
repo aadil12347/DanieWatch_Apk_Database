@@ -1,0 +1,35 @@
+{
+    "post_title": "Khilre Hoye Warke Kudrat",
+    "post_type": "movie",
+    "tmdb_id": 1438871,
+    "imdb_id": "tt33044935",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2245955900"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2149009409"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2189850682"
+            }
+        ],
+        "4K SDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3143874312"
+            }
+        ]
+    }
+}

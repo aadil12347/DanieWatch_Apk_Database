@@ -1,0 +1,30 @@
+{
+    "post_title": "Overdose",
+    "post_type": "movie",
+    "tmdb_id": 896485,
+    "imdb_id": "tt15713012",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1796255987"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2830844253"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3452895815"
+            }
+        ]
+    }
+}

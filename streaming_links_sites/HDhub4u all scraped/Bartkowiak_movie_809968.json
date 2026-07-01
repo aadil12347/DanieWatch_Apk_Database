@@ -1,0 +1,30 @@
+{
+    "post_title": "Bartkowiak",
+    "post_type": "movie",
+    "tmdb_id": 809968,
+    "imdb_id": "tt14315566",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1999857077"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2155790727"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1809989542"
+            }
+        ]
+    }
+}

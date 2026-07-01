@@ -1,0 +1,29 @@
+{
+    "post_title": "I Love You",
+    "post_type": "movie",
+    "tmdb_id": 140638,
+    "imdb_id": "tt27930156",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1686884111"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1686884112"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1686884110"
+            }
+        ]
+    }
+}

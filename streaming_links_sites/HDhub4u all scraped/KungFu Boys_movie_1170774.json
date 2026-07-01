@@ -1,0 +1,24 @@
+{
+    "post_title": "KungFu Boys",
+    "post_type": "movie",
+    "tmdb_id": 1170774,
+    "imdb_id": "tt6150988",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1905055452"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2189109776"
+            }
+        ]
+    }
+}

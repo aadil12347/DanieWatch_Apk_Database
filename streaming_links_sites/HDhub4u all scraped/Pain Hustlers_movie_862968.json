@@ -1,0 +1,30 @@
+{
+    "post_title": "Pain Hustlers",
+    "post_type": "movie",
+    "tmdb_id": 862968,
+    "imdb_id": "tt15257160",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698400729"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698400569"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698400463"
+            }
+        ]
+    }
+}

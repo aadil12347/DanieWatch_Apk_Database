@@ -1,0 +1,23 @@
+{
+    "post_title": "Asurado",
+    "post_type": "movie",
+    "tmdb_id": 795321,
+    "imdb_id": "tt18329412",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2452620017"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1709928210"
+            }
+        ]
+    }
+}

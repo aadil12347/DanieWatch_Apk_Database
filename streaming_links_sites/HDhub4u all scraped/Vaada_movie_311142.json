@@ -1,0 +1,29 @@
+{
+    "post_title": "Vaada",
+    "post_type": "movie",
+    "tmdb_id": 311142,
+    "imdb_id": "tt0442855",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2141664240"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1882266479"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3949261704 target="
+            }
+        ]
+    }
+}

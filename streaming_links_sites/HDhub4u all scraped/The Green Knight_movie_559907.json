@@ -1,0 +1,30 @@
+{
+    "post_title": "The Green Knight",
+    "post_type": "movie",
+    "tmdb_id": 559907,
+    "imdb_id": "tt1564585",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2127839868"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1775308971"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1982777950"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "New Police Story",
+    "post_type": "movie",
+    "tmdb_id": 11636,
+    "imdb_id": "tt0386005",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/438480061"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1185914972"
+            }
+        ]
+    }
+}

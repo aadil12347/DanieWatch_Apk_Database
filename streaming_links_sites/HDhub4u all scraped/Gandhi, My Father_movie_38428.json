@@ -1,0 +1,29 @@
+{
+    "post_title": "Gandhi, My Father",
+    "post_type": "movie",
+    "tmdb_id": 38428,
+    "imdb_id": "tt0459293",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2037904986"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2719586761"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1846634529"
+            }
+        ]
+    }
+}

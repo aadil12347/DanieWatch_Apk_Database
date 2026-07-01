@@ -1,0 +1,36 @@
+{
+    "post_title": "ABCD: American Born Confused Desi",
+    "post_type": "movie",
+    "tmdb_id": 204261,
+    "imdb_id": "tt10348516",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/491862531"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/734713958"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1338830827"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2833578212"
+            }
+        ]
+    }
+}

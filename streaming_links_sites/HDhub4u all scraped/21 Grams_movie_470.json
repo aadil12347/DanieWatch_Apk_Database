@@ -1,0 +1,35 @@
+{
+    "post_title": "21 Grams",
+    "post_type": "movie",
+    "tmdb_id": 470,
+    "imdb_id": "tt0315733",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2567252525"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1843093274"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1995982717"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3405649888"
+            }
+        ]
+    }
+}

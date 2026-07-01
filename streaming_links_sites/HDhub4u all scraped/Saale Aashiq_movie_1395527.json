@@ -1,0 +1,29 @@
+{
+    "post_title": "Saale Aashiq",
+    "post_type": "movie",
+    "tmdb_id": 1395527,
+    "imdb_id": "tt15464150",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1791604443"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2283921315"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2777981942"
+            }
+        ]
+    }
+}

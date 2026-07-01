@@ -1,0 +1,24 @@
+{
+    "post_title": "Isle Of The Dead",
+    "post_type": "movie",
+    "tmdb_id": 408149,
+    "imdb_id": "tt5108168",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/342244830"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/767156753"
+            }
+        ]
+    }
+}

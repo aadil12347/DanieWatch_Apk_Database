@@ -1,0 +1,24 @@
+{
+    "post_title": "The Reaping",
+    "post_type": "movie",
+    "tmdb_id": 1683,
+    "imdb_id": "tt0444682",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/357454973"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/770579977"
+            }
+        ]
+    }
+}

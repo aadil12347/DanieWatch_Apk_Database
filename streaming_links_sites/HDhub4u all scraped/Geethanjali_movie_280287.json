@@ -1,0 +1,29 @@
+{
+    "post_title": "Geethanjali",
+    "post_type": "movie",
+    "tmdb_id": 280287,
+    "imdb_id": "tt3322506",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1275086318"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/423654977"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2233957972"
+            }
+        ]
+    }
+}

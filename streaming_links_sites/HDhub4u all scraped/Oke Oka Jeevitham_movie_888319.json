@@ -1,0 +1,35 @@
+{
+    "post_title": "Oke Oka Jeevitham",
+    "post_type": "movie",
+    "tmdb_id": 888319,
+    "imdb_id": "tt14989778",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1743513050"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2206760178"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2097322293"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3481282751"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "The Demon Hunter",
+    "post_type": "movie",
+    "tmdb_id": 928281,
+    "imdb_id": "tt7055592",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1986042305"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2137342764"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1925856267"
+            }
+        ]
+    }
+}

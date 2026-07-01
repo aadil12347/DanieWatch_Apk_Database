@@ -1,0 +1,23 @@
+{
+    "post_title": "Kalahari",
+    "post_type": "movie",
+    "tmdb_id": 616645,
+    "imdb_id": "tt27682129",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711685840"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711685838"
+            }
+        ]
+    }
+}

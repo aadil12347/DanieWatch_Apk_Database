@@ -1,0 +1,42 @@
+{
+    "post_title": "When Evil Lurks",
+    "post_type": "movie",
+    "tmdb_id": 744857,
+    "imdb_id": "tt16300962",
+    "languages": [
+        "Hindi",
+        "Spanish"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2210097560"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2571891004"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2099982910"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1863027072"
+            }
+        ],
+        "4K SDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/6755569821"
+            }
+        ]
+    }
+}

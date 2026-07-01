@@ -1,0 +1,23 @@
+{
+    "post_title": "Zarrar",
+    "post_type": "movie",
+    "tmdb_id": 592534,
+    "imdb_id": "tt5698284",
+    "languages": [
+        "Urdu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2109815205"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2641051795"
+            }
+        ]
+    }
+}

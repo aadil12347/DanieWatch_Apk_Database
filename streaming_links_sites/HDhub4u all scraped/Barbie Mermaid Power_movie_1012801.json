@@ -1,0 +1,24 @@
+{
+    "post_title": "Barbie: Mermaid Power",
+    "post_type": "movie",
+    "tmdb_id": 1012801,
+    "imdb_id": "tt21933210",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1988858828"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2151051916"
+            }
+        ]
+    }
+}

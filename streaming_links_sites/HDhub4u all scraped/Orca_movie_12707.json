@@ -1,0 +1,24 @@
+{
+    "post_title": "Orca",
+    "post_type": "movie",
+    "tmdb_id": 12707,
+    "imdb_id": "tt0076504",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1877382875"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2435559825"
+            }
+        ]
+    }
+}

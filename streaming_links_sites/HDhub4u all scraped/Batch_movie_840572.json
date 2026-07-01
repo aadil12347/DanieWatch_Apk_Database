@@ -1,0 +1,29 @@
+{
+    "post_title": "Batch",
+    "post_type": "movie",
+    "tmdb_id": 840572,
+    "imdb_id": "tt21741282",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1828202062"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2075440328"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2054286489"
+            }
+        ]
+    }
+}

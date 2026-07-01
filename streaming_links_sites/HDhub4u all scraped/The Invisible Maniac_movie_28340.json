@@ -1,0 +1,24 @@
+{
+    "post_title": "The Invisible Maniac",
+    "post_type": "movie",
+    "tmdb_id": 28340,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1682572477"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1682572476"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Failure to Launch",
+    "post_type": "movie",
+    "tmdb_id": 6877,
+    "imdb_id": "tt0427229",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2601854097"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1886035852"
+            }
+        ]
+    }
+}

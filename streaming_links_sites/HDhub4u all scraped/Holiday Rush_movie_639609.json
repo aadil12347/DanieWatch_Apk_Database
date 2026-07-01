@@ -1,0 +1,30 @@
+{
+    "post_title": "Holiday Rush",
+    "post_type": "movie",
+    "tmdb_id": 639609,
+    "imdb_id": "tt10091530",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1940983164"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2414051035"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2194542914"
+            }
+        ]
+    }
+}

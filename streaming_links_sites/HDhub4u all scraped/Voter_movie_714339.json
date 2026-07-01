@@ -1,0 +1,29 @@
+{
+    "post_title": "Voter",
+    "post_type": "movie",
+    "tmdb_id": 714339,
+    "imdb_id": "tt7108736",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/384578073"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1063828553"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1440469892"
+            }
+        ]
+    }
+}

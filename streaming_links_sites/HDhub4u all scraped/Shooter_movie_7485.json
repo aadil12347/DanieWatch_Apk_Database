@@ -1,0 +1,29 @@
+{
+    "post_title": "Shooter",
+    "post_type": "movie",
+    "tmdb_id": 7485,
+    "imdb_id": "tt11749480",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2007562640"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2158175086"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2952195003"
+            }
+        ]
+    }
+}

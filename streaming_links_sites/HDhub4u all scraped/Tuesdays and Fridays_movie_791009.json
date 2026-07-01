@@ -1,0 +1,29 @@
+{
+    "post_title": "Tuesdays and Fridays",
+    "post_type": "movie",
+    "tmdb_id": 791009,
+    "imdb_id": "tt9176102",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2015771838"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/904066592"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/335249299"
+            }
+        ]
+    }
+}

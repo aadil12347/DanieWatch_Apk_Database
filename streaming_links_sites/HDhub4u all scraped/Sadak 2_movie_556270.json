@@ -1,0 +1,29 @@
+{
+    "post_title": "Sadak 2",
+    "post_type": "movie",
+    "tmdb_id": 556270,
+    "imdb_id": "tt7886848",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/420347324"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1034808142"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2469925874"
+            }
+        ]
+    }
+}

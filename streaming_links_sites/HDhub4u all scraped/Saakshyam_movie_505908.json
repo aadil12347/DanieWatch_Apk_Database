@@ -1,0 +1,36 @@
+{
+    "post_title": "Saakshyam",
+    "post_type": "movie",
+    "tmdb_id": 505908,
+    "imdb_id": "tt7757972",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Saakshyam.(Pralay.The.Destroyer).(2018).UNCUT.Hindi.Telugu.480p-HDHub4u.mkv"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Saakshyam.(Pralay.The.Destroyer).(2018).UNCUT.Hindi.Telugu.HEVC.720p-HDHub4u.mkv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Saakshyam.(Pralay.The.Destroyer).(2018).UNCUT.Hindi.Telugu.720p-HDHub4u.mkv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Saakshyam.(Pralay.The.Destroyer).(2018).UNCUT.Hindi.Telugu.1080p-HDHub4u.mkv"
+            }
+        ]
+    }
+}

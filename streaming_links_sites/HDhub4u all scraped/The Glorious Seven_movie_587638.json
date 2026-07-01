@@ -1,0 +1,24 @@
+{
+    "post_title": "The Glorious Seven",
+    "post_type": "movie",
+    "tmdb_id": 587638,
+    "imdb_id": "tt3917254",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1864910352"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2498804084"
+            }
+        ]
+    }
+}

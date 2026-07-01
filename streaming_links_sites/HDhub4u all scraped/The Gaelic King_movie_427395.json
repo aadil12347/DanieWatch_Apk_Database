@@ -1,0 +1,24 @@
+{
+    "post_title": "The Gaelic King",
+    "post_type": "movie",
+    "tmdb_id": 427395,
+    "imdb_id": "tt5072852",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1684471517"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1684471515"
+            }
+        ]
+    }
+}

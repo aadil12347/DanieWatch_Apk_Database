@@ -1,0 +1,29 @@
+{
+    "post_title": "Vaalvi",
+    "post_type": "movie",
+    "tmdb_id": 1073486,
+    "imdb_id": "tt24516518",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1865612751"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1716726946"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3244227354"
+            }
+        ]
+    }
+}

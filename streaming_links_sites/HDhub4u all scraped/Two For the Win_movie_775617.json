@@ -1,0 +1,24 @@
+{
+    "post_title": "Two For the Win",
+    "post_type": "movie",
+    "tmdb_id": 775617,
+    "imdb_id": "tt13605268",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1703659419"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1703659418"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Setup",
+    "post_type": "movie",
+    "tmdb_id": 70586,
+    "imdb_id": "tt1748197",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3062935388"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2666237616"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/763432453"
+            }
+        ]
+    }
+}

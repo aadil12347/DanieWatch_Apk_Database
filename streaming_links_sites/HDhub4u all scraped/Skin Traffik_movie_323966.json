@@ -1,0 +1,24 @@
+{
+    "post_title": "Skin Traffik",
+    "post_type": "movie",
+    "tmdb_id": 323966,
+    "imdb_id": "tt3120960",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/317179159"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/846899166"
+            }
+        ]
+    }
+}

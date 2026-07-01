@@ -1,0 +1,30 @@
+{
+    "post_title": "Passing",
+    "post_type": "movie",
+    "tmdb_id": 10351,
+    "imdb_id": "tt0451154",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1838940704"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2125989031"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1893612756"
+            }
+        ]
+    }
+}

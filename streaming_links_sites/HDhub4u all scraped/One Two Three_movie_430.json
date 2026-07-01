@@ -1,0 +1,37 @@
+{
+    "post_title": "One Two Three",
+    "post_type": "movie",
+    "tmdb_id": 430,
+    "imdb_id": "tt1176960",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2136687653"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1866525575"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2089221909"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/4484848006"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://gadgetsweb.xyz/"
+            }
+        ]
+    }
+}

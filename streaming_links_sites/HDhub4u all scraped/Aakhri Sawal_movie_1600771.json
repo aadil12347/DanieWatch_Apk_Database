@@ -1,0 +1,29 @@
+{
+    "post_title": "Aakhri Sawal",
+    "post_type": "movie",
+    "tmdb_id": 1600771,
+    "imdb_id": "tt41110859",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2619999906"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3232535101"
+            }
+        ],
+        "1080p HQ": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2985717849"
+            }
+        ]
+    }
+}

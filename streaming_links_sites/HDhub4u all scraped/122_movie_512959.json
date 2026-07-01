@@ -1,0 +1,24 @@
+{
+    "post_title": "122",
+    "post_type": "movie",
+    "tmdb_id": 512959,
+    "imdb_id": "tt7867670",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2396426588"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3536212196"
+            }
+        ]
+    }
+}

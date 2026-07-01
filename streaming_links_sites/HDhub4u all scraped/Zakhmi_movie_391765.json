@@ -1,0 +1,29 @@
+{
+    "post_title": "Zakhmi",
+    "post_type": "movie",
+    "tmdb_id": 391765,
+    "imdb_id": "tt11173094",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1222223481"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/406256301"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2049153184"
+            }
+        ]
+    }
+}

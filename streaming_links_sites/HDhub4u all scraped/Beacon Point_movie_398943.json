@@ -1,0 +1,30 @@
+{
+    "post_title": "Beacon Point",
+    "post_type": "movie",
+    "tmdb_id": 398943,
+    "imdb_id": "tt3122390",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1745469399"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2340953529"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3387867316"
+            }
+        ]
+    }
+}

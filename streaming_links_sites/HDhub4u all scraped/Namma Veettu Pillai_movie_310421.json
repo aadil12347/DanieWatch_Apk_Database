@@ -1,0 +1,24 @@
+{
+    "post_title": "Namma Veettu Pillai",
+    "post_type": "movie",
+    "tmdb_id": 310421,
+    "imdb_id": "tt10709404",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/548652136"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1582282023"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Veer-Zaara",
+    "post_type": "movie",
+    "tmdb_id": 4251,
+    "imdb_id": "tt0420332",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1975408038"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2599500302"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3435323754"
+            }
+        ]
+    }
+}

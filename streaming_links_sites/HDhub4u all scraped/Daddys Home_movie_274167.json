@@ -1,0 +1,24 @@
+{
+    "post_title": "Daddys Home",
+    "post_type": "movie",
+    "tmdb_id": 274167,
+    "imdb_id": "tt1528854",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1006019186"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/347412567"
+            }
+        ]
+    }
+}

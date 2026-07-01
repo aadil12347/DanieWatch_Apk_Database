@@ -1,0 +1,29 @@
+{
+    "post_title": "Slumdog Millionaire",
+    "post_type": "movie",
+    "tmdb_id": 12405,
+    "imdb_id": "tt1010048",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2138550897"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2745059375"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2581095483"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "The Theory of Everything",
+    "post_type": "movie",
+    "tmdb_id": 266856,
+    "imdb_id": "tt2980516",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1986416734"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1802089195"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2336210944"
+            }
+        ]
+    }
+}

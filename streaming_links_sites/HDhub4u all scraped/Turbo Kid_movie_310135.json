@@ -1,0 +1,24 @@
+{
+    "post_title": "Turbo Kid",
+    "post_type": "movie",
+    "tmdb_id": 310135,
+    "imdb_id": "tt3672742",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1920216979"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2289092317"
+            }
+        ]
+    }
+}

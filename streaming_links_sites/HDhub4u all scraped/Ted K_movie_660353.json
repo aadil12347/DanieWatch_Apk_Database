@@ -1,0 +1,29 @@
+{
+    "post_title": "Ted K",
+    "post_type": "movie",
+    "tmdb_id": 660353,
+    "imdb_id": "tt8128276",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1914535530"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2440407311"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2969228013"
+            }
+        ]
+    }
+}

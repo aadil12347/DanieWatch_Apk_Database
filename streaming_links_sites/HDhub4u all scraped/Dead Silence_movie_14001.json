@@ -1,0 +1,24 @@
+{
+    "post_title": "Dead Silence",
+    "post_type": "movie",
+    "tmdb_id": 14001,
+    "imdb_id": "tt0455760",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1710223665"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1710223664"
+            }
+        ]
+    }
+}

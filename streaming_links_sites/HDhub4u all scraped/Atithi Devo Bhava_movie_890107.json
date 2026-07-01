@@ -1,0 +1,30 @@
+{
+    "post_title": "Atithi Devo Bhava",
+    "post_type": "movie",
+    "tmdb_id": 890107,
+    "imdb_id": "tt15341118",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2070800201"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1857118795"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2211481361"
+            }
+        ]
+    }
+}

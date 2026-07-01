@@ -1,0 +1,24 @@
+{
+    "post_title": "Stalingrad",
+    "post_type": "movie",
+    "tmdb_id": 11101,
+    "imdb_id": "tt1966566",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711685830"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711685829"
+            }
+        ]
+    }
+}

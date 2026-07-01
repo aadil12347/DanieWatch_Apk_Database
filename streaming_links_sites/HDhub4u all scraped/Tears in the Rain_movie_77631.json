@@ -1,0 +1,28 @@
+{
+    "post_title": "Tears in the Rain",
+    "post_type": "movie",
+    "tmdb_id": 77631,
+    "imdb_id": "tt0096237",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2094344926"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3743615848"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/8418417488"
+            }
+        ]
+    }
+}

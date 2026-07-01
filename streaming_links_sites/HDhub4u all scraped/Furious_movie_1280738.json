@@ -1,0 +1,30 @@
+{
+    "post_title": "Furious",
+    "post_type": "movie",
+    "tmdb_id": 1280738,
+    "imdb_id": "tt6054874",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1830877181"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2627689881"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3816806071"
+            }
+        ]
+    }
+}

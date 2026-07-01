@@ -1,0 +1,30 @@
+{
+    "post_title": "The Wedding Guest",
+    "post_type": "movie",
+    "tmdb_id": 500899,
+    "imdb_id": "tt7645780",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1830151548"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2308270442"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1993126296"
+            }
+        ]
+    }
+}

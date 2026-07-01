@@ -1,0 +1,29 @@
+{
+    "post_title": "Madholal Keep Walking",
+    "post_type": "movie",
+    "tmdb_id": 310914,
+    "imdb_id": null,
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1713088423"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1713088419"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1713088417"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Vacancy",
+    "post_type": "movie",
+    "tmdb_id": 10294,
+    "imdb_id": "tt0452702",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1962632304"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1944146359"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3316546352"
+            }
+        ]
+    }
+}

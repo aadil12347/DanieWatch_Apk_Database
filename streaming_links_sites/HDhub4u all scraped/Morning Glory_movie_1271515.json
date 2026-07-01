@@ -1,0 +1,29 @@
+{
+    "post_title": "Morning Glory",
+    "post_type": "movie",
+    "tmdb_id": 1271515,
+    "imdb_id": "tt1126618",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1794432573"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2111351566"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2235819336"
+            }
+        ]
+    }
+}

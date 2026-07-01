@@ -1,0 +1,36 @@
+{
+    "post_title": "Murderer",
+    "post_type": "movie",
+    "tmdb_id": 774301,
+    "imdb_id": "tt3976234",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1710009808"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1710009807"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2296067533"
+            }
+        ],
+        "1080p HQ": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1710009806"
+            }
+        ]
+    }
+}

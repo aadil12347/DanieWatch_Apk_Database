@@ -1,0 +1,23 @@
+{
+    "post_title": "Its A Wonderful Knife",
+    "post_type": "movie",
+    "tmdb_id": 1113278,
+    "imdb_id": "tt27619382",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701947985"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701947987"
+            }
+        ]
+    }
+}

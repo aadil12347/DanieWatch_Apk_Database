@@ -1,0 +1,33 @@
+{
+    "post_title": "Kali Jotta",
+    "post_type": "movie",
+    "tmdb_id": 1071819,
+    "imdb_id": "tt15464742",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/ofk6jculolv2op4"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/met1ce5e1fewyyv"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubcloud.cx/drive/tykn3t0se7jwn05"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/ctgco1lxtlc5w__"
+            }
+        ]
+    }
+}

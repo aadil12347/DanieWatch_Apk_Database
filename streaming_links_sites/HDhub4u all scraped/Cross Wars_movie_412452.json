@@ -1,0 +1,24 @@
+{
+    "post_title": "Cross Wars",
+    "post_type": "movie",
+    "tmdb_id": 412452,
+    "imdb_id": "tt3592904",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1967078964"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2165246084"
+            }
+        ]
+    }
+}

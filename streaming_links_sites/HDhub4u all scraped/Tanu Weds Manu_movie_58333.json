@@ -1,0 +1,29 @@
+{
+    "post_title": "Tanu Weds Manu",
+    "post_type": "movie",
+    "tmdb_id": 58333,
+    "imdb_id": "tt1694542",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2077948000"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1881354737"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2035615417"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Arahan",
+    "post_type": "movie",
+    "tmdb_id": 13970,
+    "imdb_id": "tt0404777",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1830085007"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2238032472"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2023504492"
+            }
+        ]
+    }
+}

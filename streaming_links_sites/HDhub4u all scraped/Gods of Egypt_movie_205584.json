@@ -1,0 +1,24 @@
+{
+    "post_title": "Gods of Egypt",
+    "post_type": "movie",
+    "tmdb_id": 205584,
+    "imdb_id": "tt2404233",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2718462090"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1195464281"
+            }
+        ]
+    }
+}

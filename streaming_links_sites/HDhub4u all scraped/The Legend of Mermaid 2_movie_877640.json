@@ -1,0 +1,23 @@
+{
+    "post_title": "The Legend of Mermaid 2",
+    "post_type": "movie",
+    "tmdb_id": 877640,
+    "imdb_id": "tt16793602",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1713767338"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1713767336"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Awaken",
+    "post_type": "movie",
+    "tmdb_id": 322922,
+    "imdb_id": "tt3367686",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1887970861"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1989215972"
+            }
+        ]
+    }
+}

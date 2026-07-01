@@ -1,0 +1,35 @@
+{
+    "post_title": "Badhaai Do",
+    "post_type": "movie",
+    "tmdb_id": 754716,
+    "imdb_id": "tt11934846",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/sz7vhvzvdzmihzv"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/yyo-fg0y0uu070y"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/lgczgvljxxgzlxc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/ziieurbk-0etq1t"
+            }
+        ]
+    }
+}

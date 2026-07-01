@@ -1,0 +1,41 @@
+{
+    "post_title": "Krrish 3",
+    "post_type": "movie",
+    "tmdb_id": 204435,
+    "imdb_id": "tt1029231",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/bfuf2wb8sb28or2"
+            }
+        ],
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/dsxlundpdjvdxje"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/zrsirfewolammn9"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/21p1zjqu6we1zmm"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4580644586"
+            }
+        ]
+    }
+}

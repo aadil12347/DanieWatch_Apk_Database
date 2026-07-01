@@ -1,0 +1,30 @@
+{
+    "post_title": "The Island",
+    "post_type": "movie",
+    "tmdb_id": 7988,
+    "imdb_id": "tt0399201",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695878799"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695878795"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695878794"
+            }
+        ]
+    }
+}

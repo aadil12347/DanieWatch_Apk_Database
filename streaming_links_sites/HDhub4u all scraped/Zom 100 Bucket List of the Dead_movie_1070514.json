@@ -1,0 +1,30 @@
+{
+    "post_title": "Zom 100: Bucket List of the Dead",
+    "post_type": "movie",
+    "tmdb_id": 1070514,
+    "imdb_id": "tt20672534",
+    "languages": [
+        "Hindi",
+        "Japanese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1694195671"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1694195672"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1694196205"
+            }
+        ]
+    }
+}

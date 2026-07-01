@@ -1,0 +1,29 @@
+{
+    "post_title": "Shikhar",
+    "post_type": "movie",
+    "tmdb_id": 919555,
+    "imdb_id": "tt0475627",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1815136036"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1826746160"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4404845002"
+            }
+        ]
+    }
+}

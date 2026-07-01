@@ -1,0 +1,23 @@
+{
+    "post_title": "Kabhi Khushi Kabhie Gham…",
+    "post_type": "movie",
+    "tmdb_id": 10757,
+    "imdb_id": "tt0248126",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2015784738"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/695076739"
+            }
+        ]
+    }
+}

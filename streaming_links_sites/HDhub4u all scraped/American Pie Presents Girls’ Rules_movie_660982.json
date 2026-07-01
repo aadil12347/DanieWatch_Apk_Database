@@ -1,0 +1,29 @@
+{
+    "post_title": "American Pie Presents: Girls’ Rules",
+    "post_type": "movie",
+    "tmdb_id": 660982,
+    "imdb_id": "tt11771594",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2063035497"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2858063666"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2112178404"
+            }
+        ]
+    }
+}

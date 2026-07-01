@@ -1,0 +1,30 @@
+{
+    "post_title": "Snake Eyes",
+    "post_type": "movie",
+    "tmdb_id": 8688,
+    "imdb_id": "tt8404256",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2147923016"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2663762638"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2023886507"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Death Valley",
+    "post_type": "movie",
+    "tmdb_id": 703297,
+    "imdb_id": "tt14623762",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1869870909"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2466064569"
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "post_title": "Miami Heat",
+    "post_type": "movie",
+    "tmdb_id": 896054,
+    "imdb_id": "tt8170998",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/282021533"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/833968583"
+            }
+        ]
+    }
+}

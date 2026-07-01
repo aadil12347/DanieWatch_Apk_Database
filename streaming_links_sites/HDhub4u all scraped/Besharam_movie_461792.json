@@ -1,0 +1,29 @@
+{
+    "post_title": "Besharam",
+    "post_type": "movie",
+    "tmdb_id": 461792,
+    "imdb_id": "tt2576450",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2225460885"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1951958223"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3435423412"
+            }
+        ]
+    }
+}

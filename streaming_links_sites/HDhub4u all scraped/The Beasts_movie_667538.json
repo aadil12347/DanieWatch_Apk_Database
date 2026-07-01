@@ -1,0 +1,36 @@
+{
+    "post_title": "The Beasts",
+    "post_type": "movie",
+    "tmdb_id": 667538,
+    "imdb_id": "tt15006566",
+    "languages": [
+        "Hindi",
+        "Spanish"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2098656594"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1910036201"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2600622086"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2041022008"
+            }
+        ]
+    }
+}

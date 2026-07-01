@@ -1,0 +1,24 @@
+{
+    "post_title": "Dhruva",
+    "post_type": "movie",
+    "tmdb_id": 487258,
+    "imdb_id": "tt6027478",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1681585868"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/581507981"
+            }
+        ]
+    }
+}

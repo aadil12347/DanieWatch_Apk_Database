@@ -1,0 +1,30 @@
+{
+    "post_title": "Sliver",
+    "post_type": "movie",
+    "tmdb_id": 867,
+    "imdb_id": "tt0108162",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1779520883"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2709197475"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1850187988"
+            }
+        ]
+    }
+}

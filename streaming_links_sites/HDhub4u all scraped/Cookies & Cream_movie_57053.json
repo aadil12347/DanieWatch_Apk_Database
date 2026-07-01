@@ -1,0 +1,24 @@
+{
+    "post_title": "Cookies & Cream",
+    "post_type": "movie",
+    "tmdb_id": 57053,
+    "imdb_id": "tt1374855",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1713933427"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1713933429"
+            }
+        ]
+    }
+}

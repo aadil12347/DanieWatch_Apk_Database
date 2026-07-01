@@ -1,0 +1,24 @@
+{
+    "post_title": "Spare Parts",
+    "post_type": "movie",
+    "tmdb_id": 264337,
+    "imdb_id": "tt8493998",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1847479149"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1718163298"
+            }
+        ]
+    }
+}

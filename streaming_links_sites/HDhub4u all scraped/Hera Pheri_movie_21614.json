@@ -1,0 +1,23 @@
+{
+    "post_title": "Hera Pheri",
+    "post_type": "movie",
+    "tmdb_id": 21614,
+    "imdb_id": "tt0242519",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1332789315"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2333764918"
+            }
+        ]
+    }
+}

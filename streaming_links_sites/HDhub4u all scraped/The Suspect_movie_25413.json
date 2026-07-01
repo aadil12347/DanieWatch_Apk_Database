@@ -1,0 +1,24 @@
+{
+    "post_title": "The Suspect",
+    "post_type": "movie",
+    "tmdb_id": 25413,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1738467971"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1667064246"
+            }
+        ]
+    }
+}

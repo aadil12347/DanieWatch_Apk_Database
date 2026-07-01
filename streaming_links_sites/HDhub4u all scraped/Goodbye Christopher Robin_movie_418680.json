@@ -1,0 +1,24 @@
+{
+    "post_title": "Goodbye Christopher Robin",
+    "post_type": "movie",
+    "tmdb_id": 418680,
+    "imdb_id": "tt1653665",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1982595919"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1799891620"
+            }
+        ]
+    }
+}

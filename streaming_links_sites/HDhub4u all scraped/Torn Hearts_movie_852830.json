@@ -1,0 +1,24 @@
+{
+    "post_title": "Torn Hearts",
+    "post_type": "movie",
+    "tmdb_id": 852830,
+    "imdb_id": "tt15053518",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1817891998"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2447788106"
+            }
+        ]
+    }
+}

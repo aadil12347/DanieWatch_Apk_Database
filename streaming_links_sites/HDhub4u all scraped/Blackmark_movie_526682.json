@@ -1,0 +1,24 @@
+{
+    "post_title": "Blackmark",
+    "post_type": "movie",
+    "tmdb_id": 526682,
+    "imdb_id": "tt4360924",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1772850947"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2116220516"
+            }
+        ]
+    }
+}

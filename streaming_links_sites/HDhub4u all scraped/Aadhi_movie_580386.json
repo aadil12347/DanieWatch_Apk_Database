@@ -1,0 +1,30 @@
+{
+    "post_title": "Aadhi",
+    "post_type": "movie",
+    "tmdb_id": 580386,
+    "imdb_id": "tt6109124",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/539774757"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1445533820"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2054945458"
+            }
+        ]
+    }
+}

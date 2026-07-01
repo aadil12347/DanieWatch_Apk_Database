@@ -1,0 +1,23 @@
+{
+    "post_title": "Sadda Adda",
+    "post_type": "movie",
+    "tmdb_id": 96276,
+    "imdb_id": "tt1941638",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1152803103"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/383010835"
+            }
+        ]
+    }
+}

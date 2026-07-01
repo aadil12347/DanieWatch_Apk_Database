@@ -1,0 +1,30 @@
+{
+    "post_title": "The Road to El Dorado",
+    "post_type": "movie",
+    "tmdb_id": 10501,
+    "imdb_id": "tt0138749",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1774310919"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2484712977"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2649775624"
+            }
+        ]
+    }
+}

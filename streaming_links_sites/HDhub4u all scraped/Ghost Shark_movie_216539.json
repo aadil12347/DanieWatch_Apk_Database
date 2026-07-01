@@ -1,0 +1,24 @@
+{
+    "post_title": "Ghost Shark",
+    "post_type": "movie",
+    "tmdb_id": 216539,
+    "imdb_id": "tt2600742",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/314613490"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/875186708"
+            }
+        ]
+    }
+}

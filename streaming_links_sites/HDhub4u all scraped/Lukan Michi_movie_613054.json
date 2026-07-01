@@ -1,0 +1,29 @@
+{
+    "post_title": "Lukan Michi",
+    "post_type": "movie",
+    "tmdb_id": 613054,
+    "imdb_id": "tt9049340",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1327910903"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/441548178"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2326074404"
+            }
+        ]
+    }
+}

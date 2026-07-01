@@ -1,0 +1,29 @@
+{
+    "post_title": "Sardar Ka Grandson",
+    "post_type": "movie",
+    "tmdb_id": 734780,
+    "imdb_id": "tt11213600",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/442581779"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1204790926"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2714725131"
+            }
+        ]
+    }
+}

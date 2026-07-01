@@ -1,0 +1,23 @@
+{
+    "post_title": "Kalyug",
+    "post_type": "movie",
+    "tmdb_id": 173726,
+    "imdb_id": "tt0499041",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1843015252"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3498338898"
+            }
+        ]
+    }
+}

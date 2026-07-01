@@ -1,0 +1,30 @@
+{
+    "post_title": "X First Class",
+    "post_type": "movie",
+    "tmdb_id": 691677,
+    "imdb_id": "tt1270798",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1761378123"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2829130867"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2253268341"
+            }
+        ]
+    }
+}

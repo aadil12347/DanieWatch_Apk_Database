@@ -1,0 +1,23 @@
+{
+    "post_title": "Little Wing",
+    "post_type": "movie",
+    "tmdb_id": 1170000,
+    "imdb_id": "tt27550567",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1710562218"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1710562216"
+            }
+        ]
+    }
+}

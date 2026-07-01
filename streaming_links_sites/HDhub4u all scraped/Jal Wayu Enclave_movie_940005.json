@@ -1,0 +1,29 @@
+{
+    "post_title": "Jal Wayu Enclave",
+    "post_type": "movie",
+    "tmdb_id": 940005,
+    "imdb_id": "tt15669564",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1840096742"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2474154598"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3312115181"
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "post_title": "Passengers",
+    "post_type": "movie",
+    "tmdb_id": 274870,
+    "imdb_id": "tt0449487",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2566823001"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3490840446"
+            }
+        ]
+    }
+}

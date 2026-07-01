@@ -1,0 +1,23 @@
+{
+    "post_title": "Barbarians",
+    "post_type": "movie",
+    "tmdb_id": 811076,
+    "imdb_id": "tt10189536",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698872764"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2464274724"
+            }
+        ]
+    }
+}

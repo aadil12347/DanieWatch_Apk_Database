@@ -1,0 +1,29 @@
+{
+    "post_title": "Popcorn",
+    "post_type": "movie",
+    "tmdb_id": 505177,
+    "imdb_id": "tt15327350",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1729011044"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2100299569"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3475797527"
+            }
+        ]
+    }
+}

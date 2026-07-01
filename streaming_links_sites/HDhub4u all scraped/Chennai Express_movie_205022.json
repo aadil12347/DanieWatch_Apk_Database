@@ -1,0 +1,29 @@
+{
+    "post_title": "Chennai Express",
+    "post_type": "movie",
+    "tmdb_id": 205022,
+    "imdb_id": "tt2112124",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2138247546"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3051372605"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3728811441"
+            }
+        ]
+    }
+}

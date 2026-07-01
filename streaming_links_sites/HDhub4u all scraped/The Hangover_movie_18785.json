@@ -1,0 +1,30 @@
+{
+    "post_title": "The Hangover",
+    "post_type": "movie",
+    "tmdb_id": 18785,
+    "imdb_id": "tt1119646",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2039779225"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2293921673"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1852651176"
+            }
+        ]
+    }
+}

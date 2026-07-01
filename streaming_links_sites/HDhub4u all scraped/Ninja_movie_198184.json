@@ -1,0 +1,30 @@
+{
+    "post_title": "Ninja",
+    "post_type": "movie",
+    "tmdb_id": 198184,
+    "imdb_id": "tt1182921",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1854446884"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1847396661"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2147137802"
+            }
+        ]
+    }
+}

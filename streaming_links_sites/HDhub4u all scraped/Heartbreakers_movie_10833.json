@@ -1,0 +1,24 @@
+{
+    "post_title": "Heartbreakers",
+    "post_type": "movie",
+    "tmdb_id": 10833,
+    "imdb_id": "tt0125022",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2077259848"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2084893557"
+            }
+        ]
+    }
+}

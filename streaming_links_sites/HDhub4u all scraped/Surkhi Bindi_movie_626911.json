@@ -1,0 +1,29 @@
+{
+    "post_title": "Surkhi Bindi",
+    "post_type": "movie",
+    "tmdb_id": 626911,
+    "imdb_id": "tt8908024",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1999361972"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2657601231"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3816975042"
+            }
+        ]
+    }
+}

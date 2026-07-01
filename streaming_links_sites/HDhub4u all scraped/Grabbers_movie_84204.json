@@ -1,0 +1,24 @@
+{
+    "post_title": "Grabbers",
+    "post_type": "movie",
+    "tmdb_id": 84204,
+    "imdb_id": "tt1525366",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1756590271"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2032053111"
+            }
+        ]
+    }
+}

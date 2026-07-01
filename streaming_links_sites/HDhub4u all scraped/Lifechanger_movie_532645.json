@@ -1,0 +1,24 @@
+{
+    "post_title": "Lifechanger",
+    "post_type": "movie",
+    "tmdb_id": 532645,
+    "imdb_id": "tt7188978",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/884683052"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/294745025"
+            }
+        ]
+    }
+}

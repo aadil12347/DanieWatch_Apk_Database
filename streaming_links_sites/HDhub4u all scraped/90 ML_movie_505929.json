@@ -1,0 +1,30 @@
+{
+    "post_title": "90 ML",
+    "post_type": "movie",
+    "tmdb_id": 505929,
+    "imdb_id": "tt1570732",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1742855612"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1826508777"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4862921507"
+            }
+        ]
+    }
+}

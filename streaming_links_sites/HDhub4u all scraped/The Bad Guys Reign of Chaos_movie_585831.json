@@ -1,0 +1,42 @@
+{
+    "post_title": "The Bad Guys: Reign of Chaos",
+    "post_type": "movie",
+    "tmdb_id": 585831,
+    "imdb_id": "tt10726604",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2136516621"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2230692226"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3709829504"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3445827926"
+            }
+        ],
+        "1080p HQ": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/5616902976"
+            }
+        ]
+    }
+}

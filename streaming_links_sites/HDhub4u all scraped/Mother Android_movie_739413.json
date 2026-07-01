@@ -1,0 +1,30 @@
+{
+    "post_title": "Mother Android",
+    "post_type": "movie",
+    "tmdb_id": 739413,
+    "imdb_id": "tt13029044",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2117104147"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2050076585"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3453753569"
+            }
+        ]
+    }
+}

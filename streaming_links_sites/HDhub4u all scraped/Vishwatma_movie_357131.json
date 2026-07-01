@@ -1,0 +1,29 @@
+{
+    "post_title": "Vishwatma",
+    "post_type": "movie",
+    "tmdb_id": 357131,
+    "imdb_id": "tt0130350",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2229766835"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3053288328"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4156197305"
+            }
+        ]
+    }
+}

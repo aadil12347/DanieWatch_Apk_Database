@@ -1,0 +1,24 @@
+{
+    "post_title": "Mercenaries",
+    "post_type": "movie",
+    "tmdb_id": 277597,
+    "imdb_id": "tt1728979",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1964419016"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1988533471"
+            }
+        ]
+    }
+}

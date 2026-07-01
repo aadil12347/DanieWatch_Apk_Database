@@ -1,0 +1,24 @@
+{
+    "post_title": "Dracula’s Curse",
+    "post_type": "movie",
+    "tmdb_id": 48519,
+    "imdb_id": "tt0499464",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1902673096"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2257661594"
+            }
+        ]
+    }
+}

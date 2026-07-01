@@ -1,0 +1,30 @@
+{
+    "post_title": "Fear Street Part 1",
+    "post_type": "movie",
+    "tmdb_id": 591273,
+    "imdb_id": "tt6566576",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1817903740"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2113593534"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2497538758"
+            }
+        ]
+    }
+}

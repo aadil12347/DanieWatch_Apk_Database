@@ -1,0 +1,40 @@
+{
+    "post_title": "Sucha Soorma",
+    "post_type": "movie",
+    "tmdb_id": 1339982,
+    "imdb_id": "tt11090316",
+    "languages": [
+        "Hindi",
+        "Punjabi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1963319174"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2312535297"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1804070329"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3073684939"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/2324755894"
+            }
+        ]
+    }
+}

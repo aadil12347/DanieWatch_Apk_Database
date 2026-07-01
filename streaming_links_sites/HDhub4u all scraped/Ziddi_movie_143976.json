@@ -1,0 +1,23 @@
+{
+    "post_title": "Ziddi",
+    "post_type": "movie",
+    "tmdb_id": 143976,
+    "imdb_id": "tt0120551",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2092004881"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2532740135"
+            }
+        ]
+    }
+}

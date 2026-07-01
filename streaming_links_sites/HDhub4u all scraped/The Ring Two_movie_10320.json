@@ -1,0 +1,24 @@
+{
+    "post_title": "The Ring Two",
+    "post_type": "movie",
+    "tmdb_id": 10320,
+    "imdb_id": "tt0377109",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2002573281"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2616569815"
+            }
+        ]
+    }
+}

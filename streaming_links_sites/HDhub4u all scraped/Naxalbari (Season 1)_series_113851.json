@@ -1,0 +1,34 @@
+{
+    "post_title": "Naxalbari",
+    "post_type": "series",
+    "tmdb_id": 113851,
+    "imdb_id": null,
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubcloud.cx/Naxalbari.S01.EP.1.TO.5.480p.HD.HDHub4u.mkv"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubcloud.cx/Naxalbari.S01.EP.6.TO.9.480p.HD.HDHub4u.mkv"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "http://hubcloud.cx/Naxalbari.S01.EP.1.TO.5.720p.HD.HDHub4u.mkv"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubcloud.cx/Naxalbari.S01.EP.6.TO.9.720p.HD.HDHub4u.mkv"
+                }
+            ]
+        }
+    }
+}

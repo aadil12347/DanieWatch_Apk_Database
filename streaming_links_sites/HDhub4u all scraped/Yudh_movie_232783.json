@@ -1,0 +1,29 @@
+{
+    "post_title": "Yudh",
+    "post_type": "movie",
+    "tmdb_id": 232783,
+    "imdb_id": "tt0090358",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1857660008"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2284127881"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3242902305"
+            }
+        ]
+    }
+}

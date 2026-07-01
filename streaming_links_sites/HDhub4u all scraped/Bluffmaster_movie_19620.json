@@ -1,0 +1,29 @@
+{
+    "post_title": "Bluffmaster",
+    "post_type": "movie",
+    "tmdb_id": 19620,
+    "imdb_id": "tt0476527",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2186833098"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2174678234"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3838301042"
+            }
+        ]
+    }
+}

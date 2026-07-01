@@ -1,0 +1,30 @@
+{
+    "post_title": "Terminator 3 Rise of the Machines",
+    "post_type": "movie",
+    "tmdb_id": 296,
+    "imdb_id": "tt0181852",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2068647225"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1775636042"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3493116191"
+            }
+        ]
+    }
+}

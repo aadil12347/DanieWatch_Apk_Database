@@ -1,0 +1,29 @@
+{
+    "post_title": "New Delhi Times",
+    "post_type": "movie",
+    "tmdb_id": 442293,
+    "imdb_id": "tt0089678",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2073046759"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2777005931"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3200164534"
+            }
+        ]
+    }
+}

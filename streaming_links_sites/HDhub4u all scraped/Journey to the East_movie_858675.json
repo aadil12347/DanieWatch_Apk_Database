@@ -1,0 +1,24 @@
+{
+    "post_title": "Journey to the East",
+    "post_type": "movie",
+    "tmdb_id": 858675,
+    "imdb_id": "tt12725010",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1704948583"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1704948581"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Malaikottai Vaaliban",
+    "post_type": "movie",
+    "tmdb_id": 1038874,
+    "imdb_id": "tt23023596",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1708682642"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1708679535"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1708679582"
+            }
+        ]
+    }
+}

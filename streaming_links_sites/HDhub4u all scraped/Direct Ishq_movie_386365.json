@@ -1,0 +1,23 @@
+{
+    "post_title": "Direct Ishq",
+    "post_type": "movie",
+    "tmdb_id": 386365,
+    "imdb_id": "tt4340180",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/931337751"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/406561433"
+            }
+        ]
+    }
+}

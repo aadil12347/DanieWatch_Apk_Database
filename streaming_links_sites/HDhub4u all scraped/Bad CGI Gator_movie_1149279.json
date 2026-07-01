@@ -1,0 +1,23 @@
+{
+    "post_title": "Bad CGI Gator",
+    "post_type": "movie",
+    "tmdb_id": 1149279,
+    "imdb_id": "tt28309395",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701949422"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1701949421"
+            }
+        ]
+    }
+}

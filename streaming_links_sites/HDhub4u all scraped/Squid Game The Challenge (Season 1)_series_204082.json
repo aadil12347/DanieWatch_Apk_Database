@@ -1,0 +1,33 @@
+{
+    "post_title": "Squid Game: The Challenge",
+    "post_type": "series",
+    "tmdb_id": 204082,
+    "imdb_id": "tt28104766",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1700643595"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1700644156"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1700644197"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "post_title": "The gods must be crazy",
+    "post_type": "movie",
+    "tmdb_id": 8393,
+    "imdb_id": null,
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1908618855"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1993785931"
+            }
+        ]
+    }
+}

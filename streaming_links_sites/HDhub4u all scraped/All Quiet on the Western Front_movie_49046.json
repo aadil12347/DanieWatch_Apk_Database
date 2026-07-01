@@ -1,0 +1,29 @@
+{
+    "post_title": "All Quiet on the Western Front",
+    "post_type": "movie",
+    "tmdb_id": 49046,
+    "imdb_id": "tt1016150",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2166326264"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2484585146"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3482070684"
+            }
+        ]
+    }
+}

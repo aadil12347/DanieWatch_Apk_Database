@@ -1,0 +1,30 @@
+{
+    "post_title": "Ford v Ferrari",
+    "post_type": "movie",
+    "tmdb_id": 359724,
+    "imdb_id": "tt1950186",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1812089246"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3248303646"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/5086485355"
+            }
+        ]
+    }
+}

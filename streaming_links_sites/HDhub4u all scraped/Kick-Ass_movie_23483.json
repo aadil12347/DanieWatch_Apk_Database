@@ -1,0 +1,30 @@
+{
+    "post_title": "Kick-Ass",
+    "post_type": "movie",
+    "tmdb_id": 23483,
+    "imdb_id": "tt01250777",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/401235899"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1011251028"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1819361740"
+            }
+        ]
+    }
+}

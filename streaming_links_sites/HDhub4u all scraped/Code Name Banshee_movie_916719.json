@@ -1,0 +1,23 @@
+{
+    "post_title": "Code Name Banshee",
+    "post_type": "movie",
+    "tmdb_id": 916719,
+    "imdb_id": "tt15438542",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1754830893"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2266943561"
+            }
+        ]
+    }
+}

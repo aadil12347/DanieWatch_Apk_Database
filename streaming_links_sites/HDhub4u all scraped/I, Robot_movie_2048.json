@@ -1,0 +1,30 @@
+{
+    "post_title": "I, Robot",
+    "post_type": "movie",
+    "tmdb_id": 2048,
+    "imdb_id": "tt0343818",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1920696080"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2747961353"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2212121256"
+            }
+        ]
+    }
+}

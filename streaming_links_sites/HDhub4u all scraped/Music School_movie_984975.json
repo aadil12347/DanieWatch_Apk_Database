@@ -1,0 +1,29 @@
+{
+    "post_title": "Music School",
+    "post_type": "movie",
+    "tmdb_id": 984975,
+    "imdb_id": "tt11680920",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2222369577"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1694282754"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1694282753"
+            }
+        ]
+    }
+}

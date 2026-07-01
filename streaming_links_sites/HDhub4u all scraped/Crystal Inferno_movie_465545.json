@@ -1,0 +1,24 @@
+{
+    "post_title": "Crystal Inferno",
+    "post_type": "movie",
+    "tmdb_id": 465545,
+    "imdb_id": "tt4048186",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1818283879"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2070540299"
+            }
+        ]
+    }
+}

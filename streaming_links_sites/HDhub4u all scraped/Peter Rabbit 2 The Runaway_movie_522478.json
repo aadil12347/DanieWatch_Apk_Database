@@ -1,0 +1,30 @@
+{
+    "post_title": "Peter Rabbit 2 The Runaway",
+    "post_type": "movie",
+    "tmdb_id": 522478,
+    "imdb_id": "tt8376234",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1966059926"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2495459574"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2089348870"
+            }
+        ]
+    }
+}

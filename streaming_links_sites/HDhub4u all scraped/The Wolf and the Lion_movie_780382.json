@@ -1,0 +1,23 @@
+{
+    "post_title": "The Wolf and the Lion",
+    "post_type": "movie",
+    "tmdb_id": 780382,
+    "imdb_id": "tt10945288",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1884797619"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1691537652"
+            }
+        ]
+    }
+}

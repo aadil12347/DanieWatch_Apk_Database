@@ -1,0 +1,30 @@
+{
+    "post_title": "47 Meters Down Uncaged",
+    "post_type": "movie",
+    "tmdb_id": 480105,
+    "imdb_id": "tt7329656",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1988689787"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2320842352"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2554076884"
+            }
+        ]
+    }
+}

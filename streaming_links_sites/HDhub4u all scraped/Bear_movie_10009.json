@@ -1,0 +1,24 @@
+{
+    "post_title": "Bear",
+    "post_type": "movie",
+    "tmdb_id": 10009,
+    "imdb_id": "tt1468703",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/847167611"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/295501797"
+            }
+        ]
+    }
+}

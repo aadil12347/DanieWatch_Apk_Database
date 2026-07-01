@@ -1,0 +1,24 @@
+{
+    "post_title": "Val",
+    "post_type": "movie",
+    "tmdb_id": 834027,
+    "imdb_id": "tt11436498",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1700715971"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1700715970"
+            }
+        ]
+    }
+}

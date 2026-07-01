@@ -1,0 +1,33 @@
+{
+    "post_title": "Nayika Devi The Warrior Queen",
+    "post_type": "movie",
+    "tmdb_id": 972123,
+    "imdb_id": "tt15100100",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1687920197"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1687920194"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/1687920193"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1687920196"
+            }
+        ]
+    }
+}

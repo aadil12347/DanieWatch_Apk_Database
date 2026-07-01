@@ -1,0 +1,24 @@
+{
+    "post_title": "The Treasure of Lake Kaban",
+    "post_type": "movie",
+    "tmdb_id": 201893,
+    "imdb_id": "tt2572764",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1917956975"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2511334243"
+            }
+        ]
+    }
+}

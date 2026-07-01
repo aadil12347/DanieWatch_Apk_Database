@@ -1,0 +1,23 @@
+{
+    "post_title": "The Cursed",
+    "post_type": "movie",
+    "tmdb_id": 630392,
+    "imdb_id": "tt9907782",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1749800325"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2317868936"
+            }
+        ]
+    }
+}

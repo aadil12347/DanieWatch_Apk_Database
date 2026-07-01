@@ -1,0 +1,23 @@
+{
+    "post_title": "The Last Rifleman",
+    "post_type": "movie",
+    "tmdb_id": 763144,
+    "imdb_id": "tt12404266",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1699435074"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1699435071"
+            }
+        ]
+    }
+}

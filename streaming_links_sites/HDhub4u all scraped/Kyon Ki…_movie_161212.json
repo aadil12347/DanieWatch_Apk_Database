@@ -1,0 +1,23 @@
+{
+    "post_title": "Kyon Ki…",
+    "post_type": "movie",
+    "tmdb_id": 161212,
+    "imdb_id": "tt0451787",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1549404214"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/514633844"
+            }
+        ]
+    }
+}

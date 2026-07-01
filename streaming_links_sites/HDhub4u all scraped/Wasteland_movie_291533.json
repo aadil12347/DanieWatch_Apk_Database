@@ -1,0 +1,24 @@
+{
+    "post_title": "Wasteland",
+    "post_type": "movie",
+    "tmdb_id": 291533,
+    "imdb_id": "tt2352892",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711647788"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1686326509"
+            }
+        ]
+    }
+}

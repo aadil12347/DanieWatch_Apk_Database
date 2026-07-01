@@ -1,0 +1,24 @@
+{
+    "post_title": "Crazy Fist",
+    "post_type": "movie",
+    "tmdb_id": 859041,
+    "imdb_id": "tt8096844",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2027284501"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3109126326"
+            }
+        ]
+    }
+}

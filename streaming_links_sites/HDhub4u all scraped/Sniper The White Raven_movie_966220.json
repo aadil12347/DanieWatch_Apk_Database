@@ -1,0 +1,29 @@
+{
+    "post_title": "Sniper: The White Raven",
+    "post_type": "movie",
+    "tmdb_id": 966220,
+    "imdb_id": "tt19465630",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1686683777"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2364238711"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3444211647"
+            }
+        ]
+    }
+}

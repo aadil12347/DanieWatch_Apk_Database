@@ -1,0 +1,24 @@
+{
+    "post_title": "Barricade",
+    "post_type": "movie",
+    "tmdb_id": 134394,
+    "imdb_id": "tt1861279",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1745312615"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2096737015"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Dark Show",
+    "post_type": "movie",
+    "tmdb_id": 401793,
+    "imdb_id": "tt4024490",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1946076683"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2046466776"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "The Darker the Lake",
+    "post_type": "movie",
+    "tmdb_id": 934957,
+    "imdb_id": "tt10231726",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1702677286"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2692552256"
+            }
+        ]
+    }
+}

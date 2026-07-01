@@ -1,0 +1,23 @@
+{
+    "post_title": "Dont Say Its Name",
+    "post_type": "movie",
+    "tmdb_id": 849361,
+    "imdb_id": "tt11589366",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/280525748"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/833912152"
+            }
+        ]
+    }
+}

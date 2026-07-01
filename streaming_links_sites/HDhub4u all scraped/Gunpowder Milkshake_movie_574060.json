@@ -1,0 +1,24 @@
+{
+    "post_title": "Gunpowder Milkshake",
+    "post_type": "movie",
+    "tmdb_id": 574060,
+    "imdb_id": "tt8368408",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695333226"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695333227"
+            }
+        ]
+    }
+}

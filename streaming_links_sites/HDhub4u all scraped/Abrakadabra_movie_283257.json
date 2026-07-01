@@ -1,0 +1,24 @@
+{
+    "post_title": "Abrakadabra",
+    "post_type": "movie",
+    "tmdb_id": 283257,
+    "imdb_id": "tt8422146",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1929525464"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2331658259"
+            }
+        ]
+    }
+}

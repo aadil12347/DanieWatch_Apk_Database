@@ -1,0 +1,23 @@
+{
+    "post_title": "Chal Chala Chal",
+    "post_type": "movie",
+    "tmdb_id": 37671,
+    "imdb_id": "tt1438486",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2036906068"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1729130251"
+            }
+        ]
+    }
+}

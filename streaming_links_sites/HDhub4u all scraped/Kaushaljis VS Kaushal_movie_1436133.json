@@ -1,0 +1,33 @@
+{
+    "post_title": "Kaushaljis VS Kaushal",
+    "post_type": "movie",
+    "tmdb_id": 1436133,
+    "imdb_id": "tt26655658",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2181998381"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2275800600"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3691709047"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/4871259087"
+            }
+        ]
+    }
+}

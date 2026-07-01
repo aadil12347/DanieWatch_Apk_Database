@@ -1,0 +1,29 @@
+{
+    "post_title": "Aaja Sanam",
+    "post_type": "movie",
+    "tmdb_id": 911384,
+    "imdb_id": "tt0482671",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1779276155"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2376609043"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2030254358"
+            }
+        ]
+    }
+}

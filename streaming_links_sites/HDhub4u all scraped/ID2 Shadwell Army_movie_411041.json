@@ -1,0 +1,24 @@
+{
+    "post_title": "ID2: Shadwell Army",
+    "post_type": "movie",
+    "tmdb_id": 411041,
+    "imdb_id": "tt3652964",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1901885572"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2781545860"
+            }
+        ]
+    }
+}

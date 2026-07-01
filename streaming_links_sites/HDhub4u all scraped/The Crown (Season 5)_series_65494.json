@@ -1,0 +1,57 @@
+{
+    "post_title": "The Crown",
+    "post_type": "series",
+    "tmdb_id": 65494,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "5": {
+            "720p HEVC 10bit": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1910872244"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/1723530589"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://hubdrive.tips/file/1769180305"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://hubdrive.tips/file/1751606225"
+                },
+                {
+                    "episode_title": "Episode 5",
+                    "link": "https://hubdrive.tips/file/1765227703"
+                },
+                {
+                    "episode_title": "Episode 6",
+                    "link": "https://hubdrive.tips/file/1726238776"
+                },
+                {
+                    "episode_title": "Episode 7",
+                    "link": "https://hubdrive.tips/file/1711059064"
+                },
+                {
+                    "episode_title": "Episode 8",
+                    "link": "https://hubdrive.tips/file/1792102507"
+                },
+                {
+                    "episode_title": "Episode 9",
+                    "link": "https://hubdrive.tips/file/1869977414"
+                },
+                {
+                    "episode_title": "Episode 10",
+                    "link": "https://hubdrive.tips/file/1690377373"
+                }
+            ]
+        }
+    }
+}

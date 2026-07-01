@@ -1,0 +1,23 @@
+{
+    "post_title": "Nightmare Alley",
+    "post_type": "movie",
+    "tmdb_id": 597208,
+    "imdb_id": "tt7740496",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2014797723"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1644696679"
+            }
+        ]
+    }
+}

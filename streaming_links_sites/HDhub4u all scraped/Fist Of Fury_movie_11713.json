@@ -1,0 +1,24 @@
+{
+    "post_title": "Fist Of Fury",
+    "post_type": "movie",
+    "tmdb_id": 11713,
+    "imdb_id": "tt0068767",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/374132958"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/989765936"
+            }
+        ]
+    }
+}

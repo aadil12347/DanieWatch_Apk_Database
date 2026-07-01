@@ -1,0 +1,24 @@
+{
+    "post_title": "Jockey",
+    "post_type": "movie",
+    "tmdb_id": 776511,
+    "imdb_id": "tt39122441",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2095042045"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4417910120"
+            }
+        ]
+    }
+}

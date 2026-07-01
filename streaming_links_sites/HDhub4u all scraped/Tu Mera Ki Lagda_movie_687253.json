@@ -1,0 +1,29 @@
+{
+    "post_title": "Tu Mera Ki Lagda",
+    "post_type": "movie",
+    "tmdb_id": 687253,
+    "imdb_id": "tt11231268",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1876142483"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2506963167"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3417857245"
+            }
+        ]
+    }
+}

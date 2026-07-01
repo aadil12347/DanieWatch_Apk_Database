@@ -1,0 +1,24 @@
+{
+    "post_title": "Straw Dogs",
+    "post_type": "movie",
+    "tmdb_id": 64639,
+    "imdb_id": "tt0999913",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/851742262"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/357707843"
+            }
+        ]
+    }
+}

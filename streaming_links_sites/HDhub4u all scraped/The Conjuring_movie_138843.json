@@ -1,0 +1,24 @@
+{
+    "post_title": "The Conjuring",
+    "post_type": "movie",
+    "tmdb_id": 138843,
+    "imdb_id": "tt1457767",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2673621200"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3447750476"
+            }
+        ]
+    }
+}

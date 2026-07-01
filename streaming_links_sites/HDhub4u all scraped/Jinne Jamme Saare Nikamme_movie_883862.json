@@ -1,0 +1,29 @@
+{
+    "post_title": "Jinne Jamme Saare Nikamme",
+    "post_type": "movie",
+    "tmdb_id": 883862,
+    "imdb_id": "tt14011954",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/439422606"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1109913687"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3080264502"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "post_title": "Abrahaminte Santhathikal",
+    "post_type": "movie",
+    "tmdb_id": 530588,
+    "imdb_id": "tt7345930",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/440352059"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1172910542"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/710921248"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2486228806"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Orange",
+    "post_type": "movie",
+    "tmdb_id": 359171,
+    "imdb_id": "tt1533748",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1735304571"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/597623477"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2838477713"
+            }
+        ]
+    }
+}

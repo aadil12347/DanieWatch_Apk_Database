@@ -1,0 +1,24 @@
+{
+    "post_title": "The Bourne Supremacy",
+    "post_type": "movie",
+    "tmdb_id": 2502,
+    "imdb_id": "tt0372183",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1972392044"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3025361006"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Beautiful Disaster",
+    "post_type": "movie",
+    "tmdb_id": 1016121,
+    "imdb_id": "tt2316548",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1688502543"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2627681468"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1688502542"
+            }
+        ]
+    }
+}

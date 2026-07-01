@@ -1,0 +1,30 @@
+{
+    "post_title": "Up",
+    "post_type": "movie",
+    "tmdb_id": 14160,
+    "imdb_id": "tt1049413",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1979746234"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1854353567"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2150521787"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Saggi Phull",
+    "post_type": "movie",
+    "tmdb_id": 517514,
+    "imdb_id": "tt8785182",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1155957118"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/384344072"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2025405266"
+            }
+        ]
+    }
+}

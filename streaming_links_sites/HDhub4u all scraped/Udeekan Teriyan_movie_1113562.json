@@ -1,0 +1,29 @@
+{
+    "post_title": "Udeekan Teriyan",
+    "post_type": "movie",
+    "tmdb_id": 1113562,
+    "imdb_id": "tt21096996",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1944774966"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2701782951"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3699661198"
+            }
+        ]
+    }
+}

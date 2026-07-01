@@ -1,0 +1,29 @@
+{
+    "post_title": "Yaar Anmulle Returns",
+    "post_type": "movie",
+    "tmdb_id": 680978,
+    "imdb_id": "tt11173116",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1979629752"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1713402066"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3422725070"
+            }
+        ]
+    }
+}

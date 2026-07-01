@@ -1,0 +1,29 @@
+{
+    "post_title": "Longlegs",
+    "post_type": "movie",
+    "tmdb_id": 1226578,
+    "imdb_id": "tt23468450",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1924219467"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2047691464"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2445589615"
+            }
+        ]
+    }
+}

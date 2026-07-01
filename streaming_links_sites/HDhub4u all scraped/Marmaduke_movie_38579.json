@@ -1,0 +1,24 @@
+{
+    "post_title": "Marmaduke",
+    "post_type": "movie",
+    "tmdb_id": 38579,
+    "imdb_id": "tt8746404",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1865739941"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2194663496"
+            }
+        ]
+    }
+}

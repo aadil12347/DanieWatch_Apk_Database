@@ -1,0 +1,30 @@
+{
+    "post_title": "The Lost World: Jurassic Park",
+    "post_type": "movie",
+    "tmdb_id": 330,
+    "imdb_id": "tt0119567",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2119383779"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2978918904"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3722958637"
+            }
+        ]
+    }
+}

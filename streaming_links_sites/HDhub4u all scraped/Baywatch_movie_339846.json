@@ -1,0 +1,30 @@
+{
+    "post_title": "Baywatch",
+    "post_type": "movie",
+    "tmdb_id": 339846,
+    "imdb_id": "tt1469304",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1949103601"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2479419371"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2898957885"
+            }
+        ]
+    }
+}

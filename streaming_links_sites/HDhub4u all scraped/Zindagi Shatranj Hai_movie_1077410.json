@@ -1,0 +1,29 @@
+{
+    "post_title": "Zindagi Shatranj Hai",
+    "post_type": "movie",
+    "tmdb_id": 1077410,
+    "imdb_id": "tt15545626",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1710834815"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1903597488"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2709983341"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "post_title": "Swatantra Veer Savarkar",
+    "post_type": "movie",
+    "tmdb_id": 957328,
+    "imdb_id": "tt14753612",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1931550001"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2664487761"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3536563212"
+            }
+        ],
+        "4K SDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2816088442"
+            }
+        ]
+    }
+}

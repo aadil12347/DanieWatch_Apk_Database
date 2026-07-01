@@ -1,0 +1,23 @@
+{
+    "post_title": "Swades",
+    "post_type": "movie",
+    "tmdb_id": 15774,
+    "imdb_id": "tt0367110",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3410407541"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4059371807"
+            }
+        ]
+    }
+}

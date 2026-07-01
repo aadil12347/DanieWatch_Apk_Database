@@ -1,0 +1,24 @@
+{
+    "post_title": "Island Escape",
+    "post_type": "movie",
+    "tmdb_id": 1151703,
+    "imdb_id": "tt27564994",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1897492346"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2505224490"
+            }
+        ]
+    }
+}

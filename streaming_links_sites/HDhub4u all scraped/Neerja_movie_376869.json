@@ -1,0 +1,23 @@
+{
+    "post_title": "Neerja",
+    "post_type": "movie",
+    "tmdb_id": 376869,
+    "imdb_id": "tt5286444",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1140448781"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/403008272"
+            }
+        ]
+    }
+}

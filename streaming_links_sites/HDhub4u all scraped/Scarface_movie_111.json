@@ -1,0 +1,30 @@
+{
+    "post_title": "Scarface",
+    "post_type": "movie",
+    "tmdb_id": 111,
+    "imdb_id": "tt0086250",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2292863160"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2743591752"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4474524748"
+            }
+        ]
+    }
+}

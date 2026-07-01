@@ -1,0 +1,29 @@
+{
+    "post_title": "Tunka Tunka",
+    "post_type": "movie",
+    "tmdb_id": 845571,
+    "imdb_id": "tt15170410",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2698884175"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/986291278"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4167944221"
+            }
+        ]
+    }
+}

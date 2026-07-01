@@ -1,0 +1,29 @@
+{
+    "post_title": "Hulchul",
+    "post_type": "movie",
+    "tmdb_id": 20364,
+    "imdb_id": "tt0437238",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1875957382"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2466129886"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3120421176"
+            }
+        ]
+    }
+}

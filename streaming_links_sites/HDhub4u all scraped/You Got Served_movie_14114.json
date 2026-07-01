@@ -1,0 +1,24 @@
+{
+    "post_title": "You Got Served",
+    "post_type": "movie",
+    "tmdb_id": 14114,
+    "imdb_id": "tt0365957",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1768460610"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2133123959"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "post_title": "Rise of the Teenage Mutant Ninja Turtles: The Movie",
+    "post_type": "movie",
+    "tmdb_id": 765172,
+    "imdb_id": "tt9784708",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1896705416"
+            }
+        ],
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2073292139"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2028920105"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2411223484"
+            }
+        ]
+    }
+}

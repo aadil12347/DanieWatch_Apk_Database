@@ -1,0 +1,29 @@
+{
+    "post_title": "Adalat",
+    "post_type": "movie",
+    "tmdb_id": 786653,
+    "imdb_id": "tt0075632",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2015018645"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2640472337"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3901971946"
+            }
+        ]
+    }
+}

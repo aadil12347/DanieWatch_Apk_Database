@@ -1,0 +1,29 @@
+{
+    "post_title": "Bawri Chhori",
+    "post_type": "movie",
+    "tmdb_id": 798303,
+    "imdb_id": "tt13788420",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2201026824"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/717765875"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/271374595"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "UnFriended: Dark Web",
+    "post_type": "movie",
+    "tmdb_id": 505058,
+    "imdb_id": "tt4761916",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2040190141"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2371990155"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2502777876"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/2040190141"
+            }
+        ]
+    }
+}

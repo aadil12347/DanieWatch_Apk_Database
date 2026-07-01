@@ -1,0 +1,23 @@
+{
+    "post_title": "Khalli Balli",
+    "post_type": "movie",
+    "tmdb_id": 1052671,
+    "imdb_id": null,
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1991859030"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2434253871"
+            }
+        ]
+    }
+}

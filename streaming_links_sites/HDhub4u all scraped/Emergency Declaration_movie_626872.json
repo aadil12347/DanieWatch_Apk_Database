@@ -1,0 +1,30 @@
+{
+    "post_title": "Emergency Declaration",
+    "post_type": "movie",
+    "tmdb_id": 626872,
+    "imdb_id": "tt11535228",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2026495560"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1688911726"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2227268224"
+            }
+        ]
+    }
+}

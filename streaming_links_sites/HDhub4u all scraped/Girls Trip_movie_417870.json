@@ -1,0 +1,24 @@
+{
+    "post_title": "Girls Trip",
+    "post_type": "movie",
+    "tmdb_id": 417870,
+    "imdb_id": "tt3564472",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1747346339"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1777464269"
+            }
+        ]
+    }
+}

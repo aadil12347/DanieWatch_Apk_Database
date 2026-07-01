@@ -1,0 +1,24 @@
+{
+    "post_title": "Hebbuli",
+    "post_type": "movie",
+    "tmdb_id": 441862,
+    "imdb_id": "tt3962184",
+    "languages": [
+        "Hindi",
+        "Kannada"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1501297686"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/513270875"
+            }
+        ]
+    }
+}

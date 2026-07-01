@@ -1,0 +1,24 @@
+{
+    "post_title": "Top Gunner",
+    "post_type": "movie",
+    "tmdb_id": 714351,
+    "imdb_id": "tt12226808",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1727423604"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1835251733"
+            }
+        ]
+    }
+}

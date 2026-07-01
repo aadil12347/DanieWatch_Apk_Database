@@ -1,0 +1,29 @@
+{
+    "post_title": "Jahaan Chaar Yaar",
+    "post_type": "movie",
+    "tmdb_id": 802793,
+    "imdb_id": "tt19289040",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2073602470"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1969791841"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2391411031"
+            }
+        ]
+    }
+}

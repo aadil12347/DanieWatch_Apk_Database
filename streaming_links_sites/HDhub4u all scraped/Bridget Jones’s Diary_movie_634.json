@@ -1,0 +1,24 @@
+{
+    "post_title": "Bridget Jones’s Diary",
+    "post_type": "movie",
+    "tmdb_id": 634,
+    "imdb_id": "tt0243155",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2149749246"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2809513012"
+            }
+        ]
+    }
+}

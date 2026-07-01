@@ -1,0 +1,24 @@
+{
+    "post_title": "For A Few Bullets",
+    "post_type": "movie",
+    "tmdb_id": 406099,
+    "imdb_id": "tt5882704",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/403862168"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1056445377"
+            }
+        ]
+    }
+}

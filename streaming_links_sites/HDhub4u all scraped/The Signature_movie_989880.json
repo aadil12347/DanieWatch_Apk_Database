@@ -1,0 +1,29 @@
+{
+    "post_title": "The Signature",
+    "post_type": "movie",
+    "tmdb_id": 989880,
+    "imdb_id": "tt28435822",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2160527707"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3232365061"
+            }
+        ],
+        "4K HEVC SDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1956073173"
+            }
+        ]
+    }
+}

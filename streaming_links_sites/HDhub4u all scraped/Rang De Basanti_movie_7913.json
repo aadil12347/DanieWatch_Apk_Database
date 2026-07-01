@@ -1,0 +1,23 @@
+{
+    "post_title": "Rang De Basanti",
+    "post_type": "movie",
+    "tmdb_id": 7913,
+    "imdb_id": "tt0405508",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1876141859"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4014951411"
+            }
+        ]
+    }
+}

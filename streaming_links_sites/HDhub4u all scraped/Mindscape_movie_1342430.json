@@ -1,0 +1,30 @@
+{
+    "post_title": "Mindscape",
+    "post_type": "movie",
+    "tmdb_id": 1342430,
+    "imdb_id": "tt1715336",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/340356487"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/926728118"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1902627543"
+            }
+        ]
+    }
+}

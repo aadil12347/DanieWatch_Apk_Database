@@ -1,0 +1,30 @@
+{
+    "post_title": "Buddha The Great Departure",
+    "post_type": "movie",
+    "tmdb_id": 115969,
+    "imdb_id": "tt1686865",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1868114222"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1838869804"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2799083103"
+            }
+        ]
+    }
+}

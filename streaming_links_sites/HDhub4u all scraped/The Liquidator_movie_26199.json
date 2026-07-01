@@ -1,0 +1,24 @@
+{
+    "post_title": "The Liquidator",
+    "post_type": "movie",
+    "tmdb_id": 26199,
+    "imdb_id": "tt7286908",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711368298"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711368296"
+            }
+        ]
+    }
+}

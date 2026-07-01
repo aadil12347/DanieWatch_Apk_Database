@@ -1,0 +1,36 @@
+{
+    "post_title": "Snake Eyes: G.I. Joe Origins",
+    "post_type": "movie",
+    "tmdb_id": 568620,
+    "imdb_id": "tt8404256",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3586166992"
+            }
+        ],
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2558120387"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2826713989"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4873150276"
+            }
+        ]
+    }
+}

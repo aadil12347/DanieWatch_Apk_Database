@@ -1,0 +1,24 @@
+{
+    "post_title": "Blood Fest",
+    "post_type": "movie",
+    "tmdb_id": 472226,
+    "imdb_id": "tt7208564",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/317072034"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/825555811"
+            }
+        ]
+    }
+}

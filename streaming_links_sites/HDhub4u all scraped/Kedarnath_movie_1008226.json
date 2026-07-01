@@ -1,0 +1,29 @@
+{
+    "post_title": "Kedarnath",
+    "post_type": "movie",
+    "tmdb_id": 1008226,
+    "imdb_id": "tt7027278",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2055865728"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2586966585 target="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3248415290"
+            }
+        ]
+    }
+}

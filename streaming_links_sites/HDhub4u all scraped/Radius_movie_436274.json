@@ -1,0 +1,24 @@
+{
+    "post_title": "Radius",
+    "post_type": "movie",
+    "tmdb_id": 436274,
+    "imdb_id": "tt6097798",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/330995551"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/921105214"
+            }
+        ]
+    }
+}

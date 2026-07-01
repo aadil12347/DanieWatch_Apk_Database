@@ -1,0 +1,24 @@
+{
+    "post_title": "American Exit",
+    "post_type": "movie",
+    "tmdb_id": 517434,
+    "imdb_id": "tt6021482",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1725695062"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1979158596"
+            }
+        ]
+    }
+}

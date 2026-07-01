@@ -1,0 +1,24 @@
+{
+    "post_title": "House on Elm Lake",
+    "post_type": "movie",
+    "tmdb_id": 475603,
+    "imdb_id": "tt6333200",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1736959838"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1677955163"
+            }
+        ]
+    }
+}

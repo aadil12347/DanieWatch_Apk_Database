@@ -1,0 +1,30 @@
+{
+    "post_title": "Midnight in the Switchgrass",
+    "post_type": "movie",
+    "tmdb_id": 693113,
+    "imdb_id": "tt11656220",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/342358213"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/955730792"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1614736979"
+            }
+        ]
+    }
+}

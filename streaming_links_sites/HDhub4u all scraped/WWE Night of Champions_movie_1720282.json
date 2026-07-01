@@ -1,0 +1,34 @@
+{
+    "post_title": "WWE Night of Champions",
+    "post_type": "movie",
+    "tmdb_id": 1720282,
+    "imdb_id": "tt42089279",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2508031874"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3358897080"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/5719705937"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/6375630214"
+            }
+        ]
+    }
+}

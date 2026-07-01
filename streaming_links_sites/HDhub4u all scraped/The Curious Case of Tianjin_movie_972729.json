@@ -1,0 +1,23 @@
+{
+    "post_title": "The Curious Case of Tianjin",
+    "post_type": "movie",
+    "tmdb_id": 972729,
+    "imdb_id": null,
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1713933421"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1713933420"
+            }
+        ]
+    }
+}

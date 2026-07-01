@@ -1,0 +1,29 @@
+{
+    "post_title": "High End Yaariyaan",
+    "post_type": "movie",
+    "tmdb_id": 584050,
+    "imdb_id": "tt9176136",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2025272708"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2389178146"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4163177715"
+            }
+        ]
+    }
+}

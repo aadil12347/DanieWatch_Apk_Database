@@ -1,0 +1,29 @@
+{
+    "post_title": "Hello Charlie",
+    "post_type": "movie",
+    "tmdb_id": 634541,
+    "imdb_id": "tt14260080",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/327358626"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/897622782"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2033678456"
+            }
+        ]
+    }
+}

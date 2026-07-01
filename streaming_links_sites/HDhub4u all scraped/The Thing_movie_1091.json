@@ -1,0 +1,30 @@
+{
+    "post_title": "The Thing",
+    "post_type": "movie",
+    "tmdb_id": 1091,
+    "imdb_id": "tt0905372",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1797070226"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2483935129"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3119610290"
+            }
+        ]
+    }
+}

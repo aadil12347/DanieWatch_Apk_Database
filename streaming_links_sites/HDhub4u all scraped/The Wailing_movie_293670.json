@@ -1,0 +1,30 @@
+{
+    "post_title": "The Wailing",
+    "post_type": "movie",
+    "tmdb_id": 293670,
+    "imdb_id": "tt5215952",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2114941782"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2978533213"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3199218767"
+            }
+        ]
+    }
+}

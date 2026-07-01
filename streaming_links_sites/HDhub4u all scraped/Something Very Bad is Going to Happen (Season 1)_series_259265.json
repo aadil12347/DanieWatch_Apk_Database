@@ -1,0 +1,27 @@
+{
+    "post_title": "Something Very Bad is Going to Happen",
+    "post_type": "series",
+    "tmdb_id": 259265,
+    "imdb_id": null,
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://gadgetsweb.xyz/"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://gadgetsweb.xyz/"
+                }
+            ]
+        }
+    }
+}

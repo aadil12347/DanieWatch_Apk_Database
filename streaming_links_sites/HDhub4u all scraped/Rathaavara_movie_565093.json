@@ -1,0 +1,29 @@
+{
+    "post_title": "Rathaavara",
+    "post_type": "movie",
+    "tmdb_id": 565093,
+    "imdb_id": "tt3956366",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1719293765"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1986023425"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2326711125"
+            }
+        ]
+    }
+}

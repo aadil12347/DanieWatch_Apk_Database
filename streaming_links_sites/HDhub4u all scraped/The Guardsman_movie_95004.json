@@ -1,0 +1,24 @@
+{
+    "post_title": "The Guardsman",
+    "post_type": "movie",
+    "tmdb_id": 95004,
+    "imdb_id": "tt5093098",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1819735324"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2509859940"
+            }
+        ]
+    }
+}

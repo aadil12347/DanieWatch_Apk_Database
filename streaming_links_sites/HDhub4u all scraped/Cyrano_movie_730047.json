@@ -1,0 +1,23 @@
+{
+    "post_title": "Cyrano",
+    "post_type": "movie",
+    "tmdb_id": 730047,
+    "imdb_id": "tt12889404",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2040053919"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2001997979"
+            }
+        ]
+    }
+}

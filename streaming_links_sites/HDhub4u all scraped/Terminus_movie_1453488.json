@@ -1,0 +1,24 @@
+{
+    "post_title": "Terminus",
+    "post_type": "movie",
+    "tmdb_id": 1453488,
+    "imdb_id": "tt3399896",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1672423059"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2373804964"
+            }
+        ]
+    }
+}

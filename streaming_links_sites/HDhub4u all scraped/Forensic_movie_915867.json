@@ -1,0 +1,29 @@
+{
+    "post_title": "Forensic",
+    "post_type": "movie",
+    "tmdb_id": 915867,
+    "imdb_id": "tt15121860",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1729087073"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1733777869"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4283852153"
+            }
+        ]
+    }
+}

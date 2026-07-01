@@ -1,0 +1,29 @@
+{
+    "post_title": "Gunga Pehalwan",
+    "post_type": "movie",
+    "tmdb_id": 1017230,
+    "imdb_id": "tt21289410",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1842256533"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2314983117"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3546463098"
+            }
+        ]
+    }
+}

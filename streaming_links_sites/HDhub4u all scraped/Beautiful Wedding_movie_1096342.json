@@ -1,0 +1,23 @@
+{
+    "post_title": "Beautiful Wedding",
+    "post_type": "movie",
+    "tmdb_id": 1096342,
+    "imdb_id": "tt26546123",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1708235840"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1708235838"
+            }
+        ]
+    }
+}

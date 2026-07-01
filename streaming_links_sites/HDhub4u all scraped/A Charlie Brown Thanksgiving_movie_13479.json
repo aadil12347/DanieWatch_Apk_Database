@@ -1,0 +1,30 @@
+{
+    "post_title": "A Charlie Brown Thanksgiving",
+    "post_type": "movie",
+    "tmdb_id": 13479,
+    "imdb_id": "tt0068359",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1760858608"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1989449835"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2196285343"
+            }
+        ]
+    }
+}

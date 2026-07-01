@@ -1,0 +1,30 @@
+{
+    "post_title": "The Childe",
+    "post_type": "movie",
+    "tmdb_id": 1057001,
+    "imdb_id": "tt27534328",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1875067822"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698842570"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698842569"
+            }
+        ]
+    }
+}

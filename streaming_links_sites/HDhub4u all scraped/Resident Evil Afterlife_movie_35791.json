@@ -1,0 +1,30 @@
+{
+    "post_title": "Resident Evil Afterlife",
+    "post_type": "movie",
+    "tmdb_id": 35791,
+    "imdb_id": "tt1220634",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1929201149"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2012062239"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2123937818"
+            }
+        ]
+    }
+}

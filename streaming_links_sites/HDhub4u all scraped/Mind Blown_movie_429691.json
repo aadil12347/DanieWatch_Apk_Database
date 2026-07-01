@@ -1,0 +1,24 @@
+{
+    "post_title": "Mind Blown",
+    "post_type": "movie",
+    "tmdb_id": 429691,
+    "imdb_id": "tt4622818",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1868838662"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2440184904"
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "post_title": "Dharam Karam",
+    "post_type": "movie",
+    "tmdb_id": 117788,
+    "imdb_id": "tt0072870",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1916746357"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2265459284"
+            }
+        ]
+    }
+}

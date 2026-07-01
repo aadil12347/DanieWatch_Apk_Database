@@ -1,0 +1,29 @@
+{
+    "post_title": "Maurh",
+    "post_type": "movie",
+    "tmdb_id": 1126848,
+    "imdb_id": "tt27368317",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2152772532"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2002755570"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1873244051"
+            }
+        ]
+    }
+}

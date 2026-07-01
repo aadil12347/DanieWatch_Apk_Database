@@ -1,0 +1,49 @@
+{
+    "post_title": "Peddi",
+    "post_type": "movie",
+    "tmdb_id": 1057265,
+    "imdb_id": "tt23865918",
+    "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "Kannada",
+        "Malayalam"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1933180837"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4084829721"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4850511781"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4020612503"
+            }
+        ],
+        "1080p HQ": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/8097616047"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/17490827049"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Return of Wu Kong",
+    "post_type": "movie",
+    "tmdb_id": 848475,
+    "imdb_id": "tt8471480",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1750939759"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2607394357"
+            }
+        ]
+    }
+}

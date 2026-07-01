@@ -1,0 +1,24 @@
+{
+    "post_title": "88 Minutes",
+    "post_type": "movie",
+    "tmdb_id": 3489,
+    "imdb_id": "tt0411061",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1866518061"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2542796150"
+            }
+        ]
+    }
+}

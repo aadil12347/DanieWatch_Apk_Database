@@ -1,0 +1,29 @@
+{
+    "post_title": "The Bad Shepherd",
+    "post_type": "movie",
+    "tmdb_id": 1238358,
+    "imdb_id": "tt27714915",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1956272561"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2232427600"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2707957488"
+            }
+        ]
+    }
+}

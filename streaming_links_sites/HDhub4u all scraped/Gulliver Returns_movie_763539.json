@@ -1,0 +1,23 @@
+{
+    "post_title": "Gulliver Returns",
+    "post_type": "movie",
+    "tmdb_id": 763539,
+    "imdb_id": "tt11238518",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1688460031"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2081447222"
+            }
+        ]
+    }
+}

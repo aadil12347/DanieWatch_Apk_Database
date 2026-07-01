@@ -1,0 +1,35 @@
+{
+    "post_title": "Bachchhan Paandey",
+    "post_type": "movie",
+    "tmdb_id": 715765,
+    "imdb_id": "tt10699086",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1814521825"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2009430015"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1868555352"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4499563916"
+            }
+        ]
+    }
+}

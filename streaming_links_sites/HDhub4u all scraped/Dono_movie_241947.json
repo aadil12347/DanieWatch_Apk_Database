@@ -1,0 +1,29 @@
+{
+    "post_title": "Dono",
+    "post_type": "movie",
+    "tmdb_id": 241947,
+    "imdb_id": "tt27802487",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1704046870"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3057495851"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1704046869"
+            }
+        ]
+    }
+}

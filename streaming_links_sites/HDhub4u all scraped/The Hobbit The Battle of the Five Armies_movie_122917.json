@@ -1,0 +1,30 @@
+{
+    "post_title": "The Hobbit The Battle of the Five Armies",
+    "post_type": "movie",
+    "tmdb_id": 122917,
+    "imdb_id": "tt2310332",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2190731277"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2510503525"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3755901304"
+            }
+        ]
+    }
+}

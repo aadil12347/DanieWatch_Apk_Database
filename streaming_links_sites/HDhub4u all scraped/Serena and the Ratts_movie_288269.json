@@ -1,0 +1,24 @@
+{
+    "post_title": "Serena and the Ratts",
+    "post_type": "movie",
+    "tmdb_id": 288269,
+    "imdb_id": "tt1653064",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2067221932"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1958730678"
+            }
+        ]
+    }
+}

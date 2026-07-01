@@ -1,0 +1,29 @@
+{
+    "post_title": "Fukrey Returns",
+    "post_type": "movie",
+    "tmdb_id": 454776,
+    "imdb_id": "tt6712014",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2022199907"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2027838780"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4075312768"
+            }
+        ]
+    }
+}

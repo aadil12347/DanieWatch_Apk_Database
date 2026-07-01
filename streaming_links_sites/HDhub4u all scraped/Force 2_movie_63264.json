@@ -1,0 +1,29 @@
+{
+    "post_title": "Force 2",
+    "post_type": "movie",
+    "tmdb_id": 63264,
+    "imdb_id": "tt5156746",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Force-2-(2016)-HIndi-480p-BluRay-HDHub4u.mkv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Force-2-(2016)-HIndi-720p-BluRay-HDHub4u.mkv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Force-2-(2016)-HIndi-1080p-BluRay-HDHub4u.mkv"
+            }
+        ]
+    }
+}

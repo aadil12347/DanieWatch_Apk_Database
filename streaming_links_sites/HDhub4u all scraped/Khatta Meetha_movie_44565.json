@@ -1,0 +1,29 @@
+{
+    "post_title": "Khatta Meetha",
+    "post_type": "movie",
+    "tmdb_id": 44565,
+    "imdb_id": "tt1455811",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2914459894"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2070991402"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1766730190"
+            }
+        ]
+    }
+}

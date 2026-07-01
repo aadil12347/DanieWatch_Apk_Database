@@ -1,0 +1,29 @@
+{
+    "post_title": "Falakpura Das",
+    "post_type": "movie",
+    "tmdb_id": 590162,
+    "imdb_id": "tt9799984",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1694875583"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1694875582"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1694875581"
+            }
+        ]
+    }
+}

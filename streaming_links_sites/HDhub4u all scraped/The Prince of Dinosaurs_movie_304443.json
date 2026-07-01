@@ -1,0 +1,24 @@
+{
+    "post_title": "The Prince of Dinosaurs",
+    "post_type": "movie",
+    "tmdb_id": 304443,
+    "imdb_id": "tt5493684",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/817694941"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/279728371"
+            }
+        ]
+    }
+}

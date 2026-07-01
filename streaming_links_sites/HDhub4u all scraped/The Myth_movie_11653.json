@@ -1,0 +1,36 @@
+{
+    "post_title": "The Myth",
+    "post_type": "movie",
+    "tmdb_id": 11653,
+    "imdb_id": "tt0365847",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2325725017"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1818469428"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2322875590"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4160735123"
+            }
+        ]
+    }
+}

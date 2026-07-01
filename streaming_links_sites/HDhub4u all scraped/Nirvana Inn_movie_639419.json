@@ -1,0 +1,23 @@
+{
+    "post_title": "Nirvana Inn",
+    "post_type": "movie",
+    "tmdb_id": 639419,
+    "imdb_id": "tt9890322",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Nirvana.Inn.(2019).Hindi.480p.HDRip-HDHub4u.mkv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/Nirvana.Inn.(2019).Hindi.720p.HDRip-HDHub4u.mkv"
+            }
+        ]
+    }
+}

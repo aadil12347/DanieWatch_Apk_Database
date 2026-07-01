@@ -1,0 +1,29 @@
+{
+    "post_title": "Halloween Ends",
+    "post_type": "movie",
+    "tmdb_id": 616820,
+    "imdb_id": "tt10665342",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1761925169"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2615681644"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3184129224"
+            }
+        ]
+    }
+}

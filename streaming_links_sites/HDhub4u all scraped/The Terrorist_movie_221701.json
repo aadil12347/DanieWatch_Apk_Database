@@ -1,0 +1,30 @@
+{
+    "post_title": "The Terrorist",
+    "post_type": "movie",
+    "tmdb_id": 221701,
+    "imdb_id": "tt9248762",
+    "languages": [
+        "Hindi",
+        "Kannada"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/801412993"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2435205553"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2371940570"
+            }
+        ]
+    }
+}

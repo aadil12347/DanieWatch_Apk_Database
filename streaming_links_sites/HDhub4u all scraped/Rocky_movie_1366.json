@@ -1,0 +1,29 @@
+{
+    "post_title": "Rocky",
+    "post_type": "movie",
+    "tmdb_id": 1366,
+    "imdb_id": "tt0215132",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1883071079"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3018852334"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4457361056"
+            }
+        ]
+    }
+}

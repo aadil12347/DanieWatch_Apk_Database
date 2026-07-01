@@ -1,0 +1,23 @@
+{
+    "post_title": "Pale Blue Moon",
+    "post_type": "movie",
+    "tmdb_id": 70858,
+    "imdb_id": "tt0230540",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/862308806"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/286417751"
+            }
+        ]
+    }
+}

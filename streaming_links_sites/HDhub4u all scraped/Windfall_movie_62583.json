@@ -1,0 +1,24 @@
+{
+    "post_title": "Windfall",
+    "post_type": "movie",
+    "tmdb_id": 62583,
+    "imdb_id": "tt15033192",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1665447458"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2968118706"
+            }
+        ]
+    }
+}

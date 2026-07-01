@@ -1,0 +1,24 @@
+{
+    "post_title": "Oblivion",
+    "post_type": "movie",
+    "tmdb_id": 75612,
+    "imdb_id": "tt1483013",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2132025619"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2287988886"
+            }
+        ]
+    }
+}

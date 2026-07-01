@@ -1,0 +1,24 @@
+{
+    "post_title": "Independents Day",
+    "post_type": "movie",
+    "tmdb_id": 401132,
+    "imdb_id": "tt5720450",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1930101178"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2075319105"
+            }
+        ]
+    }
+}

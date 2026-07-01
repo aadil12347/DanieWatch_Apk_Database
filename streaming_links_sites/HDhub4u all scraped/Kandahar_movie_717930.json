@@ -1,0 +1,30 @@
+{
+    "post_title": "Kandahar",
+    "post_type": "movie",
+    "tmdb_id": 717930,
+    "imdb_id": "tt5761544",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1686929600"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1686929601"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1686929599"
+            }
+        ]
+    }
+}

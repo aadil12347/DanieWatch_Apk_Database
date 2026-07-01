@@ -1,0 +1,33 @@
+{
+    "post_title": "Kudi Haryane Val Di",
+    "post_type": "movie",
+    "tmdb_id": 1184245,
+    "imdb_id": "tt29309965",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2112388070"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1916801993"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1929838978"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/3269378885"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Simmer",
+    "post_type": "movie",
+    "tmdb_id": 790231,
+    "imdb_id": "tt9072746",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1853834911"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2296080843"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Power",
+    "post_type": "movie",
+    "tmdb_id": 1284016,
+    "imdb_id": "tt3949638",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2496784298"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2090793242"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4428093416"
+            }
+        ]
+    }
+}

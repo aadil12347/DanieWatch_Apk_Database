@@ -1,0 +1,29 @@
+{
+    "post_title": "Shiv Shastri Balboa",
+    "post_type": "movie",
+    "tmdb_id": 1022469,
+    "imdb_id": "tt9859574",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1689279245"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1689340783"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1689288636"
+            }
+        ]
+    }
+}

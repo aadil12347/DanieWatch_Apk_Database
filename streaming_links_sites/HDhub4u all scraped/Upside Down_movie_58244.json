@@ -1,0 +1,29 @@
+{
+    "post_title": "Upside Down",
+    "post_type": "movie",
+    "tmdb_id": 58244,
+    "imdb_id": "tt1374992",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695376375"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695376374"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695376373"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Flying Monkeys",
+    "post_type": "movie",
+    "tmdb_id": 177146,
+    "imdb_id": "tt2205652",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1925805241"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2751529647"
+            }
+        ]
+    }
+}

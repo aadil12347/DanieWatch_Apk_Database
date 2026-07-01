@@ -1,0 +1,40 @@
+{
+    "post_title": "Trisha on the Rocks",
+    "post_type": "movie",
+    "tmdb_id": 1283181,
+    "imdb_id": "tt31914240",
+    "languages": [
+        "Hindi",
+        "Gujarati"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2443613014"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2639718866"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1841054260"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3909817307"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/10406514316"
+            }
+        ]
+    }
+}

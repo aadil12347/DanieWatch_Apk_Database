@@ -1,0 +1,29 @@
+{
+    "post_title": "Haathi Mere Saathi",
+    "post_type": "movie",
+    "tmdb_id": 304701,
+    "imdb_id": "tt0272118",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2073315936"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2175540204"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2778681854"
+            }
+        ]
+    }
+}

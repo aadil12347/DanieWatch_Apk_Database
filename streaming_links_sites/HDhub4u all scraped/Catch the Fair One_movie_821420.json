@@ -1,0 +1,24 @@
+{
+    "post_title": "Catch the Fair One",
+    "post_type": "movie",
+    "tmdb_id": 821420,
+    "imdb_id": "tt11304504",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1682572853"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1682572851"
+            }
+        ]
+    }
+}

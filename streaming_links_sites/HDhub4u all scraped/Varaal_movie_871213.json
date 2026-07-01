@@ -1,0 +1,29 @@
+{
+    "post_title": "Varaal",
+    "post_type": "movie",
+    "tmdb_id": 871213,
+    "imdb_id": "tt15354110",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2016519790"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2696286191"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1822715421"
+            }
+        ]
+    }
+}

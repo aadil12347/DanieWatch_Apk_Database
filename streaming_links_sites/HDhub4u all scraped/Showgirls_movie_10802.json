@@ -1,0 +1,24 @@
+{
+    "post_title": "Showgirls",
+    "post_type": "movie",
+    "tmdb_id": 10802,
+    "imdb_id": "tt0114436",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1872718132"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2576188457"
+            }
+        ]
+    }
+}

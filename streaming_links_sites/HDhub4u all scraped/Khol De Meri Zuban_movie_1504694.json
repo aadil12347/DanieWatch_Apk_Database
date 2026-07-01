@@ -1,0 +1,29 @@
+{
+    "post_title": "Khol De Meri Zuban",
+    "post_type": "movie",
+    "tmdb_id": 1504694,
+    "imdb_id": "tt0231899",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2102235130"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3053140616"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2701153863"
+            }
+        ]
+    }
+}

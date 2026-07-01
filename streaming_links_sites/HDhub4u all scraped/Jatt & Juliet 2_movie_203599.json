@@ -1,0 +1,29 @@
+{
+    "post_title": "Jatt & Juliet 2",
+    "post_type": "movie",
+    "tmdb_id": 203599,
+    "imdb_id": "tt2673882",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1993819244"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2455700395"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2721071389"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Annabelle",
+    "post_type": "movie",
+    "tmdb_id": 250546,
+    "imdb_id": "tt3322940",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1963423339"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3632191040"
+            }
+        ]
+    }
+}

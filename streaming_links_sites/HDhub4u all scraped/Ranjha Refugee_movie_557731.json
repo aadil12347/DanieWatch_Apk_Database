@@ -1,0 +1,29 @@
+{
+    "post_title": "Ranjha Refugee",
+    "post_type": "movie",
+    "tmdb_id": 557731,
+    "imdb_id": "tt8852690",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1216865930"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/404508722"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2131658874"
+            }
+        ]
+    }
+}

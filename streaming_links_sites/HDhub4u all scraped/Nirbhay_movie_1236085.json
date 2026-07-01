@@ -1,0 +1,29 @@
+{
+    "post_title": "Nirbhay",
+    "post_type": "movie",
+    "tmdb_id": 1236085,
+    "imdb_id": "tt0117186",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1936980678"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2677200620"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2078462457"
+            }
+        ]
+    }
+}

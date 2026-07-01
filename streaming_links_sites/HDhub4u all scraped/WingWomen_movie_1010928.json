@@ -1,0 +1,24 @@
+{
+    "post_title": "WingWomen",
+    "post_type": "movie",
+    "tmdb_id": 1010928,
+    "imdb_id": "tt21638298",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698832756"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698832711"
+            }
+        ]
+    }
+}

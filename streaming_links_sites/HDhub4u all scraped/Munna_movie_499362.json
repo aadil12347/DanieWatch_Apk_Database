@@ -1,0 +1,27 @@
+{
+    "post_title": "Munna",
+    "post_type": "movie",
+    "tmdb_id": 499362,
+    "imdb_id": "tt0897374",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2787672426"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/1788196311"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2140388485"
+            }
+        ]
+    }
+}

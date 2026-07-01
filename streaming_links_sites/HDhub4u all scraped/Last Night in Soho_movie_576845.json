@@ -1,0 +1,30 @@
+{
+    "post_title": "Last Night in Soho",
+    "post_type": "movie",
+    "tmdb_id": 576845,
+    "imdb_id": "tt9639470",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1882384513"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2550010245"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2239794205"
+            }
+        ]
+    }
+}

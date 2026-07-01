@@ -1,0 +1,24 @@
+{
+    "post_title": "Ghost Day",
+    "post_type": "movie",
+    "tmdb_id": 208693,
+    "imdb_id": "tt2638456",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1794169877"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2690577067"
+            }
+        ]
+    }
+}

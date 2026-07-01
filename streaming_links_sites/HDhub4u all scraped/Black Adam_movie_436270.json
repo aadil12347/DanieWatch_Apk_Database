@@ -1,0 +1,30 @@
+{
+    "post_title": "Black Adam",
+    "post_type": "movie",
+    "tmdb_id": 436270,
+    "imdb_id": "tt6443346",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695878809"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695878801"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695878808"
+            }
+        ]
+    }
+}

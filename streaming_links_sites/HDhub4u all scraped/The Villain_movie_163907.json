@@ -1,0 +1,29 @@
+{
+    "post_title": "The Villain",
+    "post_type": "movie",
+    "tmdb_id": 163907,
+    "imdb_id": "tt6203302",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2015383668"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2474575406"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3950834522"
+            }
+        ]
+    }
+}

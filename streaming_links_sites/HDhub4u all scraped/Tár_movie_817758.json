@@ -1,0 +1,23 @@
+{
+    "post_title": "Tár",
+    "post_type": "movie",
+    "tmdb_id": 817758,
+    "imdb_id": "tt14444726",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2197423083"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2444169119"
+            }
+        ]
+    }
+}

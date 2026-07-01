@@ -1,0 +1,30 @@
+{
+    "post_title": "Mojin The Worm Valley",
+    "post_type": "movie",
+    "tmdb_id": 571446,
+    "imdb_id": "tt9490414",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1828858188"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2039984246"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3063652832"
+            }
+        ]
+    }
+}

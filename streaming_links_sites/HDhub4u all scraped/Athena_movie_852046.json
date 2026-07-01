@@ -1,0 +1,30 @@
+{
+    "post_title": "Athena",
+    "post_type": "movie",
+    "tmdb_id": 852046,
+    "imdb_id": "tt15445056",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1748145345"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2329843897"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2305759881"
+            }
+        ]
+    }
+}

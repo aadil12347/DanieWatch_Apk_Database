@@ -1,0 +1,24 @@
+{
+    "post_title": "Space Dogs",
+    "post_type": "movie",
+    "tmdb_id": 616324,
+    "imdb_id": "tt1272051",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/809851770"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/300151634"
+            }
+        ]
+    }
+}

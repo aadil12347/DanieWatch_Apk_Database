@@ -1,0 +1,43 @@
+{
+    "post_title": "Ek Din",
+    "post_type": "movie",
+    "tmdb_id": 1171094,
+    "imdb_id": "tt35682680",
+    "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2497486326"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1866911849"
+            }
+        ],
+        "1080p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3179756786"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2269918963"
+            }
+        ],
+        "1080p HQ": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/9826162419"
+            }
+        ]
+    }
+}

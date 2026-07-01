@@ -1,0 +1,29 @@
+{
+    "post_title": "Nadhoo Khan",
+    "post_type": "movie",
+    "tmdb_id": 598255,
+    "imdb_id": "tt10102192",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1349882866"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/449364041"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2232323114"
+            }
+        ]
+    }
+}

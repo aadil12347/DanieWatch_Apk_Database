@@ -1,0 +1,23 @@
+{
+    "post_title": "Bajrangi Bhaijaan",
+    "post_type": "movie",
+    "tmdb_id": 348892,
+    "imdb_id": "tt3863552",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3019303563"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4446610194"
+            }
+        ]
+    }
+}

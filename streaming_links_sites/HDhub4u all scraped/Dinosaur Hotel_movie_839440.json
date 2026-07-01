@@ -1,0 +1,24 @@
+{
+    "post_title": "Dinosaur Hotel",
+    "post_type": "movie",
+    "tmdb_id": 839440,
+    "imdb_id": "tt13296032",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1732998687"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2401386860"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Cyclone",
+    "post_type": "movie",
+    "tmdb_id": 42202,
+    "imdb_id": "tt0075901",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1693065900"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2229661626"
+            }
+        ]
+    }
+}

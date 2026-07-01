@@ -1,0 +1,30 @@
+{
+    "post_title": "The Matrix Reloaded",
+    "post_type": "movie",
+    "tmdb_id": 604,
+    "imdb_id": "tt0234215",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2277647792"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2515079477"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2404111677"
+            }
+        ]
+    }
+}

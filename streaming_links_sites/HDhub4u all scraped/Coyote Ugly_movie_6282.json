@@ -1,0 +1,24 @@
+{
+    "post_title": "Coyote Ugly",
+    "post_type": "movie",
+    "tmdb_id": 6282,
+    "imdb_id": "tt0200550",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1986138895"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2176954246"
+            }
+        ]
+    }
+}

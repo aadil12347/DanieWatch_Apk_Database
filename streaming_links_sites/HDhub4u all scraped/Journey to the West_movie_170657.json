@@ -1,0 +1,24 @@
+{
+    "post_title": "Journey to the West",
+    "post_type": "movie",
+    "tmdb_id": 170657,
+    "imdb_id": "tt5273624",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2218440679"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3643679075"
+            }
+        ]
+    }
+}

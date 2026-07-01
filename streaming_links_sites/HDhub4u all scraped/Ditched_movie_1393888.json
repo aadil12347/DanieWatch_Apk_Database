@@ -1,0 +1,23 @@
+{
+    "post_title": "Ditched",
+    "post_type": "movie",
+    "tmdb_id": 1393888,
+    "imdb_id": "tt10166508",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1866543672"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1784008287"
+            }
+        ]
+    }
+}

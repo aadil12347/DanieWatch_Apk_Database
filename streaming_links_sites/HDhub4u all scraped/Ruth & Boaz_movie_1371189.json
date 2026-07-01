@@ -1,0 +1,24 @@
+{
+    "post_title": "Ruth & Boaz",
+    "post_type": "movie",
+    "tmdb_id": 1371189,
+    "imdb_id": "tt32306048",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1981281166"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1843932505"
+            }
+        ]
+    }
+}

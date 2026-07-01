@@ -1,0 +1,23 @@
+{
+    "post_title": "The Old Way",
+    "post_type": "movie",
+    "tmdb_id": 872954,
+    "imdb_id": "tt8593824",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1970562973"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2279337000"
+            }
+        ]
+    }
+}

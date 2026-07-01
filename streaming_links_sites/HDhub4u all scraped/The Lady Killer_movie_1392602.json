@@ -1,0 +1,29 @@
+{
+    "post_title": "The Lady Killer",
+    "post_type": "movie",
+    "tmdb_id": 1392602,
+    "imdb_id": "tt15654502",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1708457359"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3004325959"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1708457358"
+            }
+        ]
+    }
+}

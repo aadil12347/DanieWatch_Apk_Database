@@ -1,0 +1,29 @@
+{
+    "post_title": "Teri Meri Gal Ban Gayi",
+    "post_type": "movie",
+    "tmdb_id": 1027648,
+    "imdb_id": "tt11720140",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2097812846"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2833677585"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3896513302"
+            }
+        ]
+    }
+}

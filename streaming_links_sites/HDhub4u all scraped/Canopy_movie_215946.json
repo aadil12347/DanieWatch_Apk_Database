@@ -1,0 +1,24 @@
+{
+    "post_title": "Canopy",
+    "post_type": "movie",
+    "tmdb_id": 215946,
+    "imdb_id": "tt2232578",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/302629201"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/869739439"
+            }
+        ]
+    }
+}

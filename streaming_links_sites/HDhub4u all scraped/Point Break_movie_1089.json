@@ -1,0 +1,24 @@
+{
+    "post_title": "Point Break",
+    "post_type": "movie",
+    "tmdb_id": 1089,
+    "imdb_id": "tt2058673",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/411622921"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1296341523"
+            }
+        ]
+    }
+}

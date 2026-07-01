@@ -1,0 +1,30 @@
+{
+    "post_title": "Angels and Demons",
+    "post_type": "movie",
+    "tmdb_id": 1221148,
+    "imdb_id": "tt0808151",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1766177521"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2435015705"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2592921223"
+            }
+        ]
+    }
+}

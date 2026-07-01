@@ -1,0 +1,24 @@
+{
+    "post_title": "Eleven",
+    "post_type": "movie",
+    "tmdb_id": 1555455,
+    "imdb_id": "tt28679253",
+    "languages": [
+        "Hindi",
+        "Tamil"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2290222105"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2278356202"
+            }
+        ]
+    }
+}

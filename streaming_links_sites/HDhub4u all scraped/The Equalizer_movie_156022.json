@@ -1,0 +1,24 @@
+{
+    "post_title": "The Equalizer",
+    "post_type": "movie",
+    "tmdb_id": 156022,
+    "imdb_id": "tt0455944",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1939789386"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2873835020"
+            }
+        ]
+    }
+}

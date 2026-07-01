@@ -1,0 +1,30 @@
+{
+    "post_title": "Luca",
+    "post_type": "movie",
+    "tmdb_id": 508943,
+    "imdb_id": "tt12801262",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2024556014"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2267084449"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1778605859"
+            }
+        ]
+    }
+}

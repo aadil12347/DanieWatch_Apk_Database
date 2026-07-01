@@ -1,0 +1,22 @@
+{
+    "post_title": "Sparta",
+    "post_type": "movie",
+    "tmdb_id": 937633,
+    "imdb_id": "tt6844328",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1856096127"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/2042623597"
+            }
+        ]
+    }
+}

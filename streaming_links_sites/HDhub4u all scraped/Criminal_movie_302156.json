@@ -1,0 +1,30 @@
+{
+    "post_title": "Criminal",
+    "post_type": "movie",
+    "tmdb_id": 302156,
+    "imdb_id": "tt3014866",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1786172356"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2797673200"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3375628559"
+            }
+        ]
+    }
+}

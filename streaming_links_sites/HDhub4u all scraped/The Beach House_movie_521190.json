@@ -1,0 +1,24 @@
+{
+    "post_title": "The Beach House",
+    "post_type": "movie",
+    "tmdb_id": 521190,
+    "imdb_id": "tt10843306",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1688006902"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1688006901"
+            }
+        ]
+    }
+}

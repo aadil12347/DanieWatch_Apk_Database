@@ -1,0 +1,24 @@
+{
+    "post_title": "House of the Rising Sun",
+    "post_type": "movie",
+    "tmdb_id": 68472,
+    "imdb_id": "tt1788383",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1786483709"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2455969064"
+            }
+        ]
+    }
+}

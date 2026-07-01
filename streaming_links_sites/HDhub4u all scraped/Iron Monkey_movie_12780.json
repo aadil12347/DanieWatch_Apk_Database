@@ -1,0 +1,24 @@
+{
+    "post_title": "Iron Monkey",
+    "post_type": "movie",
+    "tmdb_id": 12780,
+    "imdb_id": "tt0108148",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/330719873"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/916365819"
+            }
+        ]
+    }
+}

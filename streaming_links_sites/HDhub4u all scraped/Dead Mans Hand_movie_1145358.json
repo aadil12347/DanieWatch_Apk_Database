@@ -1,0 +1,23 @@
+{
+    "post_title": "Dead Mans Hand",
+    "post_type": "movie",
+    "tmdb_id": 1145358,
+    "imdb_id": "tt23469212",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698301367"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698301365"
+            }
+        ]
+    }
+}

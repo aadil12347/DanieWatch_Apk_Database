@@ -1,0 +1,29 @@
+{
+    "post_title": "Zack Snyder’s Justice League",
+    "post_type": "movie",
+    "tmdb_id": 791373,
+    "imdb_id": "tt12361974",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3811585141"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/5739298435"
+            }
+        ],
+        "4K HDR": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2224345448"
+            }
+        ]
+    }
+}

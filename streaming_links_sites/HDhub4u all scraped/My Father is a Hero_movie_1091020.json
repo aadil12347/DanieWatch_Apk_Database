@@ -1,0 +1,24 @@
+{
+    "post_title": "My Father is a Hero",
+    "post_type": "movie",
+    "tmdb_id": 1091020,
+    "imdb_id": "tt0113153",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/359097572"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1112875087"
+            }
+        ]
+    }
+}

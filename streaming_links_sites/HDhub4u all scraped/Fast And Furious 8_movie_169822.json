@@ -1,0 +1,30 @@
+{
+    "post_title": "Fast And Furious 8",
+    "post_type": "movie",
+    "tmdb_id": 169822,
+    "imdb_id": "tt4630562",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/497026248"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1442583103"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2462471436"
+            }
+        ]
+    }
+}

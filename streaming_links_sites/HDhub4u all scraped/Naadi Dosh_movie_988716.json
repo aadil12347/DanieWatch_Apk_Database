@@ -1,0 +1,29 @@
+{
+    "post_title": "Naadi Dosh",
+    "post_type": "movie",
+    "tmdb_id": 988716,
+    "imdb_id": "tt20251716",
+    "languages": [
+        "Gujarati"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2040459867"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2042542920"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2796146411"
+            }
+        ]
+    }
+}

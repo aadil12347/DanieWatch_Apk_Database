@@ -1,0 +1,29 @@
+{
+    "post_title": "The Ice Age Adventures of Buck Wild",
+    "post_type": "movie",
+    "tmdb_id": 774825,
+    "imdb_id": "tt13634480",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1721991598"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2012479389"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2491159299"
+            }
+        ]
+    }
+}

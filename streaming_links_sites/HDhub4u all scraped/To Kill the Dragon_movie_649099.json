@@ -1,0 +1,24 @@
+{
+    "post_title": "To Kill the Dragon",
+    "post_type": "movie",
+    "tmdb_id": 649099,
+    "imdb_id": "tt9103710",
+    "languages": [
+        "Hindi",
+        "French"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1735368371"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2533624573"
+            }
+        ]
+    }
+}

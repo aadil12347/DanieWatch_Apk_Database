@@ -1,0 +1,30 @@
+{
+    "post_title": "The Wrath of God",
+    "post_type": "movie",
+    "tmdb_id": 880313,
+    "imdb_id": "tt15189534",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1777180642"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2438609426"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2624921526"
+            }
+        ]
+    }
+}

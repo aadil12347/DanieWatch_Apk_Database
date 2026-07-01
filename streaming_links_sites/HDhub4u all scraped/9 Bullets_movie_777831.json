@@ -1,0 +1,23 @@
+{
+    "post_title": "9 Bullets",
+    "post_type": "movie",
+    "tmdb_id": 777831,
+    "imdb_id": "tt13680520",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1672447154"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2337449037"
+            }
+        ]
+    }
+}

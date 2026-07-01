@@ -1,0 +1,33 @@
+{
+    "post_title": "The Xpose",
+    "post_type": "movie",
+    "tmdb_id": 270417,
+    "imdb_id": "tt3645014",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2044551274"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2191674791"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3433233721"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/3477279715"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "StreetDance 2",
+    "post_type": "movie",
+    "tmdb_id": 85373,
+    "imdb_id": "tt1718903",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/800128993"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/295604185"
+            }
+        ]
+    }
+}

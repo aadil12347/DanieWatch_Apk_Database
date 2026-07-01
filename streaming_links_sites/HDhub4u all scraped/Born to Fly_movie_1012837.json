@@ -1,0 +1,30 @@
+{
+    "post_title": "Born to Fly",
+    "post_type": "movie",
+    "tmdb_id": 1012837,
+    "imdb_id": "tt22058628",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1697820357"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2453885122"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1697820356"
+            }
+        ]
+    }
+}

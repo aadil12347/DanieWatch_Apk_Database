@@ -1,0 +1,23 @@
+{
+    "post_title": "Clifford the Big Red Dog",
+    "post_type": "movie",
+    "tmdb_id": 585245,
+    "imdb_id": "tt2397461",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/319414164"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/833353627"
+            }
+        ]
+    }
+}

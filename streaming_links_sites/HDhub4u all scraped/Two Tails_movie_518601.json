@@ -1,0 +1,24 @@
+{
+    "post_title": "Two Tails",
+    "post_type": "movie",
+    "tmdb_id": 518601,
+    "imdb_id": "tt7403570",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/735365347"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/271459585"
+            }
+        ]
+    }
+}

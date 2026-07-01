@@ -1,0 +1,24 @@
+{
+    "post_title": "Insidious: Chapter 2",
+    "post_type": "movie",
+    "tmdb_id": 91586,
+    "imdb_id": "tt2226417",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1119298770"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/382722018"
+            }
+        ]
+    }
+}

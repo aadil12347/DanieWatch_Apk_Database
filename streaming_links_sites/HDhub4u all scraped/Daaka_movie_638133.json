@@ -1,0 +1,29 @@
+{
+    "post_title": "Daaka",
+    "post_type": "movie",
+    "tmdb_id": 638133,
+    "imdb_id": "tt10833860",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2141879035"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1974034721"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3479448355"
+            }
+        ]
+    }
+}

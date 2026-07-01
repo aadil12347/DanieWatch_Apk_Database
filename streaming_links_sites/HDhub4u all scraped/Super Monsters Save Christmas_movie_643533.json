@@ -1,0 +1,30 @@
+{
+    "post_title": "Super Monsters Save Christmas",
+    "post_type": "movie",
+    "tmdb_id": 643533,
+    "imdb_id": "tt11193860",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1794480931"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1947723820"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2395902064"
+            }
+        ]
+    }
+}

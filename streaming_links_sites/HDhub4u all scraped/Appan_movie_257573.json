@@ -1,0 +1,30 @@
+{
+    "post_title": "Appan",
+    "post_type": "movie",
+    "tmdb_id": 257573,
+    "imdb_id": "tt15575900",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2065979802"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2284478596"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2721282323"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Soppana Sundari",
+    "post_type": "movie",
+    "tmdb_id": 1021760,
+    "imdb_id": null,
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1683853679"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1683853680"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1683853933"
+            }
+        ]
+    }
+}

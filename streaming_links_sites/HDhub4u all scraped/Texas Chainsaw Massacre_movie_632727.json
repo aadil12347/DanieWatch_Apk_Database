@@ -1,0 +1,28 @@
+{
+    "post_title": "Texas Chainsaw Massacre",
+    "post_type": "movie",
+    "tmdb_id": 632727,
+    "imdb_id": "tt11755740",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1733916212"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1753963087"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/1966443585"
+            }
+        ]
+    }
+}

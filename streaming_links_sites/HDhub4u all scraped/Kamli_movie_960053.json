@@ -1,0 +1,23 @@
+{
+    "post_title": "Kamli",
+    "post_type": "movie",
+    "tmdb_id": 960053,
+    "imdb_id": null,
+    "languages": [
+        "Urdu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1669728173"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2609440700"
+            }
+        ]
+    }
+}

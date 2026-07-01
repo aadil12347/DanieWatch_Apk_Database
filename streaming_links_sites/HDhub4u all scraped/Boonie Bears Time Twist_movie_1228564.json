@@ -1,0 +1,28 @@
+{
+    "post_title": "Boonie Bears: Time Twist",
+    "post_type": "movie",
+    "tmdb_id": 1228564,
+    "imdb_id": "tt29632994",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1879626837"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2109668054"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/4695664261"
+            }
+        ]
+    }
+}

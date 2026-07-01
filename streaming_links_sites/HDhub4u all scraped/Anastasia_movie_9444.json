@@ -1,0 +1,24 @@
+{
+    "post_title": "Anastasia",
+    "post_type": "movie",
+    "tmdb_id": 9444,
+    "imdb_id": "tt7014356",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/820317436"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/303615145"
+            }
+        ]
+    }
+}

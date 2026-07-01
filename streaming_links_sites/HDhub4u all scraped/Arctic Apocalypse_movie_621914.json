@@ -1,0 +1,24 @@
+{
+    "post_title": "Arctic Apocalypse",
+    "post_type": "movie",
+    "tmdb_id": 621914,
+    "imdb_id": "tt10305328",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1786968683"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1858067160"
+            }
+        ]
+    }
+}

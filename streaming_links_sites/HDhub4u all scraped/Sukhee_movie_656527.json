@@ -1,0 +1,29 @@
+{
+    "post_title": "Sukhee",
+    "post_type": "movie",
+    "tmdb_id": 656527,
+    "imdb_id": "tt18266472",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1700162913"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2422386951"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1700165813"
+            }
+        ]
+    }
+}

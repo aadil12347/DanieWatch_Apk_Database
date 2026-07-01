@@ -1,0 +1,29 @@
+{
+    "post_title": "SuperKlaus",
+    "post_type": "movie",
+    "tmdb_id": 1100998,
+    "imdb_id": "tt24659406",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1943032212"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2446197113"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2026550578"
+            }
+        ]
+    }
+}

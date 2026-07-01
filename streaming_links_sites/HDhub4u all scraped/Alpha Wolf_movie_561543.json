@@ -1,0 +1,24 @@
+{
+    "post_title": "Alpha Wolf",
+    "post_type": "movie",
+    "tmdb_id": 561543,
+    "imdb_id": "tt7712746",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1759507212"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2151031579"
+            }
+        ]
+    }
+}

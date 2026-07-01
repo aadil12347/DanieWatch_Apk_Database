@@ -1,0 +1,28 @@
+{
+    "post_title": "A Copenhagen Love Story",
+    "post_type": "movie",
+    "tmdb_id": 1426674,
+    "imdb_id": "tt33501878",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2755115516"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1920717941"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/3200364453"
+            }
+        ]
+    }
+}

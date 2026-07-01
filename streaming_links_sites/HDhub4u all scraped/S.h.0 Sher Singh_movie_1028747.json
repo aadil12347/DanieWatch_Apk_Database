@@ -1,0 +1,29 @@
+{
+    "post_title": "S.h.0 Sher Singh",
+    "post_type": "movie",
+    "tmdb_id": 1028747,
+    "imdb_id": null,
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1900060876"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2629778080"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3412324796"
+            }
+        ]
+    }
+}

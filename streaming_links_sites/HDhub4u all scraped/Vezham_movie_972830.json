@@ -1,0 +1,29 @@
+{
+    "post_title": "Vezham",
+    "post_type": "movie",
+    "tmdb_id": 972830,
+    "imdb_id": "tt12345200",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2017203608"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2926804333"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2558998157"
+            }
+        ]
+    }
+}

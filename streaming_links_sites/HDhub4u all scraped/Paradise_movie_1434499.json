@@ -1,0 +1,30 @@
+{
+    "post_title": "Paradise",
+    "post_type": "movie",
+    "tmdb_id": 1434499,
+    "imdb_id": "tt21308888",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1690451869"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1690450913"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1690450945"
+            }
+        ]
+    }
+}

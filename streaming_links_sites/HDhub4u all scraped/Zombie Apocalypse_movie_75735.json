@@ -1,0 +1,24 @@
+{
+    "post_title": "Zombie Apocalypse",
+    "post_type": "movie",
+    "tmdb_id": 75735,
+    "imdb_id": "tt1876547",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2191503749"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1869127878"
+            }
+        ]
+    }
+}

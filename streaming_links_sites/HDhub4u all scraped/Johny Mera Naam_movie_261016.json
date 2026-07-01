@@ -1,0 +1,29 @@
+{
+    "post_title": "Johny Mera Naam",
+    "post_type": "movie",
+    "tmdb_id": 261016,
+    "imdb_id": "tt0154685",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1742855853"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1763536498"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4975720352"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "post_title": "I Am Groot",
+    "post_type": "series",
+    "tmdb_id": 232125,
+    "imdb_id": null,
+    "languages": [
+        "English"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "2": {
+            "720p HEVC 10bit": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1694098734"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://hubdrive.tips/file/1694098735"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://hubdrive.tips/file/2033442468"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://hubdrive.tips/file/1694098736"
+                },
+                {
+                    "episode_title": "Episode 5",
+                    "link": "https://hubdrive.tips/file/1780067539"
+                }
+            ]
+        }
+    }
+}

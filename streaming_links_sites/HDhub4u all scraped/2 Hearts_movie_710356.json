@@ -1,0 +1,24 @@
+{
+    "post_title": "2 Hearts",
+    "post_type": "movie",
+    "tmdb_id": 710356,
+    "imdb_id": "tt5616176",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1838309491"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2256155889"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Howl’s Moving Castle",
+    "post_type": "movie",
+    "tmdb_id": 4935,
+    "imdb_id": "tt0347149",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2059633595"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2961344792"
+            }
+        ]
+    }
+}

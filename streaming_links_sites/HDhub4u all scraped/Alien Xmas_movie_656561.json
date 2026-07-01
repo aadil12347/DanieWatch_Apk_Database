@@ -1,0 +1,30 @@
+{
+    "post_title": "Alien Xmas",
+    "post_type": "movie",
+    "tmdb_id": 656561,
+    "imdb_id": "tt11332750",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1876610494"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2554826655"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2514973803"
+            }
+        ]
+    }
+}

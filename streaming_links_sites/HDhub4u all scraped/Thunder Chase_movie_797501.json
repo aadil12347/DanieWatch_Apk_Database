@@ -1,0 +1,30 @@
+{
+    "post_title": "Thunder Chase",
+    "post_type": "movie",
+    "tmdb_id": 797501,
+    "imdb_id": "tt13835330",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1990566177"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2082642570"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2035807015"
+            }
+        ]
+    }
+}

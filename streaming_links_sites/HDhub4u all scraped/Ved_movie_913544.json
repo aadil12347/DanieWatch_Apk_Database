@@ -1,0 +1,29 @@
+{
+    "post_title": "Ved",
+    "post_type": "movie",
+    "tmdb_id": 913544,
+    "imdb_id": "tt20854842",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1682653120"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1682653118"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1682653117"
+            }
+        ]
+    }
+}

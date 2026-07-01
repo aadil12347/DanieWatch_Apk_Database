@@ -1,0 +1,24 @@
+{
+    "post_title": "American Hunt",
+    "post_type": "movie",
+    "tmdb_id": 639477,
+    "imdb_id": "tt8918392",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1779780546"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2501290009"
+            }
+        ]
+    }
+}

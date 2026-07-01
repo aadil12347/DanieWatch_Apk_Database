@@ -1,0 +1,29 @@
+{
+    "post_title": "Yaar Mera Titliaan Warga",
+    "post_type": "movie",
+    "tmdb_id": 1018089,
+    "imdb_id": "tt21480388",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1983814646"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2518203763"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3579172211"
+            }
+        ]
+    }
+}

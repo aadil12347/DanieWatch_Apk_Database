@@ -1,0 +1,23 @@
+{
+    "post_title": "Antlers",
+    "post_type": "movie",
+    "tmdb_id": 516329,
+    "imdb_id": "tt7740510",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1933649898"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2142474364"
+            }
+        ]
+    }
+}

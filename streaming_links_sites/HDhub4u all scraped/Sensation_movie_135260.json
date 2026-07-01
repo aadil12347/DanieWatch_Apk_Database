@@ -1,0 +1,23 @@
+{
+    "post_title": "Sensation",
+    "post_type": "movie",
+    "tmdb_id": 135260,
+    "imdb_id": "tt10247678",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1748234876"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1942542431"
+            }
+        ]
+    }
+}

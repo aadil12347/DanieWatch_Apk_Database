@@ -1,0 +1,30 @@
+{
+    "post_title": "Steve Jobs",
+    "post_type": "movie",
+    "tmdb_id": 321697,
+    "imdb_id": "tt2080374",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1850575927"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1985166474"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3585400208"
+            }
+        ]
+    }
+}

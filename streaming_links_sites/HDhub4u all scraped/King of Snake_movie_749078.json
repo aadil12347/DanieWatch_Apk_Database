@@ -1,0 +1,24 @@
+{
+    "post_title": "King of Snake",
+    "post_type": "movie",
+    "tmdb_id": 749078,
+    "imdb_id": "tt15048054",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1804151022"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2343019043"
+            }
+        ]
+    }
+}

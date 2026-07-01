@@ -1,0 +1,24 @@
+{
+    "post_title": "Awareness",
+    "post_type": "movie",
+    "tmdb_id": 1067820,
+    "imdb_id": "tt18556326",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1697005655"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1697005630"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "The Good Girl",
+    "post_type": "movie",
+    "tmdb_id": 9962,
+    "imdb_id": "tt0279113",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1711421002"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2114025850"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3031731952"
+            }
+        ]
+    }
+}

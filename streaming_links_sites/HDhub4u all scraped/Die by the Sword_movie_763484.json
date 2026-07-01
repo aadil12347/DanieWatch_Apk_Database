@@ -1,0 +1,24 @@
+{
+    "post_title": "Die by the Sword",
+    "post_type": "movie",
+    "tmdb_id": 763484,
+    "imdb_id": "tt12484058",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1844630748"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1918698723"
+            }
+        ]
+    }
+}

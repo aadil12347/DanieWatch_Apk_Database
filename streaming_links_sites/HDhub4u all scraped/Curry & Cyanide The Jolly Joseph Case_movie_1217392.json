@@ -1,0 +1,36 @@
+{
+    "post_title": "Curry & Cyanide: The Jolly Joseph Case",
+    "post_type": "movie",
+    "tmdb_id": 1217392,
+    "imdb_id": "tt30177031",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1703248413"
+            }
+        ],
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1703269657"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1703248410"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1703248408"
+            }
+        ]
+    }
+}

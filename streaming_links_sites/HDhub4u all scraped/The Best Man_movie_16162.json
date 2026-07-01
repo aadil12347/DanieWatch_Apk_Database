@@ -1,0 +1,29 @@
+{
+    "post_title": "The Best Man",
+    "post_type": "movie",
+    "tmdb_id": 16162,
+    "imdb_id": "tt13400336",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1684562351"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1684562349"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1684562347"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Acid Test",
+    "post_type": "movie",
+    "tmdb_id": 945916,
+    "imdb_id": "tt12385296",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1708750346"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1708750342"
+            }
+        ]
+    }
+}

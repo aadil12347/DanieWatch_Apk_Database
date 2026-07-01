@@ -1,0 +1,23 @@
+{
+    "post_title": "Apocalypse Clown",
+    "post_type": "movie",
+    "tmdb_id": 1031306,
+    "imdb_id": "tt13932844",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698301370"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698301368"
+            }
+        ]
+    }
+}

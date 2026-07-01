@@ -1,0 +1,24 @@
+{
+    "post_title": "Gravity",
+    "post_type": "movie",
+    "tmdb_id": 49047,
+    "imdb_id": "tt1454468",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2408137936"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2591551172"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Haunted 2: Apparitions",
+    "post_type": "movie",
+    "tmdb_id": 575141,
+    "imdb_id": "tt2281442",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1684200974"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1684200972"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Marriage Palace",
+    "post_type": "movie",
+    "tmdb_id": 564356,
+    "imdb_id": "tt8852242",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2058107736"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1851805423"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3728305042"
+            }
+        ]
+    }
+}

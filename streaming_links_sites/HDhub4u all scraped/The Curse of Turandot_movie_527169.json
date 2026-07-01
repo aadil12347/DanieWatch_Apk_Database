@@ -1,0 +1,30 @@
+{
+    "post_title": "The Curse of Turandot",
+    "post_type": "movie",
+    "tmdb_id": 527169,
+    "imdb_id": "tt6703486",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1762798539"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1908050956"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1908050956"
+            }
+        ]
+    }
+}

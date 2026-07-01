@@ -1,0 +1,24 @@
+{
+    "post_title": "In the Name of the King 3",
+    "post_type": "movie",
+    "tmdb_id": 252360,
+    "imdb_id": "tt2379386",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1913075352"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2524235720"
+            }
+        ]
+    }
+}

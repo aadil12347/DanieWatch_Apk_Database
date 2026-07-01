@@ -1,0 +1,29 @@
+{
+    "post_title": "Detective Knight Rogue",
+    "post_type": "movie",
+    "tmdb_id": 1024546,
+    "imdb_id": "tt21435436",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1847313647"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2574857110"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2365911134"
+            }
+        ]
+    }
+}

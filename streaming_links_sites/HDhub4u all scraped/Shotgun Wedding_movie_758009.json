@@ -1,0 +1,23 @@
+{
+    "post_title": "Shotgun Wedding",
+    "post_type": "movie",
+    "tmdb_id": 758009,
+    "imdb_id": "tt9686790",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1677668010"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1827967393"
+            }
+        ]
+    }
+}

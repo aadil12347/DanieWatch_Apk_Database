@@ -1,0 +1,30 @@
+{
+    "post_title": "The Soccer Football Movie",
+    "post_type": "movie",
+    "tmdb_id": 1037858,
+    "imdb_id": "tt22774688",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1949802887"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2017132431"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2579862466"
+            }
+        ]
+    }
+}

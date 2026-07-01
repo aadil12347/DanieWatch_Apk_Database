@@ -1,0 +1,29 @@
+{
+    "post_title": "Kutte Fail",
+    "post_type": "movie",
+    "tmdb_id": 873431,
+    "imdb_id": "tt15258860",
+    "languages": [
+        "Punjabi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1009283391"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/335350099"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1768256811"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "post_title": "India’s Got Latent",
+    "post_type": "series",
+    "tmdb_id": 262838,
+    "imdb_id": "tt33094114",
+    "languages": [
+        "Hindi"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "2": {
+            "480p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1979227751"
+                }
+            ],
+            "720p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/2062699018"
+                }
+            ],
+            "720p HEVC": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/1971532514"
+                }
+            ],
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/2160034740"
+                }
+            ],
+            "4K SDR": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://hubdrive.tips/file/6487196077"
+                }
+            ]
+        }
+    }
+}

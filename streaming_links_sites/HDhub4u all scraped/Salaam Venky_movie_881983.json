@@ -1,0 +1,29 @@
+{
+    "post_title": "Salaam Venky",
+    "post_type": "movie",
+    "tmdb_id": 881983,
+    "imdb_id": "tt15567704",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2032520203"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2115438339"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1848655018"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "The Haunting of Grady Farm",
+    "post_type": "movie",
+    "tmdb_id": 750732,
+    "imdb_id": "tt5065030",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1707533351"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1707533349"
+            }
+        ]
+    }
+}

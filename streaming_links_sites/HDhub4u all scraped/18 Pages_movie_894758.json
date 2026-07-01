@@ -1,0 +1,29 @@
+{
+    "post_title": "18 Pages",
+    "post_type": "movie",
+    "tmdb_id": 894758,
+    "imdb_id": "tt11915042",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1786052516"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2278606186"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2623256527"
+            }
+        ]
+    }
+}

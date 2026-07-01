@@ -1,0 +1,23 @@
+{
+    "post_title": "Slayers",
+    "post_type": "movie",
+    "tmdb_id": 125510,
+    "imdb_id": "tt9365800",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1769521873"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2129030914"
+            }
+        ]
+    }
+}

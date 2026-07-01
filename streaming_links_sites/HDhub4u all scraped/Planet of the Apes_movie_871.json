@@ -1,0 +1,30 @@
+{
+    "post_title": "Planet of the Apes",
+    "post_type": "movie",
+    "tmdb_id": 871,
+    "imdb_id": "tt0133152",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2143390923"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2412588175"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3389982839"
+            }
+        ]
+    }
+}

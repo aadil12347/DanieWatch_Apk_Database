@@ -1,0 +1,24 @@
+{
+    "post_title": "Water Monster",
+    "post_type": "movie",
+    "tmdb_id": 615925,
+    "imdb_id": "tt15048108",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1871349874"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1655268138"
+            }
+        ]
+    }
+}

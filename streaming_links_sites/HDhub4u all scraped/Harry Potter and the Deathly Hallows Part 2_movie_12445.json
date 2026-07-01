@@ -1,0 +1,36 @@
+{
+    "post_title": "Harry Potter and the Deathly Hallows: Part 2",
+    "post_type": "movie",
+    "tmdb_id": 12445,
+    "imdb_id": "tt1201607",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2447598114"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2230784179"
+            }
+        ],
+        "1080p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3181655407"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4429322769"
+            }
+        ]
+    }
+}

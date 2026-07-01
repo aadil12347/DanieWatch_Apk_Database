@@ -1,0 +1,23 @@
+{
+    "post_title": "The Novice",
+    "post_type": "movie",
+    "tmdb_id": 821427,
+    "imdb_id": "tt11131464",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1724726160"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1937952847"
+            }
+        ]
+    }
+}

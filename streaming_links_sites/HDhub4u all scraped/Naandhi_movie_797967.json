@@ -1,0 +1,30 @@
+{
+    "post_title": "Naandhi",
+    "post_type": "movie",
+    "tmdb_id": 797967,
+    "imdb_id": "tt11773456",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1838532313"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2809747949"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2888227248"
+            }
+        ]
+    }
+}

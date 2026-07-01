@@ -1,0 +1,24 @@
+{
+    "post_title": "Altered Skin",
+    "post_type": "movie",
+    "tmdb_id": 561635,
+    "imdb_id": "tt8236848",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1679448354"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2561081545"
+            }
+        ]
+    }
+}

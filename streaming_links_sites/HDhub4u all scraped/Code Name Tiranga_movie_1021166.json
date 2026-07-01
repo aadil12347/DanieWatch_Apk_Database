@@ -1,0 +1,35 @@
+{
+    "post_title": "Code Name: Tiranga",
+    "post_type": "movie",
+    "tmdb_id": 1021166,
+    "imdb_id": "tt22099068",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/mdlku1p33ul3p3z"
+            }
+        ],
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/qodcvj81v8vvopi"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/vdn8zk8shcdvikc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/drive/bjfrrrbbxka7kky"
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "post_title": "The Last Duel",
+    "post_type": "movie",
+    "tmdb_id": 617653,
+    "imdb_id": "tt4244994",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3119748200"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3764335463"
+            }
+        ]
+    }
+}

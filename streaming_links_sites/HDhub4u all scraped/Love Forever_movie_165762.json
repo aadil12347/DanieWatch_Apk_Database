@@ -1,0 +1,28 @@
+{
+    "post_title": "Love Forever",
+    "post_type": "movie",
+    "tmdb_id": 165762,
+    "imdb_id": "tt30308957",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2081636513"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2072828898"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/5626686126"
+            }
+        ]
+    }
+}

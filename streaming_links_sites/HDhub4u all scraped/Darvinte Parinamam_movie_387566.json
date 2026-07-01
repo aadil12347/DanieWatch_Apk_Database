@@ -1,0 +1,24 @@
+{
+    "post_title": "Darvinte Parinamam",
+    "post_type": "movie",
+    "tmdb_id": 387566,
+    "imdb_id": "tt5328262",
+    "languages": [
+        "Hindi",
+        "Malayalam"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1575658539"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/538658133"
+            }
+        ]
+    }
+}

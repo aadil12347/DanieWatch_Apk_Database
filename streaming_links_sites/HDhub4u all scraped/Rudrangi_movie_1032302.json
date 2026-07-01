@@ -1,0 +1,28 @@
+{
+    "post_title": "Rudrangi",
+    "post_type": "movie",
+    "tmdb_id": 1032302,
+    "imdb_id": "tt27525239",
+    "languages": [
+        "Hindi",
+        "Telugu"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2784309563"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3225610658"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/11370173836"
+            }
+        ]
+    }
+}

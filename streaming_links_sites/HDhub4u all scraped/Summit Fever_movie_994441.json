@@ -1,0 +1,29 @@
+{
+    "post_title": "Summit Fever",
+    "post_type": "movie",
+    "tmdb_id": 994441,
+    "imdb_id": "tt8514848",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1695115422"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2999445065"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2999445065"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Do Qaidi",
+    "post_type": "movie",
+    "tmdb_id": 232488,
+    "imdb_id": "tt0359169",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2189065766"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2963390684"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2448442952"
+            }
+        ]
+    }
+}

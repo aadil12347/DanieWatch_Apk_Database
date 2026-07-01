@@ -1,0 +1,30 @@
+{
+    "post_title": "Woody Woodpecker Goes to Camp",
+    "post_type": "movie",
+    "tmdb_id": 1239146,
+    "imdb_id": "tt20221690",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2324740663"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1712949511"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1712949510"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Kingsman: The Golden Circle",
+    "post_type": "movie",
+    "tmdb_id": 343668,
+    "imdb_id": "tt4649466",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3630212480"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2188950493"
+            }
+        ]
+    }
+}

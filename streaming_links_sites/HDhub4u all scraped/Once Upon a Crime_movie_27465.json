@@ -1,0 +1,30 @@
+{
+    "post_title": "Once Upon a Crime",
+    "post_type": "movie",
+    "tmdb_id": 27465,
+    "imdb_id": "tt15944018",
+    "languages": [
+        "Hindi",
+        "Japanese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2597517041"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1694722910"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1694722909"
+            }
+        ]
+    }
+}

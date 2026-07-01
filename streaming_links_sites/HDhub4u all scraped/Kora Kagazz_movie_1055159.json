@@ -1,0 +1,29 @@
+{
+    "post_title": "Kora Kagazz",
+    "post_type": "movie",
+    "tmdb_id": 1055159,
+    "imdb_id": "tt23746426",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1732780156"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2174658727"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3284884649"
+            }
+        ]
+    }
+}

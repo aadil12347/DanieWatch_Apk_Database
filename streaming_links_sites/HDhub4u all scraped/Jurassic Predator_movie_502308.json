@@ -1,0 +1,24 @@
+{
+    "post_title": "Jurassic Predator",
+    "post_type": "movie",
+    "tmdb_id": 502308,
+    "imdb_id": "tt5001456",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1913090504"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2442681673"
+            }
+        ]
+    }
+}

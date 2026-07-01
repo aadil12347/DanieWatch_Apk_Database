@@ -1,0 +1,30 @@
+{
+    "post_title": "Brightburn",
+    "post_type": "movie",
+    "tmdb_id": 531309,
+    "imdb_id": "tt7752126",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1909016424"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2122801747"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2475114174"
+            }
+        ]
+    }
+}

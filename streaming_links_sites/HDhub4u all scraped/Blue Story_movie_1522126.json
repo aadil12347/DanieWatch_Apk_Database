@@ -1,0 +1,24 @@
+{
+    "post_title": "Blue Story",
+    "post_type": "movie",
+    "tmdb_id": 1522126,
+    "imdb_id": "tt9285882",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1811833379"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1673787902"
+            }
+        ]
+    }
+}

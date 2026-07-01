@@ -1,0 +1,24 @@
+{
+    "post_title": "The Barge People",
+    "post_type": "movie",
+    "tmdb_id": 496464,
+    "imdb_id": "tt7545216",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1745925776"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1990209235"
+            }
+        ]
+    }
+}

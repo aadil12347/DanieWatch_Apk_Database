@@ -1,0 +1,29 @@
+{
+    "post_title": "Paddington in Peru",
+    "post_type": "movie",
+    "tmdb_id": 516729,
+    "imdb_id": "tt5822536",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2021451471"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1838068979"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2048301598"
+            }
+        ]
+    }
+}

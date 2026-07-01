@@ -1,0 +1,23 @@
+{
+    "post_title": "Table No. 21",
+    "post_type": "movie",
+    "tmdb_id": 157129,
+    "imdb_id": "tt2229842",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2233015593"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3267412778"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Bob Marley: One Love",
+    "post_type": "movie",
+    "tmdb_id": 802219,
+    "imdb_id": "tt8521778",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1710832168"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3356294640"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1710832167"
+            }
+        ]
+    }
+}

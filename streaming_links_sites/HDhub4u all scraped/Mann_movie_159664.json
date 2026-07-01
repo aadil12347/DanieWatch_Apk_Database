@@ -1,0 +1,23 @@
+{
+    "post_title": "Mann",
+    "post_type": "movie",
+    "tmdb_id": 159664,
+    "imdb_id": "tt0206921",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1468873954"
+            }
+        ],
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/558804772"
+            }
+        ]
+    }
+}

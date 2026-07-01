@@ -1,0 +1,24 @@
+{
+    "post_title": "Iron Fan",
+    "post_type": "movie",
+    "tmdb_id": 107910,
+    "imdb_id": "tt4538294",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/338363463"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/928386442"
+            }
+        ]
+    }
+}

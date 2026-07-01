@@ -1,0 +1,23 @@
+{
+    "post_title": "God’s Creatures",
+    "post_type": "movie",
+    "tmdb_id": 828558,
+    "imdb_id": "tt10375396",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1915579619"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1843523440"
+            }
+        ]
+    }
+}

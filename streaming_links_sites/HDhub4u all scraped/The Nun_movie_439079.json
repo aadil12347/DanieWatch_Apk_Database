@@ -1,0 +1,24 @@
+{
+    "post_title": "The Nun",
+    "post_type": "movie",
+    "tmdb_id": 439079,
+    "imdb_id": "tt5814060",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2441094166"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1769443511"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "The Legend of Aqua Witch",
+    "post_type": "movie",
+    "tmdb_id": 1017159,
+    "imdb_id": "tt33762442",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1894226082"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2482356016"
+            }
+        ]
+    }
+}

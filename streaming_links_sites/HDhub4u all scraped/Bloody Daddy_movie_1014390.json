@@ -1,0 +1,29 @@
+{
+    "post_title": "Bloody Daddy",
+    "post_type": "movie",
+    "tmdb_id": 1014390,
+    "imdb_id": "tt14099334",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1686251002"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1686251028"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1686251072"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Bhirkit",
+    "post_type": "movie",
+    "tmdb_id": 1029948,
+    "imdb_id": "tt20244998",
+    "languages": [
+        "Marathi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1931443723"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2639958948"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2056204501"
+            }
+        ]
+    }
+}

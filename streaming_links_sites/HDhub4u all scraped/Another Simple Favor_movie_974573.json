@@ -1,0 +1,24 @@
+{
+    "post_title": "Another Simple Favor",
+    "post_type": "movie",
+    "tmdb_id": 974573,
+    "imdb_id": "tt20214908",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1790256809"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3844465714"
+            }
+        ]
+    }
+}

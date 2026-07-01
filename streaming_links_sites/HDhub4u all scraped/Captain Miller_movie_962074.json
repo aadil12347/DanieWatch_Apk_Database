@@ -1,0 +1,29 @@
+{
+    "post_title": "Captain Miller",
+    "post_type": "movie",
+    "tmdb_id": 962074,
+    "imdb_id": "tt22170036",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1709873548"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1709873571"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1709873505"
+            }
+        ]
+    }
+}

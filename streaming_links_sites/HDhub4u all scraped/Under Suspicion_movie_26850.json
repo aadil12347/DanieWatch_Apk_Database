@@ -1,0 +1,24 @@
+{
+    "post_title": "Under Suspicion",
+    "post_type": "movie",
+    "tmdb_id": 26850,
+    "imdb_id": "tt0164212",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2060012640"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2445696773"
+            }
+        ]
+    }
+}

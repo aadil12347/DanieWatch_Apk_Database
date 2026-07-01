@@ -1,0 +1,23 @@
+{
+    "post_title": "The Lost King",
+    "post_type": "movie",
+    "tmdb_id": 914216,
+    "imdb_id": "tt13421498",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1891252486"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1704997899"
+            }
+        ]
+    }
+}

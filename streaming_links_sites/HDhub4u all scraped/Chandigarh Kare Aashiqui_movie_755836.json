@@ -1,0 +1,35 @@
+{
+    "post_title": "Chandigarh Kare Aashiqui",
+    "post_type": "movie",
+    "tmdb_id": 755836,
+    "imdb_id": "tt12861850",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1657342129"
+            }
+        ],
+        "720p HEVC": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1935356329"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2273475798"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3946733480"
+            }
+        ]
+    }
+}

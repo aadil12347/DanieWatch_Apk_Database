@@ -1,0 +1,36 @@
+{
+    "post_title": "PAW Patrol: The Mighty Movie",
+    "post_type": "movie",
+    "tmdb_id": 893723,
+    "imdb_id": "tt15837338",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3023273318"
+            }
+        ],
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698764108"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1734638360"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1698764107"
+            }
+        ]
+    }
+}

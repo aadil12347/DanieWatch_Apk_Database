@@ -1,0 +1,30 @@
+{
+    "post_title": "Die Another Day",
+    "post_type": "movie",
+    "tmdb_id": 36669,
+    "imdb_id": "tt0246460",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2142110457"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2432850981"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3331442983"
+            }
+        ]
+    }
+}

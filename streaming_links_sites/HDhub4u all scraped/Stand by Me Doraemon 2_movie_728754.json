@@ -1,0 +1,29 @@
+{
+    "post_title": "Stand by Me Doraemon 2",
+    "post_type": "movie",
+    "tmdb_id": 728754,
+    "imdb_id": "tt13428402",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1858255357"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2000413026"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2364706212"
+            }
+        ]
+    }
+}

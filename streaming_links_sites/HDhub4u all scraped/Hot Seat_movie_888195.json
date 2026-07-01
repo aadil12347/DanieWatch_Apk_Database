@@ -1,0 +1,24 @@
+{
+    "post_title": "Hot Seat",
+    "post_type": "movie",
+    "tmdb_id": 888195,
+    "imdb_id": "tt15690300",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1687768288"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2264435666"
+            }
+        ]
+    }
+}

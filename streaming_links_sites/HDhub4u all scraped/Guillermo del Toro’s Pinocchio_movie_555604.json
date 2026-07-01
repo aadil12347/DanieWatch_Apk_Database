@@ -1,0 +1,30 @@
+{
+    "post_title": "Guillermo del Toro’s Pinocchio",
+    "post_type": "movie",
+    "tmdb_id": 555604,
+    "imdb_id": "tt1488589",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1750156716"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2711574807"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3778033663"
+            }
+        ]
+    }
+}

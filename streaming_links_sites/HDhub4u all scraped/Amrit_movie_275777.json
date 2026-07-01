@@ -1,0 +1,29 @@
+{
+    "post_title": "Amrit",
+    "post_type": "movie",
+    "tmdb_id": 275777,
+    "imdb_id": "tt0233206",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1874124797"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2858462859"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3854114690"
+            }
+        ]
+    }
+}

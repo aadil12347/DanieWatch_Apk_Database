@@ -1,0 +1,30 @@
+{
+    "post_title": "Project Wolf Hunting",
+    "post_type": "movie",
+    "tmdb_id": 799379,
+    "imdb_id": "tt15575470",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1917829710"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2620287953"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2142388832"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Treasure Planet",
+    "post_type": "movie",
+    "tmdb_id": 9016,
+    "imdb_id": "tt0133240",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1936197606"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/4313224673"
+            }
+        ]
+    }
+}

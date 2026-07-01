@@ -1,0 +1,30 @@
+{
+    "post_title": "Legend of the Demon Cat",
+    "post_type": "movie",
+    "tmdb_id": 434221,
+    "imdb_id": "tt6157626",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1867207377"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2249720784"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3639512017"
+            }
+        ]
+    }
+}

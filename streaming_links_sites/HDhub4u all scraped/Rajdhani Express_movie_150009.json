@@ -1,0 +1,29 @@
+{
+    "post_title": "Rajdhani Express",
+    "post_type": "movie",
+    "tmdb_id": 150009,
+    "imdb_id": "tt2560016",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1801802418"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2118892661"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2607692818"
+            }
+        ]
+    }
+}

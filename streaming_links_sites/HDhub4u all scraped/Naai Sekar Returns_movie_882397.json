@@ -1,0 +1,29 @@
+{
+    "post_title": "Naai Sekar Returns",
+    "post_type": "movie",
+    "tmdb_id": 882397,
+    "imdb_id": "tt15326968",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1861801019"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2018370118"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2235261965"
+            }
+        ]
+    }
+}

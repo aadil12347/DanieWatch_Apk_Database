@@ -1,0 +1,29 @@
+{
+    "post_title": "Ajab Prem Ki Ghazab Kahani",
+    "post_type": "movie",
+    "tmdb_id": 24827,
+    "imdb_id": "tt1252596",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2126893679"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2804754676"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/3795588822"
+            }
+        ]
+    }
+}

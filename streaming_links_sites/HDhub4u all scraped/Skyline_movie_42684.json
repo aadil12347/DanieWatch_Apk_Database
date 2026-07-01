@@ -1,0 +1,30 @@
+{
+    "post_title": "Skyline",
+    "post_type": "movie",
+    "tmdb_id": 42684,
+    "imdb_id": "tt1564585",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1870497085"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2118042450"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2177031211"
+            }
+        ]
+    }
+}

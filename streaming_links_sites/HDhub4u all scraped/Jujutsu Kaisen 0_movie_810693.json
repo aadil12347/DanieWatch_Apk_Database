@@ -1,0 +1,40 @@
+{
+    "post_title": "Jujutsu Kaisen 0",
+    "post_type": "movie",
+    "tmdb_id": 810693,
+    "imdb_id": "tt14331144",
+    "languages": [
+        "English",
+        "Japanese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1969370335"
+            }
+        ],
+        "720p HEVC 10bit": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1826494989"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1826494989"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1826494989"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://hubdrive.tips/file/2934033236"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Wrong Turn : The Foundation",
+    "post_type": "movie",
+    "tmdb_id": 630586,
+    "imdb_id": "tt9110170",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1771177132"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2213716331"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2521848377"
+            }
+        ]
+    }
+}

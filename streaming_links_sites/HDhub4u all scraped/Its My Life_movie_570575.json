@@ -1,0 +1,23 @@
+{
+    "post_title": "Its My Life",
+    "post_type": "movie",
+    "tmdb_id": 570575,
+    "imdb_id": "tt13404870",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/It's.My.Life.2020.Hindi.480p.HDTV.AAC.x264-HDHub4u.cc.mkv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubcloud.cx/It's.My.Life.2020.Hindi.720p.HDTV.AAC.x264-HDHub4u.cc.mkv"
+            }
+        ]
+    }
+}

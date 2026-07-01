@@ -1,0 +1,23 @@
+{
+    "post_title": "Rubikon",
+    "post_type": "movie",
+    "tmdb_id": 793961,
+    "imdb_id": "tt13829262",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1832676225"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2478901069"
+            }
+        ]
+    }
+}

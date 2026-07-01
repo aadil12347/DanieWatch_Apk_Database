@@ -1,0 +1,24 @@
+{
+    "post_title": "The Remaining",
+    "post_type": "movie",
+    "tmdb_id": 280002,
+    "imdb_id": "tt2714380",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/1977020117"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://hubdrive.tips/file/2249444168"
+            }
+        ]
+    }
+}
