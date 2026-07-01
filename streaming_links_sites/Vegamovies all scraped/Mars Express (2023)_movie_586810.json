@@ -1,0 +1,30 @@
+{
+    "post_title": "Mars Express (2023)",
+    "post_type": "movie",
+    "tmdb_id": 586810,
+    "imdb_id": "tt26915336",
+    "languages": [
+        "Hindi",
+        "French"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/celeuap5pkv9dvn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oh553coihon3z-c"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/33rwhrqn1m_wwht"
+            }
+        ]
+    }
+}

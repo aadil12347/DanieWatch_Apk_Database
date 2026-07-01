@@ -1,0 +1,42 @@
+{
+    "post_title": "Jackass Forever (2022)",
+    "post_type": "movie",
+    "tmdb_id": 656663,
+    "imdb_id": "tt11466222",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7sv759quio7us85"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/_lddhms1_mqdiel"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vcatvvcnvpwndtp"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ufvc_w2uhwkvcvd"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fodjer1esl3ggld"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/g7jlypllv1t1ye7"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Nimona (2023)",
+    "post_type": "movie",
+    "tmdb_id": 961323,
+    "imdb_id": "tt19500164",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/u1vuvfeevg0vvuh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ks1djs0wnzo9ne4"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vv6sxqgvxvzigxb"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/skdrqfi1lmf1cen"
+            }
+        ]
+    }
+}

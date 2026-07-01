@@ -1,0 +1,25 @@
+{
+    "post_title": "Oscar (1991)",
+    "post_type": "movie",
+    "tmdb_id": 11890,
+    "imdb_id": "tt0102603",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=ZFF2WmQrSUVtaEd2bmI1YnV0V0VMRVl2UWo2djA2SEtEMFVKSDdEaUJhUC9PZkd2S1l0TzNsVzU4VVBTSXd2cA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=c2Y2WVd0RUlHNWdpRFFBWW5EWUxkUHI3cVh5b2h1enNVOGRrUC9uTS9NUWd1bi92YUVOZTNmbjhlNjBXVTBsQQ=="
+            }
+        ],
+        "1080p": []
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Salute (2022)",
+    "post_type": "movie",
+    "tmdb_id": 803666,
+    "imdb_id": "tt13978658",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/owitv9o__gw45xv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hvkh1x8x2sxb1zx"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/6oln8lcgkw9oo93"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xw7b25sw2b1sa2t"
+            }
+        ]
+    }
+}

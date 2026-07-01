@@ -1,0 +1,29 @@
+{
+    "post_title": "The Thursday Murder Club (2025)",
+    "post_type": "movie",
+    "tmdb_id": 744653,
+    "imdb_id": "tt12001534",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m7lqqcleol99l0s"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/rf4runsrfsunycw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b-admmmm1bmw1dj"
+            }
+        ]
+    }
+}

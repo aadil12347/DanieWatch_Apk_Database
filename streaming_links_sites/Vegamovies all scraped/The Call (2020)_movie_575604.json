@@ -1,0 +1,35 @@
+{
+    "post_title": "The Call (2020)",
+    "post_type": "movie",
+    "tmdb_id": 575604,
+    "imdb_id": "tt10530176",
+    "languages": [
+        "Hindi",
+        "English",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zvu8uvlr1wczhbw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oceguebhhzvxnog"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/5qadt5ab9mtaqgy"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kdxk1x1kxyxi9km"
+            }
+        ]
+    }
+}

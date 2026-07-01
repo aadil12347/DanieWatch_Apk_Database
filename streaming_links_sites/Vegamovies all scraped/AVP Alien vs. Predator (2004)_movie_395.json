@@ -1,0 +1,34 @@
+{
+    "post_title": "AVP: Alien vs. Predator (2004)",
+    "post_type": "movie",
+    "tmdb_id": 395,
+    "imdb_id": "tt0370263",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=aExsZG1uZzhqMkNDWXlFc1U3KzBReGhrY1g0aVNiZGh3L3I0QkMxRElyZnlLNUxYenhpekNsRlQ4TERiZ3JpVg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=eTB2dDFaQ2ZDN0UvTmhkVlpRSkw3RDE1RXoveFhuNHJJS29XM3dpcGwyeVNtUXJtdlVndnowNjF1NC8yYnF1dQ=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vv1rr-ttbj8vzdv"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vwr6sftdftfz611"
+            }
+        ]
+    }
+}

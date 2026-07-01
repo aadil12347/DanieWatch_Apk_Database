@@ -1,0 +1,30 @@
+{
+    "post_title": "Two (2021)",
+    "post_type": "movie",
+    "tmdb_id": 811072,
+    "imdb_id": "tt12358104",
+    "languages": [
+        "English",
+        "Spanish"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/luciuepvqqmnshm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mdp7mw3kmr1m2cb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wkfvowdtkvforxw"
+            }
+        ]
+    }
+}

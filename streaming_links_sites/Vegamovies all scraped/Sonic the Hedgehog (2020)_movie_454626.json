@@ -1,0 +1,44 @@
+{
+    "post_title": "Sonic the Hedgehog (2020)",
+    "post_type": "movie",
+    "tmdb_id": 454626,
+    "imdb_id": "tt3794354",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=ZGxhNEYzWUVrZXFJNFVUN2RWeDZVSnAwNmFRMG5YOW5WVE9aZ0pWQmlYcGpXV21YVzliUVJob2w1Rmc0Y2cxeg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wdpfjzsdyq_xjjs"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/nzz3wslrzuiwezz"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3fww7nhvnnf9zzc"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/amgvaate09eigei"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w1sfmjlqluw2usj"
+            }
+        ]
+    }
+}

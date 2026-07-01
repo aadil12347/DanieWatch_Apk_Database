@@ -1,0 +1,30 @@
+{
+    "post_title": "Space Pups (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1071866,
+    "imdb_id": "tt13932976",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x06dphjjcxzzmbq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5ohlfosnlcepqh1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/csbetfoi4gb3ikf"
+            }
+        ]
+    }
+}

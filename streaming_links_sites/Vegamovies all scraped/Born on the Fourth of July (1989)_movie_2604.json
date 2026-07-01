@@ -1,0 +1,25 @@
+{
+    "post_title": "Born on the Fourth of July (1989)",
+    "post_type": "movie",
+    "tmdb_id": 2604,
+    "imdb_id": "tt0096969",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[Login]",
+                "link": "https://vcloud.zip/api/index.php?link=aTM5Z1VtVm84YWF4amhkVTVlZVpYZ1AwTXNvZnh0VzJleFFPaXFpR095ZVVXUUtMOERkY21STEhnZ0FKNi9vSQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[Login]",
+                "link": "https://vcloud.zip/api/index.php?link=NnhGbGltYWVIRVRWclR0Tjc3c1ZXUXdPT3BLMDZGVEU0ZGpQWjdoWDBvUnJuWHJoSVRCbFNEdTdRbUNNeENkUQ=="
+            }
+        ],
+        "1080p": []
+    }
+}

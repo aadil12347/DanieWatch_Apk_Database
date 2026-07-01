@@ -1,0 +1,34 @@
+{
+    "post_title": "The Protégé (2021)",
+    "post_type": "movie",
+    "tmdb_id": 645788,
+    "imdb_id": "tt6079772",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1lvliry6ayliobm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k_viopjwk-qhfoo"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/0rnsglxpx40g-pg"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/88jzadp812q82wc"
+            }
+        ]
+    }
+}

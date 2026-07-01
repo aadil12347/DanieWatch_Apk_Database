@@ -1,0 +1,34 @@
+{
+    "post_title": "The Jungle Book (1967)",
+    "post_type": "movie",
+    "tmdb_id": 9325,
+    "imdb_id": "tt0061852",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1wv71pivqpbhhhw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wwln7z73t3nwjgn"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ggpk1gkpywcxwua"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w4oroyc-ojruecy"
+            }
+        ]
+    }
+}

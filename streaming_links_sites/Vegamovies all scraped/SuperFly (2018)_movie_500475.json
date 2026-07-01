@@ -1,0 +1,34 @@
+{
+    "post_title": "SuperFly (2018)",
+    "post_type": "movie",
+    "tmdb_id": 500475,
+    "imdb_id": "tt7690670",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h7ruuerurnunfu_"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xtqtddvsx_hdiix"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/9lwb88cbd8bbubi"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/apymmmmikmfi4df"
+            }
+        ]
+    }
+}

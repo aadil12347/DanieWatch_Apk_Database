@@ -1,0 +1,36 @@
+{
+    "post_title": "Sing 2 (2021)",
+    "post_type": "movie",
+    "tmdb_id": 438695,
+    "imdb_id": "tt6467266",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qdvppnyduatnqyt"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4qdfepqvioonqvq"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zb5d5pl_frfgykl"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ytxyarfx9xkl4k9"
+            }
+        ]
+    }
+}

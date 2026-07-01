@@ -1,0 +1,34 @@
+{
+    "post_title": "Zoolander (2001)",
+    "post_type": "movie",
+    "tmdb_id": 9398,
+    "imdb_id": "tt0196229",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1z0iaw1ziio-7zi"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pce2jxjvpa1j2ov"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/kf1mu6nnofpamec"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vbi_eb_eejxim11"
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "post_title": "Emily the Criminal (2022)",
+    "post_type": "movie",
+    "tmdb_id": 862965,
+    "imdb_id": "tt15255876",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7gjydo8yvm-3tum"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/eppgxo1wdilywli"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1ie9ptpbitvzhke"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ie1zbbza-ew6pwb"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/ctx_ctfzut1hjt_"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ucdnegqfnsfgnq6"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/hmypjsg6qjmjhpw"
+            }
+        ]
+    }
+}

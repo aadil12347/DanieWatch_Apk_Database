@@ -1,0 +1,34 @@
+{
+    "post_title": "The Match (2021)",
+    "post_type": "movie",
+    "tmdb_id": 840283,
+    "imdb_id": "tt6639482",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/66lvxueajannfbo"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2prrtodjwa2m1ji"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mkyvmtdr6ztvlbv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5nk5n5np2--cakw"
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "post_title": "Glass Onion: A Knives Out Mystery (2022)",
+    "post_type": "movie",
+    "tmdb_id": 661374,
+    "imdb_id": "tt11564570",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yejn1sge1seyyuf"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8orivoobpcox8vm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/bzo05pzdbsbij1r"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xiamgwmm2vtivi5"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/fvtinqssjccncnh"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Dolly (2026)",
+    "post_type": "movie",
+    "tmdb_id": 1309083,
+    "imdb_id": "tt32639175",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/16rva9lq8yrt6q9"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ch68rt4epjnpwom"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nbamgufum4uzkzn"
+            }
+        ]
+    }
+}

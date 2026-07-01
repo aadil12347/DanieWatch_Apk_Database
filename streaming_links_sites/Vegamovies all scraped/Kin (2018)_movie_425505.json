@@ -1,0 +1,30 @@
+{
+    "post_title": "Kin (2018)",
+    "post_type": "movie",
+    "tmdb_id": 425505,
+    "imdb_id": "tt6017942",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fy3fzfcjciffo1i"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/aabidkiibaaasvs"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pviy8iqo8juyy4q"
+            }
+        ]
+    }
+}

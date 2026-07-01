@@ -1,0 +1,29 @@
+{
+    "post_title": "Werewolf by Night (2022)",
+    "post_type": "movie",
+    "tmdb_id": 894205,
+    "imdb_id": "tt15318872",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zos3ckcsm933mzs"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zyy1kizzlaiztko"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/so0rtncoccnrcjt"
+            }
+        ]
+    }
+}

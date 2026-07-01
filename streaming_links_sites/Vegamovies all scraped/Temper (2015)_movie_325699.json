@@ -1,0 +1,29 @@
+{
+    "post_title": "Temper (2015)",
+    "post_type": "movie",
+    "tmdb_id": 325699,
+    "imdb_id": "tt4442758",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=QnBqMlZ5ZHNOVGQ5RzN5VzZNMTVFbTQycGpPYm5vcWJNTkdTVTl3QTRmMmswMzU1SUpjVU52ZXJJWVh2am5QbA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=ZjdvOURvTFJQYlA2TTlla2UvMnVVa1JhcFJXc0ltM3VGR0JwK2ozMEZ5MXpTUmZQL1dPbE9wZXJKNmZLT0JCNw=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dbbdpuuw-tuw2mu"
+            }
+        ]
+    }
+}

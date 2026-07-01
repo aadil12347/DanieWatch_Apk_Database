@@ -1,0 +1,39 @@
+{
+    "post_title": "Pavane (2026)",
+    "post_type": "movie",
+    "tmdb_id": 1268609,
+    "imdb_id": "tt39387657",
+    "languages": [
+        "Hindi",
+        "English",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b1414bsz3diszbw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qiwp4aepldih1kd"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/8-iyzx-xqf--gcv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nsczc11eekjbyzs"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/6dzvj61915c7knz"
+            }
+        ]
+    }
+}

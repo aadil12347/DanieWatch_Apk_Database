@@ -1,0 +1,25 @@
+{
+    "post_title": "Replicant (2001)",
+    "post_type": "movie",
+    "tmdb_id": 10596,
+    "imdb_id": "tt0238552",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=VXBMcDVJSFpaU3JCeXlGbXJrTC9ZOGFvOXYxVmtEaUx0eDF6SDhsTkRRZFh2cVIxWkhOM0xXd1lsTUNtYnFXcg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=WDBZaFlYN1dJMUQ4RWJSYUpraHA1N2x2c3Jvb2lqZFprbGluaGZFMW93YTdhVGlRQ25OVGM5ZVlwM3h1VXozUA=="
+            }
+        ],
+        "1080p": []
+    }
+}

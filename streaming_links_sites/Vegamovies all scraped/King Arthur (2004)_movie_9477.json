@@ -1,0 +1,34 @@
+{
+    "post_title": "King Arthur (2004)",
+    "post_type": "movie",
+    "tmdb_id": 9477,
+    "imdb_id": "tt0349683",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=c0t1bmNSeVpaeHhtWnVDUUxuY0p4MDlGcEVFckhCU0VDOW50ZG5pUnpzdGcxNVd0UmFjb0Q1a3dyaEpLSjg5Uw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=a0k4c2o3UkFNVW8yNG1JUVF5bEJiM01hYythdi9KVzROLzdyeHBnTm8zMzJlT1dPcEEvdWx4VzZpcWMrQzRkcA=="
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/a_jkc5rkl_1qsj1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vf6lvhqgdhkfi6e"
+            }
+        ]
+    }
+}

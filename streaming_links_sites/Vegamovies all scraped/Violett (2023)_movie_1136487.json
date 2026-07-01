@@ -1,0 +1,29 @@
+{
+    "post_title": "Violett (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1136487,
+    "imdb_id": "tt15417358",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ixpj44kp4v6jcw4"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g9mqd9g1g-1qgdj"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-32jcbzbkzxpllk"
+            }
+        ]
+    }
+}

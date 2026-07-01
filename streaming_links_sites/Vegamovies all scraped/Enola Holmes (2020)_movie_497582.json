@@ -1,0 +1,30 @@
+{
+    "post_title": "Enola Holmes (2020)",
+    "post_type": "movie",
+    "tmdb_id": 497582,
+    "imdb_id": "tt7846844",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=VDN5RUxLK0JVcWk2UzVNTmlUR1V5M1FOdS9qOGJiMUtzMFZ2QysxWG91K3U4cUxGSC92clJXNWJGTjBzZFpBYQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=UHBZQmVUck1IY3prSXFWdUNNVldXK215VDc3ZlI1bXNIMXd0YlVXZ2RZaWRKK3lHSXdXcEVTUnlTZ0JPOTBaSg=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kk2ekpbqsklu2ky"
+            }
+        ]
+    }
+}

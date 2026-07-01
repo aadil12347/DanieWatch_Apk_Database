@@ -1,0 +1,34 @@
+{
+    "post_title": "John Carter (2012)",
+    "post_type": "movie",
+    "tmdb_id": 49529,
+    "imdb_id": "tt0401729",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zzdq9f9vn6nqsff"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3_q3_9xf3rq9wa8"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/efj9mlbcbs0whsf"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1wwgluunln1zmnn"
+            }
+        ]
+    }
+}

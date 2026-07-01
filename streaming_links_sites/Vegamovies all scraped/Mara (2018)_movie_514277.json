@@ -1,0 +1,38 @@
+{
+    "post_title": "Mara (2018)",
+    "post_type": "movie",
+    "tmdb_id": 514277,
+    "imdb_id": "tt1773753",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/r23kbjt1v4the2q"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1olosaeoapej1ms"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/4bu1vk_wj_mjj0i"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dvfix97htilht_h"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/deanp1lbzlxa11z"
+            }
+        ]
+    }
+}

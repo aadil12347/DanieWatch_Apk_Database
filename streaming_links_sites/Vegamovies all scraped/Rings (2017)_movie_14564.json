@@ -1,0 +1,30 @@
+{
+    "post_title": "Rings (2017)",
+    "post_type": "movie",
+    "tmdb_id": 14564,
+    "imdb_id": "tt0498381",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qk3laxvk1qpm7v2"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ogl9n19ncizzb9l"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hett7lt9a_ahnvr"
+            }
+        ]
+    }
+}

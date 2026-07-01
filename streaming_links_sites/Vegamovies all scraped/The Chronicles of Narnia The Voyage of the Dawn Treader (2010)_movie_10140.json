@@ -1,0 +1,38 @@
+{
+    "post_title": "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)",
+    "post_type": "movie",
+    "tmdb_id": 10140,
+    "imdb_id": "tt0980970",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pclc1vl--5mjyhm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qkv5feqzvszq4nb"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vghei6rvp-ekvp-"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xbsbszdxr-srsxz"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1xf2oyodqao2qr_"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Employee of the Month (2022)",
+    "post_type": "movie",
+    "tmdb_id": 965024,
+    "imdb_id": "tt12471970",
+    "languages": [
+        "Hindi",
+        "French"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v-pf41y2bfy4rey"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eobiuiiiei53jit"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x1ktqsksxqmdifd"
+            }
+        ]
+    }
+}

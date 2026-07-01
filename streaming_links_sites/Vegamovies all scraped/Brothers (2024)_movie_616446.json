@@ -1,0 +1,40 @@
+{
+    "post_title": "Brothers (2024)",
+    "post_type": "movie",
+    "tmdb_id": 616446,
+    "imdb_id": "tt9860566",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1p7ddzwdrwxfmfp"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/is7uk06upijk_ei"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f9sx_g1b2qyf1b_"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/fznud53fo5f-ima"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6rruy62gm76s6s_"
+            }
+        ]
+    }
+}

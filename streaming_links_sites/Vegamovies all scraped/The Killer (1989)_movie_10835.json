@@ -1,0 +1,35 @@
+{
+    "post_title": "The Killer (1989)",
+    "post_type": "movie",
+    "tmdb_id": 10835,
+    "imdb_id": "tt0097202",
+    "languages": [
+        "Hindi",
+        "English",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rjmtsxnxtkdt_j2"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dwxwxf2vnkfxtd2"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/0h2gqy693qzu022"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t8bhubgoho4uabt"
+            }
+        ]
+    }
+}

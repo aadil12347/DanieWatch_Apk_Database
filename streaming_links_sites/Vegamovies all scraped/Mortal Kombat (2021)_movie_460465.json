@@ -1,0 +1,40 @@
+{
+    "post_title": "Mortal Kombat (2021)",
+    "post_type": "movie",
+    "tmdb_id": 460465,
+    "imdb_id": "tt0293429",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jya6rct7_asac2a"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4vqplv1q4hlc1v4"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/y0g1x1hd4hy4u15"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/-gngfpph2y2fyjh"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eg1-1did6v1vtot"
+            }
+        ]
+    }
+}

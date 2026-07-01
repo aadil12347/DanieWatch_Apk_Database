@@ -1,0 +1,30 @@
+{
+    "post_title": "One Piece: The Movie (2000)",
+    "post_type": "movie",
+    "tmdb_id": 19576,
+    "imdb_id": "tt0814243",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bg76e1is1fi8g3g"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tb6-bc6e6p1n36u"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ely0c7f5gncl707"
+            }
+        ]
+    }
+}

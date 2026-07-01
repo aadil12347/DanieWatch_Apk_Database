@@ -1,0 +1,44 @@
+{
+    "post_title": "Wonder Woman 1984 (2020)",
+    "post_type": "movie",
+    "tmdb_id": 464052,
+    "imdb_id": "tt7126948",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yoodaed_cy-1bl4"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ifbh8hrv4bqvm6m"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/p_pxkkep1ek5zdd"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i1v1uncopbex1lv"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/gbnv0d55gbddvch"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/do88ldfjdbikdns"
+            }
+        ]
+    }
+}

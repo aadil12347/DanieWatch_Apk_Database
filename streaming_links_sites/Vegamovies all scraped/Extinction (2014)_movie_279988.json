@@ -1,0 +1,34 @@
+{
+    "post_title": "Extinction (2014)",
+    "post_type": "movie",
+    "tmdb_id": 279988,
+    "imdb_id": "tt3033080",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8iii9vv9k9tvkkb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f5gi3tgtdzvjvdh"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ufvevb99w--s1el"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bqjweyhze1ptbqb"
+            }
+        ]
+    }
+}

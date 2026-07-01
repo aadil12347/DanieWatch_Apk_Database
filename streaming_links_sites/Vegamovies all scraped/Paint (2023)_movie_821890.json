@@ -1,0 +1,30 @@
+{
+    "post_title": "Paint (2023)",
+    "post_type": "movie",
+    "tmdb_id": 821890,
+    "imdb_id": "tt14472156",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/d4lbdd-x4gtz--4"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hoktgpmq1ogphtw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7o7oscrkxklctot"
+            }
+        ]
+    }
+}

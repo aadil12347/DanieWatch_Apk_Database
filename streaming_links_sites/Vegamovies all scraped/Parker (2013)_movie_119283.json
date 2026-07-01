@@ -1,0 +1,30 @@
+{
+    "post_title": "Parker (2013)",
+    "post_type": "movie",
+    "tmdb_id": 119283,
+    "imdb_id": "tt1904996",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kksvpr8xisi8kiy"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pls5vnfoyb18lse"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ll1dyfsixdiddbx"
+            }
+        ]
+    }
+}

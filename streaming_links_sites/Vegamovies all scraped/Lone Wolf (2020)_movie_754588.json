@@ -1,0 +1,30 @@
+{
+    "post_title": "Lone Wolf (2020)",
+    "post_type": "movie",
+    "tmdb_id": 754588,
+    "imdb_id": "tt13222192",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0rx1fhcxfi9-cr5"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-lac0q11n01it91"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iwzlt2fh1lz9h12"
+            }
+        ]
+    }
+}

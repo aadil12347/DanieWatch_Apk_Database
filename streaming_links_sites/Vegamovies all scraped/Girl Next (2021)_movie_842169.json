@@ -1,0 +1,24 @@
+{
+    "post_title": "Girl Next (2021)",
+    "post_type": "movie",
+    "tmdb_id": 842169,
+    "imdb_id": "tt11423214",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=WUNGZ0w2SjJlYklQMWNrUXJIRWNwcDN2ZWhFdUQrQk83aGk0YWtnVTVTMEQ5VjBzdUxIL2s1bmdQc2NhaVhxUw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=S3lWN1JBSGxZMkw4M1Y5VEJOU0V2RGRMY3lySzlNS2pvd1F2NEdUOWNsdCtSbWhlWERhNkN1Y3J3V1pBRElaYQ=="
+            }
+        ],
+        "1080p": []
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "My Old Ass (2024)",
+    "post_type": "movie",
+    "tmdb_id": 947891,
+    "imdb_id": "tt18559464",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nqfxxl5ianlj1bq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bmvqbpjpq7mkjwz"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/skc5t4h4s-h5fza"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dhpn7jyhhhmmolh"
+            }
+        ]
+    }
+}

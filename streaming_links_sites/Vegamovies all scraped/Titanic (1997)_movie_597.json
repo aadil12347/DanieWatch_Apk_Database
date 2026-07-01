@@ -1,0 +1,44 @@
+{
+    "post_title": "Titanic (1997)",
+    "post_type": "movie",
+    "tmdb_id": 597,
+    "imdb_id": "tt0120338",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fdvw1qdblsjntci"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bqa1aavffppae8a"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pgpnlanzzpyz1hs"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wnnllubazu_ltzx"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4w-aap5a9o4p-eg"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/-yf1xxfn6xw66y-"
+            }
+        ]
+    }
+}

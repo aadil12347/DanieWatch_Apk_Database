@@ -1,0 +1,29 @@
+{
+    "post_title": "My Son (2021)",
+    "post_type": "movie",
+    "tmdb_id": 750253,
+    "imdb_id": "tt13234058",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xb5adxabx1juauv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vem1fz4r_mmfqvk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rrdymkrojdyz7__"
+            }
+        ]
+    }
+}

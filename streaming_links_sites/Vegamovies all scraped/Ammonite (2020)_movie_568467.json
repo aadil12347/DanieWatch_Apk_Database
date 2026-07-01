@@ -1,0 +1,34 @@
+{
+    "post_title": "Ammonite (2020)",
+    "post_type": "movie",
+    "tmdb_id": 568467,
+    "imdb_id": "tt7983894",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fltub6d8wuxvxaf"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c51cl1o-0-cybso"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ugyleongnaetoet"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/odv2lvbtrrlhvvz"
+            }
+        ]
+    }
+}

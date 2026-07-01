@@ -1,0 +1,25 @@
+{
+    "post_title": "Brother Bear (2003)",
+    "post_type": "movie",
+    "tmdb_id": 10009,
+    "imdb_id": "tt0328880",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=RTlsdk9OMnBNdXlSQTM4N1VoTHpKQnVXWGp0eTBTaTZWSU0ydjkyT0IzeWZkUzdFQ25VNGpuWWhUcWprOXNsMQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=WmZDOHd1T2JYczN0Ymc0T2VyWDhSZ0NiK2I4R0wrZVpoK1NhUDdNaS82aXc3b0RzNm9qSWw5eVJCcXJNcUhUUA=="
+            }
+        ],
+        "1080p": []
+    }
+}

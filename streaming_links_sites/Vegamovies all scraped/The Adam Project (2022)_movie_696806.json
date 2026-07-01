@@ -1,0 +1,42 @@
+{
+    "post_title": "The Adam Project (2022)",
+    "post_type": "movie",
+    "tmdb_id": 696806,
+    "imdb_id": "tt2463208",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/npdm9g17nopqdj1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0_xtl7q7cc3c093"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ftowtntbekvgtt1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z1icg6frblizfoi"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/z9tsp8_mjmztf8j"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/ja4e-gvexxrgs1x"
+            }
+        ]
+    }
+}

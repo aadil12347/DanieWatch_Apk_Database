@@ -1,0 +1,29 @@
+{
+    "post_title": "Slayers (2022)",
+    "post_type": "movie",
+    "tmdb_id": 888097,
+    "imdb_id": "tt9365800",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8f88csg8jmvscee"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xx8ksydxohuox1y"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0tczhtv0nltkclv"
+            }
+        ]
+    }
+}

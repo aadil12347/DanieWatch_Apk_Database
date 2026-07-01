@@ -1,0 +1,25 @@
+{
+    "post_title": "The Pink Panther (2006)",
+    "post_type": "movie",
+    "tmdb_id": 12096,
+    "imdb_id": "tt0383216",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wlanem53wpnhghp"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mzkm5xjkd5jnjcm"
+            }
+        ],
+        "1080p": []
+    }
+}

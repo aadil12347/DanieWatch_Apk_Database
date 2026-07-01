@@ -1,0 +1,34 @@
+{
+    "post_title": "Crocodile Island (2020)",
+    "post_type": "movie",
+    "tmdb_id": 669748,
+    "imdb_id": "tt12598910",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8zfkg78fjdrvng8"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/deu_zzgaioalo2g"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/hfg3f31hgp1roeh"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bwib8p6pt0lxiql"
+            }
+        ]
+    }
+}

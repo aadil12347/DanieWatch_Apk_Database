@@ -1,0 +1,34 @@
+{
+    "post_title": "Emmanuelle (2024)",
+    "post_type": "movie",
+    "tmdb_id": 976576,
+    "imdb_id": "tt20247888",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4mx346uwdz0md19"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/owo1j38qtdqd3zq"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1vkpaspa19avrt1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ndldbdsik6i11ls"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "post_title": "Lolita (1997)",
+    "post_type": "movie",
+    "tmdb_id": 9769,
+    "imdb_id": "tt0119558",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=cDJQMlRxV05lVzhDN2JuVVhUU2RQRmdrblpkSTVUL0ZubUk3QmFqM1F1Tm4rdm9ySUFZZXZRUGpuVW50K2VjRg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=TExKZnFVOEpEZ1RaSHFGZ2dpdmJuT1hDbjBFai9XeHE0bUQySjRhU2tsUGdWUUJ0cW51TzVPaGUxYWxKd3MwOQ=="
+            }
+        ],
+        "1080p": []
+    }
+}

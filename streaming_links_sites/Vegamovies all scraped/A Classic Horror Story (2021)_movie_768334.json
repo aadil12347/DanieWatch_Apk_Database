@@ -1,0 +1,24 @@
+{
+    "post_title": "A Classic Horror Story (2021)",
+    "post_type": "movie",
+    "tmdb_id": 768334,
+    "imdb_id": "tt12877640",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=L1N4aUQxbVBQa1Nqc3A1L1Y1R1VuRTRQbTJiMXJWNm5YdGZnZXlOY3cxdUhIY2lnV2ttaXFkSTZETHBiSnQ1Kw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=eFJXNnFPTmd0THpLd1lCRHAzQTloeWp2ZjBsbjlYVnhick9oZHJCRGJSQVBab3lITVM3UkFjSjNlTEthRHJyYw=="
+            }
+        ],
+        "1080p": []
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Slender Man (2018)",
+    "post_type": "movie",
+    "tmdb_id": 439015,
+    "imdb_id": "tt5690360",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xdhfzu6kea4gh4p"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qbfwhlhlyjbmmgm"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qtcu13aonc5aaqk"
+            }
+        ]
+    }
+}

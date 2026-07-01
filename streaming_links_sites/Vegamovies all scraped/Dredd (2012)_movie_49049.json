@@ -1,0 +1,30 @@
+{
+    "post_title": "Dredd (2012)",
+    "post_type": "movie",
+    "tmdb_id": 49049,
+    "imdb_id": "tt1343727",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hs1xbttihhrehd5"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0qon7a7ttsb8uyk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/11tk1_9quax-dxq"
+            }
+        ]
+    }
+}

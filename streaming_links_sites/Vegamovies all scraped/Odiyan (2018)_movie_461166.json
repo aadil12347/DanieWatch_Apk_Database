@@ -1,0 +1,33 @@
+{
+    "post_title": "Odiyan (2018)",
+    "post_type": "movie",
+    "tmdb_id": 461166,
+    "imdb_id": "tt6707906",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vpoqgc7cpfswxdc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5eam5mbe1kl1b1k"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/gryd1ur1hvgix0n"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rgvetv1rr1m1x_u"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Locked In (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1064024,
+    "imdb_id": "tt24870072",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f7tjftetigj6zzz"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5d2ebfqadx15ee5"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/km1m1-igcdr2qkk"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/bddd11666ssonyr"
+            }
+        ]
+    }
+}

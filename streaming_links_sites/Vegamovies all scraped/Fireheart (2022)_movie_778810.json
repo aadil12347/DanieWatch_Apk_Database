@@ -1,0 +1,38 @@
+{
+    "post_title": "Fireheart (2022)",
+    "post_type": "movie",
+    "tmdb_id": 778810,
+    "imdb_id": "tt8354218",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s4jj4cord4loujr"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v_9cpv_2so-sk0w"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wv57mpu981twy5u"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ikh6r1fbpkhgiwp"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/kqa6wrgkghqqntq"
+            }
+        ]
+    }
+}

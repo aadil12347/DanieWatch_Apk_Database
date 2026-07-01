@@ -1,0 +1,34 @@
+{
+    "post_title": "Toplu Taşıma 17 (2019)",
+    "post_type": "movie",
+    "tmdb_id": 308551,
+    "imdb_id": "tt3709718",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6yo01n0ho3sya8q"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ty1q8ryoatwss1s"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/zysneczfs3fny4e"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w_jgjtd_ugnp_iu"
+            }
+        ]
+    }
+}

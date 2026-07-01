@@ -1,0 +1,38 @@
+{
+    "post_title": "Kleks Academy (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1026999,
+    "imdb_id": "tt20857676",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1im7cc_shsjsdu_"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rrq0egalqtygjdt"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/4lfangmv-6e-tbi"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kkfppzcifnz28nm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/blgy6bqmo9x994y"
+            }
+        ]
+    }
+}

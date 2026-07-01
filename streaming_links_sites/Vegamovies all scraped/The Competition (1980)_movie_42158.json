@@ -1,0 +1,30 @@
+{
+    "post_title": "The Competition (1980)",
+    "post_type": "movie",
+    "tmdb_id": 42158,
+    "imdb_id": "tt0080556",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/phs5thnnek41c54"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-1o1c---_b-m1of"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uayyn8u6xaaymnu"
+            }
+        ]
+    }
+}

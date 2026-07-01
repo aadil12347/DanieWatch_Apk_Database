@@ -1,0 +1,33 @@
+{
+    "post_title": "Spectral (2016)",
+    "post_type": "movie",
+    "tmdb_id": 324670,
+    "imdb_id": "tt2106651",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hhz2by3z21zyn3t"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jiqj24tz2rjeziw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "V-Cloud [Resumable-1]",
+                "link": "https://vcloud.zip/chdpgpqpp5ssvkq"
+            },
+            {
+                "episode_title": "V-Cloud [Resumable-2]",
+                "link": "https://vcloud.zip/4qb-a0t0zq0koms"
+            }
+        ]
+    }
+}

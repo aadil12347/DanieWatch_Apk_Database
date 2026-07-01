@@ -1,0 +1,34 @@
+{
+    "post_title": "Demolition Man (1993)",
+    "post_type": "movie",
+    "tmdb_id": 9739,
+    "imdb_id": "tt0106697",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/y-oj-2bdcddoohw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qya1nwvw1fwafxs"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/3kq3akluvlnwnlk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/te8dfe8mapdkwbm"
+            }
+        ]
+    }
+}

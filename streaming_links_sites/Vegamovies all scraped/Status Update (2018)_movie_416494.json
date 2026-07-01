@@ -1,0 +1,29 @@
+{
+    "post_title": "Status Update (2018)",
+    "post_type": "movie",
+    "tmdb_id": 416494,
+    "imdb_id": "tt5692390",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yito1_kdpidiyjy"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qtm7trk5rggc5kv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qatf2vfq0q43q7n"
+            }
+        ]
+    }
+}

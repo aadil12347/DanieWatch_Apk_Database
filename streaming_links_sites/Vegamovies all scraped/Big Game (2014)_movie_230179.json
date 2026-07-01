@@ -1,0 +1,30 @@
+{
+    "post_title": "Big Game (2014)",
+    "post_type": "movie",
+    "tmdb_id": 230179,
+    "imdb_id": "tt2088003",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hfss7d3tavd1ud1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cvzkrarjpsc5sna"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oxxxpg8jox-xjoa"
+            }
+        ]
+    }
+}

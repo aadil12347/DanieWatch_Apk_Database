@@ -1,0 +1,29 @@
+{
+    "post_title": "Swiss Army Man (2016)",
+    "post_type": "movie",
+    "tmdb_id": 347031,
+    "imdb_id": "tt4034354",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tuyprsrllpzrrsp"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sf3meghvjpvdie2"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/odzldiodl9z9pd1"
+            }
+        ]
+    }
+}

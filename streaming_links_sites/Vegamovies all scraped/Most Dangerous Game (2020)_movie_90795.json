@@ -1,0 +1,34 @@
+{
+    "post_title": "Most Dangerous Game (2020)",
+    "post_type": "movie",
+    "tmdb_id": 90795,
+    "imdb_id": "tt10580064",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9c50x9g9gidlek5"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jdlvkjcjtvvkzcw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/oc5qz151mm1dzzl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pbz1embp7hhetc2"
+            }
+        ]
+    }
+}

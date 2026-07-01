@@ -1,0 +1,34 @@
+{
+    "post_title": "Flinch (2021)",
+    "post_type": "movie",
+    "tmdb_id": 778681,
+    "imdb_id": "tt9670414",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/blsvdyfdt7y6ttc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wxj2xs0swlzcw1c"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/yam6i6i9c5eay5a"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/whkgaknwhg0ha7f"
+            }
+        ]
+    }
+}

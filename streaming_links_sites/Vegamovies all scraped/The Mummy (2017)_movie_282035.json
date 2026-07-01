@@ -1,0 +1,38 @@
+{
+    "post_title": "The Mummy (2017)",
+    "post_type": "movie",
+    "tmdb_id": 282035,
+    "imdb_id": "tt2345759",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9f08iqt88x8feg0"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5xpise7ezsxxxnk"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/efwlwswf_1i4le9"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bvkjvalbje-vsv1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/pekkpfrxnfpwzpv"
+            }
+        ]
+    }
+}

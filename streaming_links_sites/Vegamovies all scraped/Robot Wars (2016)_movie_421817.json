@@ -1,0 +1,25 @@
+{
+    "post_title": "Robot Wars (2016)",
+    "post_type": "movie",
+    "tmdb_id": 421817,
+    "imdb_id": "tt2179237",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=UjBHOENCa0pMTGpBVm9NR3ZCYkd2RVU0MDRVRExnSzg4Q1B3cHVmMm8vSUptZjhOMWpsaGkxd2R6TldubmFzSw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=T3B2YXUwQVNyL2dkY05yUFBkQldSTVo3aDhUeVQvWXRFeW41MU1oWGtBSUhHYkk0QitmRGk3NUpBMm5sN3AwLw=="
+            }
+        ],
+        "1080p": []
+    }
+}

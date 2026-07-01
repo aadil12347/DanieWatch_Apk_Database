@@ -1,0 +1,30 @@
+{
+    "post_title": "Animal House (1978)",
+    "post_type": "movie",
+    "tmdb_id": 8469,
+    "imdb_id": "tt0077975",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zy2yyezvcpfdjvw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m_8myumiuymc1_w"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kxnnl-ohqvhqzxq"
+            }
+        ]
+    }
+}

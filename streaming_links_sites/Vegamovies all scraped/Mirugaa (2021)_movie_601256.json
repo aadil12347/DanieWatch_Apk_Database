@@ -1,0 +1,29 @@
+{
+    "post_title": "Mirugaa (2021)",
+    "post_type": "movie",
+    "tmdb_id": 601256,
+    "imdb_id": "tt11640108",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/do9tfab1cquztbz"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nfnnl6vm1-vlnnl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nupwbbhnmf474jb"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "The Puppetman (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1146143,
+    "imdb_id": "tt19369162",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gxk6gu17muk3lww"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/is0llboi0llnbue"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jsabuy3iudsykui"
+            }
+        ]
+    }
+}

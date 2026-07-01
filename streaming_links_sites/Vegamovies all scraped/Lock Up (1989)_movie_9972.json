@@ -1,0 +1,34 @@
+{
+    "post_title": "Lock Up (1989)",
+    "post_type": "movie",
+    "tmdb_id": 9972,
+    "imdb_id": "tt0097770",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j1moodgbcbma4te"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zj1bombl0hl07ee"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vu7cuz5gz871iu7"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/u0ogvbsl01ulwzz"
+            }
+        ]
+    }
+}

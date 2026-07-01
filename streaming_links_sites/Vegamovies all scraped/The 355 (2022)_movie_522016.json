@@ -1,0 +1,38 @@
+{
+    "post_title": "The 355 (2022)",
+    "post_type": "movie",
+    "tmdb_id": 522016,
+    "imdb_id": "tt8356942",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zkk4vpk0zordtwt"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ox8o-ilrl8rgzw1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mffevrpk1zvhzbk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bbeutx8x_xrcr7b"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ij1jpyyg1pkrj5j"
+            }
+        ]
+    }
+}

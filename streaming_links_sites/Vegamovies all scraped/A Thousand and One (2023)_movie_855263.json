@@ -1,0 +1,34 @@
+{
+    "post_title": "A Thousand and One (2023)",
+    "post_type": "movie",
+    "tmdb_id": 855263,
+    "imdb_id": "tt12427158",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/goe01gzv1tkilgo"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ma3emzog063rzn6"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/zsxbl0lqs0zk0zu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yyy1qnqyzq89zpu"
+            }
+        ]
+    }
+}

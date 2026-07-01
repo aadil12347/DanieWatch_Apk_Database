@@ -1,0 +1,34 @@
+{
+    "post_title": "Confess, Fletch (2022)",
+    "post_type": "movie",
+    "tmdb_id": 724665,
+    "imdb_id": "tt12718300",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9bo_pnw9blsjnbr"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9az5wunphwete1z"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xthebrtxtbnydby"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nqrmajbfqd1dmhj"
+            }
+        ]
+    }
+}

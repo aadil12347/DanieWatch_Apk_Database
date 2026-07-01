@@ -1,0 +1,30 @@
+{
+    "post_title": "Mortal Kombat (1995)",
+    "post_type": "movie",
+    "tmdb_id": 9312,
+    "imdb_id": "tt0113855",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/00y15unuuahah4a"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/djrnjhhl35ondq1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/omoo1h-lo0mwrf5"
+            }
+        ]
+    }
+}

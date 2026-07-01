@@ -1,0 +1,25 @@
+{
+    "post_title": "Mulan II (2004)",
+    "post_type": "movie",
+    "tmdb_id": 12242,
+    "imdb_id": "tt0279967",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ip9i6hu4teyh6wm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wvvhiro_vei7i_f"
+            }
+        ],
+        "1080p": []
+    }
+}

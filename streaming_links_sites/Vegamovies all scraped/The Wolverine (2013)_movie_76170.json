@@ -1,0 +1,34 @@
+{
+    "post_title": "The Wolverine (2013)",
+    "post_type": "movie",
+    "tmdb_id": 76170,
+    "imdb_id": "tt1430132",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mc3wcjjdtuuckf1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qfgjhcqkfv20fkr"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wwwjhpgogshiyyb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iti717zvj918nu-"
+            }
+        ]
+    }
+}

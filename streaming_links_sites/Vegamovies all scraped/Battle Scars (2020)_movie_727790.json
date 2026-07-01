@@ -1,0 +1,25 @@
+{
+    "post_title": "Battle Scars (2020)",
+    "post_type": "movie",
+    "tmdb_id": 727790,
+    "imdb_id": "tt12071472",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=T1B3RHdTd25pb0hUdHloMXVlVEY2R3gyRW9KZmsvRGRKKzF1TTI3R1poQkFXSzVqVUZkamVha2NIZDhNLzVXMA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=NTlLTEhXMDEyQVJiQTNZY0lMbDI0Z29ZUnhQcCttZ0ZzUjB4NlBoUVVjV3BQMWVnVGdLWUUwYzcrUUo2ZEp2Qg=="
+            }
+        ],
+        "1080p": []
+    }
+}

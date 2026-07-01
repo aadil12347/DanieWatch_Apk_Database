@@ -1,0 +1,25 @@
+{
+    "post_title": "A Goofy Movie (1995)",
+    "post_type": "movie",
+    "tmdb_id": 15789,
+    "imdb_id": "tt0113198",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8eu1iuvega6nhhp"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m_zust14ee0reuc"
+            }
+        ],
+        "1080p": []
+    }
+}

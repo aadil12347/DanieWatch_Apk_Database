@@ -1,0 +1,25 @@
+{
+    "post_title": "My Giraffe (2017)",
+    "post_type": "movie",
+    "tmdb_id": 477232,
+    "imdb_id": "tt5992202",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=SHA5bU40SHYrUE41V2lTUkdnZE9ZVklZeWpkZnZUeXJCVkhXQ3kyN3pJOUdZV2NEelVYM1ZJSlNJdzRzR2dsSg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=Y0JtYXlkUVppQ3pWOVJxZmE4OWJUa1B0OVJZb2dtSjd4S1JkMFhuVTFDZEdtTTJpbU1uM2Exc0RtL2QrdE0vcA=="
+            }
+        ],
+        "1080p": []
+    }
+}

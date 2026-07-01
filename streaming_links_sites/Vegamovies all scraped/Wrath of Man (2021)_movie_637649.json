@@ -1,0 +1,38 @@
+{
+    "post_title": "Wrath of Man (2021)",
+    "post_type": "movie",
+    "tmdb_id": 637649,
+    "imdb_id": "tt11083552",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ec48w8puwwqph1a"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zyz_fga5gvpwgsx"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vhjf1viovafmj0o"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a7zyjz6e9c7y_tz"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/lnms5ysolap5onh"
+            }
+        ]
+    }
+}

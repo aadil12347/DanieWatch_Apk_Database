@@ -1,0 +1,52 @@
+{
+    "post_title": "Interstellar (2014)",
+    "post_type": "movie",
+    "tmdb_id": 157336,
+    "imdb_id": "tt0816692",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cx5bcn44pm4iwzi"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/llzdd5c1uvh52u2"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nw_tfztizi68il2"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/beli5099til4i4e"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dn4pn1dr4otp1wa"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/rshjftschmmw11s"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/m6vunxu1uktuu21"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bvljuzuvv9lyvc8"
+            }
+        ]
+    }
+}

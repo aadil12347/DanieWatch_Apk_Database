@@ -1,0 +1,30 @@
+{
+    "post_title": "Awake (2021)",
+    "post_type": "movie",
+    "tmdb_id": 615658,
+    "imdb_id": "tt10418662",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ure4bthb2j3dwnw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jrrws1s0tmeszos"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6l81ryvrvarv8ph"
+            }
+        ]
+    }
+}

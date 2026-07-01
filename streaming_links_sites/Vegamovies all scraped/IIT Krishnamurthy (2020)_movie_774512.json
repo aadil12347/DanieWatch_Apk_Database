@@ -1,0 +1,29 @@
+{
+    "post_title": "IIT Krishnamurthy (2020)",
+    "post_type": "movie",
+    "tmdb_id": 774512,
+    "imdb_id": "tt10801230",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1l1i4b8orwycsgi"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hfeowojdkmeiit_"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fqfcpzmxi1jdgni"
+            }
+        ]
+    }
+}

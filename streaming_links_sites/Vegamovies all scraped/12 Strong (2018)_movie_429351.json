@@ -1,0 +1,44 @@
+{
+    "post_title": "12 Strong (2018)",
+    "post_type": "movie",
+    "tmdb_id": 429351,
+    "imdb_id": "tt1413492",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2quwp07u1ijqwkb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bef9oeo0efofvbe"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1cvq8h5c5pihp1c"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g19m9mg8eaffef1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/hnnvnmnw-epx33v"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9vspobrre4ebvye"
+            }
+        ]
+    }
+}

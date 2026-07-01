@@ -1,0 +1,29 @@
+{
+    "post_title": "Gangnam Zombie (2023)",
+    "post_type": "movie",
+    "tmdb_id": 996525,
+    "imdb_id": "tt21109552",
+    "languages": [
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rf1mbnxblbqbega"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3iif3qjjeaqjjjt"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yiy4y41zx4mmma_"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Raja Raja Chora (2021)",
+    "post_type": "movie",
+    "tmdb_id": 802735,
+    "imdb_id": "tt13249198",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ingzishg8svlqnv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/634cyz5mzaaalzm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/zvm-paavnt44aam"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ahoep1kow2h2tc9"
+            }
+        ]
+    }
+}

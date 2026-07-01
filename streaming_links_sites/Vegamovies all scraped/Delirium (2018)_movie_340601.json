@@ -1,0 +1,30 @@
+{
+    "post_title": "Delirium (2018)",
+    "post_type": "movie",
+    "tmdb_id": 340601,
+    "imdb_id": "tt2069797",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6g1vms6v1v71av1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pesa4dp1asphmdc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xv3azvb3ao4awzj"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Stormageddon (2015)",
+    "post_type": "movie",
+    "tmdb_id": 370097,
+    "imdb_id": "tt4525270",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lszzt1llapgje5a"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zgbmxz4gxjixm0x"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/szhlh1-hipo1svb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nhv1jzwwujh9nch"
+            }
+        ]
+    }
+}

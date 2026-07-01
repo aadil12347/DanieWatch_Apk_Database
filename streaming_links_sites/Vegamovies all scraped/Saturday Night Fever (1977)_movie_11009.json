@@ -1,0 +1,34 @@
+{
+    "post_title": "Saturday Night Fever (1977)",
+    "post_type": "movie",
+    "tmdb_id": 11009,
+    "imdb_id": "tt0076666",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/d6uwxexl8u1j1e1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/suxdxun3indee33"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/akrl7lr1ik7__lo"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uyaa1najaj7aazk"
+            }
+        ]
+    }
+}

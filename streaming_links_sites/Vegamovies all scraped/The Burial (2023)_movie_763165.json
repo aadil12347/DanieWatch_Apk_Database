@@ -1,0 +1,34 @@
+{
+    "post_title": "The Burial (2023)",
+    "post_type": "movie",
+    "tmdb_id": 763165,
+    "imdb_id": "tt5648882",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1smbzrgnsgrxgj6"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1espprvxalneerr"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ht6sbzggctbvz3z"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8eceftdbftd7rgb"
+            }
+        ]
+    }
+}

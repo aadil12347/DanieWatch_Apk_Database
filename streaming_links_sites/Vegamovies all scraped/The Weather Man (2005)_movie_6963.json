@@ -1,0 +1,30 @@
+{
+    "post_title": "The Weather Man (2005)",
+    "post_type": "movie",
+    "tmdb_id": 6963,
+    "imdb_id": "tt0384680",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=aGZ4K0RlbXRRZ2lGZDBRQzQ2bzB4Sjh3N3FSaUlUUGlRd3loRGFOMDFJNGZ5VXpiVHcydG5hYlZSLzhjRlM3QQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=UzFyaVJWOTRuVE5WelFjTjIvcG96UzJkeFBOK0JJSWl4RFlmUE82ZlBqdldFQkMwNE5kc1BrWWJpNnVWVTB6SA=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=OURIREl1dGk2WjlGYTEzL1dtcGlTZERpVU9HZDQ1MDFNWklaV09NbmpsZllPcmZZZXhjQ2taWXBrRHVmdnMwQg=="
+            }
+        ]
+    }
+}

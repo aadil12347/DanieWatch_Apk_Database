@@ -1,0 +1,34 @@
+{
+    "post_title": "How to Build a Girl (2020)",
+    "post_type": "movie",
+    "tmdb_id": 572299,
+    "imdb_id": "tt4193072",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n49fu6uvnummkum"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9mxogr6zxratkx6"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/thbhrftpvtktghp"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kuo4kot3hdq1d4v"
+            }
+        ]
+    }
+}

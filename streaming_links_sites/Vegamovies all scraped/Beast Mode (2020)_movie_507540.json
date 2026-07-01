@@ -1,0 +1,30 @@
+{
+    "post_title": "Beast Mode (2020)",
+    "post_type": "movie",
+    "tmdb_id": 507540,
+    "imdb_id": "tt2323912",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0zw8yb3bwneem0y"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5zqzdqdugywyuy5"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rxibefmm20hexed"
+            }
+        ]
+    }
+}

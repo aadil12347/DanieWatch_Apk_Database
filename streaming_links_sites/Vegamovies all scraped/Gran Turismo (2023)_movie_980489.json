@@ -1,0 +1,40 @@
+{
+    "post_title": "Gran Turismo (2023)",
+    "post_type": "movie",
+    "tmdb_id": 980489,
+    "imdb_id": "tt4495098",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1q11yjrflsyatk1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mebwe6t7bjemwm7"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/x777qnpjekyex_e"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qlwdddtwhfffwuw"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/19177ea-kl97e8l"
+            }
+        ]
+    }
+}

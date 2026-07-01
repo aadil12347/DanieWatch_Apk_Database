@@ -1,0 +1,34 @@
+{
+    "post_title": "Realms (2017)",
+    "post_type": "movie",
+    "tmdb_id": 548859,
+    "imdb_id": "tt1934452",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/puzvpkqq2ivkvr4"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bj5wjy3hc0hjs68"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/dd2r3re30mzer2r"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gunpekkha2awgah"
+            }
+        ]
+    }
+}

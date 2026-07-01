@@ -1,0 +1,34 @@
+{
+    "post_title": "The Adventures of Sharkboy and Lavagirl (2005)",
+    "post_type": "movie",
+    "tmdb_id": 14199,
+    "imdb_id": "tt0424774",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/u1fioov6rfvtuvv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1j-i7ixshakjd1p"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/zzqyadtm3g2emz3"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t-2jgd1-lhp1tqs"
+            }
+        ]
+    }
+}

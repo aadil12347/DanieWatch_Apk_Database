@@ -1,0 +1,33 @@
+{
+    "post_title": "The Lake (2022)",
+    "post_type": "movie",
+    "tmdb_id": 709716,
+    "imdb_id": "tt21399082",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j1b-6ipb6lh6j27"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q88ff6omu551nvt"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/8_wkqritciptpk4"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pwhciowjep0cpnh"
+            }
+        ]
+    }
+}

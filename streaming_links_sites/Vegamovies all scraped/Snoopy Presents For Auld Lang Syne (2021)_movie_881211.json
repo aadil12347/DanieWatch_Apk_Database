@@ -1,0 +1,25 @@
+{
+    "post_title": "Snoopy Presents: For Auld Lang Syne (2021)",
+    "post_type": "movie",
+    "tmdb_id": 881211,
+    "imdb_id": "tt15553258",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8umuusbsbcryqst"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vw5q5joupbf2ynn"
+            }
+        ]
+    }
+}

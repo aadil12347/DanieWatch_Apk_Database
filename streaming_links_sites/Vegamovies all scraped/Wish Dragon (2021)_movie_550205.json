@@ -1,0 +1,34 @@
+{
+    "post_title": "Wish Dragon (2021)",
+    "post_type": "movie",
+    "tmdb_id": 550205,
+    "imdb_id": "tt5562070",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_uew-wcyyzxyoto"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gvggob4vfkqv33s"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/3oyafdk0wtuc0u-"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/msrsv9w2x96m1w2"
+            }
+        ]
+    }
+}

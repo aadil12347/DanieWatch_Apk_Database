@@ -1,0 +1,30 @@
+{
+    "post_title": "My Neighbor Totoro (1988)",
+    "post_type": "movie",
+    "tmdb_id": 8392,
+    "imdb_id": "tt0096283",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3y-41tfib4grfr4"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jlme1p-wlmoevfs"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1blni0e-pbc04np"
+            }
+        ]
+    }
+}

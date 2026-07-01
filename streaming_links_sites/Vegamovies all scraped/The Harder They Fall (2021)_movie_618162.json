@@ -1,0 +1,34 @@
+{
+    "post_title": "The Harder They Fall (2021)",
+    "post_type": "movie",
+    "tmdb_id": 618162,
+    "imdb_id": "tt10696784",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=R0k3N0w1MWFDWEZhVUNzVzNDWkphVG53NFdKRFk2bmtCQmhEdno5OTIvbDExTlkwelJ4cDZzZnNQOER4Qm1JNw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=YTRLZEEreHlHSkFtZHhCSUJRd0RUTkg3Tkd4L2F0djdFcXRZRXhONW1sYkZKOWVCRk8zVkh2enBWeFRMV3lGYg=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=RWcrYU5VV3hLa3cwTjNZdGE4TGZ1bXo3TDhHREdFakpyMFJubWZOTDlwYlNkOVNROUp3TzgwajYwZjVRYlRNSg=="
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/api/index.php?link=T3RGVTczaGlEM29iYXpDUTlGek8zdmQwTDNkU3A5aWdoQXhVSEFkQlVrMk51TWdwMzlzYzZncFJQUVNZQ3NmZw=="
+            }
+        ]
+    }
+}

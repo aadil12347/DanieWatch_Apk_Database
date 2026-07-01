@@ -1,0 +1,34 @@
+{
+    "post_title": "Green Lantern (2011)",
+    "post_type": "movie",
+    "tmdb_id": 44912,
+    "imdb_id": "tt1133985",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_nf-72_yactvfls"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1w3rvssbiygqfbi"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/15iiign71u1fvg5"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/e1tnt5m97mooroj"
+            }
+        ]
+    }
+}

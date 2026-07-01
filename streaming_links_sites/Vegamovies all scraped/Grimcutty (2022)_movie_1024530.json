@@ -1,0 +1,33 @@
+{
+    "post_title": "Grimcutty (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1024530,
+    "imdb_id": "tt17196124",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uag8gpy1dlbsx8t"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g_lxrzprq8zerx1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qhzg0tor_zqilr1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1cx1-vpukzc4xru"
+            }
+        ]
+    }
+}

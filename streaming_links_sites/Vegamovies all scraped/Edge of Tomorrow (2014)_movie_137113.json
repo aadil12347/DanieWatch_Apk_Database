@@ -1,0 +1,30 @@
+{
+    "post_title": "Edge of Tomorrow (2014)",
+    "post_type": "movie",
+    "tmdb_id": 137113,
+    "imdb_id": "tt1631867",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8rpsg7z2o-gg2nu"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a5ufvbqsars5tkw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hlhktymct4mm17f"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "The Magician (2015)",
+    "post_type": "movie",
+    "tmdb_id": 366654,
+    "imdb_id": "tt4471636",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/r1a8vcjroj4h2jm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-mgknbbkmpgufpu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e3dtviyu1de_0yq"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Still Alice (2014)",
+    "post_type": "movie",
+    "tmdb_id": 284293,
+    "imdb_id": "tt3316960",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zmm1mhwlcaqmbd1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i1tecqvttfrue8v"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/drijpqt05bgptpv"
+            }
+        ]
+    }
+}

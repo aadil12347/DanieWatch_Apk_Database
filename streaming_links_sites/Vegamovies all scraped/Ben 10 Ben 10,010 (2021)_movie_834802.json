@@ -1,0 +1,30 @@
+{
+    "post_title": "Ben 10: Ben 10,010 (2021)",
+    "post_type": "movie",
+    "tmdb_id": 834802,
+    "imdb_id": "tt14317168",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ogbz7pkk1o9d4pc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v9bixb5aj95axxi"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/piasavsdpiiwvd6"
+            }
+        ]
+    }
+}

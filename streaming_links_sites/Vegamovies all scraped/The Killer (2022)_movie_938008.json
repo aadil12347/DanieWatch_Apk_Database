@@ -1,0 +1,30 @@
+{
+    "post_title": "The Killer (2022)",
+    "post_type": "movie",
+    "tmdb_id": 938008,
+    "imdb_id": "tt19713090",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/p6xvbu5o70zpnbd"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mxezjemchvruouw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rccynxwwkkrokdo"
+            }
+        ]
+    }
+}

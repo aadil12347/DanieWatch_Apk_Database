@@ -1,0 +1,52 @@
+{
+    "post_title": "Spider-Man: Far From Home (2019)",
+    "post_type": "movie",
+    "tmdb_id": 429617,
+    "imdb_id": "tt6320628",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dgsskkn9dcib09w"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tlpgusffwk1xgok"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xpoppb97qsbq5fh"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zfm0ixnys3do3bx"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vup41mn51tyfubq"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/rxrrqvfwyoyuf44"
+            },
+            {
+                "episode_title": "Episode 4",
+                "link": "https://vcloud.zip/gk8yuvuigot85cc"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/djjyydbhlttor_y"
+            }
+        ]
+    }
+}

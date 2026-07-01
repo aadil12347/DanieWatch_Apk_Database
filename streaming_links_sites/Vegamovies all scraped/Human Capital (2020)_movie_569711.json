@@ -1,0 +1,34 @@
+{
+    "post_title": "Human Capital (2020)",
+    "post_type": "movie",
+    "tmdb_id": 569711,
+    "imdb_id": "tt9185066",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vgs4oxoio1gg1s1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ad2n1mevhvqikqn"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/9z5g3z5wcox1t1j"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/agpwpdg1wk7ikl0"
+            }
+        ]
+    }
+}

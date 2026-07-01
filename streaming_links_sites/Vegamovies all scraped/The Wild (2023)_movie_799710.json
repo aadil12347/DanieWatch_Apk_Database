@@ -1,0 +1,34 @@
+{
+    "post_title": "The Wild (2023)",
+    "post_type": "movie",
+    "tmdb_id": 799710,
+    "imdb_id": "tt14916052",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tx2unttr5amt_0n"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/99o59vx5jo99qx9"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mrohnhf4cr4hwdh"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1rt58hixulbs8ic"
+            }
+        ]
+    }
+}

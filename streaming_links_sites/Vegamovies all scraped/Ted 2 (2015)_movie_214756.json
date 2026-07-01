@@ -1,0 +1,30 @@
+{
+    "post_title": "Ted 2 (2015)",
+    "post_type": "movie",
+    "tmdb_id": 214756,
+    "imdb_id": "tt2637276",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=YUQ2NSthY1hVZnhkN3RTbUQ3ay9MZlRxazZhS3hTYVVvWTVkeFNTY05xRTQ4REkzZjd1OGMxTjFncjVWaDJiMw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=TnUwWWxKWmlWK0FucHE5RHdUUEQrcHZITWQxR2pUOUw1K2pHeHRwQXBiQnlQZlE4Ym9sTXh5TVVMbkt4U0orKw=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=Rmkva3dZTXFlYU5wVGVGVGROQWNxbWRDcTNnd2ZEL29TU1MyRnJDY0k3NzI2RG1FZ3luSTgvMUdiR1YzamhmZg=="
+            }
+        ]
+    }
+}

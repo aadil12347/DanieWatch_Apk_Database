@@ -1,0 +1,34 @@
+{
+    "post_title": "Billy Boy (2018)",
+    "post_type": "movie",
+    "tmdb_id": 407720,
+    "imdb_id": "tt3151710",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jeb58o14loo18ow"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ioyfj1uwunrttir"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/w4z3utrrkctii8_"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/duoddndollraajr"
+            }
+        ]
+    }
+}

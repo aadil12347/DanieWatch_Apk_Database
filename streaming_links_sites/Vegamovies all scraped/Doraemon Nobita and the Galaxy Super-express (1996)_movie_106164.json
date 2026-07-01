@@ -1,0 +1,33 @@
+{
+    "post_title": "Doraemon: Nobita and the Galaxy Super-express (1996)",
+    "post_type": "movie",
+    "tmdb_id": 106164,
+    "imdb_id": "tt1147522",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kkaiu8_krb_ak2v"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/11bxykemokkjmkg"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/t4swpfsrrdxpfh6"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b8lu8yzu-2ygl6l"
+            }
+        ]
+    }
+}

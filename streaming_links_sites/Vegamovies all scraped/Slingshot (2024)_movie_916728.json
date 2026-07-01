@@ -1,0 +1,29 @@
+{
+    "post_title": "Slingshot (2024)",
+    "post_type": "movie",
+    "tmdb_id": 916728,
+    "imdb_id": "tt12616480",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0qvzzjxqriq5bbr"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1zcpu6zefp1wh_i"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xd0yetkx8x0j0on"
+            }
+        ]
+    }
+}

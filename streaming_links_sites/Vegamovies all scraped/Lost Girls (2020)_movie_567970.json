@@ -1,0 +1,25 @@
+{
+    "post_title": "Lost Girls (2020)",
+    "post_type": "movie",
+    "tmdb_id": 567970,
+    "imdb_id": "tt3111426",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=MWZuZ0cwVTlQZC8rSWVQOUtCd0dxdTB1V1EyTzV5VTE0ZEZNb0ZxaHZBQ1VxQUtaN2YwU01PK2c1WFlKWm93eg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=aEViY3BnU1Vzd3dJTEJwOURnbUZuOE5LdVJFYkVpOFFKa0s0ZEx5KytZcGRSZmdSdWlNd0RLY1JCa085YjAyOQ=="
+            }
+        ],
+        "1080p": []
+    }
+}

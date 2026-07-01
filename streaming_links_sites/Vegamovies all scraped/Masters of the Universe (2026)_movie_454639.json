@@ -1,0 +1,34 @@
+{
+    "post_title": "Masters of the Universe (2026)",
+    "post_type": "movie",
+    "tmdb_id": 454639,
+    "imdb_id": "tt0427340",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gci6sgghw1r1msv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kclc4c2ad-nf3ll"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/u66m_qhxetauzrz"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/_dd9lstvddasgxx"
+            }
+        ]
+    }
+}

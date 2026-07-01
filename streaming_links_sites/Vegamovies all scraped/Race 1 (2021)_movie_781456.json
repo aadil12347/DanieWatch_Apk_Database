@@ -1,0 +1,34 @@
+{
+    "post_title": "Race 1 (2021)",
+    "post_type": "movie",
+    "tmdb_id": 781456,
+    "imdb_id": "tt13767804",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n8kihrfou09vgfq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/htpzkypx1rwomei"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/uvhmcuj_3jojcj8"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lvv85jl1xuxa7g1"
+            }
+        ]
+    }
+}

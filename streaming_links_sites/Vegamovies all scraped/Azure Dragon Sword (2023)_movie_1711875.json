@@ -1,0 +1,34 @@
+{
+    "post_title": "Azure Dragon Sword (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1711875,
+    "imdb_id": "tt30761205",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3bm6j1c1bd1bw03"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vsx213131a87e6e"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/jano4unkaocracu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h1ezmhuexdwnxw1"
+            }
+        ]
+    }
+}

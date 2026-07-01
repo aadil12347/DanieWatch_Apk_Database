@@ -1,0 +1,52 @@
+{
+    "post_title": "Venom: Let There Be Carnage (2021)",
+    "post_type": "movie",
+    "tmdb_id": 580489,
+    "imdb_id": "tt7097896",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bm15lq06u6lvwg0"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mzraf71aznoq_if"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/min_ltmifnow9l1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/emjumxxwvx49mhy"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/o1hr5j01r1fqozn"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/1juomanm767j51j"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fhzkba1hlsbbbaj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/entfdnttzfqn1lz"
+            }
+        ]
+    }
+}

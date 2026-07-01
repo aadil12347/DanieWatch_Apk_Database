@@ -1,0 +1,30 @@
+{
+    "post_title": "Frozen (2010)",
+    "post_type": "movie",
+    "tmdb_id": 44363,
+    "imdb_id": "tt1323045",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3cvlc3cs1cm38m8"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jh-djrgdppox-jc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lz2lzgevwwwxobs"
+            }
+        ]
+    }
+}

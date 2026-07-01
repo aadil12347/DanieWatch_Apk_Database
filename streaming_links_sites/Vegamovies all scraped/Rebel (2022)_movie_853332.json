@@ -1,0 +1,34 @@
+{
+    "post_title": "Rebel (2022)",
+    "post_type": "movie",
+    "tmdb_id": 853332,
+    "imdb_id": "tt11946138",
+    "languages": [
+        "Hindi",
+        "French"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ocmpqcuujsqbm_2"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/r82y4yyamcs_b2_"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/dd5qsggc5kkg4kq"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1cz716onvttwzrk"
+            }
+        ]
+    }
+}

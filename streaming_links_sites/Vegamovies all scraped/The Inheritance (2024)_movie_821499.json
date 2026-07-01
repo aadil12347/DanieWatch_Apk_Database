@@ -1,0 +1,29 @@
+{
+    "post_title": "The Inheritance (2024)",
+    "post_type": "movie",
+    "tmdb_id": 821499,
+    "imdb_id": "tt9271850",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8pl6yelzxlvhhq8"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4cyuiqmyeov11dk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s5opetaa7pelpyl"
+            }
+        ]
+    }
+}

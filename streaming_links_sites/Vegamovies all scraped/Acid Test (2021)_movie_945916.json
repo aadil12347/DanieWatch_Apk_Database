@@ -1,0 +1,30 @@
+{
+    "post_title": "Acid Test (2021)",
+    "post_type": "movie",
+    "tmdb_id": 945916,
+    "imdb_id": "tt12385296",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z6k3gphqifbpygb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6vgjrrs1qwrr4pn"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2njppzziaj3c6jj"
+            }
+        ]
+    }
+}

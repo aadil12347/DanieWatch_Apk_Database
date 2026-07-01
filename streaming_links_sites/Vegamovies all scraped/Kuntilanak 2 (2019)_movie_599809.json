@@ -1,0 +1,29 @@
+{
+    "post_title": "Kuntilanak 2 (2019)",
+    "post_type": "movie",
+    "tmdb_id": 599809,
+    "imdb_id": "tt10276328",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3tyjiabtaqrow1n"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xstph2nhtkapshu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9fw9fj1mm9lwkwt"
+            }
+        ]
+    }
+}

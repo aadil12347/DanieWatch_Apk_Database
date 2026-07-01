@@ -1,0 +1,34 @@
+{
+    "post_title": "Gulliver's Travels (2010)",
+    "post_type": "movie",
+    "tmdb_id": 38745,
+    "imdb_id": "tt1320261",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e1lbj8gen8iwgep"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kjwh6hnj26xqndt"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1d2wd1da0onnwuo"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mpivdlt1mpxvxri"
+            }
+        ]
+    }
+}

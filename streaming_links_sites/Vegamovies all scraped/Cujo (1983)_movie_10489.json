@@ -1,0 +1,30 @@
+{
+    "post_title": "Cujo (1983)",
+    "post_type": "movie",
+    "tmdb_id": 10489,
+    "imdb_id": "tt0085382",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/55jns3y3sssninn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pm1mbgvv1mu1mgk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a1xxlbeahk7eybd"
+            }
+        ]
+    }
+}

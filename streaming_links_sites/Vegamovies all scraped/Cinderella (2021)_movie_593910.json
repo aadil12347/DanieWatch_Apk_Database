@@ -1,0 +1,29 @@
+{
+    "post_title": "Cinderella (2021)",
+    "post_type": "movie",
+    "tmdb_id": 593910,
+    "imdb_id": "tt10155932",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rrgxrx4xjljwulu"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/52w65txm56ttkjx"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nts5oppron52vas"
+            }
+        ]
+    }
+}

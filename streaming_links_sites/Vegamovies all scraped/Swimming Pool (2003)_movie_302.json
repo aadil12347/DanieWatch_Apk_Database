@@ -1,0 +1,30 @@
+{
+    "post_title": "Swimming Pool (2003)",
+    "post_type": "movie",
+    "tmdb_id": 302,
+    "imdb_id": "tt0324133",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rswvihihm1ss1aw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ce9tiwno9nxt-g1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dz7ke2ksed3okoq"
+            }
+        ]
+    }
+}

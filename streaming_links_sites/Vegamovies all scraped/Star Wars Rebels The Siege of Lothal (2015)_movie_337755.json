@@ -1,0 +1,25 @@
+{
+    "post_title": "Star Wars Rebels: The Siege of Lothal (2015)",
+    "post_type": "movie",
+    "tmdb_id": 337755,
+    "imdb_id": "tt4236890",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h93i-rqwbxxiqdr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dwvvf3uksrff163"
+            }
+        ]
+    }
+}

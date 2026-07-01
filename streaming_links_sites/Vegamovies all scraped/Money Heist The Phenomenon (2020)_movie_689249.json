@@ -1,0 +1,30 @@
+{
+    "post_title": "Money Heist: The Phenomenon (2020)",
+    "post_type": "movie",
+    "tmdb_id": 689249,
+    "imdb_id": "tt12078990",
+    "languages": [
+        "English",
+        "Spanish"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k5p15ppl1yhsc30"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lcenctc7lklbtnx"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/joknjsdnid9kv19"
+            }
+        ]
+    }
+}

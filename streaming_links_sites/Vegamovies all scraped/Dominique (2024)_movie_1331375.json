@@ -1,0 +1,30 @@
+{
+    "post_title": "Dominique (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1331375,
+    "imdb_id": "tt14972766",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ggt3ok1tls8ojji"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7p15irs74w4s1r4"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cpwcx7mjgcjwhlb"
+            }
+        ]
+    }
+}

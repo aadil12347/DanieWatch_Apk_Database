@@ -1,0 +1,34 @@
+{
+    "post_title": "Inuyashiki (2018)",
+    "post_type": "movie",
+    "tmdb_id": 447743,
+    "imdb_id": "tt6340500",
+    "languages": [
+        "Hindi",
+        "Japanese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4st84nllf5jwn1m"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rdfrjddtorqfdgn"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/4gfxtwhq4ge2hoo"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ek58feoeq15qxed"
+            }
+        ]
+    }
+}

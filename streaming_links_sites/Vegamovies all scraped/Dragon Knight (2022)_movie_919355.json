@@ -1,0 +1,34 @@
+{
+    "post_title": "Dragon Knight (2022)",
+    "post_type": "movie",
+    "tmdb_id": 919355,
+    "imdb_id": "tt13117446",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h82xo8jm7bbuat4"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/d21w2ij1c0xindj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/rv1iyo5m-yinnij"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jjjcjnn7wtinb6i"
+            }
+        ]
+    }
+}

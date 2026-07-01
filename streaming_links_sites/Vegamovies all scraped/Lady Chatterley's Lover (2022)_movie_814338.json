@@ -1,0 +1,38 @@
+{
+    "post_title": "Lady Chatterley's Lover (2022)",
+    "post_type": "movie",
+    "tmdb_id": 814338,
+    "imdb_id": "tt14369780",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/slmlcln4dyrsjls"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/npkdspq45o6fntg"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/d84ddwytjbe1wdj"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uofkyfxft10ikyw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/cicqc53eqcckpkv"
+            }
+        ]
+    }
+}

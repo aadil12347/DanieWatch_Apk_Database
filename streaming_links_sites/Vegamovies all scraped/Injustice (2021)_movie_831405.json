@@ -1,0 +1,29 @@
+{
+    "post_title": "Injustice (2021)",
+    "post_type": "movie",
+    "tmdb_id": 831405,
+    "imdb_id": "tt5012504",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=bUZvVXluZmt2SG9YRlR5SmxIMmF0c0ZDZHBhYVBCVjhWblBHbllUMmJzdjExN2RIZmtYQ3JEM3ZpQkVqcnI5RQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=dE9GTmtla3BJZTdsY2xQaDN5MVBLVkhocDM3TlR3ViszSWF0cnJlTE9Qb2Z2elFmdDkxZ3ZVQ05tVnliTlZ3RQ=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=RmZXUU1WN1ZTMmJyZ3RkOGFWMU4vd1hUaVVtb1ZWb256eXlzMzArNWVPRndCTjVmNjBicUxRUnBoS3FDdXJ4Mg=="
+            }
+        ]
+    }
+}

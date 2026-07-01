@@ -1,0 +1,30 @@
+{
+    "post_title": "Jungle (2017)",
+    "post_type": "movie",
+    "tmdb_id": 390062,
+    "imdb_id": "tt3758172",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/if1ff9vwjhjcsv_"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4mibe414q1mevcp"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bx14efxee4mxb4l"
+            }
+        ]
+    }
+}

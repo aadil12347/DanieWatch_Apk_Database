@@ -1,0 +1,30 @@
+{
+    "post_title": "Garuda Superhero (2015)",
+    "post_type": "movie",
+    "tmdb_id": 316298,
+    "imdb_id": "tt9506820",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8jx18mwc5wocowc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ajc-0epcqm11rxl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lwroxrffwnvrnvr"
+            }
+        ]
+    }
+}

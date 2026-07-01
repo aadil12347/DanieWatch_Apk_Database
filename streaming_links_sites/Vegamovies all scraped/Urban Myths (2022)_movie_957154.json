@@ -1,0 +1,29 @@
+{
+    "post_title": "Urban Myths (2022)",
+    "post_type": "movie",
+    "tmdb_id": 957154,
+    "imdb_id": "tt20039176",
+    "languages": [
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3gnyjzpypzt9pd5"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rlxer7rmrugrk6x"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lvjlqqdmq2fd9fx"
+            }
+        ]
+    }
+}

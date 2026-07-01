@@ -1,0 +1,40 @@
+{
+    "post_title": "Mulan (2020)",
+    "post_type": "movie",
+    "tmdb_id": 337401,
+    "imdb_id": "tt4566758",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1helbrzrtecmocg"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=WVJuejFkMFJvNlZiSnVyYTJUZnhONlJKNDRaT0x1Mzc1bzI0TThKSjFtbzJHTkZhVG82azNvbXlVdHI3WEhjTg=="
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/api/index.php?link=c0I1cWc1MC92OEVhS1pYRWc3T0tNQ3VqTE5UOHVoQjlKUGNCTGJlS2wvNkhWOUF4UjRXSUczWTQ0RkUrYzF6cg=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8p_pegnllcbre5g"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qe9fymn1tfmyqgg"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Mythica: A Quest for Heroes (2014)",
+    "post_type": "movie",
+    "tmdb_id": 321068,
+    "imdb_id": "tt3405714",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m2cwtbyag2awbwg"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ik7t3kkhivw3cgi"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/peeqtkdpsrqsfhr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rwm_kghgpi2rgik"
+            }
+        ]
+    }
+}

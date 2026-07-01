@@ -1,0 +1,30 @@
+{
+    "post_title": "Wild 7 (2011)",
+    "post_type": "movie",
+    "tmdb_id": 112134,
+    "imdb_id": "tt1851085",
+    "languages": [
+        "Hindi",
+        "Japanese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kxbbkn51kkff32f"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i29iuxwwrrri9gr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/twkot1iw381w1-o"
+            }
+        ]
+    }
+}

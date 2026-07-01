@@ -1,0 +1,30 @@
+{
+    "post_title": "Ghost (1990)",
+    "post_type": "movie",
+    "tmdb_id": 251,
+    "imdb_id": "tt0099653",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h1r1gf6t3y9c9w3"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vtjqqqew16bbitn"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fl0lod9_aajeu0e"
+            }
+        ]
+    }
+}

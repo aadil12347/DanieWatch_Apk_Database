@@ -1,0 +1,34 @@
+{
+    "post_title": "The Perfumier (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1016446,
+    "imdb_id": "tt21916206",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cqgl7oubcv72gff"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yi99i4nauiez9ai"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ykkoli6n6t3itnn"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3b3o1mdl7el1owb"
+            }
+        ]
+    }
+}

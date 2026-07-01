@@ -1,0 +1,34 @@
+{
+    "post_title": "Bruised (2021)",
+    "post_type": "movie",
+    "tmdb_id": 718633,
+    "imdb_id": "tt8310474",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v-4hsz8s44i4uhj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/aa1hoz7znopvhow"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/_ww1j3ekyqqqvje"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/klqbqcziiuxtiqp"
+            }
+        ]
+    }
+}

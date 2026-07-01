@@ -1,0 +1,30 @@
+{
+    "post_title": "Crank (2006)",
+    "post_type": "movie",
+    "tmdb_id": 1948,
+    "imdb_id": "tt0479884",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=S2JSRzYvOVJkbDVyTHU5emovUkJ0UmU2S3J1aG5QNUJXVDV0N2FoWlIzRzJXcnRXVW0vRVlXOU5SZkVLSFlXMw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=eG9UT1lrMHFtQW03TlAyY2puY3NLcDA5ek0vNmhRTGpTRnFwaWhmcEVzbWI4RU1nNXBUdVFKNlpxQUZibXVqcg=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=d3h6bGNNbnlQV2l6bHNZZlhtd0JUY215YVc5Q3gvWWZkeG03bE1xb3dpZDUyc1VpL20zQWY5Z1RaZFh2ZFl2OA=="
+            }
+        ]
+    }
+}

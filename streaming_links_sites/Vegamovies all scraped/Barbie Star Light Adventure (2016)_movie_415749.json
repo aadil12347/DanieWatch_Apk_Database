@@ -1,0 +1,25 @@
+{
+    "post_title": "Barbie: Star Light Adventure (2016)",
+    "post_type": "movie",
+    "tmdb_id": 415749,
+    "imdb_id": "tt5502946",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=MjFWY3dkYW5Zb2kwdERwaTJabWZQeXpBUjFCcThNZDhDakd6a1R1cW1tcGlxdERkYkxGZkJEdUtBUWVsN0RMZg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=MkRKUUJzZ3dHWGZ1TnZVYlZTMVY2QXprUE1lQWpLMlZ3UmhhekR6YStIT1AvQTg2T3JCcjZubkpBQ0lxYlM0TA=="
+            }
+        ],
+        "1080p": []
+    }
+}

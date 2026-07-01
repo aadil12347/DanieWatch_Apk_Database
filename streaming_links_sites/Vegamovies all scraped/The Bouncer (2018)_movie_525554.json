@@ -1,0 +1,34 @@
+{
+    "post_title": "The Bouncer (2018)",
+    "post_type": "movie",
+    "tmdb_id": 525554,
+    "imdb_id": "tt7816392",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q8sdayfq8yfdrmm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ldvmk71dwisrrie"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/7dgc1xd4d1w71jm"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sw8sf8vya0a78cg"
+            }
+        ]
+    }
+}

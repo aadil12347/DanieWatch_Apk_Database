@@ -1,0 +1,34 @@
+{
+    "post_title": "Holmes & Watson (2018)",
+    "post_type": "movie",
+    "tmdb_id": 426563,
+    "imdb_id": "tt1255919",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ur6-mukrhtz8k8e"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g0d_hgwu_yakcm0"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/toknkk3tkffv--e"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/r8uyre3ufdufd8a"
+            }
+        ]
+    }
+}

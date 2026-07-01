@@ -1,0 +1,34 @@
+{
+    "post_title": "Scrooge: A Christmas Carol (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1001865,
+    "imdb_id": "tt20917338",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/offq-fe1-yyuy8o"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8zfnoxpvu1ilez7"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ut515imcifvtilp"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/z99drd0lldbpxxr"
+            }
+        ]
+    }
+}

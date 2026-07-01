@@ -1,0 +1,25 @@
+{
+    "post_title": "The 7 Adventures of Sinbad (2010)",
+    "post_type": "movie",
+    "tmdb_id": 44773,
+    "imdb_id": "tt1636629",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=eTd0QXpJZysvcSszNXRvVWlJWkVHSkhoK3BtNGxyaE9RUU1SSnJVVktYdEdOZTJVVzVRdHJ2cFByUUVvTDFuSQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=Q0IzUHpDRXpsN3NMM0x3cmxMWDN5WkgvRXI5MEV6c1BrNVc3MXU3eThiL0ZBVmZtd0FFTFlzbGx5VGV2ZUhLYg=="
+            }
+        ],
+        "1080p": []
+    }
+}

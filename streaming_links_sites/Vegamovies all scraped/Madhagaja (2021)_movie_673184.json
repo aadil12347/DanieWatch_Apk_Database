@@ -1,0 +1,33 @@
+{
+    "post_title": "Madhagaja (2021)",
+    "post_type": "movie",
+    "tmdb_id": 673184,
+    "imdb_id": "tt13979464",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2hzzmuoum1hzmu1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zdp2dt2nx1nmd7z"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/cd2ujogumxmyn6u"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/615yvku61kk5v1q"
+            }
+        ]
+    }
+}

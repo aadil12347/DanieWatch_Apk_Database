@@ -1,0 +1,33 @@
+{
+    "post_title": "Seeru (2020)",
+    "post_type": "movie",
+    "tmdb_id": 668391,
+    "imdb_id": "tt10022990",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jsofljf5ywkyd0n"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rmozs1ccvogtcwg"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1ezthbbmaxppauu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fadjn4wjrrjft4r"
+            }
+        ]
+    }
+}

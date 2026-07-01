@@ -1,0 +1,30 @@
+{
+    "post_title": "Land (2021)",
+    "post_type": "movie",
+    "tmdb_id": 598896,
+    "imdb_id": "tt10265034",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ydaowdmopq6qtpd"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cezsbazpc6ccici"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nwwz3r2fwsi63wz"
+            }
+        ]
+    }
+}

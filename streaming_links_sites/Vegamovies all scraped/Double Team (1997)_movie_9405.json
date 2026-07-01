@@ -1,0 +1,30 @@
+{
+    "post_title": "Double Team (1997)",
+    "post_type": "movie",
+    "tmdb_id": 9405,
+    "imdb_id": "tt0119013",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c8p4jxjvcgwztc8"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1pbo_k-f0fpppzn"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j1iyf1teeymrts1"
+            }
+        ]
+    }
+}

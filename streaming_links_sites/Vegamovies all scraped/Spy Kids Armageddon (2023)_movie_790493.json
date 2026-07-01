@@ -1,0 +1,38 @@
+{
+    "post_title": "Spy Kids: Armageddon (2023)",
+    "post_type": "movie",
+    "tmdb_id": 790493,
+    "imdb_id": "tt13978520",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/niidqak7tqqt44h"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fxgg92a3qz3ah42"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ffuvgcrfvuuuz0p"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tafnofifwfwttff"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/oah6-oql5jin-ah"
+            }
+        ]
+    }
+}

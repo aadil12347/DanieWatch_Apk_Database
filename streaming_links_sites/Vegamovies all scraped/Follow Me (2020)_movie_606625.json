@@ -1,0 +1,30 @@
+{
+    "post_title": "Follow Me (2020)",
+    "post_type": "movie",
+    "tmdb_id": 606625,
+    "imdb_id": "tt8160834",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/108qqhy-vyq-1-d"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lhfvkwfrrviqujw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gb6xssnlenlf4f1"
+            }
+        ]
+    }
+}

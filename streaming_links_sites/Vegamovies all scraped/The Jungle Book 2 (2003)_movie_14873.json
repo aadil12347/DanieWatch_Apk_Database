@@ -1,0 +1,34 @@
+{
+    "post_title": "The Jungle Book 2 (2003)",
+    "post_type": "movie",
+    "tmdb_id": 14873,
+    "imdb_id": "tt0283426",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wysumy0z82owlh1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ggp0ncftt4getsv"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/2mvmb1gbiivbnm_"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6vjv71r6rw1y11q"
+            }
+        ]
+    }
+}

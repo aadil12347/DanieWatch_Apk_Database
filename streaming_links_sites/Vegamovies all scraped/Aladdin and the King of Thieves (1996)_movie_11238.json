@@ -1,0 +1,30 @@
+{
+    "post_title": "Aladdin and the King of Thieves (1996)",
+    "post_type": "movie",
+    "tmdb_id": 11238,
+    "imdb_id": "tt0115491",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pa15kl1ukks_7kf"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5181sc1bhhscqtl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nmclqyj9jnqpvvp"
+            }
+        ]
+    }
+}

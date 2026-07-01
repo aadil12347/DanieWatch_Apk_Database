@@ -1,0 +1,24 @@
+{
+    "post_title": "Yaare Koogadali (2012)",
+    "post_type": "movie",
+    "tmdb_id": 463182,
+    "imdb_id": "tt12837388",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=YTVMaENmbXZRWmJ3TmtZV0pkUnROVlZuVlpXNmNmM3JLb0U3eFJSV1FkZ0NTcmNyOHhPU2xBTDhLZkFRaTF4OA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=ZFl5aWFobTR5QWwyVnRDUnpjNi9SSVVDU3pCZlJjTHVBWWxWakxTMCtiWmR0UC9BVWhUMEc5QkNBR1NyOG5MSA=="
+            }
+        ],
+        "1080p": []
+    }
+}

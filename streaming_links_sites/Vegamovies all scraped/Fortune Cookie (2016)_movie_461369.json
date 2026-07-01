@@ -1,0 +1,25 @@
+{
+    "post_title": "Fortune Cookie (2016)",
+    "post_type": "movie",
+    "tmdb_id": 461369,
+    "imdb_id": "tt5371922",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v3q13qtx3vdjcqg"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yliviv_ozffagpc"
+            }
+        ],
+        "1080p": []
+    }
+}

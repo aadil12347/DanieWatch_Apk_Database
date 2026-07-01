@@ -1,0 +1,29 @@
+{
+    "post_title": "3rd Night (2017)",
+    "post_type": "movie",
+    "tmdb_id": 464752,
+    "imdb_id": "tt5980242",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qz8zkg3ttaqmtm1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/boxoobtbcg8xdbt"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/qkq4sssxr1ylrq4"
+            }
+        ],
+        "1080p": []
+    }
+}

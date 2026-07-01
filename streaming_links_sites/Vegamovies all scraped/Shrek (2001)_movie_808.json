@@ -1,0 +1,25 @@
+{
+    "post_title": "Shrek (2001)",
+    "post_type": "movie",
+    "tmdb_id": 808,
+    "imdb_id": "tt0126029",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x4hvu1-4imucdki"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nnz2hzkp2kfrfhc"
+            }
+        ],
+        "1080p": []
+    }
+}

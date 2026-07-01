@@ -1,0 +1,44 @@
+{
+    "post_title": "Sonic the Hedgehog 3 (2024)",
+    "post_type": "movie",
+    "tmdb_id": 939243,
+    "imdb_id": "tt18259086",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s1sya8h_jslr2pp"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-3fjnzff7-snfft"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ajq7ayawgcvbjjb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kc99z1o1y9y1op3"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/iazkknms3eajanf"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tnzik5qenreikz2"
+            }
+        ]
+    }
+}

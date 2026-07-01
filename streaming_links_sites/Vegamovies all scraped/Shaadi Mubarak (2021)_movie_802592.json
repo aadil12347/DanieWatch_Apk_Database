@@ -1,0 +1,24 @@
+{
+    "post_title": "Shaadi Mubarak (2021)",
+    "post_type": "movie",
+    "tmdb_id": 802592,
+    "imdb_id": "tt13249412",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=Uk96b1hVeGVid0M1Y2RRTnJnZFc2ZmJweG90STUzWW8zUHpuU3V0S09BdHNnU1Y5ZHZjenBRa1plbmUxNHQrcw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=d29GZFpmNnFVajlPemZNRGdFY0Zvd2tTcnlIcVBETXJibkxqOFF3MnFNWHVXaExKTUx6YUxQK0x6UEZ4THdncA=="
+            }
+        ],
+        "1080p": []
+    }
+}

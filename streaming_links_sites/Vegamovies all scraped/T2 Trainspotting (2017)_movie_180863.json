@@ -1,0 +1,34 @@
+{
+    "post_title": "T2 Trainspotting (2017)",
+    "post_type": "movie",
+    "tmdb_id": 180863,
+    "imdb_id": "tt2763304",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ky4yjmu4qfnljfq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bdet5czcqtfcnqq"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/gz-ma3hhgqhr-hq"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zzekoxd0ftpdemp"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Dark Whispers - Volume 1 (2019)",
+    "post_type": "movie",
+    "tmdb_id": 618331,
+    "imdb_id": "tt10448542",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m051afla9lcscwz"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/likxkzkjdrilf9l"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wm1co4hc9csmxhh"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h9vdyo49nnb4nv4"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Dark Shadows (2012)",
+    "post_type": "movie",
+    "tmdb_id": 62213,
+    "imdb_id": "tt1077368",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dpub3ocob01vvd1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yf2bhg1jfw16nww"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vpgfpgvhinvfof3"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/g_ruxe9t4zpvncj"
+            }
+        ]
+    }
+}

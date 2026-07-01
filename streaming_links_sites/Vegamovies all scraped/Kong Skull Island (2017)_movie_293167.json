@@ -1,0 +1,30 @@
+{
+    "post_title": "Kong: Skull Island (2017)",
+    "post_type": "movie",
+    "tmdb_id": 293167,
+    "imdb_id": "tt3731562",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i1pbt1nkdi15nfw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rxtl7gyg-xgox63"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/y7ch-8ee7kygfw-"
+            }
+        ]
+    }
+}

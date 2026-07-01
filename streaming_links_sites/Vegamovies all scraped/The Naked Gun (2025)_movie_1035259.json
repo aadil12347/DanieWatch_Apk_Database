@@ -1,0 +1,40 @@
+{
+    "post_title": "The Naked Gun (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1035259,
+    "imdb_id": "tt3402138",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hvs3bignzu3vsd3"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fnsqhlf1lnfcu19"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/yrfe1gokw1soswn"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pjbtp0uuj0pwujo"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k9i9bj8iv2i_ejw"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Scary Movie (2000)",
+    "post_type": "movie",
+    "tmdb_id": 4247,
+    "imdb_id": "tt0175142",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b5wf5klzfuw1ocq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7_jaubhu8cuugtf"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rfeyvlca3sdaekv"
+            }
+        ]
+    }
+}

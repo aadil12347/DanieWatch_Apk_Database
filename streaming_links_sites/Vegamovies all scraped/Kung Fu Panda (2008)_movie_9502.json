@@ -1,0 +1,30 @@
+{
+    "post_title": "Kung Fu Panda (2008)",
+    "post_type": "movie",
+    "tmdb_id": 9502,
+    "imdb_id": "tt0441773",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hahybhc2p7nb9i5"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kvs1pchjkk0levy"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rccvyrvhmt1lmbt"
+            }
+        ]
+    }
+}

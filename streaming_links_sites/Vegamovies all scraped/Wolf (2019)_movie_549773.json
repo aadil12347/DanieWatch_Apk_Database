@@ -1,0 +1,25 @@
+{
+    "post_title": "Wolf (2019)",
+    "post_type": "movie",
+    "tmdb_id": 549773,
+    "imdb_id": "tt8152324",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=M2VTOTFUUUN5TEd5c3J2MzlCdTlHV0NYRitXWlNDejZ6WURXenA2ZER6RHEyd0owdk1OQWdDdG55NkRZMFYydA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=cjZyQ09WeWZBdjFNQnlKUWJCcERGdVh5eUZ0Skt6bXZGVXNXWkVvdmNEd1FkdGh3MVZ5cWdoWWF5ajR2dnQ1Tw=="
+            }
+        ],
+        "1080p": []
+    }
+}

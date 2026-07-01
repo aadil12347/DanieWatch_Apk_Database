@@ -1,0 +1,34 @@
+{
+    "post_title": "High Voltage (2018)",
+    "post_type": "movie",
+    "tmdb_id": 550172,
+    "imdb_id": "tt6905442",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v2hxsavcrsv6txn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wlwwjykjlw9gwwe"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/33trfjrjjz8rta1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qzjehziilztv1ir"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Jack the Giant Slayer (2013)",
+    "post_type": "movie",
+    "tmdb_id": 81005,
+    "imdb_id": "tt1351685",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n-o--wmj-evx-nj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/asdn5cuyam5mutt"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pq7mlgp3rd1vrlm"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Kratt (2020)",
+    "post_type": "movie",
+    "tmdb_id": 766720,
+    "imdb_id": "tt11690220",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x1jn6u5uxd5k4ii"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lxccxeec03vxdvv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ic_fc8sq2ckhuqc"
+            }
+        ]
+    }
+}

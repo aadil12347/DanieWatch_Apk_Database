@@ -1,0 +1,30 @@
+{
+    "post_title": "Spy Game (2001)",
+    "post_type": "movie",
+    "tmdb_id": 1535,
+    "imdb_id": "tt0266987",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pm1ndmamk-uxasa"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v61w3qvir6v23c2"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oamhpo6sogcl8zu"
+            }
+        ]
+    }
+}

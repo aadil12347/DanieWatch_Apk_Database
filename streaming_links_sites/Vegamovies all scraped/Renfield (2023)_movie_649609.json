@@ -1,0 +1,44 @@
+{
+    "post_title": "Renfield (2023)",
+    "post_type": "movie",
+    "tmdb_id": 649609,
+    "imdb_id": "tt11358390",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bn-avvx4i-px1mc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ycmbp0y0qntnfen"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/nut0rbrwblddygv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tvp4pfwffdfdrfw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/tpqsg371snn1ssb"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yx-mhx8-0m-jv2y"
+            }
+        ]
+    }
+}

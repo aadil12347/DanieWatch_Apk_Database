@@ -1,0 +1,30 @@
+{
+    "post_title": "Gangs of New York (2002)",
+    "post_type": "movie",
+    "tmdb_id": 3131,
+    "imdb_id": "tt0217505",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/43r3zrud1rszdde"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c5_q1dlo2_v5qyj"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9gvu1xfisyu1lmf"
+            }
+        ]
+    }
+}

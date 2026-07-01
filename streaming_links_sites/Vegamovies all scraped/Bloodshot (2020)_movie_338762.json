@@ -1,0 +1,44 @@
+{
+    "post_title": "Bloodshot (2020)",
+    "post_type": "movie",
+    "tmdb_id": 338762,
+    "imdb_id": "tt1634106",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/imw1av8aui2tdu3"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pbq4queitq1paya"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/uyjssy6smjgymjg"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/p_m1_uu1oscjoou"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/9zi0ololozp10kn"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dz5t88wkfncdad_"
+            }
+        ]
+    }
+}

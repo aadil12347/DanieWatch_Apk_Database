@@ -1,0 +1,29 @@
+{
+    "post_title": "Ala Modalaindi (2011)",
+    "post_type": "movie",
+    "tmdb_id": 57010,
+    "imdb_id": "tt1830477",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v3sc75cc9wg939f"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/82xlowugikkncwo"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ssjdj54ams__-7n"
+            }
+        ]
+    }
+}

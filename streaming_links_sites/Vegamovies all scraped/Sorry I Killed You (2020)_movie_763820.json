@@ -1,0 +1,34 @@
+{
+    "post_title": "Sorry I Killed You (2020)",
+    "post_type": "movie",
+    "tmdb_id": 763820,
+    "imdb_id": "tt3442126",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=VVMwOHBrL0pLQ1dNYzl2dTI3aTF0VHBzQWtDdkJSTXQxdHJLcWZMRzF5YmFiWklybnQ0YVpRREo2cDF5VVJ5Yw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=UlhuWHZEV3cxRnU0eXAzUUFnUUpjYk0vOTdoQzU4c2NnNzhvNHNJdFFzTzVDajMzQTJ1ejFtc1FwVC9ZN2ZCRw=="
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/api/index.php?link=QTJKVS9WYkxMckJwVy9QVmRJV29sem95T2VJQ3llTDdpOG1pUkZ2QmJkMG1BVGJWUmxDc3RRd3B1aEV4NngzNg=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=ZUg1SkRuNGloaE9NOHp5aHVMc1J2NDA0Nm80MTJyRFUwWnlaN3c0WGxnWnQyc1grbDhWSTZmRXloTk42ekRHbg=="
+            }
+        ]
+    }
+}

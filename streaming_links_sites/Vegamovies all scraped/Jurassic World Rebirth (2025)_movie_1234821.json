@@ -1,0 +1,44 @@
+{
+    "post_title": "Jurassic World Rebirth (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1234821,
+    "imdb_id": "tt31036941",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1m4k_ddmllyhg8q"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9ts51rtbsvnrraa"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/tycv_y677u1_ym_"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mbtabvl82bm5zb2"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/dbidtbi75v777gd"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dzxuz3cjlomxlum"
+            }
+        ]
+    }
+}

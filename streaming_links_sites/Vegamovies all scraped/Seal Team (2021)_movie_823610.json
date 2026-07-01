@@ -1,0 +1,34 @@
+{
+    "post_title": "Seal Team (2021)",
+    "post_type": "movie",
+    "tmdb_id": 823610,
+    "imdb_id": "tt8456190",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1o1owvc1cav4vzu"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ko3firmfu1vfgdi"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/w4-ceglnnlyw4ie"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mle3hsz_zw_kmzm"
+            }
+        ]
+    }
+}

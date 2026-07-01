@@ -1,0 +1,34 @@
+{
+    "post_title": "Hospitality (2018)",
+    "post_type": "movie",
+    "tmdb_id": 560412,
+    "imdb_id": "tt6964844",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nbej9mw9krbdw1m"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hdgxxmmddtm0mmx"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vvenr6rrz11wobe"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ac_clij_qqe941w"
+            }
+        ]
+    }
+}

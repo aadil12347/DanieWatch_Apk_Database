@@ -1,0 +1,25 @@
+{
+    "post_title": "Howard the Duck (1986)",
+    "post_type": "movie",
+    "tmdb_id": 10658,
+    "imdb_id": "tt0091225",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=aVVKS2dYVVZZYVhKQjhrMlNoL290TlRId3RDUkdxeTVUc1ArWTRxa0NzVFpuZ0NKTzZHWTB6R1NVdUNtN2wzdg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=dUx1RzVOVmVqSXROMTkraDQ2TlVkckxVWUJTSVBkbkxCandQTnRTSDF1cjN3ODFYUUhMQkdaUjN1bDFjRkVhQQ=="
+            }
+        ],
+        "1080p": []
+    }
+}

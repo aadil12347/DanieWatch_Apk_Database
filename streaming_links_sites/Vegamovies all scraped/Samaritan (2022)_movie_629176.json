@@ -1,0 +1,52 @@
+{
+    "post_title": "Samaritan (2022)",
+    "post_type": "movie",
+    "tmdb_id": 629176,
+    "imdb_id": "tt5500218",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4h47vd6bdt2uxt4"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e7yfafr7ofwjryn"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/pqqhs-earafn19e"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iu2wx3yxlp1xluj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1ynkd398j9j414g"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/91hnhmrrrmsnml7"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a9x6o61ohuc_vvw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/fz_cnsplzb2lclc"
+            }
+        ]
+    }
+}

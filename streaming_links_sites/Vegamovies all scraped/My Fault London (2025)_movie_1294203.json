@@ -1,0 +1,38 @@
+{
+    "post_title": "My Fault: London (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1294203,
+    "imdb_id": "tt32434379",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/y_bxd1pdncdb9q_"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/p0q0imiwbrwwvix"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/80xhwehmgsgusve"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xmhuiurmuxumuhi"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/qqenoxnp-pn5ohn"
+            }
+        ]
+    }
+}

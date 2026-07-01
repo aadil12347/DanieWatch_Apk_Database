@@ -1,0 +1,34 @@
+{
+    "post_title": "Dear Evan Hansen (2021)",
+    "post_type": "movie",
+    "tmdb_id": 567690,
+    "imdb_id": "tt9357050",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xdysw_ctwiq_rac"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/03siq0083lnplxn"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/hkck6mayuh2ck1u"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ibqhuixinhh6gir"
+            }
+        ]
+    }
+}

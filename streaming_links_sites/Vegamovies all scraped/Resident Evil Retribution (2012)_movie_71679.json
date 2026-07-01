@@ -1,0 +1,34 @@
+{
+    "post_title": "Resident Evil: Retribution (2012)",
+    "post_type": "movie",
+    "tmdb_id": 71679,
+    "imdb_id": "tt1855325",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1kkssd1hasld6hd"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/68dkyuud4nd2u8e"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tfrq99uv9q9vobb"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/yynusgwg5n1dow6"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Enter the Dangerous Mind (2013)",
+    "post_type": "movie",
+    "tmdb_id": 176077,
+    "imdb_id": "tt2229377",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m1ptaiq9mtmftt3"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bqjfeoifqii3bbu"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mftrtxevxkuibjm"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_0adh_1sibqg33a"
+            }
+        ]
+    }
+}

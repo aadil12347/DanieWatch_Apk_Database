@@ -1,0 +1,30 @@
+{
+    "post_title": "The Prisoner (1955)",
+    "post_type": "movie",
+    "tmdb_id": 52857,
+    "imdb_id": "tt0048512",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ccwba1r4e9dtvad"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/511lz_e01tytv-y"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lecqbnnyvdziuyk"
+            }
+        ]
+    }
+}

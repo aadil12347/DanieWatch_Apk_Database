@@ -1,0 +1,34 @@
+{
+    "post_title": "The King (2019)",
+    "post_type": "movie",
+    "tmdb_id": 504949,
+    "imdb_id": "tt7984766",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/l8tukankr8noekw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z1h9d2ah7jurhg0"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/krlariu1r1vrkmd"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mbqeozkjyxko5xm"
+            }
+        ]
+    }
+}

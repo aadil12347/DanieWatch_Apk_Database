@@ -1,0 +1,30 @@
+{
+    "post_title": "Hua Mulan (2020)",
+    "post_type": "movie",
+    "tmdb_id": 752662,
+    "imdb_id": "tt21430954",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/irzkwfzzcfdr3wa"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dricuicda0e4k4h"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ll9g6xzyirguz1f"
+            }
+        ]
+    }
+}

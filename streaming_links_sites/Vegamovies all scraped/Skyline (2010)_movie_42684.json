@@ -1,0 +1,34 @@
+{
+    "post_title": "Skyline (2010)",
+    "post_type": "movie",
+    "tmdb_id": 42684,
+    "imdb_id": "tt1564585",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/prop7ppa0pfgpog"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5lczs1lf185c06n"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/qgqbm3r1qtdqq1d"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a_gmdvmmz2ngrk8"
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "post_title": "The Ring Two (2005)",
+    "post_type": "movie",
+    "tmdb_id": 10320,
+    "imdb_id": "tt0377109",
+    "languages": [
+        "Hindi",
+        "English",
+        "Japanese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ulkyqfd1_f-qp-p"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a7jv16clciq1zfs"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qr3iw3zzhppwbps"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Interview with the Vampire (1994)",
+    "post_type": "movie",
+    "tmdb_id": 628,
+    "imdb_id": "tt0110148",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ewwdet4dp1fnhbg"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gezzehfyck1bzad"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3ftqruok3anv11q"
+            }
+        ]
+    }
+}

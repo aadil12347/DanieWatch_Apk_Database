@@ -1,0 +1,30 @@
+{
+    "post_title": "Architecture 101 (2012)",
+    "post_type": "movie",
+    "tmdb_id": 107235,
+    "imdb_id": "tt2337981",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gyigkfafl1pfvvo"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pjvjkaaoa--knpa"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1hn-jjjhuczcyeo"
+            }
+        ]
+    }
+}

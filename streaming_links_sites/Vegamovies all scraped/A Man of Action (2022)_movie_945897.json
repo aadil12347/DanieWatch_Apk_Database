@@ -1,0 +1,42 @@
+{
+    "post_title": "A Man of Action (2022)",
+    "post_type": "movie",
+    "tmdb_id": 945897,
+    "imdb_id": "tt12703292",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/86q6u6gtxxamkxg"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8npevsnz95t7n7z"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/obuknnu3t8wui9f"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/drjfxxggxnwraft"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/_9pc-qxnsqr7ndq"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/ry7awvv-l25xer-"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Shooting Stars (2023)",
+    "post_type": "movie",
+    "tmdb_id": 970284,
+    "imdb_id": "tt3715152",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vp1h8waufnlvpvn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vb2y1qkuulkkidk"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/z1nenu6nq8nxzcq"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9dhpm4d29m171y_"
+            }
+        ]
+    }
+}

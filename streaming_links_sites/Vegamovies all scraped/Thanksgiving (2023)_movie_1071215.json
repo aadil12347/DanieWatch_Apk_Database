@@ -1,0 +1,34 @@
+{
+    "post_title": "Thanksgiving (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1071215,
+    "imdb_id": "tt1448754",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vtvclv9pc1yu5zw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1d3ismuvcovau5s"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/n8heie8eyp1ieki"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c0onvn3vbsibcib"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Two Much (1995)",
+    "post_type": "movie",
+    "tmdb_id": 46029,
+    "imdb_id": "tt0118001",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lxd-1mycl6cftqy"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w0g-inlheeei4ui"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kcczczx8ajxckjr"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "post_title": "The Amazing Spider-Man (2012)",
+    "post_type": "movie",
+    "tmdb_id": 1930,
+    "imdb_id": "tt0948470",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/olll1hqpqlqdrtp"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qqfuu3fvjjlfcfj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/yqm561nhnnynv1p"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8ypiikhheynfv5r"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1pgqlb8ckcpqsl0"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/twnujuxzgs-b-kk"
+            }
+        ]
+    }
+}

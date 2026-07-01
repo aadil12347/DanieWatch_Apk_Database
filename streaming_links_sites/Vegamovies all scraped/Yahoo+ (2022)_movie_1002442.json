@@ -1,0 +1,29 @@
+{
+    "post_title": "Yahoo+ (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1002442,
+    "imdb_id": "tt21200960",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yybmgrnysasim1b"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1eyoyexfzygrywj"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1wr61ff8t6r8sdq"
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "post_title": "Lou (2022)",
+    "post_type": "movie",
+    "tmdb_id": 429473,
+    "imdb_id": "tt5315210",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sjls1tssts8b8jn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gwbcklxwx7ipxyx"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/eeyg_ibm6yzov_g"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5k4grmd4jfy3o65"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/nnt_g1_mstg_bb1"
+            }
+        ]
+    }
+}

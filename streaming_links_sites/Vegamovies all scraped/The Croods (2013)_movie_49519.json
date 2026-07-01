@@ -1,0 +1,30 @@
+{
+    "post_title": "The Croods (2013)",
+    "post_type": "movie",
+    "tmdb_id": 49519,
+    "imdb_id": "tt0481499",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4ozuuvn47uts3hu"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j1u_xclrqyfv1et"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/axhvxiwa4h_x1wh"
+            }
+        ]
+    }
+}

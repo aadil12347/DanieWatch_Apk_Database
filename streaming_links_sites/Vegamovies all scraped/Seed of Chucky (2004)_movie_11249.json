@@ -1,0 +1,25 @@
+{
+    "post_title": "Seed of Chucky (2004)",
+    "post_type": "movie",
+    "tmdb_id": 11249,
+    "imdb_id": "tt0387575",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/09h9bs_swz0ztea"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jea4uehdzelq_3h"
+            }
+        ],
+        "1080p": []
+    }
+}

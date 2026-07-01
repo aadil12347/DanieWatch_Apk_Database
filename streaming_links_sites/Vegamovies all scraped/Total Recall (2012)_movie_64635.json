@@ -1,0 +1,30 @@
+{
+    "post_title": "Total Recall (2012)",
+    "post_type": "movie",
+    "tmdb_id": 64635,
+    "imdb_id": "tt1386703",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6qca92o92ujwtw6"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k4jjmprppppirai"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zsulkuwya3gdyga"
+            }
+        ]
+    }
+}

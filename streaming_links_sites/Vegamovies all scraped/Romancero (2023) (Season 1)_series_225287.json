@@ -1,0 +1,42 @@
+{
+    "post_title": "Romancero (2023)",
+    "post_type": "series",
+    "tmdb_id": 225287,
+    "imdb_id": "tt23644332",
+    "languages": [
+        "Hindi",
+        "English",
+        "Spanish"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/fbmghmoj1zqulzz"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://vcloud.zip/sp84csxjg1t1bld"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://vcloud.zip/fpm0kb7wbmdpcig"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://vcloud.zip/1al1n_crgmnes-e"
+                },
+                {
+                    "episode_title": "Episode 5",
+                    "link": "https://vcloud.zip/ap2ndaimmalmskd"
+                },
+                {
+                    "episode_title": "Episode 6",
+                    "link": "https://vcloud.zip/nnh9lfxqiqdhnl3"
+                }
+            ]
+        }
+    }
+}

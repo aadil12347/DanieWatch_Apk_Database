@@ -1,0 +1,34 @@
+{
+    "post_title": "The Royal Treatment (2022)",
+    "post_type": "movie",
+    "tmdb_id": 790142,
+    "imdb_id": "tt13989030",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v_6ca6pvpwmkcq9"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-iowdgbqi_9tgk-"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/o1o_34s7nad3fu_"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o_gndrgqqtegvvd"
+            }
+        ]
+    }
+}

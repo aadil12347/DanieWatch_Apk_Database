@@ -1,0 +1,30 @@
+{
+    "post_title": "Hypnotic (2021)",
+    "post_type": "movie",
+    "tmdb_id": 864873,
+    "imdb_id": "tt12383460",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=Rll6b3A0eTV2TFZTOWNGUkMxQ3hlQmVnUlhmVE8vcjRlZEJrT1lQUnlxNlhUOHRrcExtaUxLOGc4U2dUYnBsRg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=U0ZiSXVUWlp0Q3pIRklBWE5uV1ZpcldwdHd3WlRqMnF4b0JuMXk4dFkwTGJoajdvUjNmUm1qMW9rS2pqQVVjWA=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=S2I0cFYrR1k5WHpLeUlHODlOWkNBcG0xUDQwVE5sdHVZeUFURXdPSHVETHFHUUdwTC9GYTVBcEd2aWtUd200eg=="
+            }
+        ]
+    }
+}

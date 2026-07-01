@@ -1,0 +1,40 @@
+{
+    "post_title": "Appu (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1277400,
+    "imdb_id": "tt32020028",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hpb9tmmyphgt7x1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rrhh1kewdh_f6r_"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/fgfzqrj7cqsicfg"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cwhmtx4hkch4c1w"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lfftqlehrkqsxku"
+            }
+        ]
+    }
+}

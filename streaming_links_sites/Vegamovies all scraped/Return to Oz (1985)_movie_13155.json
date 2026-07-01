@@ -1,0 +1,30 @@
+{
+    "post_title": "Return to Oz (1985)",
+    "post_type": "movie",
+    "tmdb_id": 13155,
+    "imdb_id": "tt0089908",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/l3fn7nz606ca-8-"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/awk1xyvqengm3w7"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-155crcq8rcwwqv"
+            }
+        ]
+    }
+}

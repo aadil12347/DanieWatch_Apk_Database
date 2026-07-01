@@ -1,0 +1,25 @@
+{
+    "post_title": "Red Dawn (2012)",
+    "post_type": "movie",
+    "tmdb_id": 60747,
+    "imdb_id": "tt1234719",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gsb1vlhsg-gcbs-"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/r7rhkvylvdlyaoa"
+            }
+        ],
+        "1080p": []
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "The Green Inferno (2013)",
+    "post_type": "movie",
+    "tmdb_id": 171424,
+    "imdb_id": "tt2403021",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t8bv63tvrw8rxw4"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uxmvfwiptu6oj9n"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/tggztb1-lkogakl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jo6gvg7ie8vrw8d"
+            }
+        ]
+    }
+}

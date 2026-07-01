@@ -1,0 +1,30 @@
+{
+    "post_title": "Crusader (2005)",
+    "post_type": "movie",
+    "tmdb_id": 103568,
+    "imdb_id": "tt0402114",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a5nswaard7vd528"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/otjxvmuay54bcs5"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/96ifk9mibmi-a9f"
+            }
+        ]
+    }
+}

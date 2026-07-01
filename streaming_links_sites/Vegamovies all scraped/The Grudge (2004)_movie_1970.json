@@ -1,0 +1,34 @@
+{
+    "post_title": "The Grudge (2004)",
+    "post_type": "movie",
+    "tmdb_id": 1970,
+    "imdb_id": "tt0391198",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qsx219wvdh1h28e"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vodbdul1uadutnn"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/fuzppqpwbgg183w"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x1jyhgbec0ai1gx"
+            }
+        ]
+    }
+}

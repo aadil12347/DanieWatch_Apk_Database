@@ -1,0 +1,34 @@
+{
+    "post_title": "The Wailing (2016)",
+    "post_type": "movie",
+    "tmdb_id": 293670,
+    "imdb_id": "tt5215952",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pmik1jaf1lj1m11"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7-mvt2-o11itmfr"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/kom4dpmm12mq0pf"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mmvhv3wvjrvrhuh"
+            }
+        ]
+    }
+}

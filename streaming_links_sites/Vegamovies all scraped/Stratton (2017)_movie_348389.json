@@ -1,0 +1,29 @@
+{
+    "post_title": "Stratton (2017)",
+    "post_type": "movie",
+    "tmdb_id": 348389,
+    "imdb_id": "tt3567666",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [Cloud]",
+                "link": "https://vcloud.zip/api/index.php?link=L2FqYit3b29qdkRML29DajhKQk1YbXF6UG8rMUtlMmhpNmF5cVNGRkxZUDhtbVdib1luU3pxNExYdkIzUmZBOQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [Cloud]",
+                "link": "https://vcloud.zip/api/index.php?link=ZWRNZ3ViS0E3aFJJMUt4TE9Wc3BTL2lBekt0cmtUQk9sZ1QwQTl4eFYxUXAreUI3SXRKNGZwazdrUUhRY1BoLw=="
+            },
+            {
+                "episode_title": "G-Drive [Cloud]",
+                "link": "https://vcloud.zip/api/index.php?link=TFE4YTdRM2RLeDBKU2RnNmVkUjZRUnAxeTBJRktUVkwvSFhNRTFkcEI3Rm53Qm9rZnB1VzRGckJxV1pjWXZUVg=="
+            }
+        ],
+        "1080p": []
+    }
+}

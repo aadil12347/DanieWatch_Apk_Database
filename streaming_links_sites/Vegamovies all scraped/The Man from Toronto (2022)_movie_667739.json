@@ -1,0 +1,38 @@
+{
+    "post_title": "The Man from Toronto (2022)",
+    "post_type": "movie",
+    "tmdb_id": 667739,
+    "imdb_id": "tt11671006",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bgubgdnzkdodnyk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v61bissvc6qvd16"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/_6dbl0czy_jokjh"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fqj_zpyj_byytrt"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/whbvzzu8mk3dtdl"
+            }
+        ]
+    }
+}

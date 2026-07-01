@@ -1,0 +1,42 @@
+{
+    "post_title": "The Nut Job (2014)",
+    "post_type": "movie",
+    "tmdb_id": 227783,
+    "imdb_id": "tt1821658",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/csoy_ci3yj2qjmc"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xkw2v_k1xcu5nmg"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qwswwsrudyurc5z"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/slfslmu71enaewm"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/l0r_01zpqujlrrl"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/fw1totgchwr7fft"
+            }
+        ]
+    }
+}

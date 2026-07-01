@@ -1,0 +1,34 @@
+{
+    "post_title": "The Weekend Away (2022)",
+    "post_type": "movie",
+    "tmdb_id": 840882,
+    "imdb_id": "tt14817272",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/beqpnpceqojff1d"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ee1ke7qbdaeesdc"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/irvpavvv0x5aila"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/23vbav0xgn0dj3e"
+            }
+        ]
+    }
+}

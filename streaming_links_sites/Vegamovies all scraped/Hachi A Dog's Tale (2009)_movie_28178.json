@@ -1,0 +1,30 @@
+{
+    "post_title": "Hachi: A Dog's Tale (2009)",
+    "post_type": "movie",
+    "tmdb_id": 28178,
+    "imdb_id": "tt1028532",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yx1n100bs55s1y0"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/my5dr1cb8hr83nk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/abwzvxcunbx8kvx"
+            }
+        ]
+    }
+}

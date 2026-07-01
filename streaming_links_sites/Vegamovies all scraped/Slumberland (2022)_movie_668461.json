@@ -1,0 +1,42 @@
+{
+    "post_title": "Slumberland (2022)",
+    "post_type": "movie",
+    "tmdb_id": 668461,
+    "imdb_id": "tt13320662",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h_fsosz9ph8a-p-"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2bigbhbpp11bv1b"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ihd7r7cgunudhcg"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kcmenektajjkous"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/z1qouquz1vn1oea"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/apdsakyktsspdes"
+            }
+        ]
+    }
+}

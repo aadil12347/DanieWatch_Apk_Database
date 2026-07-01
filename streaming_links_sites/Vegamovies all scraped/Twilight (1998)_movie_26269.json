@@ -1,0 +1,29 @@
+{
+    "post_title": "Twilight (1998)",
+    "post_type": "movie",
+    "tmdb_id": 26269,
+    "imdb_id": "tt0119594",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rlhwy1byy_h0ym_"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/an-tg5-8fyaafyq"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e4plrqklep9rlk-"
+            }
+        ]
+    }
+}

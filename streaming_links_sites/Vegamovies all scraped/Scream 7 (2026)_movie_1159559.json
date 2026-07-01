@@ -1,0 +1,38 @@
+{
+    "post_title": "Scream 7 (2026)",
+    "post_type": "movie",
+    "tmdb_id": 1159559,
+    "imdb_id": "tt27047903",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1kqsyhyhv218aqn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oxni-0zxnw-0-j9"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ib1tw1lxnoxut3d"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7saf9nabaxaba1a"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/feeffh___dlqf_u"
+            }
+        ]
+    }
+}

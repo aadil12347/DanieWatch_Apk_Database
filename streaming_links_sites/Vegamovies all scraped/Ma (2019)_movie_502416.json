@@ -1,0 +1,30 @@
+{
+    "post_title": "Ma (2019)",
+    "post_type": "movie",
+    "tmdb_id": 502416,
+    "imdb_id": "tt7958736",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=VEVPM0p6WUUyOUxaWEZ2bzVmS1FXOE5mMGdyTzJzNFBkTDErSWNINVRnd01jbk52cnFPQndFZmw4eFNNbitrdg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=MWFLSUFUV0tuZCtTaU95M2dCZUJOTWxBL3VzYVd6UlhqN25kZUFSL0xvL3VGWjJaMmdUSE90RjFtS2JFcndYRA=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=VFlIenB5MXRDd0NCaWp0K0wxQUtHeGViU0tBN1MyR2N3akVRcWRvcWRvaTBJK1ZGaEc5R2RDQ1BpSmRrUlAzbw=="
+            }
+        ]
+    }
+}

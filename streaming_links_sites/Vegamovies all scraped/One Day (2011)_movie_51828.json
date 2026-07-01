@@ -1,0 +1,34 @@
+{
+    "post_title": "One Day (2011)",
+    "post_type": "movie",
+    "tmdb_id": 51828,
+    "imdb_id": "tt1563738",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/y_nxoae11ssjoq3"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/estqjlcqx1wlhi0"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/4gg1wkpc3xhqpgv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ug8lnpu8su0htru"
+            }
+        ]
+    }
+}

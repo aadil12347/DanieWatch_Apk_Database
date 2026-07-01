@@ -1,0 +1,24 @@
+{
+    "post_title": "Magic Mike (2012)",
+    "post_type": "movie",
+    "tmdb_id": 77930,
+    "imdb_id": "tt1915581",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=NXhKOWhTN2pld3NqN3lJcElla3ZBaWJSbmVHN2VLQ1Z5Szgrb29WWUZCTmQyenpOdFJWUnVHa2U4MTU1SUpZaQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=ZEtpV0JqTEo1UzhCL3dETWxFQXlLVjBacVdycWZaNUlKSWsvZWFyRFh4d3Mxb25zcGEraDRtdldLdmtZN3E1Ug=="
+            }
+        ],
+        "1080p": []
+    }
+}

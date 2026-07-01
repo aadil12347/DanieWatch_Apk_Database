@@ -1,0 +1,29 @@
+{
+    "post_title": "Uproar (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1035253,
+    "imdb_id": "tt20255028",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v1zddqgeovechu8"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bfdj0cdr6akq6e0"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6a17uaw5dswy2tu"
+            }
+        ]
+    }
+}

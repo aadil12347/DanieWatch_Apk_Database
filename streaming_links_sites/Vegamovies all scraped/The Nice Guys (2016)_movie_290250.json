@@ -1,0 +1,34 @@
+{
+    "post_title": "The Nice Guys (2016)",
+    "post_type": "movie",
+    "tmdb_id": 290250,
+    "imdb_id": "tt3799694",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/r343146vhr3n1rv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6zllmocgdg7mamt"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/16se6i1fapl62wl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/00ai6grnur3p307"
+            }
+        ]
+    }
+}

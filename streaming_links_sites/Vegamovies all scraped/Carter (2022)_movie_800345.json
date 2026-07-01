@@ -1,0 +1,38 @@
+{
+    "post_title": "Carter (2022)",
+    "post_type": "movie",
+    "tmdb_id": 800345,
+    "imdb_id": "tt21237030",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dllgixklll674z1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hkaee5ehhtvahyt"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/p0wb333gpcbiuw3"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tetoakvqka5ahkh"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/19i11iqi712jup9"
+            }
+        ]
+    }
+}

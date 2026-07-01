@@ -1,0 +1,29 @@
+{
+    "post_title": "Spin the Bottle (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1030983,
+    "imdb_id": "tt22029194",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f5e8wpbnqdodgjw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k_zzlf2w2zslz2l"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/y77ow6nu09io791"
+            }
+        ]
+    }
+}

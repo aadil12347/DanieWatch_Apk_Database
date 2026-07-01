@@ -1,0 +1,30 @@
+{
+    "post_title": "Se7en (1995)",
+    "post_type": "movie",
+    "tmdb_id": 807,
+    "imdb_id": "tt0114369",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/d7wiutjrkj8ovwy"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9puyxerumsvy1xc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q1tqdt_xddntbsb"
+            }
+        ]
+    }
+}

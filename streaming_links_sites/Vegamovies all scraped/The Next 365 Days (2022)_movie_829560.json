@@ -1,0 +1,38 @@
+{
+    "post_title": "The Next 365 Days (2022)",
+    "post_type": "movie",
+    "tmdb_id": 829560,
+    "imdb_id": "tt21106646",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c483pwvbw8v44s-"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/zzdauumnnzwhz6m"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vzssu1jsujvuv10"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/k288vuxwu1e2hy9"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fpeahulehqaeseq"
+            }
+        ]
+    }
+}

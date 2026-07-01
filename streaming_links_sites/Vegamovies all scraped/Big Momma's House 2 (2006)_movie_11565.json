@@ -1,0 +1,25 @@
+{
+    "post_title": "Big Momma's House 2 (2006)",
+    "post_type": "movie",
+    "tmdb_id": 11565,
+    "imdb_id": "tt0421729",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=WjdxdzFrdlJUekF4elNtTkYyMEpOUDZ2cnlMZXJwQjJVKy8wN1puRTRNc2U0QWpzTWhndk94MldWeUdSSDVPNw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=WkRlK3c3M0tUd3htazFVV2YxNC9yVkdBdUZhMzh2SGtRaWsxZC9pZG1pZm5YbmdNUGRBa1lNNEt6R3RrK0w1dg=="
+            }
+        ],
+        "1080p": []
+    }
+}

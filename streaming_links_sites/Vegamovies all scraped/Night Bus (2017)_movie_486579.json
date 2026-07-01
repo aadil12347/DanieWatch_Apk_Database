@@ -1,0 +1,29 @@
+{
+    "post_title": "Night Bus (2017)",
+    "post_type": "movie",
+    "tmdb_id": 486579,
+    "imdb_id": "tt6574480",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q590t8id421eajm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4ubwoznwzpbzwyp"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eh3eab55d5nbe55"
+            }
+        ]
+    }
+}

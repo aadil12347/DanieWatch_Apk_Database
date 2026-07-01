@@ -1,0 +1,34 @@
+{
+    "post_title": "The Furies (2019)",
+    "post_type": "movie",
+    "tmdb_id": 528091,
+    "imdb_id": "tt8228172",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=V3JmUi9LVjlVVjVOOGdoVW1NQ3h6NUZYdTFpUlp1bzFzYndtVmNZc2F3UU8xUk1WYk1sYWRlaGgxRG5PM0NGcg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=RTBwRlNGU0hOU2NCN0ZBaW1KbzBKaGYwZ1QyNWJyaDdxRnpGaVRuMEwzZFIrcEtaUE1YcU9aUVozQisrMURTMQ=="
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/api/index.php?link=MXdQVFg4V0ZCeElWbk5qRVVVWEFpUmV5WXR3OXN5TWE1SkszSW5FNjI3ellVajlWUzIzVlVCUEs2Y3E5M2FYMg=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=WVdQSmkwd2pYVlJqdFdpK3VHb1FDRnc2a2lUL1Y4M1JEcWhVS2lDQ0RsWDkzN2Z4V1QwQUE5a0lMUHZxNzhXVw=="
+            }
+        ]
+    }
+}

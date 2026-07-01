@@ -1,0 +1,34 @@
+{
+    "post_title": "D.E.B.S. (2005)",
+    "post_type": "movie",
+    "tmdb_id": 540,
+    "imdb_id": "tt0367631",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x08ximx0jx50ssx"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sagh1n_thhwd55g"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/oeloszv1545yoze"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3tznsdzwc6q6_mz"
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "post_title": "Ant-Man and the Wasp: Quantumania (2023)",
+    "post_type": "movie",
+    "tmdb_id": 640146,
+    "imdb_id": "tt10954600",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1efqxbq8nw6wfeb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ivej_r92gr7avre"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wuoxcgajtqdtecj"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rphnipzd9klpr1d"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/fwfy8ffbww5o5wp"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/j5gplrfehu3cttl"
+            }
+        ]
+    }
+}

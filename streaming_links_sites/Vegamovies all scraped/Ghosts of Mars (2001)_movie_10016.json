@@ -1,0 +1,25 @@
+{
+    "post_title": "Ghosts of Mars (2001)",
+    "post_type": "movie",
+    "tmdb_id": 10016,
+    "imdb_id": "tt0228333",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=Y09wbHNHUXJLMm5iaTEySWpEc093N1lRS0QrWWZmR2tGdWZqL0NZazZYSzRQK1NEMnE0NkdJT3lXblUrYzVuTw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=ejVsRytYY2xub09wUWN2cVIyU2pnWFJ4bTZEOXUzanN4WHRXY0JXRHA2OXEwdjRFSUVvRVJmaWRMWnZHT0gzVw=="
+            }
+        ],
+        "1080p": []
+    }
+}

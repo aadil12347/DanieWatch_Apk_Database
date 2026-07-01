@@ -1,0 +1,29 @@
+{
+    "post_title": "Cocktail (1988)",
+    "post_type": "movie",
+    "tmdb_id": 7520,
+    "imdb_id": "tt0094889",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t8nazxn6z1wi100"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yzqqj10svn5jaji"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lerwieanli2aq2c"
+            }
+        ]
+    }
+}

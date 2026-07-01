@@ -1,0 +1,40 @@
+{
+    "post_title": "Star Wars: Tales of the Jedi (2022)",
+    "post_type": "series",
+    "tmdb_id": 203085,
+    "imdb_id": "tt20723374",
+    "languages": [
+        "English"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/9sknvcbh91rvhyc"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://vcloud.zip/duwmol-scdd1ydn"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://vcloud.zip/shpv81xher814jd"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://vcloud.zip/a2h16cysrh5yd6y"
+                },
+                {
+                    "episode_title": "Episode 5",
+                    "link": "https://vcloud.zip/kkkuig1or1kvrtg"
+                },
+                {
+                    "episode_title": "Episode 6",
+                    "link": "https://vcloud.zip/tlu12kqtvmtjdlu"
+                }
+            ]
+        }
+    }
+}

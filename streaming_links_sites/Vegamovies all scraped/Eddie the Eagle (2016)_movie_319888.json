@@ -1,0 +1,25 @@
+{
+    "post_title": "Eddie the Eagle (2016)",
+    "post_type": "movie",
+    "tmdb_id": 319888,
+    "imdb_id": "tt1083452",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j9tnd9nlj0atn1y"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qek0yzlqzkqkyzm"
+            }
+        ],
+        "1080p": []
+    }
+}

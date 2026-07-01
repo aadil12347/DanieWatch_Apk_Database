@@ -1,0 +1,34 @@
+{
+    "post_title": "The Photograph (2020)",
+    "post_type": "movie",
+    "tmdb_id": 589049,
+    "imdb_id": "tt7798646",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dq_sj7ayyqyfipo"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ee1m1efxhmxrr1r"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/iax21gggaanrxgn"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sogi1xmv01eeszw"
+            }
+        ]
+    }
+}

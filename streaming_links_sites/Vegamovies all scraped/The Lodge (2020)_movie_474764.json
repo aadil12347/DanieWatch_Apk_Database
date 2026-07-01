@@ -1,0 +1,30 @@
+{
+    "post_title": "The Lodge (2020)",
+    "post_type": "movie",
+    "tmdb_id": 474764,
+    "imdb_id": "tt7347846",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v1bux4mgepgdj0e"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8c2fatd1icdcdjz"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yn90s7r-q9gcwf8"
+            }
+        ]
+    }
+}

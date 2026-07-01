@@ -1,0 +1,34 @@
+{
+    "post_title": "Superman (1978)",
+    "post_type": "movie",
+    "tmdb_id": 1924,
+    "imdb_id": "tt0078346",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ig-mc9d8gbrrd-i"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ycyljjmzmlzsjyz"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/5qcooxocbe5pyyr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tqnlhhbxpfhtba5"
+            }
+        ]
+    }
+}

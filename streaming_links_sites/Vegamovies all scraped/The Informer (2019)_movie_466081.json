@@ -1,0 +1,30 @@
+{
+    "post_title": "The Informer (2019)",
+    "post_type": "movie",
+    "tmdb_id": 466081,
+    "imdb_id": "tt1833116",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5pa8mstt1jzt6yi"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vzfqr901i31qdqf"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kv1cxbh6pxfxvwh"
+            }
+        ]
+    }
+}

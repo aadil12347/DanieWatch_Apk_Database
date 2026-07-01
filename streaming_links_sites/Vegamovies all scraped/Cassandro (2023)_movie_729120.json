@@ -1,0 +1,34 @@
+{
+    "post_title": "Cassandro (2023)",
+    "post_type": "movie",
+    "tmdb_id": 729120,
+    "imdb_id": "tt14954534",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uwpfez6vbefff_z"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-a2vizt3tn11aa1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0kuv0lcv2lla172"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/tzbwyaue2suws8f"
+            }
+        ]
+    }
+}

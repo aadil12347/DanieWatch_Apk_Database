@@ -1,0 +1,40 @@
+{
+    "post_title": "The Fast and the Furious (2001)",
+    "post_type": "movie",
+    "tmdb_id": 9799,
+    "imdb_id": "tt0232500",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vf4jnbxakl45kzu"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ccc9icc7b6bb_jl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1pry13lfsi9tryy"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/cv0a-d3pqhzdcp1"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fmao4o_gvgv_4lb"
+            }
+        ]
+    }
+}

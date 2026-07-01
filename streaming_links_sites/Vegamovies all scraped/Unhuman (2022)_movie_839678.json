@@ -1,0 +1,34 @@
+{
+    "post_title": "Unhuman (2022)",
+    "post_type": "movie",
+    "tmdb_id": 839678,
+    "imdb_id": "tt17221298",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iy9bmy2zq1tyv5w"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0--ss99f3l1-xpp"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xwxhufxqwrknkxb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5e61t1ui6czg1tz"
+            }
+        ]
+    }
+}

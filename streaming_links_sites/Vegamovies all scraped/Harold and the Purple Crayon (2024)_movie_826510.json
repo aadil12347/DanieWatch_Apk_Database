@@ -1,0 +1,34 @@
+{
+    "post_title": "Harold and the Purple Crayon (2024)",
+    "post_type": "movie",
+    "tmdb_id": 826510,
+    "imdb_id": "tt1609486",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tt9m1jyja9pvjkc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8bmx48zkktg8eeu"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ocw-cghcksuioih"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rvhewxri3vvnulv"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Superman III (1983)",
+    "post_type": "movie",
+    "tmdb_id": 9531,
+    "imdb_id": "tt0086393",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q--mhcvhlqtvbnw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/onjjfvojzmzmzcy"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o1o2o5a8_w5uysy"
+            }
+        ]
+    }
+}

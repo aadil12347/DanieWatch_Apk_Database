@@ -1,0 +1,34 @@
+{
+    "post_title": "Brick (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1425045,
+    "imdb_id": "tt31806049",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cehqqi7z_wwz15i"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/12hhyvjyulkqkj9"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6bbhqpypq5u53jy"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/kc732pw7dsdu2ld"
+            }
+        ]
+    }
+}

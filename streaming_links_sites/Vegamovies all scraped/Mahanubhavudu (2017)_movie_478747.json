@@ -1,0 +1,29 @@
+{
+    "post_title": "Mahanubhavudu (2017)",
+    "post_type": "movie",
+    "tmdb_id": 478747,
+    "imdb_id": "tt7268732",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=V0RJRUxJWGxXaFRzRk9teUJHcGRIK2dNK3J1dGFyNE1QanVoZVRISVVxM2NyTlNvOVN0OVQ5SzNTZnFGQ0ZRWQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=ckZjZjBMN1Y3bWNhWC9md29OQkpRbkpJU3huQzcvL3VUcDZOVzRJc3VxZ0J4OTY0RlN3SE5zZ3ArVlV2RjhtUA=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=K3lndWZDalJoWlNUMUJ4QloxZEVlTnBlU2VaVm5Ib2d1YnVFOWkzbUlXWnhVb3BhM010SEY0c1FDU0pFTG9xWA=="
+            }
+        ]
+    }
+}

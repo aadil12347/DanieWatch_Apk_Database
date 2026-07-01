@@ -1,0 +1,34 @@
+{
+    "post_title": "Merv (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1255775,
+    "imdb_id": "tt31281659",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2l-cllt20kem2yz"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zajutb7watbgua2"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wosii6oth1p_k15"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fu6xnpd-ebx1_ne"
+            }
+        ]
+    }
+}

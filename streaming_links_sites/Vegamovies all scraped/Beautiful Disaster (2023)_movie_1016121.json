@@ -1,0 +1,48 @@
+{
+    "post_title": "Beautiful Disaster (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1016121,
+    "imdb_id": "tt2316548",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nlnr9n7cn79_lgs"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/64nh1mh06o6rea1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/gnn2gt72eje2eej"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dnnek0kendbeetc"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/11beqpannfa6bpw"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/fx1e9apbljlaele"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pffplnlrbosvblc"
+            }
+        ]
+    }
+}

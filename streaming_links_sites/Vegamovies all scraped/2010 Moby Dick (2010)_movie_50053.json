@@ -1,0 +1,25 @@
+{
+    "post_title": "2010: Moby Dick (2010)",
+    "post_type": "movie",
+    "tmdb_id": 50053,
+    "imdb_id": "tt1694508",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=dUs4TGFSbEhwcUd6K1NQQzIzMVVHSVB6cWUxcDJlNDlpOGZYYlNSMDNkVytETnp1YWU2empzUnU1MHBLeHRhcg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=WElnNlJlejBLVEJENnFRUjlSVU5QSVBkcnlYMFFOMHZ5Z3NSaW1NNldvWSt4RXFTMUZkeS9wb1krbEg3OHZrNw=="
+            }
+        ],
+        "1080p": []
+    }
+}

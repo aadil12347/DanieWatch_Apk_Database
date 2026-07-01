@@ -1,0 +1,41 @@
+{
+    "post_title": "Enola Holmes 2 (2022)",
+    "post_type": "movie",
+    "tmdb_id": 829280,
+    "imdb_id": "tt14641788",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7fng0un1wp7u1b2"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/qn-yd38-cv8fasd"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7iil4qjzshsmp7a"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/id1-1v8-xaavnei"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/p8__k48hd4ht8hp"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/kdstel5os_bwfoy"
+            }
+        ]
+    }
+}

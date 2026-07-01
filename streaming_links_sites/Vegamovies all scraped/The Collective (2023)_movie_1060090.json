@@ -1,0 +1,34 @@
+{
+    "post_title": "The Collective (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1060090,
+    "imdb_id": "tt23556408",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pjbarj_8bm_suzr"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ts5v2ovreyvggag"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/aym77ddjcf1yyza"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uudruh9xpjinxnz"
+            }
+        ]
+    }
+}

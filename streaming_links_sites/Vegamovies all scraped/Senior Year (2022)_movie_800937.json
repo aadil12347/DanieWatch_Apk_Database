@@ -1,0 +1,34 @@
+{
+    "post_title": "Senior Year (2022)",
+    "post_type": "movie",
+    "tmdb_id": 800937,
+    "imdb_id": "tt5315212",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-szf8qn8nososnc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ewuubcoueql66h6"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-3qkwl9wod7ioj4"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vqienc5nbidpapf"
+            }
+        ]
+    }
+}

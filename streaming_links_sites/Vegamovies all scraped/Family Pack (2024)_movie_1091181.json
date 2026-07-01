@@ -1,0 +1,39 @@
+{
+    "post_title": "Family Pack (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1091181,
+    "imdb_id": "tt29195603",
+    "languages": [
+        "Hindi",
+        "English",
+        "French"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rqqrlymodh7by1s"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t_4rxl3k_w334hx"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/d1iiohyued1iuod"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lcc9vv3gk0kikwt"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/nu1v_uvgey1w_ba"
+            }
+        ]
+    }
+}

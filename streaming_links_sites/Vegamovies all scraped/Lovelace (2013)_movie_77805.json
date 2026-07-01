@@ -1,0 +1,42 @@
+{
+    "post_title": "Lovelace (2013)",
+    "post_type": "movie",
+    "tmdb_id": 77805,
+    "imdb_id": "tt1426329",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cworonr4uuq14zm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ggzvgiidsgzddn4"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/umjbuybeuuwy2hg"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/q7jutsnr1uq7qqt"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/glkp6l8kfwzlkpl"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/qlswfxxw1q__urt"
+            }
+        ]
+    }
+}

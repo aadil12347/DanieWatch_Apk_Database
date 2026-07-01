@@ -1,0 +1,34 @@
+{
+    "post_title": "Rambo: First Blood Part II (1985)",
+    "post_type": "movie",
+    "tmdb_id": 1369,
+    "imdb_id": "tt0089880",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eje0rjtxex5moe8"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/32id__4arjmfj_i"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/3tzv-9wdmnhgn9t"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2btkq0gdk1zfquf"
+            }
+        ]
+    }
+}

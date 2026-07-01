@@ -1,0 +1,34 @@
+{
+    "post_title": "The Addams Family (1991)",
+    "post_type": "movie",
+    "tmdb_id": 2907,
+    "imdb_id": "tt0101272",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/d2hhdnfcpv-ffut"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e52_2-i5_i5um17"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1wtitgnd_ytg0g0"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cmxmdwp8lucogju"
+            }
+        ]
+    }
+}

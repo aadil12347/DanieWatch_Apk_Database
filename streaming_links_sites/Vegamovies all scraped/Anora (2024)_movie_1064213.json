@@ -1,0 +1,34 @@
+{
+    "post_title": "Anora (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1064213,
+    "imdb_id": "tt28607951",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1dybuba4suk1zwi"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pw_9o9ddvvjjfol"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/qjk-gt61qlk-gie"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ravqikqvdd1jnv4"
+            }
+        ]
+    }
+}

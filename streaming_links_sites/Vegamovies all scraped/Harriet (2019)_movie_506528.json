@@ -1,0 +1,34 @@
+{
+    "post_title": "Harriet (2019)",
+    "post_type": "movie",
+    "tmdb_id": 506528,
+    "imdb_id": "tt4648786",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z41mmqhb4iigwwd"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c4t044sosqpcppa"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/2lq2b3m8j2mdqp5"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dm2vv2s6hmyaas-"
+            }
+        ]
+    }
+}

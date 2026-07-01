@@ -1,0 +1,34 @@
+{
+    "post_title": "Charm School (2007)",
+    "post_type": "movie",
+    "tmdb_id": 20223,
+    "imdb_id": "tt0806940",
+    "languages": [
+        "Hindi",
+        "Spanish"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gwxw7tdorlqgd0m"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qoyslsv5dx67w1v"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2mryybtrjaurxrx"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ri5qsziqup1pswe"
+            }
+        ]
+    }
+}

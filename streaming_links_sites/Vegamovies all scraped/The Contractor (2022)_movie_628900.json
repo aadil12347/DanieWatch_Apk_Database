@@ -1,0 +1,38 @@
+{
+    "post_title": "The Contractor (2022)",
+    "post_type": "movie",
+    "tmdb_id": 628900,
+    "imdb_id": "tt10323676",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1auxxwkxr2sxbuv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lt36wlpyxtt1buw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/l_oz4ln7zn4q7ou"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0rkkpxximm44g0b"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/y_ieiiffmkgq5qi"
+            }
+        ]
+    }
+}

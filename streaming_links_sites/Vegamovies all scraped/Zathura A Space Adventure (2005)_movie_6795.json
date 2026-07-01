@@ -1,0 +1,34 @@
+{
+    "post_title": "Zathura: A Space Adventure (2005)",
+    "post_type": "movie",
+    "tmdb_id": 6795,
+    "imdb_id": "tt0406375",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bclv1htwtm4thhv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1gtog7ubget1l4g"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mstnsnnxuzfnx1s"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/45csydxdibdxrid"
+            }
+        ]
+    }
+}

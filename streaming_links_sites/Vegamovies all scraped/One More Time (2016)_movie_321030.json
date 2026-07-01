@@ -1,0 +1,29 @@
+{
+    "post_title": "One More Time (2016)",
+    "post_type": "movie",
+    "tmdb_id": 321030,
+    "imdb_id": "tt3662066",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7qqk7cqfumlfqcq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cvidvmbbnvopbnh"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-b2b-02lxhbv-d-"
+            }
+        ]
+    }
+}

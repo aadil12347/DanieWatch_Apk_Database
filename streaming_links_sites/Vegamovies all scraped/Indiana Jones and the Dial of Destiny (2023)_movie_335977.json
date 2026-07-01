@@ -1,0 +1,48 @@
+{
+    "post_title": "Indiana Jones and the Dial of Destiny (2023)",
+    "post_type": "movie",
+    "tmdb_id": 335977,
+    "imdb_id": "tt1462764",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zluud07i0wxn06z"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/57vli4c14frioii"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/c05a5udab1vh7bd"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qizm87p-y72xqxq"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/zupudl37i2u124o"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/gpivqjw1k5vpvjq"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zb1ththqj3m55wp"
+            }
+        ]
+    }
+}

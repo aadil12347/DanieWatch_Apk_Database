@@ -1,0 +1,40 @@
+{
+    "post_title": "Captain Marvel (2019)",
+    "post_type": "movie",
+    "tmdb_id": 299537,
+    "imdb_id": "tt4154664",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pdjmp1o8oudy8e3"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1dsft1ccccftfc8"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ye1ppwit-fyripw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ffzcj7lrtk9yig7"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tt0twmb1i5m5fof"
+            }
+        ]
+    }
+}

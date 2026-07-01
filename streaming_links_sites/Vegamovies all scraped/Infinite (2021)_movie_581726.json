@@ -1,0 +1,48 @@
+{
+    "post_title": "Infinite (2021)",
+    "post_type": "movie",
+    "tmdb_id": 581726,
+    "imdb_id": "tt6654210",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lq05dzlgi8a3piq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x58pxesemnwooo_"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/qmi3z__qzdarued"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/79f8hkwcf9f80f_"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/kfttsy3_kofngms"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/g1klmbsb1o1e11g"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o-lot0oo0-ho_og"
+            }
+        ]
+    }
+}

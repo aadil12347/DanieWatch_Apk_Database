@@ -1,0 +1,30 @@
+{
+    "post_title": "The Pledge (2001)",
+    "post_type": "movie",
+    "tmdb_id": 5955,
+    "imdb_id": "tt0237572",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rdh42nlr4esxs_s"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rssyzzgcwexgxlc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xxmcuoi5v0twixr"
+            }
+        ]
+    }
+}

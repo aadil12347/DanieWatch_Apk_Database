@@ -1,0 +1,34 @@
+{
+    "post_title": "Bitconned (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1213997,
+    "imdb_id": "tt30317302",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xptwez8lwpt1gwa"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6pkptopfppq7f7t"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i3lclphaei4iml-"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/sbygslfyvassimj"
+            }
+        ]
+    }
+}

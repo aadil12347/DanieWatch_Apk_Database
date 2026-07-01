@@ -1,0 +1,29 @@
+{
+    "post_title": "Saakshyam (2018)",
+    "post_type": "movie",
+    "tmdb_id": 505908,
+    "imdb_id": "tt7757972",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=ZWxMajN6bDhCTS90c3dqa3djazZDQmdudDRBaHVjK0lPdTJ1a1JsNUZxSENZK0dtVzlqM2U3SWdZNFhOWTVVSA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=Y0lYaUlTMStjUHU1S1VvUDJhblRubzFPM2s3SGtvWXNDN0c5UjIvT051S254am9WVzBwTXNDZzlGSmVUdGR4Mg=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=ZEdPSWl4b0sxU3pPQWZsV1I1UUwzS29Sdzlad1VKMXVEcE5SUU83R0c2R1REMUlJdDEvUzdybTI3d0pJeHNvQg=="
+            }
+        ]
+    }
+}

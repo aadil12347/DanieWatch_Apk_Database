@@ -1,0 +1,34 @@
+{
+    "post_title": "The Requin (2022)",
+    "post_type": "movie",
+    "tmdb_id": 803114,
+    "imdb_id": "tt11348232",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s-mcth2zmgdd0wj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mjrxdub7tgx2c7j"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lwrixxikjvp_tpx"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/tqdx2tlodfirvpp"
+            }
+        ]
+    }
+}

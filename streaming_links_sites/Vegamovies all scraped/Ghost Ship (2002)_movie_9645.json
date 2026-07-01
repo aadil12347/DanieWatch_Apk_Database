@@ -1,0 +1,34 @@
+{
+    "post_title": "Ghost Ship (2002)",
+    "post_type": "movie",
+    "tmdb_id": 9645,
+    "imdb_id": "tt0288477",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rymf3iy2ynni2gc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wpmurilvn--p-sr"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wrswdrinhr8vmhn"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/upr3rucfcjvj18u"
+            }
+        ]
+    }
+}

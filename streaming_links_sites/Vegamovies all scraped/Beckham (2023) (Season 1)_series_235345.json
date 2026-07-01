@@ -1,0 +1,33 @@
+{
+    "post_title": "Beckham (2023)",
+    "post_type": "series",
+    "tmdb_id": 235345,
+    "imdb_id": "tt14524712",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "total_seasons": 1,
+    "seasons": {
+        "1": {
+            "1080p": [
+                {
+                    "episode_title": "Episode 1",
+                    "link": "https://vcloud.zip/hpph_5_p91s1599"
+                },
+                {
+                    "episode_title": "Episode 2",
+                    "link": "https://vcloud.zip/gc1ci1cnqitfglm"
+                },
+                {
+                    "episode_title": "Episode 3",
+                    "link": "https://vcloud.zip/xva4l1flll46aqr"
+                },
+                {
+                    "episode_title": "Episode 4",
+                    "link": "https://vcloud.zip/-6-nm4mg4eq_-ic"
+                }
+            ]
+        }
+    }
+}

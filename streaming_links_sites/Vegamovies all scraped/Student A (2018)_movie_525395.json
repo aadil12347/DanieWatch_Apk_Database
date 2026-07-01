@@ -1,0 +1,34 @@
+{
+    "post_title": "Student A (2018)",
+    "post_type": "movie",
+    "tmdb_id": 525395,
+    "imdb_id": "tt8574270",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-c6urbi1bgim-g6"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/u5j9lele9w5-wll"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/gwxxyv8jox7zqmn"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tzygy82nrhwrnyr"
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "post_title": "Everything Everywhere All at Once (2022)",
+    "post_type": "movie",
+    "tmdb_id": 545611,
+    "imdb_id": "tt6710474",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4r4wd9ixj1x44wf"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/camb1jk1hbkn11u"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/rrqqhhw4evvnhoo"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1zjwclrjwms1bb0"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/4mh5p3hhm_p3bj4"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/amck6rxyup5eunk"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/d4fjdwgypgw-kg1"
+            }
+        ]
+    }
+}

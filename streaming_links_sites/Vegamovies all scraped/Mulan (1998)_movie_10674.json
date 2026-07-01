@@ -1,0 +1,25 @@
+{
+    "post_title": "Mulan (1998)",
+    "post_type": "movie",
+    "tmdb_id": 10674,
+    "imdb_id": "tt0120762",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/91isq7suus21de4"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vhzty0_zc0u6tgz"
+            }
+        ],
+        "1080p": []
+    }
+}

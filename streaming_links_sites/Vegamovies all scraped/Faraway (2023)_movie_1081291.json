@@ -1,0 +1,34 @@
+{
+    "post_title": "Faraway (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1081291,
+    "imdb_id": "tt18747542",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6twpbjgvhr57uu6"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lpbkujjvfujb2yn"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/8s58ghgg55mutsm"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ce1uo8coxy5jw1l"
+            }
+        ]
+    }
+}

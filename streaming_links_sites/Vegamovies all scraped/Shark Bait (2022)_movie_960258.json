@@ -1,0 +1,34 @@
+{
+    "post_title": "Shark Bait (2022)",
+    "post_type": "movie",
+    "tmdb_id": 960258,
+    "imdb_id": "tt12550376",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i0hhhy0xw00huny"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/u0tuoaakhp98ssh"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1h83z8iknwkm8pm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/s7lsxnlem7ombvs"
+            }
+        ]
+    }
+}

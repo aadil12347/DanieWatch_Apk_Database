@@ -1,0 +1,24 @@
+{
+    "post_title": "Halloween Kills (2021)",
+    "post_type": "movie",
+    "tmdb_id": 610253,
+    "imdb_id": "tt10665338",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=ZUFZTzVxZld3L0R6Zk9CbzJsMmYwTkFYaUVmeGVDNWNBYkNFWVMxN0hFOE9KemJjd0RvR2tqR2NYMkF1WjhaUg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=Qm9yalV6Vi9FZDVIaGdqVVdCbUtOWHJpQ2ZPODlTYXFPWHNRWGRTaFdJS3JGY3pmV0NXSFpQbU9UZU9peDRNdA=="
+            }
+        ],
+        "1080p": []
+    }
+}

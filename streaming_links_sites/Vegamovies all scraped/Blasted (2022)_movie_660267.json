@@ -1,0 +1,38 @@
+{
+    "post_title": "Blasted (2022)",
+    "post_type": "movie",
+    "tmdb_id": 660267,
+    "imdb_id": "tt14866710",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pqljucp_jl1lgpi"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w7gt_rvt6mh6gih"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/c7smifvp1c3s_d-"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f9m_yks11b31bv7"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/zpkb8znl1vwwyla"
+            }
+        ]
+    }
+}

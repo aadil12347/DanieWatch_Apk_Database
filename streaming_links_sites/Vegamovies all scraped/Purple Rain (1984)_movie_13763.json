@@ -1,0 +1,29 @@
+{
+    "post_title": "Purple Rain (1984)",
+    "post_type": "movie",
+    "tmdb_id": 13763,
+    "imdb_id": "tt0087957",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e2x6ekkayuxik4-"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uohdvohswwy2dd0"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wkeea6zmsfeoaww"
+            }
+        ]
+    }
+}

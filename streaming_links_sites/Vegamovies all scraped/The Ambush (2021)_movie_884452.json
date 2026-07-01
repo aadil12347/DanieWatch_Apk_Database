@@ -1,0 +1,34 @@
+{
+    "post_title": "The Ambush (2021)",
+    "post_type": "movie",
+    "tmdb_id": 884452,
+    "imdb_id": "tt13445076",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dm0wx1x0rr50yrd"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/smdmm3t31ime6rk"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ok6swtofcdbsmtb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tbt84c8t8hsmbkt"
+            }
+        ]
+    }
+}

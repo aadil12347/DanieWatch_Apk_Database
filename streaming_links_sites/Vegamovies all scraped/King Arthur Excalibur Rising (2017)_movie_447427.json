@@ -1,0 +1,34 @@
+{
+    "post_title": "King Arthur: Excalibur Rising (2017)",
+    "post_type": "movie",
+    "tmdb_id": 447427,
+    "imdb_id": "tt5988966",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wxpz8gaiap111ga"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/aagollxufofzszo"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/nydvbnnddngfdd0"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dhh1sgzd0xjkuzg"
+            }
+        ]
+    }
+}

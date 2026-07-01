@@ -1,0 +1,34 @@
+{
+    "post_title": "Rambo (2008)",
+    "post_type": "movie",
+    "tmdb_id": 7555,
+    "imdb_id": "tt0462499",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vtj709k9a7i9t3e"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j6p2o7nj7vvr1l0"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/va1y5m5bmuqvk-m"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sfpslxsp1vl6_ft"
+            }
+        ]
+    }
+}

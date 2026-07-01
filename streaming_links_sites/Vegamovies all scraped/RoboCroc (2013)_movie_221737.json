@@ -1,0 +1,30 @@
+{
+    "post_title": "RoboCroc (2013)",
+    "post_type": "movie",
+    "tmdb_id": 221737,
+    "imdb_id": "tt3188560",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[GDFlix-Login]",
+                "link": "https://vcloud.zip/api/index.php?link=V0JnM3Q3Zll5UW5zRkhYOUZYVE9NOW1jTEZXWXNFZEplUk5zNldIVm01QXEvdlpwemJINjhUY3VIczdkZ2U2Wg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[GDFlix-Login]",
+                "link": "https://vcloud.zip/api/index.php?link=eUJsajl6QXBXOUpsWHR3KzBvS0l1VS9CTEtISys1VE13ZVBSTWdkN2F4YmZCcG95K1ZrbUQ0QlB0Y0JWZnJyaA=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Drive-[GDFlix-Login]",
+                "link": "https://vcloud.zip/api/index.php?link=MFZPczFCSEpkVTExNEJkbFNRVWszTmo3NjE0dVNMUC9XK05EWGRyKzRCcjFKaThjR3Y4cGFybHZNWDRtZW05aA=="
+            }
+        ]
+    }
+}

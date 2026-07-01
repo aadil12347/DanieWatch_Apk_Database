@@ -1,0 +1,34 @@
+{
+    "post_title": "Goal II: Living the Dream (2007)",
+    "post_type": "movie",
+    "tmdb_id": 9815,
+    "imdb_id": "tt0473360",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dd7yhdzhpav2hz-"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eevadtgj4vle1tv"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/bs9vkgkkkkgqg6q"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ecyjecyv_hgeela"
+            }
+        ]
+    }
+}

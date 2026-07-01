@@ -1,0 +1,24 @@
+{
+    "post_title": "Respect (2021)",
+    "post_type": "movie",
+    "tmdb_id": 592863,
+    "imdb_id": "tt2452150",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=ZTNhTG9ha003MVFCc1M2WjZzSGVORDc3VTJWNkNjaVI5Wkl5UVdnVmpXM2E0WWtGbWxzbXE3dXErNDZ2cUgweQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=b0pGSmJobGFON0M0bm4xWjNZSlgxZUtGcjhTSnhlSi83WGMxdHhtWWhjS2ROb1ZvQ2FVcEM5bmQyTjJZSWk1Sg=="
+            }
+        ],
+        "1080p": []
+    }
+}

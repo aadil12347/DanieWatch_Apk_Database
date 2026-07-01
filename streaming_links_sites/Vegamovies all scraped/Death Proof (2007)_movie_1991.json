@@ -1,0 +1,30 @@
+{
+    "post_title": "Death Proof (2007)",
+    "post_type": "movie",
+    "tmdb_id": 1991,
+    "imdb_id": "tt1028528",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q9rqd1t6l5r1po8"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/srerdpsiyejsjer"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qhgqqcirqmtgdqa"
+            }
+        ]
+    }
+}

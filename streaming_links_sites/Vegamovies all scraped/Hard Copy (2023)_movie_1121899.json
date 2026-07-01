@@ -1,0 +1,29 @@
+{
+    "post_title": "Hard Copy (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1121899,
+    "imdb_id": "tt24802774",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/l76k0oo776yfi1o"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1uus18b11a1a1nu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tnumtd71nivfumg"
+            }
+        ]
+    }
+}

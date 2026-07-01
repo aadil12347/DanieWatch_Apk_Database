@@ -1,0 +1,48 @@
+{
+    "post_title": "Joker (2019)",
+    "post_type": "movie",
+    "tmdb_id": 475557,
+    "imdb_id": "tt7286456",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-0nyj1ya1ryp1va"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vzxrzgjg3zpvxcj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/yahzdyzvspqdbh-"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_c23vc2avka1akv"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rkogqzhr5qkuh7u"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ynnon-qazhmjyan"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/srrolj5c1rv2jez"
+            }
+        ]
+    }
+}

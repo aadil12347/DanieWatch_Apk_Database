@@ -1,0 +1,34 @@
+{
+    "post_title": "Resident Evil: The Final Chapter (2016)",
+    "post_type": "movie",
+    "tmdb_id": 173897,
+    "imdb_id": "tt2592614",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o1otbed4cwzhtfb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/l6r8o8cllp8llbm"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/knnx4lobn1thxxn"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/k9sucjvauhl1-sh"
+            }
+        ]
+    }
+}

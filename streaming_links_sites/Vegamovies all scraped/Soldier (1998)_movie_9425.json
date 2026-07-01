@@ -1,0 +1,30 @@
+{
+    "post_title": "Soldier (1998)",
+    "post_type": "movie",
+    "tmdb_id": 9425,
+    "imdb_id": "tt0120157",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7ccd744tglvv1c4"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_qcb4rcz7gqzn_q"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/y1alsos-espck9e"
+            }
+        ]
+    }
+}

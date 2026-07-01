@@ -1,0 +1,48 @@
+{
+    "post_title": "Beast (2022)",
+    "post_type": "movie",
+    "tmdb_id": 760741,
+    "imdb_id": "tt13223398",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qgk8hhd1ndqvq1a"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dbpb1bbkakusius"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/bpfd84ftedopoe4"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j91pc-gmjvpzj6z"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/zpjz7ljti10p1e7"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/1ith_wze7hiilru"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gs1vemc3zszbmn3"
+            }
+        ]
+    }
+}

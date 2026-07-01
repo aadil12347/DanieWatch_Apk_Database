@@ -1,0 +1,29 @@
+{
+    "post_title": "Mr. Majnu (2019)",
+    "post_type": "movie",
+    "tmdb_id": 566143,
+    "imdb_id": "tt9021092",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i2y-o7sybr5nfcu"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yv7rfx6wq7bww16"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e22mg2egcdcnz46"
+            }
+        ]
+    }
+}

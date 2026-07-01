@@ -1,0 +1,30 @@
+{
+    "post_title": "Hostel (2006)",
+    "post_type": "movie",
+    "tmdb_id": 1690,
+    "imdb_id": "tt0450278",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/meelq3qqagqektc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yn1v04221suvv4u"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qe1vk51vqkxxb1v"
+            }
+        ]
+    }
+}

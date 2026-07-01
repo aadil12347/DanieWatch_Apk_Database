@@ -1,0 +1,44 @@
+{
+    "post_title": "Hotel Transylvania: Transformania (2022)",
+    "post_type": "movie",
+    "tmdb_id": 585083,
+    "imdb_id": "tt9848626",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8vvbnbzmu1z-a1t"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4n4dg44ex88xrfn"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/s88ab8bmtts4s3s"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yy3ihf0ctijyyz1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/r6z2m2bebreyarr"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jmmewmee_eeoxep"
+            }
+        ]
+    }
+}

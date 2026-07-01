@@ -1,0 +1,34 @@
+{
+    "post_title": "Nightbooks (2021)",
+    "post_type": "movie",
+    "tmdb_id": 739990,
+    "imdb_id": "tt10521144",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1ofnrq1nkrti1kt"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=aitxdDhYTUJsdFpQNHZzWkFCYWcrRkJYSXVwRHIveTVFUm1aemc1L2pkUnFlZDlYUmV1a0sxUUhtQ2NFNlUrSQ=="
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/fq_9zuzmmzkomsz"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/owog1150gc_cqo1"
+            }
+        ]
+    }
+}

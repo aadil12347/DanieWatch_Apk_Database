@@ -1,0 +1,30 @@
+{
+    "post_title": "Angel Eyes (2001)",
+    "post_type": "movie",
+    "tmdb_id": 5852,
+    "imdb_id": "tt0225071",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bwhl1lgr1iwle1h"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_nsa4zjllor418a"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6wbkxfwrdfkvzr1"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "The Swimmers (2022)",
+    "post_type": "movie",
+    "tmdb_id": 821881,
+    "imdb_id": "tt8745676",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bn61e1cippp66m1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/odrq1m-q-rrhryh"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/58fcti5xezif0f2"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lcc-seot-qojyoe"
+            }
+        ]
+    }
+}

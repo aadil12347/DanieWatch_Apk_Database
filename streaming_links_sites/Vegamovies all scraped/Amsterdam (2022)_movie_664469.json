@@ -1,0 +1,29 @@
+{
+    "post_title": "Amsterdam (2022)",
+    "post_type": "movie",
+    "tmdb_id": 664469,
+    "imdb_id": "tt10304142",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/aefnmcfpakm4muk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rv22242c_iaex6p"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/r3eqpv3h03sbtpr"
+            }
+        ]
+    }
+}

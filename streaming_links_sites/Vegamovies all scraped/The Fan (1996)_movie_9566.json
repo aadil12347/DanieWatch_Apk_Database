@@ -1,0 +1,34 @@
+{
+    "post_title": "The Fan (1996)",
+    "post_type": "movie",
+    "tmdb_id": 9566,
+    "imdb_id": "tt0116277",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/u1s0bdknvph7onm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mu9g1ogmuj7j1_x"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/jzsxx9g4znjvha4"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mjr-61rzwy6q7vm"
+            }
+        ]
+    }
+}

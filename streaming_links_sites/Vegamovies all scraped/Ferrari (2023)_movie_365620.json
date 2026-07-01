@@ -1,0 +1,34 @@
+{
+    "post_title": "Ferrari (2023)",
+    "post_type": "movie",
+    "tmdb_id": 365620,
+    "imdb_id": "tt3758542",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uzskxnsxk3nvxop"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vrmlcl_orshssxs"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/9z3q3sdgm66zqsa"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k-784enlhcunulf"
+            }
+        ]
+    }
+}

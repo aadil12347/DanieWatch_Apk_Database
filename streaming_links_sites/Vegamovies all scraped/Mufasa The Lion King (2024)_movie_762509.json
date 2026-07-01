@@ -1,0 +1,48 @@
+{
+    "post_title": "Mufasa: The Lion King (2024)",
+    "post_type": "movie",
+    "tmdb_id": 762509,
+    "imdb_id": "tt13186482",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/csgd_5y_wqpccwy"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vl1xvfibfrtfy1b"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/7rv7dnyglerwofr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k12evhmnvoh6ehw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1xs8ah5s1ua80ot"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cwqdimqwyqg6ks1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/g_bqaa1vkcvy-cz"
+            }
+        ]
+    }
+}

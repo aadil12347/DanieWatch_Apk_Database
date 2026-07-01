@@ -1,0 +1,34 @@
+{
+    "post_title": "GTMAX (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1171640,
+    "imdb_id": "tt29260436",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h3yhy8sbsu0cy3x"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e2d3fzoeucebczl"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/m7m7mek7sr-mrae"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tstfs-j1i-xtx7i"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "GoodFellas (1990)",
+    "post_type": "movie",
+    "tmdb_id": 769,
+    "imdb_id": "tt0099685",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0pzqa22wpgplphx"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a8inbcaia58zgy6"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w1eyyfcw1yt11t1"
+            }
+        ]
+    }
+}

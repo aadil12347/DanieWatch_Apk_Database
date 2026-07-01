@@ -1,0 +1,29 @@
+{
+    "post_title": "El Conde (2023)",
+    "post_type": "movie",
+    "tmdb_id": 991708,
+    "imdb_id": "tt21113540",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wmm3ww5b8wu1bew"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cdcyjczcueo1civ"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ubj5jzbekfh4fug"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Jersey (2019)",
+    "post_type": "movie",
+    "tmdb_id": 592898,
+    "imdb_id": "tt8948790",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1ihssv3kid3sdrv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mmysps1zczypsyb"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/v6u6vdpcn-su6xl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3vgeeheggod_dsb"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Shark Tale (2004)",
+    "post_type": "movie",
+    "tmdb_id": 10555,
+    "imdb_id": "tt0307453",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9ypdzwffpjjl4l9"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0aek148gg4l8r8o"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nwsppoxjf9ju1wi"
+            }
+        ]
+    }
+}

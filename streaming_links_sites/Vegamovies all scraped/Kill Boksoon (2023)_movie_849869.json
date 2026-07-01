@@ -1,0 +1,38 @@
+{
+    "post_title": "Kill Boksoon (2023)",
+    "post_type": "movie",
+    "tmdb_id": 849869,
+    "imdb_id": "tt16900880",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mkjpzp5z2awfxyf"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ieir8ju281uipde"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/six4lgqvfyfa1vl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eeyhzs_yw4eqh1k"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/t2f1ruwef_u1r_2"
+            }
+        ]
+    }
+}

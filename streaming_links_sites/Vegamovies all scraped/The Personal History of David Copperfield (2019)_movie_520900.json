@@ -1,0 +1,29 @@
+{
+    "post_title": "The Personal History of David Copperfield (2019)",
+    "post_type": "movie",
+    "tmdb_id": 520900,
+    "imdb_id": "tt6439020",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=K3ZqNmpud2VDT3psRzhyTitIeGNlUS9sSTRrZklxWnJKaGRTT0VTc2thVXpZQUVBRUdPRUxnekMvcEhVZzc2Sw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lmuvombtev1dqat"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/api/index.php?link=NGFoWENFNlFiKzJBV3BxY0RheWFuT2ZyVjY1R1JibkJET3JhdGRKSUtOSGorN2JNY0ZTWXBzdVFtaGUrV05KUw=="
+            }
+        ],
+        "1080p": []
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "13 Minutes (2021)",
+    "post_type": "movie",
+    "tmdb_id": 787723,
+    "imdb_id": "tt9274670",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bkort1zgvrp21wp"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4wg4bhmw-xx0q-w"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/2vnvv3mrjwiivri"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-r-9pb4wo__3ni4"
+            }
+        ]
+    }
+}

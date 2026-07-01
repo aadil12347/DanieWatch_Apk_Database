@@ -1,0 +1,34 @@
+{
+    "post_title": "The Gallows (2015)",
+    "post_type": "movie",
+    "tmdb_id": 299245,
+    "imdb_id": "tt2309260",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fm0mduxjgmddgdt"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sptyky0csurkqth"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/eeghkrcvkqmgjjt"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k5uu1hekhfrymeh"
+            }
+        ]
+    }
+}

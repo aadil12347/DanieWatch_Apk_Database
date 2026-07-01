@@ -1,0 +1,34 @@
+{
+    "post_title": "Upgraded (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1014590,
+    "imdb_id": "tt21830902",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s2yoyxwt2omtmks"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dnpigtazh8gsnp8"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/nlpnhkw6w-6lhbh"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1wirj1131oz1dyt"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "The Invisible Maniac (1990)",
+    "post_type": "movie",
+    "tmdb_id": 28340,
+    "imdb_id": "tt0099856",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-pxnb2gwv-cxwgq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3jzzaat8jdt9xjr"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/3psx1uxgixpum7p"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bi4l4ysbsbugshs"
+            }
+        ]
+    }
+}

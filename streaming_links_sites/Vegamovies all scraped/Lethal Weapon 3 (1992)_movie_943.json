@@ -1,0 +1,29 @@
+{
+    "post_title": "Lethal Weapon 3 (1992)",
+    "post_type": "movie",
+    "tmdb_id": 943,
+    "imdb_id": "tt0104714",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9mv71mhuknndolo"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gsjzvfxbmsvlhcl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0c0lcrwo8mm18yu"
+            }
+        ]
+    }
+}

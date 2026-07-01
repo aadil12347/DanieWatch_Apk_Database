@@ -1,0 +1,34 @@
+{
+    "post_title": "Maneater (2007)",
+    "post_type": "movie",
+    "tmdb_id": 30938,
+    "imdb_id": "tt0846713",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/91uy8jar9p8n1vg"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m7-ij6kmmtp7drb"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xbftccunanzfeac"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wjiej1y9i-hlluw"
+            }
+        ]
+    }
+}

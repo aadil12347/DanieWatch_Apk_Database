@@ -1,0 +1,50 @@
+{
+    "post_title": "Challengers (2024)",
+    "post_type": "movie",
+    "tmdb_id": 937287,
+    "imdb_id": "tt16426418",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6a2w33ozn8lwcpa"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1mvgy1lcpckyp-j"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/iecnqnr3z39vm1q"
+            },
+            {
+                "episode_title": "Episode 4",
+                "link": "https://vcloud.zip/p2_zb912tb9t_qf"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fjvv1yffgkn3gdp"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/nizhu-nll1nh1h6"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uwo_61cjnu7kbof"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/6emvzfdvw1ck3dk"
+            }
+        ]
+    }
+}

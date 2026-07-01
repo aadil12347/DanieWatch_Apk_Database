@@ -1,0 +1,42 @@
+{
+    "post_title": "AKA (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1102776,
+    "imdb_id": "tt27197387",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/11tzmab9tjrcaex"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fmq61natfvaqqp1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/exkuacbogabzoza"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gtkhsl1zzj1pnkc"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/v78x9br7dydvdxx"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/gtkhsl1zzj1pnkc"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Priscilla (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1020006,
+    "imdb_id": "tt22041854",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a1i2jvoqa7tzqz6"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vnckowqwhqp1k1m"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bme1cp1-v2dddd2"
+            }
+        ]
+    }
+}

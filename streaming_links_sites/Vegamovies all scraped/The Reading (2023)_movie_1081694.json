@@ -1,0 +1,29 @@
+{
+    "post_title": "The Reading (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1081694,
+    "imdb_id": "tt13358022",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/umb6xsksj2ucnra"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fgucpcmmqcuu4sm"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ozzz1bwjbbtyybb"
+            }
+        ]
+    }
+}

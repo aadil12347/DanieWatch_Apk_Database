@@ -1,0 +1,25 @@
+{
+    "post_title": "Old School (2003)",
+    "post_type": "movie",
+    "tmdb_id": 11635,
+    "imdb_id": "tt0302886",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e_a2vbyyooy2osf"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/twt1t6jd13gs_pp"
+            }
+        ],
+        "1080p": []
+    }
+}

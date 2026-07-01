@@ -1,0 +1,30 @@
+{
+    "post_title": "Legendary (2010)",
+    "post_type": "movie",
+    "tmdb_id": 43922,
+    "imdb_id": "tt1563704",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/utszzkvhpgewhph"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mhvbd3nk931cnkd"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6yeueedx1ef1ldj"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "post_title": "Mortdecai (2015)",
+    "post_type": "movie",
+    "tmdb_id": 210860,
+    "imdb_id": "tt3045616",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=YzFPVmlZa2k3and1K0lNT0UvalFpUk5ETzNubWx5dUEwVnpUWjYraGZvSWpNdG9sNzJ1d1UwZXh6NVd4djBiUQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=RnVKdVJ1RUF5cmRET0d2ZCtIc1BsaHY1dFlyc3NjME5DK0Y0WldOZU42UkN1RENKTHpYY1oyenFxV3FWanR3Vw=="
+            }
+        ],
+        "1080p": []
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Raw Deal (1986)",
+    "post_type": "movie",
+    "tmdb_id": 2099,
+    "imdb_id": "tt0091828",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cxd1emt9ptdtpql"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/thu1auxrs4tnnfb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/99wh44b99a5hqqa"
+            }
+        ]
+    }
+}

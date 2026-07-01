@@ -1,0 +1,34 @@
+{
+    "post_title": "Straight Outta Compton (2015)",
+    "post_type": "movie",
+    "tmdb_id": 277216,
+    "imdb_id": "tt1398426",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cr2n7kfj-5ks5ic"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zlckvfug_gyuu1u"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/0remj3jjpqenlem"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/85ql1hk0_0xz7h3"
+            }
+        ]
+    }
+}

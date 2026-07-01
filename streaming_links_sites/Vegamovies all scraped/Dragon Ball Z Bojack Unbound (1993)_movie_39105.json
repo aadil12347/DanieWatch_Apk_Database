@@ -1,0 +1,31 @@
+{
+    "post_title": "Dragon Ball Z: Bojack Unbound (1993)",
+    "post_type": "movie",
+    "tmdb_id": 39105,
+    "imdb_id": "tt0142238",
+    "languages": [
+        "Hindi",
+        "English",
+        "Japanese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bw3sjm6vz_ra1rj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qfyy_yxhy1a99zl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xpxmck1-hlvzejz"
+            }
+        ]
+    }
+}

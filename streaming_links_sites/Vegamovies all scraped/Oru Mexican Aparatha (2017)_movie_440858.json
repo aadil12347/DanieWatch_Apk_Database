@@ -1,0 +1,29 @@
+{
+    "post_title": "Oru Mexican Aparatha (2017)",
+    "post_type": "movie",
+    "tmdb_id": 440858,
+    "imdb_id": "tt6010630",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=YTlqRlllbVk0V25Uejd0YWIwQit3Ym1PVWZIc1lvcWhRZWIyVkxuRmZXcXFmMVE4UHRMNjIvVCt0TVpqQjQ3MQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=MFpSeGVYY0xJUndpTzYxYUxzVmVaQk5RSERJbDVlT0M0YlJBUGlOSHBtSk55b1prVlJ3b0h1aCtzcEJ4VXNMUw=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=WGd2OCt1bEExeU8zUXZxQlI2UjBBTUlITExRUGJ4WVVaL283SnhPSE53Ym4rVUVFRko2anZMUktUaTE1bW95aw=="
+            }
+        ]
+    }
+}

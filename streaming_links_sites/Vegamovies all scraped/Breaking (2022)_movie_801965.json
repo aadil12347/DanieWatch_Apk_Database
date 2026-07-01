@@ -1,0 +1,34 @@
+{
+    "post_title": "Breaking (2022)",
+    "post_type": "movie",
+    "tmdb_id": 801965,
+    "imdb_id": "tt12311620",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c_k_wsk36e7oow3"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/11jdjoq1jvi4qde"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/tujxx5qpjtodobo"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zyr6rvmvopy6zof"
+            }
+        ]
+    }
+}

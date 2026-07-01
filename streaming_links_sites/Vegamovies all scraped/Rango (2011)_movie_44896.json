@@ -1,0 +1,34 @@
+{
+    "post_title": "Rango (2011)",
+    "post_type": "movie",
+    "tmdb_id": 44896,
+    "imdb_id": "tt1192628",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z77oyrfndobbpzn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/crl7vd-1vxggd41"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/v1p3vbn3bb3id4q"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_9o1o6o1k-77oq1"
+            }
+        ]
+    }
+}

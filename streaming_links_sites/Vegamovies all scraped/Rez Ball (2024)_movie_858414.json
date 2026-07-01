@@ -1,0 +1,34 @@
+{
+    "post_title": "Rez Ball (2024)",
+    "post_type": "movie",
+    "tmdb_id": 858414,
+    "imdb_id": "tt15181360",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ccqsy71j6cm7f8v"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8oncbefb7t2lhfd"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3rf5j5-dj69udhp"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/tbi6h_0h65qaoat"
+            }
+        ]
+    }
+}

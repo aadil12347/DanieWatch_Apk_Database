@@ -1,0 +1,33 @@
+{
+    "post_title": "Black (2022)",
+    "post_type": "movie",
+    "tmdb_id": 890119,
+    "imdb_id": "tt16914952",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bxna3wt28bzjdmm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jzk1jpz-kwjzofc"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/341xsj6a33www3j"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/d7oaxr6vqomi766"
+            }
+        ]
+    }
+}

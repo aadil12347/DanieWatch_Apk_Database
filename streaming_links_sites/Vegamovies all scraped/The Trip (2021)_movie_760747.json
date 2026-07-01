@@ -1,0 +1,24 @@
+{
+    "post_title": "The Trip (2021)",
+    "post_type": "movie",
+    "tmdb_id": 760747,
+    "imdb_id": "tt13109952",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=a05JVU9pUko3YzQwWnc5bCs4Z3MxWS84SUV5VGFjcUliNjNaa1BkOGxvbDBzMU02aENGdjJMN1FBT3k4OHhJYg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=Y29UNWJvTG5MRitka3VUZUpGbVZoR2RBR0tiRGs1WFZRZVFqeFBrTE0ydVQzYm14TXZaYk5jb1pGak1nalNtaQ=="
+            }
+        ],
+        "1080p": []
+    }
+}

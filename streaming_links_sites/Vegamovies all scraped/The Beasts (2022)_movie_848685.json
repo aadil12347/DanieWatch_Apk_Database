@@ -1,0 +1,34 @@
+{
+    "post_title": "The Beasts (2022)",
+    "post_type": "movie",
+    "tmdb_id": 848685,
+    "imdb_id": "tt15006566",
+    "languages": [
+        "Hindi",
+        "Spanish"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fhppgfxfa1fl11t"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/45r454lf45yha_y"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/p20fbom0b8bk902"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/__w1sajbe_bcztj"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "post_title": "Cut (2000)",
+    "post_type": "movie",
+    "tmdb_id": 10205,
+    "imdb_id": "tt0189456",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=ZzZDNjA5a2JuUG50V2tsdXF6UmozdGgrb2RSaGRMWEZsUzZCMnA3YUZLZnNmVjVyK2RuQmFkK2tZY01QZjJKUw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=c0oxczIwdnZKSktUNWxIYXA4cXFXd0QrQkZHU1RYMHQwc2JvQlBlQnQ0b0hVRG44Z29kT3J5ZngrTUNiWGlJTg=="
+            }
+        ],
+        "1080p": []
+    }
+}

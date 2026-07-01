@@ -1,0 +1,34 @@
+{
+    "post_title": "Exodus: Gods and Kings (2014)",
+    "post_type": "movie",
+    "tmdb_id": 147441,
+    "imdb_id": "tt1528100",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uc1w39nqelcklqw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4peqtpkekxqk16p"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tltttlh3lflaqy4"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mkq0bmp1jrb1j0n"
+            }
+        ]
+    }
+}

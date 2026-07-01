@@ -1,0 +1,25 @@
+{
+    "post_title": "Circle of Friends (1995)",
+    "post_type": "movie",
+    "tmdb_id": 22625,
+    "imdb_id": "tt0112679",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=bTRrNFJ3cTBWSXY1SFBVR0IxK0RLdGR6WlhWZmtnSXlZRjB5RllFUTJPM01NcWFZUW80ZE1JU3RZNFVnVUJDZA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=aCtSdEJjL3owaW0rcERQZGl5aUlMN0hPcGROVmVKSWY5V3A3SXlFQkVDRGF1RVZnT2dOell3ZVkwTlgySm9vTg=="
+            }
+        ],
+        "1080p": []
+    }
+}

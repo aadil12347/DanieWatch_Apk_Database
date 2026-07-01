@@ -1,0 +1,38 @@
+{
+    "post_title": "We Have a Ghost (2023)",
+    "post_type": "movie",
+    "tmdb_id": 852096,
+    "imdb_id": "tt7798604",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jgxbbct6foapcfv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fwkaoff7kkffdks"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/bjwkodvdentkxdt"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9u8jaxvnx4nshnh"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/s56pjk186geku2k"
+            }
+        ]
+    }
+}

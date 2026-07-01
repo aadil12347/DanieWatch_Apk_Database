@@ -1,0 +1,30 @@
+{
+    "post_title": "Pride & Prejudice (2005)",
+    "post_type": "movie",
+    "tmdb_id": 4348,
+    "imdb_id": "tt0414387",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2s29rkjpmd5jqa9"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cvrcfturdrwad3r"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ihwia93bfj14hwv"
+            }
+        ]
+    }
+}

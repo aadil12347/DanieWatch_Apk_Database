@@ -1,0 +1,29 @@
+{
+    "post_title": "The Goblin (2022)",
+    "post_type": "movie",
+    "tmdb_id": 952888,
+    "imdb_id": "tt15760224",
+    "languages": [
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rdnbe1dtesbcsu0"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j2utbsx11tllv6b"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g6jjtmtjgssmbqq"
+            }
+        ]
+    }
+}

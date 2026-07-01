@@ -1,0 +1,40 @@
+{
+    "post_title": "Ant-Man and the Wasp (2018)",
+    "post_type": "movie",
+    "tmdb_id": 363088,
+    "imdb_id": "tt5095030",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3k3ngndt13slglh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fwzrz4svtsl9f3b"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tznhe1vhgpgwsqq"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/tdhz1u3-s6-tukw"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9qodzpq2bxp7sqb"
+            }
+        ]
+    }
+}

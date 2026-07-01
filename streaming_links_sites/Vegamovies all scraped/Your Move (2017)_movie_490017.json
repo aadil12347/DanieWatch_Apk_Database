@@ -1,0 +1,34 @@
+{
+    "post_title": "Your Move (2017)",
+    "post_type": "movie",
+    "tmdb_id": 490017,
+    "imdb_id": "tt3499176",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xxuj0x1y12b1w00"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8vgwqluffxl1bw1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/c0gsg3smmzgkt3c"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s81wp8wkhaozaap"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "post_title": "Aarya (2004)",
+    "post_type": "movie",
+    "tmdb_id": 80880,
+    "imdb_id": "tt0431619",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h9-axje9n9xbeuc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fhh_ljcwgqocw3-"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/qxwsn_cu19_xw79"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kc6juajlho7jhke"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Moonage Daydream (2022)",
+    "post_type": "movie",
+    "tmdb_id": 957457,
+    "imdb_id": "tt9883832",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1skr3q31k3bweps"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3uvvdukj21dyu1f"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/etdnqq-2jtscvtf"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zc1wm91yrc5kjk1"
+            }
+        ]
+    }
+}

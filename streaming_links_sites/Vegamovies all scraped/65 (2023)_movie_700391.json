@@ -1,0 +1,51 @@
+{
+    "post_title": "65 (2023)",
+    "post_type": "movie",
+    "tmdb_id": 700391,
+    "imdb_id": "tt12261776",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eus8dzzzwst1zwu"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g4b2im0zxzsvzdo"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/lqg55gmwu3zeoal"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1k1lcqxwha_kucc"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/uoppg7us9p1hpqn"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/3x7u9ueemst8uo7"
+            },
+            {
+                "episode_title": "Episode 4",
+                "link": "https://vcloud.zip/pg2hrrifxcfblwb"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qzq9xy1y1-mbxyv"
+            }
+        ]
+    }
+}

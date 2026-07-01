@@ -1,0 +1,34 @@
+{
+    "post_title": "City by the Sea (2002)",
+    "post_type": "movie",
+    "tmdb_id": 13536,
+    "imdb_id": "tt0269095",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/aw0u2u8ceu1ebec"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zrxgxeg_dp0hhuc"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/oijfjf__qalaf_z"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ktkyytrh2223rax"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "The Lorax (2012)",
+    "post_type": "movie",
+    "tmdb_id": 73723,
+    "imdb_id": "tt1482459",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vvjvkkau__nlg_z"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wu1jm9k6hgcrzzw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ypnnds6bqlccnkr"
+            }
+        ]
+    }
+}

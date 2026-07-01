@@ -1,0 +1,29 @@
+{
+    "post_title": "Companion (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1084199,
+    "imdb_id": "tt26584495",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c6bqf3qdfdpzk4f"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hquttg0d0ay131a"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yub66uhryhvyvtr"
+            }
+        ]
+    }
+}

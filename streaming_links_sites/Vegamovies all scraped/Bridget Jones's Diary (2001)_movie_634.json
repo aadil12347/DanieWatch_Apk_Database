@@ -1,0 +1,38 @@
+{
+    "post_title": "Bridget Jones's Diary (2001)",
+    "post_type": "movie",
+    "tmdb_id": 634,
+    "imdb_id": "tt0243155",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jhrta0lyp41htrm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/pbpcpccpregeire"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1h2algngpnndfet"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xgysjzozu_x_kw_"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ekr2adagymsmmrs"
+            }
+        ]
+    }
+}

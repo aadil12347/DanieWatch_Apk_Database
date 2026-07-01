@@ -1,0 +1,44 @@
+{
+    "post_title": "The Forever Purge (2021)",
+    "post_type": "movie",
+    "tmdb_id": 602223,
+    "imdb_id": "tt10327252",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xf7ibf_b1xvblbc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ini58u5idap_0jh"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/zwaaoqbm6j9b4_0"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fd9__gjgh9d9z_w"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/jfopypreygfnyyp"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-ist-jszgjtgjtj"
+            }
+        ]
+    }
+}

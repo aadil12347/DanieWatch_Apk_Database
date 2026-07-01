@@ -1,0 +1,35 @@
+{
+    "post_title": "Camp Crasher (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1191611,
+    "imdb_id": "tt29368988",
+    "languages": [
+        "Hindi",
+        "English",
+        "Spanish"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/33ujs8v13fn86_x"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iipfxjh8j_fkpaj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/u0r2cllgc72g112"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4y1djtsqau7foj2"
+            }
+        ]
+    }
+}

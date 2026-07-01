@@ -1,0 +1,24 @@
+{
+    "post_title": "Nightmare Cinema (2018)",
+    "post_type": "movie",
+    "tmdb_id": 480100,
+    "imdb_id": "tt7349910",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1vuzqsq7zhfvlko"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vva-o-vvx1dosjo"
+            }
+        ],
+        "1080p": []
+    }
+}

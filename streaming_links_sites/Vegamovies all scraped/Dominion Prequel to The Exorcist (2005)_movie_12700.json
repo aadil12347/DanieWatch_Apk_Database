@@ -1,0 +1,34 @@
+{
+    "post_title": "Dominion: Prequel to The Exorcist (2005)",
+    "post_type": "movie",
+    "tmdb_id": 12700,
+    "imdb_id": "tt0449086",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e7occmq9ywe9okn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2jc8ykaai5rjkzm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mz19khkxm3x9z3j"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tthvkoon4mqtfal"
+            }
+        ]
+    }
+}

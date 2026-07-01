@@ -1,0 +1,38 @@
+{
+    "post_title": "Athena (2022)",
+    "post_type": "movie",
+    "tmdb_id": 852046,
+    "imdb_id": "tt15445056",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x54hwdsnskndwmw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qldkjllattq1btr"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ggxn5rvwxg_d4eo"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xmrpoarxnnqla1a"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/e6qx6_t5xxqzxjm"
+            }
+        ]
+    }
+}

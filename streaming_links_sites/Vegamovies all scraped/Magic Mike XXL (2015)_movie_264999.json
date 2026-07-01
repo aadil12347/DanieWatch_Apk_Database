@@ -1,0 +1,24 @@
+{
+    "post_title": "Magic Mike XXL (2015)",
+    "post_type": "movie",
+    "tmdb_id": 264999,
+    "imdb_id": "tt2268016",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=Rnp3em1ENzJJbldha01zWFJOVHB4MytwejV5YWVWMm1XMFJNTkZOWjJzUHNtOXI4OVhXT1lYaENEZFdTUVFERQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=cUNXMGlRL3N6RHVXYi80NzJBeXVnN2cwczkwSUp6NTJOa3N6VkR5ZGpUT21QYnM2emRRcHMwQlBuWFhPRjV6Kw=="
+            }
+        ],
+        "1080p": []
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Quarantine (2008)",
+    "post_type": "movie",
+    "tmdb_id": 13812,
+    "imdb_id": "tt1082868",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oxvarl3vcl5h1b5"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h8mai5zjh6sl1q4"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iq22r2192l1k9yg"
+            }
+        ]
+    }
+}

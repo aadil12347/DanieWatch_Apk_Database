@@ -1,0 +1,25 @@
+{
+    "post_title": "Back to the Future (1985)",
+    "post_type": "movie",
+    "tmdb_id": 105,
+    "imdb_id": "tt0088763",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c8fph42s4kvxc4h"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ou_jz_cz1jc72ey"
+            }
+        ],
+        "1080p": []
+    }
+}

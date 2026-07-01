@@ -1,0 +1,35 @@
+{
+    "post_title": "Wonderland (2024)",
+    "post_type": "movie",
+    "tmdb_id": 635996,
+    "imdb_id": "tt31254554",
+    "languages": [
+        "Hindi",
+        "English",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2fpfgbeurvgr2d1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/utsyio8p6t6oqim"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/agaft1wgt7fs1pl"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/jsbbf7lldff17dy"
+            }
+        ]
+    }
+}

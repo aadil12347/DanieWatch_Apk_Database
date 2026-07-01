@@ -1,0 +1,30 @@
+{
+    "post_title": "Red Dragon (2002)",
+    "post_type": "movie",
+    "tmdb_id": 9533,
+    "imdb_id": "tt0289765",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rwwpas4pssp4o1b"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sxraywcqcqd2yst"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uzkqctmcuz5jhku"
+            }
+        ]
+    }
+}

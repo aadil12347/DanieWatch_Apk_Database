@@ -1,0 +1,34 @@
+{
+    "post_title": "Great White (2021)",
+    "post_type": "movie",
+    "tmdb_id": 534072,
+    "imdb_id": "tt8435002",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sf8a6tbwrcyk-6c"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1ypjz9smxyxavx9"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/-tmadm9avtawthz"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fujv9ii1dxd7pd_"
+            }
+        ]
+    }
+}

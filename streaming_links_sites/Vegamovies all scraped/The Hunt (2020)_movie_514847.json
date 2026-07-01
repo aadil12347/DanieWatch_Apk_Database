@@ -1,0 +1,34 @@
+{
+    "post_title": "The Hunt (2020)",
+    "post_type": "movie",
+    "tmdb_id": 514847,
+    "imdb_id": "tt8244784",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a1frbi1d1dxan1e"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rlerbeik-lij721"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ml-k3tkm7p1jhll"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hsog9hmh__i1s0j"
+            }
+        ]
+    }
+}

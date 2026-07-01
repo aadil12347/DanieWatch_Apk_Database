@@ -1,0 +1,34 @@
+{
+    "post_title": "Roommates (2026)",
+    "post_type": "movie",
+    "tmdb_id": 1511057,
+    "imdb_id": "tt37540875",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4jd4jj3b11jwp17"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k7116hjqhr4zrkz"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/6hgwhqudwgwygod"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v6tjzmt2rsvvrr7"
+            }
+        ]
+    }
+}

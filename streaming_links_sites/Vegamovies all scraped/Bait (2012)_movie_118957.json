@@ -1,0 +1,34 @@
+{
+    "post_title": "Bait (2012)",
+    "post_type": "movie",
+    "tmdb_id": 118957,
+    "imdb_id": "tt1438173",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/l5ir0ttvjwzno7i"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tbxgcxxtniex3cr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/muafwhwkm9wb791"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/zxa-4uee11r34ex"
+            }
+        ]
+    }
+}

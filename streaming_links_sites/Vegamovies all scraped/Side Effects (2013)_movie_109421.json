@@ -1,0 +1,34 @@
+{
+    "post_title": "Side Effects (2013)",
+    "post_type": "movie",
+    "tmdb_id": 109421,
+    "imdb_id": "tt2053463",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nfwzzd7yykhwpwf"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/agmtyswjaghtjda"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/2ihhihz3nt1hizk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vsfxd91hxvquxqk"
+            }
+        ]
+    }
+}

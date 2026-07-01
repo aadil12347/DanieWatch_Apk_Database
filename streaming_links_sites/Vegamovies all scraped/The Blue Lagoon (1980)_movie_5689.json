@@ -1,0 +1,30 @@
+{
+    "post_title": "The Blue Lagoon (1980)",
+    "post_type": "movie",
+    "tmdb_id": 5689,
+    "imdb_id": "tt0080453",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1jmz5tw2wtredj2"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4exladsgkiabqga"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fvizvoutlfqqf0c"
+            }
+        ]
+    }
+}

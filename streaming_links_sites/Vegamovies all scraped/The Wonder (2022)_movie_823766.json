@@ -1,0 +1,42 @@
+{
+    "post_title": "The Wonder (2022)",
+    "post_type": "movie",
+    "tmdb_id": 823766,
+    "imdb_id": "tt9288822",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0yi_20sg_xnfe3i"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rn4xtffebjl49lb"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wtq6wx7pq7ttctr"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/piphgib75reebvl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tt7zr22psv5eb6a"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1zeon1eddn4rkho"
+            }
+        ]
+    }
+}

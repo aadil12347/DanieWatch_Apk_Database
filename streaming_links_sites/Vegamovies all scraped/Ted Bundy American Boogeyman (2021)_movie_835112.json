@@ -1,0 +1,38 @@
+{
+    "post_title": "Ted Bundy: American Boogeyman (2021)",
+    "post_type": "movie",
+    "tmdb_id": 835112,
+    "imdb_id": "tt14538850",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2t9b6yc29sr3fqj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gewdzsv9wz9f9e2"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/p2wucdy1uqjdqu9"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vu_sr3vyi1si8u6"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/21or2cc1vr1eehf"
+            }
+        ]
+    }
+}

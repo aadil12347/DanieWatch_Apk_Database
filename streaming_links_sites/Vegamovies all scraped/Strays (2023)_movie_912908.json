@@ -1,0 +1,38 @@
+{
+    "post_title": "Strays (2023)",
+    "post_type": "movie",
+    "tmdb_id": 912908,
+    "imdb_id": "tt15153532",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qlp5r5qrqbm54qa"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/gahmjgyd18jmfbh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x9o5bxuuajnh2du"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yya1jwj-d2lxybs"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/cruox2tqtrr02uy"
+            }
+        ]
+    }
+}

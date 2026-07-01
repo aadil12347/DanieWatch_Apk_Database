@@ -1,0 +1,30 @@
+{
+    "post_title": "Ghost Rider (2007)",
+    "post_type": "movie",
+    "tmdb_id": 1250,
+    "imdb_id": "tt0259324",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i1bbs37bys3sons"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dtp8db4044l2r1t"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hr1crzcvvcrhvrl"
+            }
+        ]
+    }
+}

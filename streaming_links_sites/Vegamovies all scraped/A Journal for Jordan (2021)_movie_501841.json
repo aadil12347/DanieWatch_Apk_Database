@@ -1,0 +1,34 @@
+{
+    "post_title": "A Journal for Jordan (2021)",
+    "post_type": "movie",
+    "tmdb_id": 501841,
+    "imdb_id": "tt0995854",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nazgv55d5qqyqm0"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8gq9r8gsdgpd98v"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/r_v_8n5xxpxjjgj"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qmqm8-qtzm1w1ii"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Primal (2019)",
+    "post_type": "movie",
+    "tmdb_id": 500916,
+    "imdb_id": "tt7394816",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=MDFxTGpIMHpBdWNzenV2dEdTQWJmRjlncklsS2V0M253REI0NGRhOVZSSW1uVkYySzA4RW9IUjUzRi8rTmpRcQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=Zm0xUEFUOXplZ2Q0b2pCSE9jRGxhVVcwVVgwNVVTVlRtK2NYTkQ3OHJmL29tcU10WTZaMTBZV1NLMm1DSmh1SA=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=MDFxTGpIMHpBdWNzenV2dEdTQWJmRjlncklsS2V0M253REI0NGRhOVZSSW1uVkYySzA4RW9IUjUzRi8rTmpRcQ=="
+            }
+        ]
+    }
+}

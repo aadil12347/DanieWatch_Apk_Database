@@ -1,0 +1,38 @@
+{
+    "post_title": "Love and Leashes (2022)",
+    "post_type": "movie",
+    "tmdb_id": 760517,
+    "imdb_id": "tt15553956",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z_jz_vj-ivwv-n_"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8dcyld8i8idahwi"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/3kk3d7lmlp3opaa"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mrmy4m8y6myiyc8"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/qp1e__i85jvewjr"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "The Peasants (2023)",
+    "post_type": "movie",
+    "tmdb_id": 734002,
+    "imdb_id": "tt10651230",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t16w5xs1mn85o6k"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qx5jjdxhiykfq3e"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pcrxjsjyeujisox"
+            }
+        ]
+    }
+}

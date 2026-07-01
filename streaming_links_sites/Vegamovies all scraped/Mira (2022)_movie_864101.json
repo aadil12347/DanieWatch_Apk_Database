@@ -1,0 +1,30 @@
+{
+    "post_title": "Mira (2022)",
+    "post_type": "movie",
+    "tmdb_id": 864101,
+    "imdb_id": "tt15296186",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h1vc8tdvyagozbg"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xn-78mi1oapn66l"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mzcsq6st4ojgz2s"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Blue Story (2019)",
+    "post_type": "movie",
+    "tmdb_id": 621191,
+    "imdb_id": "tt9285882",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qbledi5rmwh212z"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pvysp5asvqpt81u"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mt7mi1gtxqdnsc-"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ksgsp8he5xw8p4p"
+            }
+        ]
+    }
+}

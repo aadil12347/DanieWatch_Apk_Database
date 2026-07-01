@@ -1,0 +1,35 @@
+{
+    "post_title": "City Hunter (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1061990,
+    "imdb_id": "tt24478470",
+    "languages": [
+        "Hindi",
+        "English",
+        "Japanese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g2nn2f_nggmxqb1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t7mymoyk0m7b5ry"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5tb5xbxlbxl322x"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/7sdhmmnv_ni_e7a"
+            }
+        ]
+    }
+}

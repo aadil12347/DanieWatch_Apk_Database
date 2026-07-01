@@ -1,0 +1,30 @@
+{
+    "post_title": "Underwater (2020)",
+    "post_type": "movie",
+    "tmdb_id": 443791,
+    "imdb_id": "tt5774060",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cms74swr11q-rsv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v52djb6yx975z9s"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hse13-q3q1ap3fl"
+            }
+        ]
+    }
+}

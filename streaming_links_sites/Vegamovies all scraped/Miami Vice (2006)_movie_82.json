@@ -1,0 +1,30 @@
+{
+    "post_title": "Miami Vice (2006)",
+    "post_type": "movie",
+    "tmdb_id": 82,
+    "imdb_id": "tt0430357",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8b1hvbh-yyryeod"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pp_l1jsu_prakpq"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nwokzcl6lczdf7u"
+            }
+        ]
+    }
+}

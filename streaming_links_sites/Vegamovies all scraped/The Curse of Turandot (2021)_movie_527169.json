@@ -1,0 +1,34 @@
+{
+    "post_title": "The Curse of Turandot (2021)",
+    "post_type": "movie",
+    "tmdb_id": 527169,
+    "imdb_id": "tt6703486",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ncnry7tgk1kw1gn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lgzosc20e0kgvv_"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/o4s33cqh3he11r4"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xh-wrrzh99-vg99"
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "post_title": "The Killer (2023)",
+    "post_type": "movie",
+    "tmdb_id": 800158,
+    "imdb_id": "tt1136617",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pq7zudx4qmjjag1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hl_-__lq-hdqxdk"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1cpyt8ujb8e-kpy"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/afaraakaa2kraaa"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/q2iw2acttsldzbt"
+            }
+        ]
+    }
+}

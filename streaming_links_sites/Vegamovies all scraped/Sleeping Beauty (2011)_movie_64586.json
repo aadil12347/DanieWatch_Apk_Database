@@ -1,0 +1,33 @@
+{
+    "post_title": "Sleeping Beauty (2011)",
+    "post_type": "movie",
+    "tmdb_id": 64586,
+    "imdb_id": "tt1588398",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/um12n1uumzctv-m"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/u120dpemwmtnsel"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ciceceschkoiklz"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/repryxx7ppq1ynd"
+            }
+        ]
+    }
+}

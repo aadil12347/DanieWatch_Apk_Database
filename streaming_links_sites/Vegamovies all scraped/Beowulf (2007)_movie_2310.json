@@ -1,0 +1,30 @@
+{
+    "post_title": "Beowulf (2007)",
+    "post_type": "movie",
+    "tmdb_id": 2310,
+    "imdb_id": "tt0442933",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gzcgz1b7psw6iss"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ssy1yxso_egv3p_"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v7yzyy1n12skz72"
+            }
+        ]
+    }
+}

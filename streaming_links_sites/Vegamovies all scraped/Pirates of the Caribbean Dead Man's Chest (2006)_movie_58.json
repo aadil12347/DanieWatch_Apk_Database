@@ -1,0 +1,40 @@
+{
+    "post_title": "Pirates of the Caribbean: Dead Man's Chest (2006)",
+    "post_type": "movie",
+    "tmdb_id": 58,
+    "imdb_id": "tt0383574",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jvrlv1aavmpyhxm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uds1sbiuhmztxqu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/smzcqqchrfcmfd1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/7u2cc71rzsg1ugc"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uw6oor21beqvq4e"
+            }
+        ]
+    }
+}

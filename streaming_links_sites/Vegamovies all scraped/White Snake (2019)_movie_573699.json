@@ -1,0 +1,34 @@
+{
+    "post_title": "White Snake (2019)",
+    "post_type": "movie",
+    "tmdb_id": 573699,
+    "imdb_id": "tt9288776",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mjlozzgnsv2m5rj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rklwkzo6_ppymmg"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/iwvngdqip3wguog"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1isasmpop1a7szt"
+            }
+        ]
+    }
+}

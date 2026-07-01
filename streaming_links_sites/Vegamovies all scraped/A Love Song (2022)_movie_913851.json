@@ -1,0 +1,34 @@
+{
+    "post_title": "A Love Song (2022)",
+    "post_type": "movie",
+    "tmdb_id": 913851,
+    "imdb_id": "tt12691830",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vkfa2swo7vv7kaz"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bbog8s1_48b8pa-"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vf_3u3czrvzr3vc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qzf131gnz80mzgf"
+            }
+        ]
+    }
+}

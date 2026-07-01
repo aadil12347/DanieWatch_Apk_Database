@@ -1,0 +1,24 @@
+{
+    "post_title": "The Wolf's Call (2019)",
+    "post_type": "movie",
+    "tmdb_id": 484468,
+    "imdb_id": "tt7458762",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=QTZVWFJIU2F1bzlNdzhOSVpkNVNOSExPQnZkNEtKd1JTZUJLcm4yMVc5MVlyYk5KQ0dpRnphbVhLcitQeHd0dQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=dk1NRWNjUGoyZDBHem9ZUDFwS25Ba3kwY3dOVzQ0MFV5MHY0N1JWTnpxUW50akxxTkJjMVB0eVZMR2JJRFV3eA=="
+            }
+        ],
+        "1080p": []
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Till Death (2021)",
+    "post_type": "movie",
+    "tmdb_id": 672741,
+    "imdb_id": "tt11804152",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w4i3vqgkz1dhceq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lstgri8txktwlu8"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/zoqx1okxlc4co4q"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8ir5gxg5izsxrwi"
+            }
+        ]
+    }
+}

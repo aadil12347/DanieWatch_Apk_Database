@@ -1,0 +1,30 @@
+{
+    "post_title": "Dragon Ball Z: Broly - The Legendary Super Saiyan (1993)",
+    "post_type": "movie",
+    "tmdb_id": 34433,
+    "imdb_id": "tt0142242",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s3mtps1synrs2s-"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/p2cigrxjxjg2dog"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xq14gsqdjooc_pj"
+            }
+        ]
+    }
+}

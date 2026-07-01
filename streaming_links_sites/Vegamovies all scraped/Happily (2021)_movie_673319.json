@@ -1,0 +1,34 @@
+{
+    "post_title": "Happily (2021)",
+    "post_type": "movie",
+    "tmdb_id": 673319,
+    "imdb_id": "tt9849004",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h_jrlhyyrjre1rs"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eoohrrcunveaeee"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/khik7d2viv9t7ak"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2j2423l4kzy32tt"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "post_title": "Seattle Superstorm (2012)",
+    "post_type": "movie",
+    "tmdb_id": 107100,
+    "imdb_id": "tt1910615",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jqu8ts1kbkeuhk1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gd9tl2sttr91j7e"
+            }
+        ],
+        "1080p": []
+    }
+}

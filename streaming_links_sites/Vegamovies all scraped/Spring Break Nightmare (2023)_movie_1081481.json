@@ -1,0 +1,30 @@
+{
+    "post_title": "Spring Break Nightmare (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1081481,
+    "imdb_id": "tt14698504",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w1ei7eq61jlwq8w"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cdktldbmlc1mdxn"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pxikhrhe1vk7ea3"
+            }
+        ]
+    }
+}

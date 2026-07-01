@@ -1,0 +1,24 @@
+{
+    "post_title": "Street Fighter II: The Animated Movie (1994)",
+    "post_type": "movie",
+    "tmdb_id": 12613,
+    "imdb_id": "tt0114563",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ccqd1vdybjceqgr"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3fwb85ptgbvgmfh"
+            }
+        ],
+        "1080p": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "post_title": "My Hero Academia: Two Heroes (2018)",
+    "post_type": "movie",
+    "tmdb_id": 505262,
+    "imdb_id": "tt7745068",
+    "languages": [
+        "Hindi",
+        "English",
+        "Japanese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nqn19_7m5w_znmk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i9v9sf2wlz9ir_u"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4zrvfri1avzhaaa"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/_jso2clwr7jrrz6"
+            }
+        ]
+    }
+}

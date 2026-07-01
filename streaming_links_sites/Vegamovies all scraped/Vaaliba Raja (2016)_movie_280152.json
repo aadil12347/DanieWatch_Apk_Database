@@ -1,0 +1,24 @@
+{
+    "post_title": "Vaaliba Raja (2016)",
+    "post_type": "movie",
+    "tmdb_id": 280152,
+    "imdb_id": "tt3566718",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=azEyNXZjREJaa1Q5V1ZhNU1mWU1yOHNmNGpGb1M2Rk43SUR4UE03eEdXc0tITnR3NDZPVE9zTHlYckVKVTlySw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=ejZBK0RyS1l4U0V3WkRMcVJIa2ZIYUkwOThBREYzWEtzT2p1Sk1rdER6RldvelpMeFBzdFNIbWdpZFcyNG94TA=="
+            }
+        ],
+        "1080p": []
+    }
+}

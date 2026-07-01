@@ -1,0 +1,38 @@
+{
+    "post_title": "Good Luck to You, Leo Grande (2022)",
+    "post_type": "movie",
+    "tmdb_id": 758330,
+    "imdb_id": "tt13352968",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qn9xioakqsnuudk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vvrzrmgvgr0gpt4"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/fogbufv1hravzuf"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b7cpa3h-p4zh1j1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/qqlzu47cuf7bmsb"
+            }
+        ]
+    }
+}

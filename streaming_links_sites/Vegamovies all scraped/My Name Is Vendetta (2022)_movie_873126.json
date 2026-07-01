@@ -1,0 +1,34 @@
+{
+    "post_title": "My Name Is Vendetta (2022)",
+    "post_type": "movie",
+    "tmdb_id": 873126,
+    "imdb_id": "tt15229674",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1qo77_x_u987kke"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vo0xk4x3ek4aooo"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/buururuehxet11z"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6rwshkiir7skwoo"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "The Iron Claw (2023)",
+    "post_type": "movie",
+    "tmdb_id": 850165,
+    "imdb_id": "tt21064584",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w8m89wrjcelspe6"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c4wixcwiexri2ft"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nr0hy1tlp0a9xgh"
+            }
+        ]
+    }
+}

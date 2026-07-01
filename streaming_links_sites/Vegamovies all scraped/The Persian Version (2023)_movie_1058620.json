@@ -1,0 +1,30 @@
+{
+    "post_title": "The Persian Version (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1058620,
+    "imdb_id": "tt24076146",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/614fc9dqc1dcdjd"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1bf9ttp14r4r9d_"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vpir1_iltn7x0kn"
+            }
+        ]
+    }
+}

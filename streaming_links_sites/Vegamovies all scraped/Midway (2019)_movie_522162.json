@@ -1,0 +1,40 @@
+{
+    "post_title": "Midway (2019)",
+    "post_type": "movie",
+    "tmdb_id": 522162,
+    "imdb_id": "tt6924650",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/msnrkeoa5okluww"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nu18fxxkds86ndd"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/7qf8x89mxfwffqm"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kkofe1c0o0zbimv"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sy1y_zhsyuwb12w"
+            }
+        ]
+    }
+}

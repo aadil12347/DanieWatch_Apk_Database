@@ -1,0 +1,30 @@
+{
+    "post_title": "Blue Crush (2002)",
+    "post_type": "movie",
+    "tmdb_id": 9266,
+    "imdb_id": "tt0300532",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8ff1qiiq-j8skss"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1771lr1zn6wxtnl"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fcff69u5cqssm9v"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "The Assassin (2023)",
+    "post_type": "movie",
+    "tmdb_id": 890154,
+    "imdb_id": "tt21109580",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ff0wmhyuuy3ywhh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qa-xaon1earlozl"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/o91n-mt1xim28lb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nyqlqll6xwxlaly"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "True Lies (1994)",
+    "post_type": "movie",
+    "tmdb_id": 36955,
+    "imdb_id": "tt0111503",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/amb1cv7yjqqaq69"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lwtoih7xvxqiv6v"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/r1wy1owvlotwy-t"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1rsnijjju2od1na"
+            }
+        ]
+    }
+}

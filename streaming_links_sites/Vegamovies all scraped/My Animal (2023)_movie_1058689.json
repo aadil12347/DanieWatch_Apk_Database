@@ -1,0 +1,29 @@
+{
+    "post_title": "My Animal (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1058689,
+    "imdb_id": "tt23572542",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xjcxqbvqfqfly9v"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pajzgabbtqpeqtb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wxsxa0wyeg1hw9e"
+            }
+        ]
+    }
+}

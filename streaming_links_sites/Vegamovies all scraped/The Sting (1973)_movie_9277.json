@@ -1,0 +1,30 @@
+{
+    "post_title": "The Sting (1973)",
+    "post_type": "movie",
+    "tmdb_id": 9277,
+    "imdb_id": "tt0070735",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/trsfcojtieytfsk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oamehghcm6dtjvd"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/apy050bi5iu3uyp"
+            }
+        ]
+    }
+}

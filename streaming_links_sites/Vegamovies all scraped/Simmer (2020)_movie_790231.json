@@ -1,0 +1,34 @@
+{
+    "post_title": "Simmer (2020)",
+    "post_type": "movie",
+    "tmdb_id": 790231,
+    "imdb_id": "tt9072746",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g5vhvv38xha5bha"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/juyouasln1g0im1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/pjpu3vp9sk3bvur"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/citbcbe9zcdx6sx"
+            }
+        ]
+    }
+}

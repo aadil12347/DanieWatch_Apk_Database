@@ -1,0 +1,34 @@
+{
+    "post_title": "Valley of the Lanterns (2018)",
+    "post_type": "movie",
+    "tmdb_id": 690969,
+    "imdb_id": "tt7670504",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=aFZSemxrTXBOU1Z4dVBaNUdaRzdqSjVHYjA2K1ZTRy9FeGpEUCtCSFNHQzdZbHRWeUptenFqL3pxS3BhbjB0aw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=Y2JIOGYrKzZCY2ZFTWYwNUk2azlSemZGNGZFUmtxTkY2VmxxWlN5NjVicm1BOVhKcGFIeTBKWDZqTVY5cTBXdA=="
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/api/index.php?link=a3p2ZXJsOENrK3VmS21NT1YwR2xUbjRYWTdOZnIyR1VRNVlSYkN1TytjeGpVVnVRdDRpZVVZeTN4Wng4d2ROYg=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=QkUxR0JsWVVjeitCUStHdXdUMVdRWFRYZ2hEWW5oUEpNVWV4TXNiRUhJdURDTzhRK1pHT1Btbk5PbEt1UWg3Nw=="
+            }
+        ]
+    }
+}

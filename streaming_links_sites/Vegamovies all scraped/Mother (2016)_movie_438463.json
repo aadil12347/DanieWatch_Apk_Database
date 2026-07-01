@@ -1,0 +1,25 @@
+{
+    "post_title": "Mother (2016)",
+    "post_type": "movie",
+    "tmdb_id": 438463,
+    "imdb_id": "tt5707304",
+    "languages": [
+        "Hindi",
+        "Spanish"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=QzNLTTc1Sk9GQm40T3pJeVA2czgyM0w1eEUrWEFGMWVaNUVvWVU5V0hUaUQwSGc2VXU1N25TdThsd3VLd21RSg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=YnRvZG9RTHZJMzlaYTg0MHBTWmlqUkd6d2xITkRDMXRUM0cyMDdPd2RzWUp6UHVIU3M5dTRGVHJtdFFPUFpHeA=="
+            }
+        ],
+        "1080p": []
+    }
+}

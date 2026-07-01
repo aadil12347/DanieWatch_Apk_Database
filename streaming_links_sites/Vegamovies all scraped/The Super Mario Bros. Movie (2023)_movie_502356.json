@@ -1,0 +1,44 @@
+{
+    "post_title": "The Super Mario Bros. Movie (2023)",
+    "post_type": "movie",
+    "tmdb_id": 502356,
+    "imdb_id": "tt6718170",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ge1-cmhmxx4ctp3"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rji1ybhaiokjxst"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/u2jeqpvmj0hkkij"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j32dwset2sv2se-"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/rnrkdbvjrsvkfyb"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_b1bvc2oevvybb1"
+            }
+        ]
+    }
+}

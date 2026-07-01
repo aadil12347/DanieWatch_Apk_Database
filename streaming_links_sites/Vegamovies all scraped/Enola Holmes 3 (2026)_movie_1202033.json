@@ -1,0 +1,44 @@
+{
+    "post_title": "Enola Holmes 3 (2026)",
+    "post_type": "movie",
+    "tmdb_id": 1202033,
+    "imdb_id": "tt32278481",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8ek1xoa1_fjuz_2"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gk1hhkrf9r1sr2r"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/3sqh_znsq1jshs1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yazbk9jwj3w7agy"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/f6w1bwpgnpufm-w"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5tfw5v35ldktoko"
+            }
+        ]
+    }
+}

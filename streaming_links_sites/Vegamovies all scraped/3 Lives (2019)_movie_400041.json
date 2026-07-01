@@ -1,0 +1,25 @@
+{
+    "post_title": "3 Lives (2019)",
+    "post_type": "movie",
+    "tmdb_id": 400041,
+    "imdb_id": "tt4340072",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=ZTltNThKSTB6b3R1VlcvVUJ6UmJMYVRGWkxUVC9zcFIvaG4wZzVDUGJwV2VHLzU3ajMxSW1ZcXZaSUtQb1BCeA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=ZWV4Z25YUG82OTdWaUdKWEFpODJaejRtTCtMRk1NL2p6RDUwWTZ1eHZESk4zeVhOd0YrUE9CWGYraWZHQm0yNg=="
+            }
+        ],
+        "1080p": []
+    }
+}

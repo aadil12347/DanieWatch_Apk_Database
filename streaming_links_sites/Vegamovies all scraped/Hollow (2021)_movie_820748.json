@@ -1,0 +1,30 @@
+{
+    "post_title": "Hollow (2021)",
+    "post_type": "movie",
+    "tmdb_id": 820748,
+    "imdb_id": "tt12474816",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ggmvk7e10kyjy5d"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yfhzesqy3uyoews"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ueeiikywz11qz-i"
+            }
+        ]
+    }
+}

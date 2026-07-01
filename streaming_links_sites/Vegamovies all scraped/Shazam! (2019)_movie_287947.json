@@ -1,0 +1,39 @@
+{
+    "post_title": "Shazam! (2019)",
+    "post_type": "movie",
+    "tmdb_id": 287947,
+    "imdb_id": "tt0448115",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/epwbethp-wbjgxe"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x1o1obgioaqo7ki"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ys1by9ps9omyssa"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/d-rw7jfromto9ee"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/clqhp6clgfolmgc"
+            }
+        ]
+    }
+}

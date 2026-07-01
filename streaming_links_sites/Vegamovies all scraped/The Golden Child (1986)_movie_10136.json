@@ -1,0 +1,34 @@
+{
+    "post_title": "The Golden Child (1986)",
+    "post_type": "movie",
+    "tmdb_id": 10136,
+    "imdb_id": "tt0091129",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/u0hhgkkeqghg-hv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6ynydutqandkyv1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/svn9xmsqhnwhwys"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/y5m5bdy1fk5x19x"
+            }
+        ]
+    }
+}

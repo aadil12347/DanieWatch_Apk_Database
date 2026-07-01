@@ -1,0 +1,34 @@
+{
+    "post_title": "The Master (2011)",
+    "post_type": "movie",
+    "tmdb_id": 361501,
+    "imdb_id": "tt4273106",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kkxw21vzkqwpgk1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c9vmo-g6qy424m9"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1bi8hnli9woi1th"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tk1md8st1b1k1ti"
+            }
+        ]
+    }
+}

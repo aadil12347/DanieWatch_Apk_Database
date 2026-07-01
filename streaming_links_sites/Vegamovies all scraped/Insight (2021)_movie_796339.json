@@ -1,0 +1,30 @@
+{
+    "post_title": "Insight (2021)",
+    "post_type": "movie",
+    "tmdb_id": 796339,
+    "imdb_id": "tt3963674",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vfn8b8ujsqfm1yj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yxvetw1qsqr5pfq"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/52pukh1duhdmai1"
+            }
+        ]
+    }
+}

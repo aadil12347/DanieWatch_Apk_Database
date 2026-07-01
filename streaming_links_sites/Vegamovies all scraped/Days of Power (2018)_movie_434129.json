@@ -1,0 +1,25 @@
+{
+    "post_title": "Days of Power (2018)",
+    "post_type": "movie",
+    "tmdb_id": 434129,
+    "imdb_id": "tt3068544",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=WGY4OS96cXpSazg2cHk5Y3NISEFZWUYxV21hMDV6WUVnRHh1b2krTC9mM1FxMmRVOFFXT1JleTZDSkd2ZVB0UQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=Q0JBbVZQK2U2dUJrblBjSTV2cjJGazhuVi8raDFYQWp4K3FkcERRTWhLZUVlN3JOSm4vdDZGNm5FN0pTRXZDdA=="
+            }
+        ],
+        "1080p": []
+    }
+}

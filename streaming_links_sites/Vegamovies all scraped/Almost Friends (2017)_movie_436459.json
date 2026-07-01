@@ -1,0 +1,34 @@
+{
+    "post_title": "Almost Friends (2017)",
+    "post_type": "movie",
+    "tmdb_id": 436459,
+    "imdb_id": "tt4955566",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uddrz0yrmdi_a1d"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/poagszyp78h1gom"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cxepeizebboukrv"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/cbs1i0zr55id9db"
+            }
+        ]
+    }
+}

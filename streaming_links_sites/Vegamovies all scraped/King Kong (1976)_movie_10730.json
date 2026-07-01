@@ -1,0 +1,25 @@
+{
+    "post_title": "King Kong (1976)",
+    "post_type": "movie",
+    "tmdb_id": 10730,
+    "imdb_id": "tt0074751",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e6larjxfkjkqkf1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j8bhujttthhah8f"
+            }
+        ],
+        "1080p": []
+    }
+}

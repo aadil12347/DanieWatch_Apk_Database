@@ -1,0 +1,34 @@
+{
+    "post_title": "Life (2017)",
+    "post_type": "movie",
+    "tmdb_id": 395992,
+    "imdb_id": "tt5442430",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f1qdq7rpzqv1aat"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ctipr5pyibiibyj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mjnwinq2wro-wri"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zrirgz222zg62tg"
+            }
+        ]
+    }
+}

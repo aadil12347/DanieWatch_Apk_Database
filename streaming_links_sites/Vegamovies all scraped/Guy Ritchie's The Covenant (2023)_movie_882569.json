@@ -1,0 +1,52 @@
+{
+    "post_title": "Guy Ritchie's The Covenant (2023)",
+    "post_type": "movie",
+    "tmdb_id": 882569,
+    "imdb_id": "tt4873118",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1mxqmi8qisil83w"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/331cb1esqjsjl7j"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/bi3z4iwwmd7wjiz"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/joutf1v38838531"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ac-ntdn6t8g-jgn"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9ayyw3dahk-2axo"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/qunbf5r8qkrnua4"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9iohx_o9s_ki9yl"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "post_title": "Generation Wolf (2016)",
+    "post_type": "movie",
+    "tmdb_id": 445450,
+    "imdb_id": "tt4062346",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=dkl6RmIxOHROZG5Mak13NDVpazlHMWhwK2JLZi9CYmIwZ242bFRLZWh4c0Qyb3pZeGxuMGJZU3ZETkV2cUsrNQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=RGZVcDFDUnpXZHRmT0kzQXNsSm5HSUZaY3FiNEttWnNLMkZTSmtmeHJpejIzSUNyNHB2d04vL2FkbS9YNkFtRg=="
+            }
+        ],
+        "1080p": []
+    }
+}

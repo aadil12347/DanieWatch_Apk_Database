@@ -1,0 +1,44 @@
+{
+    "post_title": "A Writer's Odyssey (2021)",
+    "post_type": "movie",
+    "tmdb_id": 611698,
+    "imdb_id": "tt9685342",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/71zhxxxtjivlz1t"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ccthqv8ttoo2xti"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/gog3ikghfhyojgx"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fvqbwwehwabukbb"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wmfp4zst__thtsr"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7ct7z2vi2eq9t77"
+            }
+        ]
+    }
+}

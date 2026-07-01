@@ -1,0 +1,33 @@
+{
+    "post_title": "Nene Raju Nene Mantri (2017)",
+    "post_type": "movie",
+    "tmdb_id": 460699,
+    "imdb_id": "tt7249854",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=K2VDUDdlbnE1TjBtWndObWlNSElCSkVNS3VVRzkwbDc0M3RMSWpQUzdZUzBKL1cvbzJSTHZPYXhLNlZmd0dHdw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/glajppwa5l3lbns"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/api/index.php?link=QTFYOHlRWk56TlhCdWIxWEphR3daeXlOWk1qRVg1ekdYYkhsUE5yZ3lpR3d1YUtKUGkwZ09sVEthOFBKZXRkQg=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=NGNQemxoUzIwWVJWUzlSQzhpWDBtTHNBaTgrOThTRTg0aGpjQ1dBRTIxdEdJa3plaDV5U3F4LzFab2MwdEY0bw=="
+            }
+        ]
+    }
+}

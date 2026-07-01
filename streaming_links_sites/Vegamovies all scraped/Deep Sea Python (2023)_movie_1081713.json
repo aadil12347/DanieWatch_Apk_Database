@@ -1,0 +1,30 @@
+{
+    "post_title": "Deep Sea Python (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1081713,
+    "imdb_id": "tt27626782",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ctftkmr_19hfrhm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zjg3khaabz8jte6"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eyff1ff1eo9k7k1"
+            }
+        ]
+    }
+}

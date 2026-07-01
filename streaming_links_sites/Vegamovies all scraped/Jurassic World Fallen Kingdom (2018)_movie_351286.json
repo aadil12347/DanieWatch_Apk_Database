@@ -1,0 +1,34 @@
+{
+    "post_title": "Jurassic World: Fallen Kingdom (2018)",
+    "post_type": "movie",
+    "tmdb_id": 351286,
+    "imdb_id": "tt4881806",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kgx9go0bvfywwvw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/unjh-1ys55onutv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1xletpla7ulxiiu"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/y9f1nr9nnwnmrni"
+            }
+        ]
+    }
+}

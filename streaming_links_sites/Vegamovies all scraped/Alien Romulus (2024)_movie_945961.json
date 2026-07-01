@@ -1,0 +1,44 @@
+{
+    "post_title": "Alien: Romulus (2024)",
+    "post_type": "movie",
+    "tmdb_id": 945961,
+    "imdb_id": "tt18412256",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ggkzo14ae141484"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ag9ncjxwi8nn2pn"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/4xnww35gspkpfg3"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oao6th_ty_aazzh"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ajtfu1uqu1uju1s"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/di88f8qmotqog1b"
+            }
+        ]
+    }
+}

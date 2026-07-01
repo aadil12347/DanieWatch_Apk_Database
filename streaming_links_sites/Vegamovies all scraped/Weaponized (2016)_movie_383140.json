@@ -1,0 +1,34 @@
+{
+    "post_title": "Weaponized (2016)",
+    "post_type": "movie",
+    "tmdb_id": 383140,
+    "imdb_id": "tt4776564",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m5of-3wshqu-g5u"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cnjfc_xc2jrwm_n"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/kvfdg33bfgn5xpx"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1dnrh18eiwre4wc"
+            }
+        ]
+    }
+}

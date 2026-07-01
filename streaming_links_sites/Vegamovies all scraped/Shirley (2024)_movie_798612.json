@@ -1,0 +1,34 @@
+{
+    "post_title": "Shirley (2024)",
+    "post_type": "movie",
+    "tmdb_id": 798612,
+    "imdb_id": "tt14077516",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gahfcrgbyku2kha"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ad5zmtgdz-wh5am"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/la9nha931s-sa_g"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ow6to8tap8pwtfc"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "post_title": "CCTV (2021)",
+    "post_type": "movie",
+    "tmdb_id": 831480,
+    "imdb_id": "tt15209608",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8sjkuk1xxjdrukk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n2nnhdz9nk-qwui"
+            }
+        ],
+        "1080p": []
+    }
+}

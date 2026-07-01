@@ -1,0 +1,44 @@
+{
+    "post_title": "War Machine (2026)",
+    "post_type": "movie",
+    "tmdb_id": 1265609,
+    "imdb_id": "tt15940132",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qy8jhrskkhkhk_l"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/199fpfdtrbxiiwm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/fv44cfvrzidxhvg"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pcqpipqu5uyn9kn"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/5ff51mqtrmfd165"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lzonii21henkdgd"
+            }
+        ]
+    }
+}

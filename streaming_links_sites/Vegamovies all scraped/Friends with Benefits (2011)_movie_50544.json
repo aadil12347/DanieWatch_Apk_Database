@@ -1,0 +1,38 @@
+{
+    "post_title": "Friends with Benefits (2011)",
+    "post_type": "movie",
+    "tmdb_id": 50544,
+    "imdb_id": "tt1632708",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cqh1ny8v8q8yev1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/_ogw9oos9jjgnpj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ewisak4i00peeod"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/v5th5888clz_vcf"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ca2co0frfkbipxi"
+            }
+        ]
+    }
+}

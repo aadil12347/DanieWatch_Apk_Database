@@ -1,0 +1,38 @@
+{
+    "post_title": "John Wick (2014)",
+    "post_type": "movie",
+    "tmdb_id": 245891,
+    "imdb_id": "tt2911666",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yly926lrmepwwb9"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kqcdb801cxmx7g0"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s0yyzvtxiwsybui"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/l06q611njzo1eco"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/jh5skuu5_3b9bkh"
+            }
+        ]
+    }
+}

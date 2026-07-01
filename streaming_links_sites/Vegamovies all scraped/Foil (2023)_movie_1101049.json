@@ -1,0 +1,29 @@
+{
+    "post_title": "Foil (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1101049,
+    "imdb_id": "tt14856598",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2uu88jo-yc1c8-6"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qnezss-zizhyjyj"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rwt_n_wwhi_rgth"
+            }
+        ]
+    }
+}

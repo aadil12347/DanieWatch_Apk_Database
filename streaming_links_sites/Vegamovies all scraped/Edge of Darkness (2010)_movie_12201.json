@@ -1,0 +1,24 @@
+{
+    "post_title": "Edge of Darkness (2010)",
+    "post_type": "movie",
+    "tmdb_id": 12201,
+    "imdb_id": "tt1226273",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=UXV0R2F0dlhxb0w2bE53QWhOaldFWmZQdS9zWHpsMmdUMTg5Z3ZtVXRlM0pXYVExZVRDdjNaS09LOGVnZGR4Yw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=WG5vdzVlV3Rwc3NZWVQzalZYeXhkV3dqeGFzVUJaWkViN3NnaDl3WVFCNitVNUVLN0Yza1FDL1JqL2JLdFFhVg=="
+            }
+        ],
+        "1080p": []
+    }
+}

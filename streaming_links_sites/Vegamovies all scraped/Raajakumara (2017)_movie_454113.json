@@ -1,0 +1,24 @@
+{
+    "post_title": "Raajakumara (2017)",
+    "post_type": "movie",
+    "tmdb_id": 454113,
+    "imdb_id": "tt6359554",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=TkV5WUNuei96ZFFoK3RENnFzdzlRWkFsWU1HN0JFVmMvK3BURVBVeEZJVTUrSXpMWFNIZ3Zkb0NqeVFYMzVidw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=MzlzekNCZkZ1L2RZOG5yUDVHUS8ycVFpanF5MVJrK0RlZmVSSHphWWtPMU5GdWdVaFpnbEdHM01xbVBpeDNIdQ=="
+            }
+        ],
+        "1080p": []
+    }
+}

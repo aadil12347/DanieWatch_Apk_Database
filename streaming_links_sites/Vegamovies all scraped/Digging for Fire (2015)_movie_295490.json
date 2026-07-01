@@ -1,0 +1,34 @@
+{
+    "post_title": "Digging for Fire (2015)",
+    "post_type": "movie",
+    "tmdb_id": 295490,
+    "imdb_id": "tt3704416",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lzn1hpj4z1ozus1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1m7fbz1ftr7vefy"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/pq4vwi-htzu-i3t"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h5ud11wu5unqu7u"
+            }
+        ]
+    }
+}

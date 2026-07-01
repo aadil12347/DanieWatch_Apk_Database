@@ -1,0 +1,30 @@
+{
+    "post_title": "New Year Blues (2021)",
+    "post_type": "movie",
+    "tmdb_id": 622024,
+    "imdb_id": "tt13893464",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ocfm1bldgyd1wey"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mdrby0pybxavbab"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2aiqttcqe8wceqi"
+            }
+        ]
+    }
+}

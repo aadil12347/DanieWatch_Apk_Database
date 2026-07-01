@@ -1,0 +1,24 @@
+{
+    "post_title": "Primer (2004)",
+    "post_type": "movie",
+    "tmdb_id": 14337,
+    "imdb_id": "tt0390384",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=bUNOOW85ajlWcFk3RVo0VlVWYWR4QWVNMk1vUy9DS0xRQlhsSHluZEIvVTY1RVZPOFg0aSszSElkaTF2dzhQSw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=YTJwdCt3ckV6SkpOYnF2elVEbUttcFAwVGpvMVVxeTVidllmRHhxeDBDYUhTYnl3VU1VMzVuVGFuck1xbUlJOA=="
+            }
+        ],
+        "1080p": []
+    }
+}

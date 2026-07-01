@@ -1,0 +1,30 @@
+{
+    "post_title": "California Suite (1978)",
+    "post_type": "movie",
+    "tmdb_id": 26686,
+    "imdb_id": "tt0077289",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8c188fi89ct8mi_"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vex21eig4x4qgk2"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fmfafmsq1z1xsxe"
+            }
+        ]
+    }
+}

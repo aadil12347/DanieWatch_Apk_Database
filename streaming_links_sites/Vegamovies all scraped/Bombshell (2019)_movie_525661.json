@@ -1,0 +1,29 @@
+{
+    "post_title": "Bombshell (2019)",
+    "post_type": "movie",
+    "tmdb_id": 525661,
+    "imdb_id": "tt6394270",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ul2qmk-a0ukau-s"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vle60fl66vvy6rx"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3qtyautel5eyqy2"
+            }
+        ]
+    }
+}

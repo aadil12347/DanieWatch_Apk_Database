@@ -1,0 +1,33 @@
+{
+    "post_title": "Blades of Glory (2007)",
+    "post_type": "movie",
+    "tmdb_id": 9955,
+    "imdb_id": "tt0445934",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vgfmw11cm1gbpb2"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ahqtkqpl6wkglmt"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/rofieikyuynf1ed"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qvqlrnekmvzvk7z"
+            }
+        ]
+    }
+}

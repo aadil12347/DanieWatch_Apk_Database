@@ -1,0 +1,34 @@
+{
+    "post_title": "Shadow Master (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1036561,
+    "imdb_id": "tt19879786",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qdxqlaqrwq4vxlq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cnchzwj_vzjrsch"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a8ioliocql03crx"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/uq0duubsasbar6s"
+            }
+        ]
+    }
+}

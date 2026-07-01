@@ -1,0 +1,30 @@
+{
+    "post_title": "7 Seconds (2005)",
+    "post_type": "movie",
+    "tmdb_id": 9721,
+    "imdb_id": "tt0417395",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eetnlfwvta1nggc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4k1qaaw11lhw1x1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5qho95ww3doadlx"
+            }
+        ]
+    }
+}

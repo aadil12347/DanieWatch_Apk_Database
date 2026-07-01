@@ -1,0 +1,34 @@
+{
+    "post_title": "EXIT (2019)",
+    "post_type": "movie",
+    "tmdb_id": 572164,
+    "imdb_id": "tt10648440",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_em3dd1c2cc6020"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s1dyms3dyfrm1rf"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/9_yq-gvb-tk9_0-"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h66fn1dar1falsq"
+            }
+        ]
+    }
+}

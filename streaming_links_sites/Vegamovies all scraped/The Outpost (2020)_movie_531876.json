@@ -1,0 +1,34 @@
+{
+    "post_title": "The Outpost (2020)",
+    "post_type": "movie",
+    "tmdb_id": 531876,
+    "imdb_id": "tt3833480",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/by98r7w_mw-5whb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kccqtc3tnj97t6u"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ekydhc2ube7cpcw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yowwoj883e1jofw"
+            }
+        ]
+    }
+}

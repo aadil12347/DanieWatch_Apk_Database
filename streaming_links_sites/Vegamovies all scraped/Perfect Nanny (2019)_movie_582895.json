@@ -1,0 +1,34 @@
+{
+    "post_title": "Perfect Nanny (2019)",
+    "post_type": "movie",
+    "tmdb_id": 582895,
+    "imdb_id": "tt7600706",
+    "languages": [
+        "Hindi",
+        "French"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/p1klgupgifjrgfu"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dx0-wmzz5f1apma"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/whywotp0t5aoapo"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/idjmtmjrx81kmzm"
+            }
+        ]
+    }
+}

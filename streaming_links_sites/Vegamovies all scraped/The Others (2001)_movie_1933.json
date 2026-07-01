@@ -1,0 +1,30 @@
+{
+    "post_title": "The Others (2001)",
+    "post_type": "movie",
+    "tmdb_id": 1933,
+    "imdb_id": "tt0230600",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/du2gfx0a0dgt98w"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vpnawrh0th_wnkf"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8mppfq_5eoumvzp"
+            }
+        ]
+    }
+}

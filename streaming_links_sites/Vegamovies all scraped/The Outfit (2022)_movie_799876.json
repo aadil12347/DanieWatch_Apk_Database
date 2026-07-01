@@ -1,0 +1,34 @@
+{
+    "post_title": "The Outfit (2022)",
+    "post_type": "movie",
+    "tmdb_id": 799876,
+    "imdb_id": "tt14114802",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xqvaapziiairbzr"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sh1jj5hj371fpy5"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/axxkl4uo4ezxhdx"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_ynba9dmag9qxid"
+            }
+        ]
+    }
+}

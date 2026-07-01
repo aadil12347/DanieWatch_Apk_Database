@@ -1,0 +1,30 @@
+{
+    "post_title": "Treasure Planet (2002)",
+    "post_type": "movie",
+    "tmdb_id": 9016,
+    "imdb_id": "tt0133240",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/or1tazjtfexzn9j"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ivkyteo900jyq9t"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lljz0n00uewprl3"
+            }
+        ]
+    }
+}

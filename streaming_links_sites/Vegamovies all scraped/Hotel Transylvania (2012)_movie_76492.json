@@ -1,0 +1,34 @@
+{
+    "post_title": "Hotel Transylvania (2012)",
+    "post_type": "movie",
+    "tmdb_id": 76492,
+    "imdb_id": "tt0837562",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/l26xxu3x--cgclx"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/csyt9bew1ryxl1f"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hxe3jldwtdwtbka"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/_abyadn1iw9bedc"
+            }
+        ]
+    }
+}

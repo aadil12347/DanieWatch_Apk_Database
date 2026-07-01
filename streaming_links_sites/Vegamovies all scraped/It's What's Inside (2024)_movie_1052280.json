@@ -1,0 +1,34 @@
+{
+    "post_title": "It's What's Inside (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1052280,
+    "imdb_id": "tt14577874",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a_a2rvm1aizs_ms"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1v994ge69892kz1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/naachna_h8zhkzy"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/a14-4mxhg0s1ar0"
+            }
+        ]
+    }
+}

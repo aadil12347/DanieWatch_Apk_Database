@@ -1,0 +1,34 @@
+{
+    "post_title": "Phantom (2023)",
+    "post_type": "movie",
+    "tmdb_id": 715253,
+    "imdb_id": "tt25503544",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pv6fmnlm8wjwicm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/flf6kfymyhf9gye"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vpo2ovv2w2a_eez"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2xaigi44gtgizma"
+            }
+        ]
+    }
+}

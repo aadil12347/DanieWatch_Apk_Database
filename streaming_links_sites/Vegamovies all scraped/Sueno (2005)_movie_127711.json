@@ -1,0 +1,30 @@
+{
+    "post_title": "Sueno (2005)",
+    "post_type": "movie",
+    "tmdb_id": 127711,
+    "imdb_id": "tt0383648",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/788iwllwie6ocro"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hh860xhzyd_6vch"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x5r2165316q6sp5"
+            }
+        ]
+    }
+}

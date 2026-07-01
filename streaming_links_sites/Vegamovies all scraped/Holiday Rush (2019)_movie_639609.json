@@ -1,0 +1,25 @@
+{
+    "post_title": "Holiday Rush (2019)",
+    "post_type": "movie",
+    "tmdb_id": 639609,
+    "imdb_id": "tt10091530",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=Y250UjFYZ29QdHhEMWNocW9FYkVVT1hyd0NTc28wKzlJNmhTTFhGL1Q1YXI0VjY3dGhaYVN4Vk1JZ2preElLbg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=aXkyd1R5YWtwZWY1N3ZvbVk0WmovZ1BMdjE1Zm5EaGRrKzNhekpUb0pHaXJvcmNLM1IvV3lySDhNS3plazR5Ug=="
+            }
+        ],
+        "1080p": []
+    }
+}

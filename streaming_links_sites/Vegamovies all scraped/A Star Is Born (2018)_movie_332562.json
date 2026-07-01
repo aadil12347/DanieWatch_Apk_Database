@@ -1,0 +1,24 @@
+{
+    "post_title": "A Star Is Born (2018)",
+    "post_type": "movie",
+    "tmdb_id": 332562,
+    "imdb_id": "tt1517451",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/71l77h1jcajsjaw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e5uu5hq1atagkih"
+            }
+        ],
+        "1080p": []
+    }
+}

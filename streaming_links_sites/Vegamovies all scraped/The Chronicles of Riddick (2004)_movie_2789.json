@@ -1,0 +1,30 @@
+{
+    "post_title": "The Chronicles of Riddick (2004)",
+    "post_type": "movie",
+    "tmdb_id": 2789,
+    "imdb_id": "tt0296572",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_nj4qj4uildux5i"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/u_iioljzujjxb_d"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lr21lbsbmqlfqau"
+            }
+        ]
+    }
+}

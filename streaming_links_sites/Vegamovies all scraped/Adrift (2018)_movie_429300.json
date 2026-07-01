@@ -1,0 +1,34 @@
+{
+    "post_title": "Adrift (2018)",
+    "post_type": "movie",
+    "tmdb_id": 429300,
+    "imdb_id": "tt6306064",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gilr4wactll0rgs"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/167vdye67dvd_y1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/lqzic3o3f7tdvu5"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/joil38jrar3uirl"
+            }
+        ]
+    }
+}

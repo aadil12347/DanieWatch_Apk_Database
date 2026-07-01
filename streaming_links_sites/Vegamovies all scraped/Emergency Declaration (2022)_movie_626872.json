@@ -1,0 +1,34 @@
+{
+    "post_title": "Emergency Declaration (2022)",
+    "post_type": "movie",
+    "tmdb_id": 626872,
+    "imdb_id": "tt11535228",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4ffbqmbmbe6o1or"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6mt0gmkowwcrcki"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/bhqrgyqbmd3e31x"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rakwtyti-k1_nm6"
+            }
+        ]
+    }
+}

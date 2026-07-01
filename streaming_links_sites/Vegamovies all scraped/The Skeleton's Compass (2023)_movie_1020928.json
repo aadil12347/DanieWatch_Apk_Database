@@ -1,0 +1,34 @@
+{
+    "post_title": "The Skeleton's Compass (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1020928,
+    "imdb_id": "tt6406930",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ccmzb4l612chv2m"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hl-zkleawoha5be"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2vff8v8iul1kcyi"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/dmousotsnbzmlli"
+            }
+        ]
+    }
+}

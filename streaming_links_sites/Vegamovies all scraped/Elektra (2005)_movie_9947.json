@@ -1,0 +1,34 @@
+{
+    "post_title": "Elektra (2005)",
+    "post_type": "movie",
+    "tmdb_id": 9947,
+    "imdb_id": "tt0357277",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gu_hbff6rgg1qcj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rtpw1i3tkazw91w"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/x-mp4ez4f6jj6c6"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qrkv1zuxoeoeore"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "The Snorkel (1958)",
+    "post_type": "movie",
+    "tmdb_id": 36754,
+    "imdb_id": "tt0052207",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vpjpbuc9tpfkpdx"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bnl55wxwhbmnb2c"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sgi65kyazt-myb5"
+            }
+        ]
+    }
+}

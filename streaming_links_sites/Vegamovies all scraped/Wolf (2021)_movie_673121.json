@@ -1,0 +1,34 @@
+{
+    "post_title": "Wolf (2021)",
+    "post_type": "movie",
+    "tmdb_id": 673121,
+    "imdb_id": "tt10698174",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ej4d_e7xdn3el7n"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tqq3nzlmbimuxla"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/tvmp4juoeyoeeuu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/is_sr00ykgexvxp"
+            }
+        ]
+    }
+}

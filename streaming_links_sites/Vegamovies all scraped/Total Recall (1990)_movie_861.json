@@ -1,0 +1,30 @@
+{
+    "post_title": "Total Recall (1990)",
+    "post_type": "movie",
+    "tmdb_id": 861,
+    "imdb_id": "tt0100802",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gr_rjky0s5doosa"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xzo7h7nob1ch6vo"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qf701isaljf7nzf"
+            }
+        ]
+    }
+}

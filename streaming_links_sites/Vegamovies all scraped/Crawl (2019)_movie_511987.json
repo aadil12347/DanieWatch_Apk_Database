@@ -1,0 +1,30 @@
+{
+    "post_title": "Crawl (2019)",
+    "post_type": "movie",
+    "tmdb_id": 511987,
+    "imdb_id": "tt8364368",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z113lly4d24fhok"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dgqjjsmdj8ummde"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t1f05ei1n1qhidt"
+            }
+        ]
+    }
+}

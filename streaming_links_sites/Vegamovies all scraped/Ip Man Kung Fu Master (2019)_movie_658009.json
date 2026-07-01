@@ -1,0 +1,29 @@
+{
+    "post_title": "Ip Man: Kung Fu Master (2019)",
+    "post_type": "movie",
+    "tmdb_id": 658009,
+    "imdb_id": "tt12567246",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=QzZGaUwyZ0Jmd3MweGRnN3VQTlgxVDlOQjJEYU5oNkVucU9jTjJhU0tPZ3pzU3lNTlBEVmFMdWNIakpWdWtqNQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=c094Z1AyajgwaW5wSmVJdFdJWTVnbS9YcXh1TElTS1hNcDhVcnVrQ1BGQ3gzWVNraHl2eUl0dVo4M0xMbmExMg=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=Tmg4VHRwNXIrWncrZXZhcHBZc1hsWFVIZ1JzK2pWRHVseER2THRHeWNUUEVKblpORCs5czBZZTRsUHBiQXUvMQ=="
+            }
+        ]
+    }
+}

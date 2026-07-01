@@ -1,0 +1,29 @@
+{
+    "post_title": "Mindcage (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1043565,
+    "imdb_id": "tt14147224",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1l1dlkbl6be612e"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uggwg1kscwn1a9d"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5m6i61amdstmkoo"
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "post_title": "The Fate of the Furious (2017)",
+    "post_type": "movie",
+    "tmdb_id": 337339,
+    "imdb_id": "tt4630562",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fg_rrq1xdftqkk0"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jum4lbvi14jrm0w"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vssp3qucacczasw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/27ueesjomuj2uy3"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gbzo7nb4t4nwln_"
+            }
+        ]
+    }
+}

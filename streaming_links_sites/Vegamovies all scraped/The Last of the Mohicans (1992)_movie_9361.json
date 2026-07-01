@@ -1,0 +1,38 @@
+{
+    "post_title": "The Last of the Mohicans (1992)",
+    "post_type": "movie",
+    "tmdb_id": 9361,
+    "imdb_id": "tt0104691",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1km0sqoae1oeesr"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/-yb00vc80--51dd"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/41qns1h9ab4o9q1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/rzmnkabzkenl14k"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nb0z8bodbbtbjg6"
+            }
+        ]
+    }
+}

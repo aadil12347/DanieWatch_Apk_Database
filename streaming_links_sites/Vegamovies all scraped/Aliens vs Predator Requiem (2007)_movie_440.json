@@ -1,0 +1,34 @@
+{
+    "post_title": "Aliens vs Predator: Requiem (2007)",
+    "post_type": "movie",
+    "tmdb_id": 440,
+    "imdb_id": "tt0758730",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1mjmzdi5xffstxi"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/050p1rj2oecn2jw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tk65y6p9mup9tkm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/rpgve1kr7pphykf"
+            }
+        ]
+    }
+}

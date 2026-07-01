@@ -1,0 +1,40 @@
+{
+    "post_title": "Goldfinger (1964)",
+    "post_type": "movie",
+    "tmdb_id": 658,
+    "imdb_id": "tt0058150",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4hahdb9xa_981gw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/aee6edyeu77kaau"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0umvavajut1aaab"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ia8lwimil4aw0ja"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2g5v2fzkjjgjhq2"
+            }
+        ]
+    }
+}

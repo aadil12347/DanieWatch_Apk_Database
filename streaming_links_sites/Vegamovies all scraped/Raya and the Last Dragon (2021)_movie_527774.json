@@ -1,0 +1,34 @@
+{
+    "post_title": "Raya and the Last Dragon (2021)",
+    "post_type": "movie",
+    "tmdb_id": 527774,
+    "imdb_id": "tt5109280",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rz0ple15b9kkllz"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ofwl4ka51ahqkv6"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gjwaeg1gg1he1v1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/uxyrkqx3bqxbsu1"
+            }
+        ]
+    }
+}

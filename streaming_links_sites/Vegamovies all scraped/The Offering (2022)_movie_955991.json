@@ -1,0 +1,38 @@
+{
+    "post_title": "The Offering (2022)",
+    "post_type": "movie",
+    "tmdb_id": 955991,
+    "imdb_id": "tt13103732",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/abppfnf1m641xpa"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rrarfxtvzor5jvj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/eonpzcntb6p2oa1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a33ndq84bstqds7"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xvviaysfodfy1di"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Icon (2022)",
+    "post_type": "movie",
+    "tmdb_id": 610349,
+    "imdb_id": "tt16152948",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mbzzfzmqmx3jxmj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/phaaphpehe4kyhh"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jjaeb7u6ak4zjaj"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "post_title": "Greed (2019)",
+    "post_type": "movie",
+    "tmdb_id": 567598,
+    "imdb_id": "tt8972256",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=aitxakVBQndSamFyNEYrSzdUSFNMZ3hJc0JVdzRCOStQWGJCRG9aUlZ3cXNmTVFITzZ4VU42bSs1azdqNllFMw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=b3c0T0RCWGZrSGYxOVNLOGg0OFd5blRYWWgvTE5lNGU4RzFTU0wzcTV5eHhOZmhORUVYMnZVeG1RNXUyTHJ1TQ=="
+            }
+        ],
+        "1080p": []
+    }
+}

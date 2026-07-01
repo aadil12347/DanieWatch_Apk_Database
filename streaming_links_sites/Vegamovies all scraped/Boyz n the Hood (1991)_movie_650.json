@@ -1,0 +1,34 @@
+{
+    "post_title": "Boyz n the Hood (1991)",
+    "post_type": "movie",
+    "tmdb_id": 650,
+    "imdb_id": "tt0101507",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1az3ox3qeo1j1eg"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z2gmizov2gmimza"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/158skbi-lptkodp"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ztxf4a14fdi1dof"
+            }
+        ]
+    }
+}

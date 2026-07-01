@@ -1,0 +1,34 @@
+{
+    "post_title": "Love Clinique (2012)",
+    "post_type": "movie",
+    "tmdb_id": 155277,
+    "imdb_id": "tt3087696",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a1-zd-n2sefd4z-"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/aij9tjkjw01apvp"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/t5bph6338yf63ns"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nvu31np3da4thu8"
+            }
+        ]
+    }
+}

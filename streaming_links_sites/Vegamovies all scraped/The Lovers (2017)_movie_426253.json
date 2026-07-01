@@ -1,0 +1,30 @@
+{
+    "post_title": "The Lovers (2017)",
+    "post_type": "movie",
+    "tmdb_id": 426253,
+    "imdb_id": "tt5770620",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4ichg1sx_bpa4ps"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fz86egfeckzcfho"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f01dggjcf0sxjx1"
+            }
+        ]
+    }
+}

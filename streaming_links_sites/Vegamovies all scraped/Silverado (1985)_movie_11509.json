@@ -1,0 +1,30 @@
+{
+    "post_title": "Silverado (1985)",
+    "post_type": "movie",
+    "tmdb_id": 11509,
+    "imdb_id": "tt0090022",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v7issl_11bodzvi"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/25u2uum0qm5tlvx"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rdwydaggmbm1orb"
+            }
+        ]
+    }
+}

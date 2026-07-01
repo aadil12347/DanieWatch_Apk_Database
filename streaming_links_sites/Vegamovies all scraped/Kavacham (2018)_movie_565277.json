@@ -1,0 +1,30 @@
+{
+    "post_title": "Kavacham (2018)",
+    "post_type": "movie",
+    "tmdb_id": 565277,
+    "imdb_id": "tt9253188",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=dDd5NHJodkVIYjU1QzJCVlBHd1JoVndEWjFEY2N1K2FPRE1BYnNXUzRLUExaTUZQcUxTSSttdjREZGJNTXQ1Vw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=LzE2MHlpRWlKcmUyZGtZRlNtOWUzbGMrNFg0S2NhbDdLNHRtZlJtSFdxVjNjK1dST3ZZNmw2UmhPQWMwT2ZnSA=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=eERaU0tUc1Npblc1Qnl2ZGgxMXE3RFZud0t6bEsvS3NRdFRNQXBPY3RvNHZKdWFKTXFQK0JhRnVMdUt1ZENUOA=="
+            }
+        ]
+    }
+}

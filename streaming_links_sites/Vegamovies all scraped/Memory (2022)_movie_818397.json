@@ -1,0 +1,30 @@
+{
+    "post_title": "Memory (2022)",
+    "post_type": "movie",
+    "tmdb_id": 818397,
+    "imdb_id": "tt11827628",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a2sb3wbtsa5b99w"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v7vtiil98lilk2e"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pp2sobovhz_cu38"
+            }
+        ]
+    }
+}

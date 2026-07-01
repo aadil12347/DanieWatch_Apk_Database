@@ -1,0 +1,25 @@
+{
+    "post_title": "The Rum Diary (2011)",
+    "post_type": "movie",
+    "tmdb_id": 23514,
+    "imdb_id": "tt0376136",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=M3YvN0RvLzFybHVoZ1ZSK2FlRW5sS2J2ZUxucXpnbWFxYU9nSFMraGlwOENCM0JpOUU1WWF1bUJWSS93QStzRQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=S044Q1hqUUEwU0lhVEMvNFJ2YTl3aEcvcmh4bE5RRzAvWnVvNnNBMVNCVlNMTkNlbExMcVZvVzZ6VFRyZ1RTdA=="
+            }
+        ],
+        "1080p": []
+    }
+}

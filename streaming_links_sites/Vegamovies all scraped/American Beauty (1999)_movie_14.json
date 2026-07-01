@@ -1,0 +1,34 @@
+{
+    "post_title": "American Beauty (1999)",
+    "post_type": "movie",
+    "tmdb_id": 14,
+    "imdb_id": "tt0169547",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/govf3u31g7aa1vh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vvkks2ujuuqpn1j"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bdf3_u30o0hboy1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/4hq4sa9q3no8vkc"
+            }
+        ]
+    }
+}

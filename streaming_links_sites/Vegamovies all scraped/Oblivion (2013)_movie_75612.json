@@ -1,0 +1,40 @@
+{
+    "post_title": "Oblivion (2013)",
+    "post_type": "movie",
+    "tmdb_id": 75612,
+    "imdb_id": "tt1483013",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=MEk5dUhFWkl2MEh2T09PMGJZalhFN3BCcWZuN3UyRytkeHFDWVZoQ1BxU05tbkp4b0t6aVZnUlcyejdkK0lVWQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=RHpiNDhDSGl4UlJHU1FsMGpmUFEvWXU1c0ZlM0svSG1vbHdLenVoL1FqQ0pNSXNvaXRkVktDUEtORkppSGY3RQ=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=R1pkZTROVHp2V2hQVitiSSt6TDBQOGNZTy9CM1l5YXRSelIyTXNrcnhVaFZkQ1pwSmdTY2hxbStPRGlzTEJHVQ=="
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/t1gsrtplg11p7pt"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/osusz80sbmob5wm"
+            }
+        ]
+    }
+}

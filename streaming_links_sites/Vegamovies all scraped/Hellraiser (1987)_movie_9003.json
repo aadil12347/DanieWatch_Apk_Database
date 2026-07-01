@@ -1,0 +1,30 @@
+{
+    "post_title": "Hellraiser (1987)",
+    "post_type": "movie",
+    "tmdb_id": 9003,
+    "imdb_id": "tt0093177",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=VTdGN3pRYnk4blVkQ0REQ0czUG5yek52TXdMSldjYUVxVERUT3JUbm1iYjU2aUtDalhHQ0YrOHVRNGlEMFRFdw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=aWJpSzd0ZUYvRHpSWVovckErQmR4N0FxV0d6RVIrMkxpaEEvRUFTVXhzVGFHeUxobm03cFhMM1FQUjhmbmFjag=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/il5m5qktlr5mxk5"
+            }
+        ]
+    }
+}

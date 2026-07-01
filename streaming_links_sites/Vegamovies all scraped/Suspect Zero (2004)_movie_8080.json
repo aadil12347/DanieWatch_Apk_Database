@@ -1,0 +1,30 @@
+{
+    "post_title": "Suspect Zero (2004)",
+    "post_type": "movie",
+    "tmdb_id": 8080,
+    "imdb_id": "tt0324127",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/usp2zacnh1n2au4"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j3s6u60r4rrjp1g"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ao5hoa5y6veo2fd"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Eileen (2023)",
+    "post_type": "movie",
+    "tmdb_id": 664341,
+    "imdb_id": "tt5198890",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j5lryykp4nopkr4"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1wxn4zzbidndius"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/h2p1lmo4oemjk-i"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4htdwyatjbw4a4s"
+            }
+        ]
+    }
+}

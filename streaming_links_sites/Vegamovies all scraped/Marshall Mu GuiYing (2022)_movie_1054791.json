@@ -1,0 +1,33 @@
+{
+    "post_title": "Marshall Mu GuiYing (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1054791,
+    "imdb_id": "tt21141802",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/l3j4wwmjwo33sjl"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ju3n3bnt1fu8st6"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/d5pvrmtrsdvvt5-"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/trlkawwwpp7opts"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Margaux (2022)",
+    "post_type": "movie",
+    "tmdb_id": 846778,
+    "imdb_id": "tt14967618",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/slg-beeybfxwb6x"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t7sscy0axsdq4sc"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/w0uxzfwzfw7s0qw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ai6d6agirl6a65j"
+            }
+        ]
+    }
+}

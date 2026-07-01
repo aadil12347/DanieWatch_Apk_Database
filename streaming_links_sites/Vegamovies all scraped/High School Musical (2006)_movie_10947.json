@@ -1,0 +1,30 @@
+{
+    "post_title": "High School Musical (2006)",
+    "post_type": "movie",
+    "tmdb_id": 10947,
+    "imdb_id": "tt0475293",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5nwnhwq1ynlc5e4"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n9xtf8fnrlifhgu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bembeqjaczbebee"
+            }
+        ]
+    }
+}

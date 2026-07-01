@@ -1,0 +1,34 @@
+{
+    "post_title": "Code 8 Part II (2024)",
+    "post_type": "movie",
+    "tmdb_id": 932420,
+    "imdb_id": "tt14764464",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/slj1_qakj0k7ssq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2sw4kfnsqcs1mnb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7bt0ml31f_zfr3d"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ftcim_5zz5bezz5"
+            }
+        ]
+    }
+}

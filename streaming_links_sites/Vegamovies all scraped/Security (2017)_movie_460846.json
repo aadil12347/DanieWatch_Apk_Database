@@ -1,0 +1,30 @@
+{
+    "post_title": "Security (2017)",
+    "post_type": "movie",
+    "tmdb_id": 460846,
+    "imdb_id": "tt3501112",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tt-o1gqykqdg0cg"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6dwwblhwyoqut46"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ao4soqwusowaanp"
+            }
+        ]
+    }
+}

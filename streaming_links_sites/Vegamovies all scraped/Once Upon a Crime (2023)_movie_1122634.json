@@ -1,0 +1,35 @@
+{
+    "post_title": "Once Upon a Crime (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1122634,
+    "imdb_id": "tt15944018",
+    "languages": [
+        "Hindi",
+        "English",
+        "Japanese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vm5v4calajzzjos"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2x1r1p5njzxo1n3"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0ptcnsv-rft-dvd"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ajaaluhjysfis1s"
+            }
+        ]
+    }
+}

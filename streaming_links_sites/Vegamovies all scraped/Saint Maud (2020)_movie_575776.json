@@ -1,0 +1,30 @@
+{
+    "post_title": "Saint Maud (2020)",
+    "post_type": "movie",
+    "tmdb_id": 575776,
+    "imdb_id": "tt7557108",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yml89kzjk1je-4q"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/arf93qnzy3fim9w"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rrgp6w66dw1g_gr"
+            }
+        ]
+    }
+}

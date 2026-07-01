@@ -1,0 +1,34 @@
+{
+    "post_title": "Rambo III (1988)",
+    "post_type": "movie",
+    "tmdb_id": 1370,
+    "imdb_id": "tt0095956",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tcws2w9gmh9swss"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-yndwq6ikjo6kni"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/sbac81fau7poa8s"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b7kmbrxaqbmb53b"
+            }
+        ]
+    }
+}

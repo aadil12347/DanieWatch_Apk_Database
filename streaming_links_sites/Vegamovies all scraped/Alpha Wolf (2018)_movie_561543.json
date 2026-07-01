@@ -1,0 +1,29 @@
+{
+    "post_title": "Alpha Wolf (2018)",
+    "post_type": "movie",
+    "tmdb_id": 561543,
+    "imdb_id": "tt7712746",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bbjhbbdjopq22hp"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dk1kxtc9rvrz915"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/y9rqunf1400152f"
+            }
+        ],
+        "1080p": []
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "post_title": "32 Malasana Street (2020)",
+    "post_type": "movie",
+    "tmdb_id": 639798,
+    "imdb_id": "tt10952782",
+    "languages": [
+        "Hindi",
+        "Spanish"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9uhhqauocu9quv9"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hid1s1wceskqbea"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vqr3rjrtr3r57rf"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ub1cg41tzuusdub"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xvmxz9yfe18mgj8"
+            }
+        ]
+    }
+}

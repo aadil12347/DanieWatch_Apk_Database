@@ -1,0 +1,34 @@
+{
+    "post_title": "My Girl (1991)",
+    "post_type": "movie",
+    "tmdb_id": 4032,
+    "imdb_id": "tt0102492",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ps1dpwdlkdpj--j"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ox_oppoljybbnho"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/sigrgffzv7rfllr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/y11n6c-vpyppzhy"
+            }
+        ]
+    }
+}

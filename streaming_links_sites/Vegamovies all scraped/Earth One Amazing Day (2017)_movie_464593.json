@@ -1,0 +1,34 @@
+{
+    "post_title": "Earth: One Amazing Day (2017)",
+    "post_type": "movie",
+    "tmdb_id": 464593,
+    "imdb_id": "tt6238896",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i3uub1jbu6jroru"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-4f-zzczufppynf"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/8pme1qm2uoho0gv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qdrrxnnom0n10yu"
+            }
+        ]
+    }
+}

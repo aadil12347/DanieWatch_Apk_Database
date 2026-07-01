@@ -1,0 +1,46 @@
+{
+    "post_title": "Freelance (2023)",
+    "post_type": "movie",
+    "tmdb_id": 897087,
+    "imdb_id": "tt15744298",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e1m0iainlibui2l"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/u13fcvfuwfhuhwv"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1oh1zdheod1-4mg"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tgppdutp24turde"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/0e1qm09kjeg3zqw"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/ji2zzl3oz2cjlvj"
+            },
+            {
+                "episode_title": "Episode 4",
+                "link": "https://vcloud.zip/bkc7tkkukbezexk"
+            }
+        ]
+    }
+}

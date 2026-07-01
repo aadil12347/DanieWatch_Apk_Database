@@ -1,0 +1,34 @@
+{
+    "post_title": "Paul Blart: Mall Cop (2009)",
+    "post_type": "movie",
+    "tmdb_id": 14560,
+    "imdb_id": "tt1114740",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i1wtmpit8szs86y"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-g0b0lipri--fl3"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wc0n3e5u5u9j0sk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4evkecvnlc0ew7e"
+            }
+        ]
+    }
+}

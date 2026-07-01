@@ -1,0 +1,30 @@
+{
+    "post_title": "Speed (1994)",
+    "post_type": "movie",
+    "tmdb_id": 1637,
+    "imdb_id": "tt0111257",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gh4aa-_0z19910h"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b2akaa9p9e8vpa1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t-hhp6qan11c6p7"
+            }
+        ]
+    }
+}

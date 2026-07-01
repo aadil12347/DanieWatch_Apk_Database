@@ -1,0 +1,29 @@
+{
+    "post_title": "Magic Man (2022)",
+    "post_type": "movie",
+    "tmdb_id": 995120,
+    "imdb_id": "tt22742568",
+    "languages": [
+        "Hindi",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/il2mlicjryrlqwg"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mj9okjejsojnb11"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/og1uctzp1gjmuiz"
+            }
+        ],
+        "1080p": []
+    }
+}

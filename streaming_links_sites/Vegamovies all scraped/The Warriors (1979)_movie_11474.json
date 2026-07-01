@@ -1,0 +1,25 @@
+{
+    "post_title": "The Warriors (1979)",
+    "post_type": "movie",
+    "tmdb_id": 11474,
+    "imdb_id": "tt0080120",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=YXpjNkVzVFVvS3dnNWZEWkh2T0ZjQ2JHZThqa3BvZFovZGF2WkZ6dDBZNTFtVXZqSHI0RWYrZi9heGg0bC91OA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=emhYVUpBeEs2ZmRGVlNHUmY4WkNrNFo1RTJFTHE4OTBZTlZHclVWeGRJejJKaFpwZk5IVFRDN3I0SXNCMnBuNA=="
+            }
+        ],
+        "1080p": []
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "post_title": "Dune (1984)",
+    "post_type": "movie",
+    "tmdb_id": 841,
+    "imdb_id": "tt0087182",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=bDZXWndZTlR6aXg5MmdBVnkrY3dEeTNoWHE4bWtUOFRsUFpibXQrcHJ0V2x6ekxJV0NheEY4MEluYXR1WVVjVA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=eTFZdThMYnV3cmJwY09zbndDc3FxVDdmS2hsTDI5dURrTjFKMGF1ZUoyRFlLckZId3VmUXBJOXVPbGFmMDUxZw=="
+            }
+        ],
+        "1080p": []
+    }
+}

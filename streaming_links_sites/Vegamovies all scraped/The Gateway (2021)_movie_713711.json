@@ -1,0 +1,30 @@
+{
+    "post_title": "The Gateway (2021)",
+    "post_type": "movie",
+    "tmdb_id": 713711,
+    "imdb_id": "tt10207710",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xaqnvpxxjpgxvo1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/l14g1-dlgtytpd6"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yrctxtncpqa1cvm"
+            }
+        ]
+    }
+}

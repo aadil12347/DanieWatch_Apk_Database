@@ -1,0 +1,35 @@
+{
+    "post_title": "Rurouni Kenshin Part III: The Legend Ends (2014)",
+    "post_type": "movie",
+    "tmdb_id": 221732,
+    "imdb_id": "tt3029556",
+    "languages": [
+        "Hindi",
+        "English",
+        "Japanese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_h4ui0wpw034k0m"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e7fjdez4mc6o3ec"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/3vg5n5w2m5bmlt1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ii1b61ys6io-co1"
+            }
+        ]
+    }
+}

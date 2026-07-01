@@ -1,0 +1,30 @@
+{
+    "post_title": "Final Summer (2023)",
+    "post_type": "movie",
+    "tmdb_id": 999677,
+    "imdb_id": "tt12699576",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ze1jeepg_qkikxd"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m3e2m2ep7er7vl8"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o0f3dxpfdyquwr-"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Puncture (2011)",
+    "post_type": "movie",
+    "tmdb_id": 72432,
+    "imdb_id": "tt1582248",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4yjaycor40tjoc2"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iviginwb1bb_1si"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lkrt1klnai3aiaz"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wl8nynv25wdvfnw"
+            }
+        ]
+    }
+}

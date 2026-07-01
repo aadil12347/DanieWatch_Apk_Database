@@ -1,0 +1,30 @@
+{
+    "post_title": "Slugs (1988)",
+    "post_type": "movie",
+    "tmdb_id": 28452,
+    "imdb_id": "tt0093995",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4f1v490r12eebwy"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sopfslt19rbnn__"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qq14ji6z1v1xiib"
+            }
+        ]
+    }
+}

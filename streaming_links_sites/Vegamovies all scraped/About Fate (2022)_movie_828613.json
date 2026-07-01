@@ -1,0 +1,42 @@
+{
+    "post_title": "About Fate (2022)",
+    "post_type": "movie",
+    "tmdb_id": 828613,
+    "imdb_id": "tt14456350",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bna71kcnn8k7aqj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/e6djjvpju8topud"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pc0cwg4wp-ggwlr"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/hdoas1s9q11bhh-"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hruiz144qkri1uw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xh_fmr80uajicvg"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Ace Ventura: Pet Detective (1994)",
+    "post_type": "movie",
+    "tmdb_id": 3049,
+    "imdb_id": "tt0109040",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m9djdfknntngn2l"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/if3hd1i1pn4jrxa"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/phfhyfpfhm85fmt"
+            }
+        ]
+    }
+}

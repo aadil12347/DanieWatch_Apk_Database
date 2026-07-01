@@ -1,0 +1,29 @@
+{
+    "post_title": "Fancy Dance (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1058617,
+    "imdb_id": "tt21813994",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gpciycicnkk4ycc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ee51beny6ze51er"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bu19irjufbmhmxf"
+            }
+        ]
+    }
+}

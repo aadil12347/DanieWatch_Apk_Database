@@ -1,0 +1,44 @@
+{
+    "post_title": "Aquaman (2018)",
+    "post_type": "movie",
+    "tmdb_id": 297802,
+    "imdb_id": "tt1477834",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w11bve8t0o1ewcl"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/r13vxvzmggjmn7q"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/evb-dn3y3drtl1d"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ickggr7dvsxs7ei"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/zdgzih1hpo1ougk"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uj85e7jwj_mymyv"
+            }
+        ]
+    }
+}

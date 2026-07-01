@@ -1,0 +1,29 @@
+{
+    "post_title": "Haunted Mansion (2023)",
+    "post_type": "movie",
+    "tmdb_id": 616747,
+    "imdb_id": "tt1695843",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ctydnfkcqttfdma"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pqndhepxfprdvdw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jaglx11372iad8g"
+            }
+        ]
+    }
+}

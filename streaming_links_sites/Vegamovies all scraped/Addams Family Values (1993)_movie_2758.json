@@ -1,0 +1,34 @@
+{
+    "post_title": "Addams Family Values (1993)",
+    "post_type": "movie",
+    "tmdb_id": 2758,
+    "imdb_id": "tt0106220",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yzphyhhqxlmohhx"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4pbosl8syghf4h4"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/uu1wirkombgomyr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/772v0czz2vdnmjn"
+            }
+        ]
+    }
+}

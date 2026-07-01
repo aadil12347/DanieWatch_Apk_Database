@@ -1,0 +1,34 @@
+{
+    "post_title": "Midnight Sun (2018)",
+    "post_type": "movie",
+    "tmdb_id": 419478,
+    "imdb_id": "tt4799066",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1tf-11fbmyvjfsu"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jjpml4jhjjeptml"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/v8geie3xxbhuev-"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pid1wtplwswd_hv"
+            }
+        ]
+    }
+}

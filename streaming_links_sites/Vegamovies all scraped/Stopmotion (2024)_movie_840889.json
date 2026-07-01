@@ -1,0 +1,29 @@
+{
+    "post_title": "Stopmotion (2024)",
+    "post_type": "movie",
+    "tmdb_id": 840889,
+    "imdb_id": "tt14852624",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2zm2zv2mooczaoh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t4hirrhcghxa9fh"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ff3j2jt7tf2t4d2"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "post_title": "Rust Road (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1247000,
+    "imdb_id": "tt16428782",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9uowm_mdmo1ncuc"
+            }
+        ],
+        "720p": [],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5cal7xvecdc0mv7"
+            }
+        ]
+    }
+}

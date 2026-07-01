@@ -1,0 +1,38 @@
+{
+    "post_title": "Shooter (2007)",
+    "post_type": "movie",
+    "tmdb_id": 7485,
+    "imdb_id": "tt0822854",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k3tk13qbtj1hcvv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lmkm4hhqlluyftz"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ubsteb111-b_sbz"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/9s1bzz9t_swk119"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/nslrlywor9n2ymy"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "King Arthur: Legend of the Sword (2017)",
+    "post_type": "movie",
+    "tmdb_id": 274857,
+    "imdb_id": "tt1972591",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zdoc1vlcfvmr1v0"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ctxebrf_ttfswtu"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/x616ytxfho96s8w"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ficgmayxbgypi0l"
+            }
+        ]
+    }
+}

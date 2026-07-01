@@ -1,0 +1,34 @@
+{
+    "post_title": "Superman Returns (2006)",
+    "post_type": "movie",
+    "tmdb_id": 1452,
+    "imdb_id": "tt0348150",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o1vsmocsitttiss"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/p253fynp2fyuyzr"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/067yoaviao06fsr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/amjmcfvsvducqvm"
+            }
+        ]
+    }
+}

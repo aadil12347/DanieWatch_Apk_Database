@@ -1,0 +1,29 @@
+{
+    "post_title": "Winchester (2018)",
+    "post_type": "movie",
+    "tmdb_id": 416234,
+    "imdb_id": "tt1072748",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s8y1y4maojrprm-"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jngnwv9r98nxm6z"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sh_yko_o-t06x2o"
+            }
+        ]
+    }
+}

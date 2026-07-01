@@ -1,0 +1,40 @@
+{
+    "post_title": "Tarot (2024)",
+    "post_type": "movie",
+    "tmdb_id": 719221,
+    "imdb_id": "tt14088510",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dpdikp0w1mjxqqf"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hlvhopm4g3mxvhj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/df4ukmwm4ubhymg"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/logyrclsosdgdi4"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-h6-u6f8ugiwo11"
+            }
+        ]
+    }
+}

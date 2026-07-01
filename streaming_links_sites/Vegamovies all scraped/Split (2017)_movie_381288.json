@@ -1,0 +1,30 @@
+{
+    "post_title": "Split (2017)",
+    "post_type": "movie",
+    "tmdb_id": 381288,
+    "imdb_id": "tt4972582",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g5g9gqbwwo69ldu"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oewxrom3kotvpvw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/y2-tq-_4h157wza"
+            }
+        ]
+    }
+}

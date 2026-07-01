@@ -1,0 +1,30 @@
+{
+    "post_title": "The Shadow (1994)",
+    "post_type": "movie",
+    "tmdb_id": 8850,
+    "imdb_id": "tt0111143",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/osnp0q01ysr_o8h"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oyun1y1mu1nomfu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3ryq7runb-gi1t-"
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "post_title": "The Colony (2021)",
+    "post_type": "movie",
+    "tmdb_id": 760873,
+    "imdb_id": "tt6506264",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hbhsj1xvsgejsx1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mdhrojtcozoqhrx"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/tcntvw6ucl62tyv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xxhgwttoxlwox5w"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wtmubwvbvktw12w"
+            }
+        ]
+    }
+}

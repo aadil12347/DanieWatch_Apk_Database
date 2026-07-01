@@ -1,0 +1,38 @@
+{
+    "post_title": "Narvik (2022)",
+    "post_type": "movie",
+    "tmdb_id": 619930,
+    "imdb_id": "tt9737876",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6bh0yduy3bw-_p6"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8lodog8pucnlwp2"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/iyw122kyubs1ucm"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xco1op_55xxxtx1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mzz__6yps5t5las"
+            }
+        ]
+    }
+}

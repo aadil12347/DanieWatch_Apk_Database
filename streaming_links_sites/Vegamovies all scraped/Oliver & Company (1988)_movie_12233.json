@@ -1,0 +1,25 @@
+{
+    "post_title": "Oliver & Company (1988)",
+    "post_type": "movie",
+    "tmdb_id": 12233,
+    "imdb_id": "tt0095776",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1qwjr6t8rgujuxq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zk5ow30c1f5wk5q"
+            }
+        ],
+        "1080p": []
+    }
+}

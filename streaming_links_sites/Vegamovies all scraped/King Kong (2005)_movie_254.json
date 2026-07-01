@@ -1,0 +1,36 @@
+{
+    "post_title": "King Kong (2005)",
+    "post_type": "movie",
+    "tmdb_id": 254,
+    "imdb_id": "tt0360717",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/4v4cwjvezh4o6e5"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ytvulctrlyitcry"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cx31gas1msoci8p"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/crhivgh2ci0c998"
+            }
+        ]
+    }
+}

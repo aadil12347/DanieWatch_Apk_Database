@@ -1,0 +1,30 @@
+{
+    "post_title": "Peter Rabbit (2018)",
+    "post_type": "movie",
+    "tmdb_id": 381719,
+    "imdb_id": "tt5117670",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ecpmwvvpkk79pv5"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/un-upvmhvnqbu6-"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g111ktqta1zkggk"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "post_title": "Eyes of the Serpent (1994)",
+    "post_type": "movie",
+    "tmdb_id": 252264,
+    "imdb_id": "tt0109764",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=QXZSVldGNHNzWmVLT1ZkTXREMVpwbnNXTG1UWWlYL0c0STRUNkZTMzJVYWpqR3N0V3N2cGhyWEwwdDRLSTkzNA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=NllSQmNtYWJTREp3Z0VyL0JQVFZTNWZhNzRmaHpTNUEzeEM2NnJUTHhMc3A1TjJ1WW9lOXUxVTAzR1NjcHo0ZQ=="
+            }
+        ],
+        "1080p": []
+    }
+}

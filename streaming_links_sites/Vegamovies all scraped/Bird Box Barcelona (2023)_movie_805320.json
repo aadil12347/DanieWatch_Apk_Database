@@ -1,0 +1,42 @@
+{
+    "post_title": "Bird Box Barcelona (2023)",
+    "post_type": "movie",
+    "tmdb_id": 805320,
+    "imdb_id": "tt14400246",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vkp4phd47hcvze9"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/taxqxvabbvna94d"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/lu2btbai2_v_qs2"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lhvnnzv1ykiulmi"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/i3znvojsz1cn9in"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/auwf1i1ag2u2bmz"
+            }
+        ]
+    }
+}

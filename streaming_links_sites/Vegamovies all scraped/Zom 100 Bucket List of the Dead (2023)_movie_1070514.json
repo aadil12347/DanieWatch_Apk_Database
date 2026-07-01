@@ -1,0 +1,39 @@
+{
+    "post_title": "Zom 100: Bucket List of the Dead (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1070514,
+    "imdb_id": "tt20672534",
+    "languages": [
+        "Hindi",
+        "English",
+        "Japanese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o11qudxwkuohfu8"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ipgkdrujradi6zr"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hj1rhm8fvpet1k3"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/nxbrwezsxytrzpo"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/5qmmmdovikc_kmu"
+            }
+        ]
+    }
+}

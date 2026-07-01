@@ -1,0 +1,29 @@
+{
+    "post_title": "Snow Day (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1032412,
+    "imdb_id": "tt23622516",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f_mzqgtsg1fvrgh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hnnazzm-o-bky26"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ykerfzymlmoczb_"
+            }
+        ]
+    }
+}

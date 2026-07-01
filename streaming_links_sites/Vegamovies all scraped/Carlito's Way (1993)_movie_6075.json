@@ -1,0 +1,34 @@
+{
+    "post_title": "Carlito's Way (1993)",
+    "post_type": "movie",
+    "tmdb_id": 6075,
+    "imdb_id": "tt0106519",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/atm0q6a1omuug-e"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pee9x1cgapp_dex"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/arfszjlsaeksfnj"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/78q9dqp5vej3q99"
+            }
+        ]
+    }
+}

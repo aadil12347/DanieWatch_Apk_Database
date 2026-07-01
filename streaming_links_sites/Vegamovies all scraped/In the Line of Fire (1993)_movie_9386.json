@@ -1,0 +1,40 @@
+{
+    "post_title": "In the Line of Fire (1993)",
+    "post_type": "movie",
+    "tmdb_id": 9386,
+    "imdb_id": "tt0107206",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/deg1ohh1-tzc3e3"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yxmvw1sw7qwl77a"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/fnnvlgbezfb5h6w"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/y21fp1bemyrexsy"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jijjizapfjf-ii-"
+            }
+        ]
+    }
+}

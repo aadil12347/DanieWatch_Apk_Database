@@ -1,0 +1,29 @@
+{
+    "post_title": "Another Round (2020)",
+    "post_type": "movie",
+    "tmdb_id": 580175,
+    "imdb_id": "tt10288566",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=cVYxTi9yRDNaQ2w0clBBV2Y1Z1dGaGRWYldEK0I3bExSZ2MwaXQ5NitPbXM2SGo5bzNGVWpGR0lYSno0VisvSw=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=K3JReW4zNFNkNDV1Mkg2NkdMRUJtUTNEN1hYby9FM1UrczhHb1YzWjZCTkxlU1JpYkthaUJvVnEvZENydEFjRQ=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=Y1dmNS9MaklldFdJeVlNdHBHVVhSZUtURWIrcFNBbUhlVmlqaWdQcG45V1FVVllLQ084S1RHUFlVVllEYk5oOQ=="
+            }
+        ]
+    }
+}

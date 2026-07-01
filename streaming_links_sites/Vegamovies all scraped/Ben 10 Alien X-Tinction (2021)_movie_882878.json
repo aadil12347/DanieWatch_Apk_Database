@@ -1,0 +1,30 @@
+{
+    "post_title": "Ben 10: Alien X-Tinction (2021)",
+    "post_type": "movie",
+    "tmdb_id": 882878,
+    "imdb_id": "tt14422108",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/f9iihdd09r1ear_"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dg353gl6tkvt25g"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qzqfqngngctqmc9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Triple Frontier (2019)",
+    "post_type": "movie",
+    "tmdb_id": 399361,
+    "imdb_id": "tt1488606",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qvvkgz11z8tiz0u"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iq7bsk5ov2v5an5"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q0xykgt81i0x0nb"
+            }
+        ]
+    }
+}

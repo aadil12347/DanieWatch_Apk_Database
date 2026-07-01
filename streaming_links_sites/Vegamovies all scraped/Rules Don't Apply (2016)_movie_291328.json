@@ -1,0 +1,30 @@
+{
+    "post_title": "Rules Don't Apply (2016)",
+    "post_type": "movie",
+    "tmdb_id": 291328,
+    "imdb_id": "tt1974420",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e682nrjtkf6nz6z"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wlqlj8qlmawqvq8"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6y99iyqvz7kqtz1"
+            }
+        ]
+    }
+}

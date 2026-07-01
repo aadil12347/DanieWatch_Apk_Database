@@ -1,0 +1,34 @@
+{
+    "post_title": "MR-9: Do or Die (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1016346,
+    "imdb_id": "tt9044418",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wlq1vsrsfrklrdw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-uzpdu4e-ecuejj"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/bnlvsswzmxvc9yc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/29pi2kvizddkq7d"
+            }
+        ]
+    }
+}

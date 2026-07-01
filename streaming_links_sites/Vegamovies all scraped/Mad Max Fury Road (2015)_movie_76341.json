@@ -1,0 +1,40 @@
+{
+    "post_title": "Mad Max: Fury Road (2015)",
+    "post_type": "movie",
+    "tmdb_id": 76341,
+    "imdb_id": "tt1392190",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tuuoxlhupooussl"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/szxg-sjuz7553v3"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/46c1dsqvtr8ph68"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wrlvmjmf_js1smj"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cb8xjaalggcbbne"
+            }
+        ]
+    }
+}

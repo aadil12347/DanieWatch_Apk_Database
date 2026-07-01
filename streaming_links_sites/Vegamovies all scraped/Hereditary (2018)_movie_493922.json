@@ -1,0 +1,34 @@
+{
+    "post_title": "Hereditary (2018)",
+    "post_type": "movie",
+    "tmdb_id": 493922,
+    "imdb_id": "tt7784604",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/llwxjme8le1xzcj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bu4bubjv11ppc1p"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/rppuo6grwmtwny_"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/341fzf_1p8mfh4l"
+            }
+        ]
+    }
+}

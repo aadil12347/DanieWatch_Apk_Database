@@ -1,0 +1,34 @@
+{
+    "post_title": "Dual (2022)",
+    "post_type": "movie",
+    "tmdb_id": 698128,
+    "imdb_id": "tt9005184",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qioeq95ihuyd-ob"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uoieslz1ihs4wxh"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1osv3v3osbwn38s"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lpcjcv06chevhjh"
+            }
+        ]
+    }
+}

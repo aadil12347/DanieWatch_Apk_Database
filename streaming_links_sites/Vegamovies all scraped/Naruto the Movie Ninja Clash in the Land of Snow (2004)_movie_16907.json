@@ -1,0 +1,31 @@
+{
+    "post_title": "Naruto the Movie: Ninja Clash in the Land of Snow (2004)",
+    "post_type": "movie",
+    "tmdb_id": 16907,
+    "imdb_id": "tt0476680",
+    "languages": [
+        "Hindi",
+        "English",
+        "Japanese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fc_kno2uti4w9vc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zdloclqnzhdfreo"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-e8nfm5i5-fibrf"
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "post_title": "Fistful of Vengeance (2022)",
+    "post_type": "movie",
+    "tmdb_id": 890656,
+    "imdb_id": "tt14158554",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kedkh1irdd1xik8"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z7nwp2-qf21mqm1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/sczc83c3c2-jml-"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vmnetqhce1mni1a"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/w2nqs-w-2qgso7q"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/9s7te2uthodzhsd"
+            }
+        ]
+    }
+}

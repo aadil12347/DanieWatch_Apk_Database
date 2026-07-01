@@ -1,0 +1,46 @@
+{
+    "post_title": "The Crow (2024)",
+    "post_type": "movie",
+    "tmdb_id": 957452,
+    "imdb_id": "tt1340094",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b1h63hy436ubc53"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1iy146qyjxy6qym"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/9egb9ege15kfpnw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ac5lp31v8cypnjr"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/aezqpqpzz6vpfxo"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/w9a_ag_qusoanjp"
+            },
+            {
+                "episode_title": "Episode 4",
+                "link": "https://vcloud.zip/8puqcfub1yqkefi"
+            }
+        ]
+    }
+}

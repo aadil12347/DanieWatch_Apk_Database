@@ -1,0 +1,39 @@
+{
+    "post_title": "Sisu (2022)",
+    "post_type": "movie",
+    "tmdb_id": 840326,
+    "imdb_id": "tt14846026",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/va-scwc-d-zhw_t"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q1ls-ul-0fe-15u"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/8rr8e7qv8eee2h_"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6xooi0kx6x969ip"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mo17n6nco1233c5"
+            }
+        ]
+    }
+}

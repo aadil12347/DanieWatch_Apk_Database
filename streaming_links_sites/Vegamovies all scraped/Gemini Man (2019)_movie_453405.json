@@ -1,0 +1,34 @@
+{
+    "post_title": "Gemini Man (2019)",
+    "post_type": "movie",
+    "tmdb_id": 453405,
+    "imdb_id": "tt1025100",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1vmcmnmqrnwlrxi"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yaxdn-jy9mocjii"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ztujukfuumqdkfk"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/_ll50m9q__vhi-i"
+            }
+        ]
+    }
+}

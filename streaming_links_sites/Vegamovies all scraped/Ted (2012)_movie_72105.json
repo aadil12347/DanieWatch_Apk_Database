@@ -1,0 +1,30 @@
+{
+    "post_title": "Ted (2012)",
+    "post_type": "movie",
+    "tmdb_id": 72105,
+    "imdb_id": "tt1637725",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/in7nk85j3c7c7wi"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xg4d1ratcbubl3h"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sxlmy8ygcclcym6"
+            }
+        ]
+    }
+}

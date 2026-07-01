@@ -1,0 +1,64 @@
+{
+    "post_title": "John Wick: Chapter 4 (2023)",
+    "post_type": "movie",
+    "tmdb_id": 603692,
+    "imdb_id": "tt10366206",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fif6w6kfx_6uiw_"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/7wbwnwbl7bwhhil"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xfixciecrl0vxua"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/03b11pcqq0olq63"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/uqfnvulkn-uhwun"
+            },
+            {
+                "episode_title": "Episode 4",
+                "link": "https://vcloud.zip/b1msh7rvrbzlma0"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sv7w61ysw767j6w"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/yqipjyyoaodzlkp"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/whlvg1p7krgvkey"
+            },
+            {
+                "episode_title": "Episode 4",
+                "link": "https://vcloud.zip/vrk5ng_tsq5ooss"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/r8uv2up4fc8f144"
+            }
+        ]
+    }
+}

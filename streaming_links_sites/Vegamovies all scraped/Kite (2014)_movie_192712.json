@@ -1,0 +1,34 @@
+{
+    "post_title": "Kite (2014)",
+    "post_type": "movie",
+    "tmdb_id": 192712,
+    "imdb_id": "tt2044801",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-3je7rlhvlaw6j_"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/j5gyiyt_p3jtt1w"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/27012kcyf75fw01"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/efpseqkb2f1ldfp"
+            }
+        ]
+    }
+}

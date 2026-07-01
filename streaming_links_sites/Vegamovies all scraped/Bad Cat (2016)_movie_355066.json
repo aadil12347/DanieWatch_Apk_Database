@@ -1,0 +1,30 @@
+{
+    "post_title": "Bad Cat (2016)",
+    "post_type": "movie",
+    "tmdb_id": 355066,
+    "imdb_id": "tt4695548",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/as0fua_1_uokokp"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wuo9oio1ws4_mgz"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sk7sfkkpez7kykc"
+            }
+        ]
+    }
+}

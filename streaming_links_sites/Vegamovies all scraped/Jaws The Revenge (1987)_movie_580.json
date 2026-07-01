@@ -1,0 +1,34 @@
+{
+    "post_title": "Jaws: The Revenge (1987)",
+    "post_type": "movie",
+    "tmdb_id": 580,
+    "imdb_id": "tt0093300",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-wi3wqi1ib04kyv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ratohcso6ktafzn"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/jokyhkj4hjq8uao"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/du3yaacy11ltf1y"
+            }
+        ]
+    }
+}

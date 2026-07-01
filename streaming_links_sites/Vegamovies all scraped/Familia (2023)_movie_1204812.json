@@ -1,0 +1,35 @@
+{
+    "post_title": "Familia (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1204812,
+    "imdb_id": "tt27828085",
+    "languages": [
+        "Hindi",
+        "English",
+        "Spanish"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pwmcw3hayyz5ylv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m1-wkyldmvyk9dd"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/bfvcfjtqt00tdoe"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vfhnagk4_refvz_"
+            }
+        ]
+    }
+}

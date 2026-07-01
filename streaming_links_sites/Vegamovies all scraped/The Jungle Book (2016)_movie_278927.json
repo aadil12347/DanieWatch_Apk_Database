@@ -1,0 +1,40 @@
+{
+    "post_title": "The Jungle Book (2016)",
+    "post_type": "movie",
+    "tmdb_id": 278927,
+    "imdb_id": "tt3040964",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yray1j_98btpayy"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yu1wyscclcip88l"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qfpr1ivny6y59sp"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/6l0yqwmutcscopc"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jkwffw7chcbo_wc"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "post_title": "Minions: The Rise of Gru (2022)",
+    "post_type": "movie",
+    "tmdb_id": 438148,
+    "imdb_id": "tt5113044",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/whb1w0hmonb9bso"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zl1zkeuclblha9r"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/w-mmm-y-fjdeyxm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/c5c1s35pcpsglb8"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/g1moecco1olq1z5"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xlqeptemxc77ukp"
+            }
+        ]
+    }
+}

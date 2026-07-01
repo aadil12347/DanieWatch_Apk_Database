@@ -1,0 +1,40 @@
+{
+    "post_title": "Gods of Egypt (2016)",
+    "post_type": "movie",
+    "tmdb_id": 205584,
+    "imdb_id": "tt2404233",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9ff3djvq1rr05yq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/paqu-hbuwvx-1fw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eoiflba-wwdfjjb"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vb8soaocz5982we"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/njgje8rpirddimd"
+            }
+        ]
+    }
+}

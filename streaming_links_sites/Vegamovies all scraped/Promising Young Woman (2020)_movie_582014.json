@@ -1,0 +1,34 @@
+{
+    "post_title": "Promising Young Woman (2020)",
+    "post_type": "movie",
+    "tmdb_id": 582014,
+    "imdb_id": "tt9620292",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h9thqjtt1xvc7qw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/x-d88h4490ha3-4"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/3foy2twa9cxpgpy"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mzb5c1m4bmtzbzt"
+            }
+        ]
+    }
+}

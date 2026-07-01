@@ -1,0 +1,34 @@
+{
+    "post_title": "TÁR (2022)",
+    "post_type": "movie",
+    "tmdb_id": 817758,
+    "imdb_id": "tt14444726",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/y-frcbmbkbk16u9"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/annucijcelvlunu"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/j-1oiqavxkz-zrw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rq81x81ff7cdlnd"
+            }
+        ]
+    }
+}

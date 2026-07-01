@@ -1,0 +1,34 @@
+{
+    "post_title": "Gangnam Blues (2015)",
+    "post_type": "movie",
+    "tmdb_id": 297721,
+    "imdb_id": "tt3698118",
+    "languages": [
+        "Hindi",
+        "Korean"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s1-0wezslddif1i"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kw7nr5mrc_n77ol"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xnru-xgu2wkmtxx"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7ee0lo07ry0yhce"
+            }
+        ]
+    }
+}

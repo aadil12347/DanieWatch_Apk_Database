@@ -1,0 +1,30 @@
+{
+    "post_title": "Switching Channels (1988)",
+    "post_type": "movie",
+    "tmdb_id": 26798,
+    "imdb_id": "tt0096203",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rvd1tltyj4jpr8l"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ta7zeqvaapp7sqp"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/pjup9jtjaddcggd"
+            }
+        ]
+    }
+}

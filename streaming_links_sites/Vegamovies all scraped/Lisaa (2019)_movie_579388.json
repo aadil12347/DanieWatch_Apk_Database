@@ -1,0 +1,24 @@
+{
+    "post_title": "Lisaa (2019)",
+    "post_type": "movie",
+    "tmdb_id": 579388,
+    "imdb_id": "tt8902862",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=T0VwcW9vOExsOVcyTWZwclp5ek5FRzlMMXNsclVqYUZqcE0ySGw3VHJRaVFqYXJiOXhMR1hmT0FuZ0kwUE9jNA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=aGNqL2JOOHhGdFYxbk9FQTBBY1plNzROSDVGTDBDOEdHV3FNWVpjR2IvTXNRNFRQNnR1TXk4Z0pSa2RVUTd5cQ=="
+            }
+        ],
+        "1080p": []
+    }
+}

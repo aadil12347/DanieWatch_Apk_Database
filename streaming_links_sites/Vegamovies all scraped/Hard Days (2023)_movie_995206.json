@@ -1,0 +1,29 @@
+{
+    "post_title": "Hard Days (2023)",
+    "post_type": "movie",
+    "tmdb_id": 995206,
+    "imdb_id": "tt26594589",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8urrrxtcwchrq8r"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/r1pzzuaxwdz11af"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/trvtn0ztgidh0iy"
+            }
+        ]
+    }
+}

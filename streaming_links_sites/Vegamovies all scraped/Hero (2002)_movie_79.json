@@ -1,0 +1,30 @@
+{
+    "post_title": "Hero (2002)",
+    "post_type": "movie",
+    "tmdb_id": 79,
+    "imdb_id": "tt0299977",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q01a05-abt5bnqv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lsxpa9c5alcx1re"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i1mmfhffptypyib"
+            }
+        ]
+    }
+}

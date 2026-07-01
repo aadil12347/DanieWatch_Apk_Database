@@ -1,0 +1,30 @@
+{
+    "post_title": "Tekken (2010)",
+    "post_type": "movie",
+    "tmdb_id": 42194,
+    "imdb_id": "tt0411951",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rynrbwnk455mkpb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dolgu1n4h1qguya"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rczakbys8o118b1"
+            }
+        ]
+    }
+}

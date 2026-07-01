@@ -1,0 +1,30 @@
+{
+    "post_title": "Goldbeak (2021)",
+    "post_type": "movie",
+    "tmdb_id": 879913,
+    "imdb_id": "tt15257928",
+    "languages": [
+        "English",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q33la0aj-wgqlo4"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/45q3w8cic4t1dpi"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1zpm6_xd_pv1mzk"
+            }
+        ]
+    }
+}

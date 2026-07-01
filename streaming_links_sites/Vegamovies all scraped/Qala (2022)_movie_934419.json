@@ -1,0 +1,34 @@
+{
+    "post_title": "Qala (2022)",
+    "post_type": "movie",
+    "tmdb_id": 934419,
+    "imdb_id": "tt14428598",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zfb544mdj9yldjf"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dgzzj51dc661dfr"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/yrnzdtfdjce9c1z"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/djv5hw_n1vwo41y"
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "post_title": "Robin Hood (2018)",
+    "post_type": "movie",
+    "tmdb_id": 375588,
+    "imdb_id": "tt4532826",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/k5r5nikjkj1krj5"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0da7pkppp_dhqjw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/rmwvk9lwnnacz9r"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lpn1e2na8-6c25p"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fzigifpwzimg1kp"
+            }
+        ]
+    }
+}

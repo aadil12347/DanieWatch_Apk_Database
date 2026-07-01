@@ -1,0 +1,30 @@
+{
+    "post_title": "Teenage Mutant Ninja Turtles (1990)",
+    "post_type": "movie",
+    "tmdb_id": 1498,
+    "imdb_id": "tt0100758",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qqqk71hluhqhjwl"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fweo9lbhos7wced"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/txfz-mgq8e-b2d8"
+            }
+        ]
+    }
+}

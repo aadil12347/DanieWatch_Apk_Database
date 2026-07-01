@@ -1,0 +1,29 @@
+{
+    "post_title": "Death Train (1993)",
+    "post_type": "movie",
+    "tmdb_id": 20435,
+    "imdb_id": "tt0106689",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ezbzx4ly42zsj_c"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2teexkfpivtewid"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/tt5_2q_wug5hu2l"
+            }
+        ],
+        "1080p": []
+    }
+}

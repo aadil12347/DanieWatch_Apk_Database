@@ -1,0 +1,24 @@
+{
+    "post_title": "In Camera (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1078806,
+    "imdb_id": "tt20848724",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-l9lqas7el1un7i"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ixmxmcwyll3zlno"
+            }
+        ]
+    }
+}

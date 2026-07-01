@@ -1,0 +1,29 @@
+{
+    "post_title": "Sugar Rush (2019)",
+    "post_type": "movie",
+    "tmdb_id": 721574,
+    "imdb_id": "tt11430264",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/u1ol17woslb-7s0"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1us4iss1cc7isfa"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/czc1gs0rcyqsqxg"
+            }
+        ]
+    }
+}

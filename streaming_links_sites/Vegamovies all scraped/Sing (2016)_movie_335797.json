@@ -1,0 +1,30 @@
+{
+    "post_title": "Sing (2016)",
+    "post_type": "movie",
+    "tmdb_id": 335797,
+    "imdb_id": "tt3470600",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ji2s1sgnaqlz-y0"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5k7-kq1j8k4tfmd"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bd5551-cp-b5-qj"
+            }
+        ]
+    }
+}

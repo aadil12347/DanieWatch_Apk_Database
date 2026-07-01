@@ -1,0 +1,30 @@
+{
+    "post_title": "Gremlin (2017)",
+    "post_type": "movie",
+    "tmdb_id": 436496,
+    "imdb_id": "tt6191390",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i1hw9hwhdhexmxw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7i1ccrx_1jp7b-o"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/teste9d1xfeierl"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Hush (2016)",
+    "post_type": "movie",
+    "tmdb_id": 376570,
+    "imdb_id": "tt5022702",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3o1fyvqwp1tovbe"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9cwj8dcwhq90j80"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7m6l4llazgwlwgm"
+            }
+        ]
+    }
+}

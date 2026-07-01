@@ -1,0 +1,48 @@
+{
+    "post_title": "Extraction (2020)",
+    "post_type": "movie",
+    "tmdb_id": 545609,
+    "imdb_id": "tt8936646",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tqooa717_mq_77i"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/t07vbw1cytww17x"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yohddtjogydydt6"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mn4nsjrlhz6efce"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/vdog1jtms0togla"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vcwvthvyhhgcydg"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/imcuw11ludzdfck"
+            }
+        ]
+    }
+}

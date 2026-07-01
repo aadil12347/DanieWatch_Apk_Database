@@ -1,0 +1,33 @@
+{
+    "post_title": "Gogol. Viy (2018)",
+    "post_type": "movie",
+    "tmdb_id": 469284,
+    "imdb_id": "tt7910444",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mmrpd1j88isitdj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xdtzt1zrafxypxv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nqiqkwop6vbw7mr"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ntkns1dns3t3qdb"
+            }
+        ]
+    }
+}

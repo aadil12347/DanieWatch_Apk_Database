@@ -1,0 +1,25 @@
+{
+    "post_title": "Doctor Zhivago (1965)",
+    "post_type": "movie",
+    "tmdb_id": 907,
+    "imdb_id": "tt0059113",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mj_hdyml01_1kdj"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/yldcy9zaw6z0dry"
+            }
+        ]
+    }
+}

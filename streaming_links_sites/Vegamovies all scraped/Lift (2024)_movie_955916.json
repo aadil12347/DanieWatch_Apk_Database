@@ -1,0 +1,38 @@
+{
+    "post_title": "Lift (2024)",
+    "post_type": "movie",
+    "tmdb_id": 955916,
+    "imdb_id": "tt14371878",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uub744w8sz4021z"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c-8guc8448oubou"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/3xpqjout_czwtww"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/47l1k24zfqgq1zh"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/my1o2syqyis21t1"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Erin Brockovich (2000)",
+    "post_type": "movie",
+    "tmdb_id": 462,
+    "imdb_id": "tt0195685",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qii5avvsf-nfrsu"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3-2g_r16yrrp_7r"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/avi2314q2waai10"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rl2i_3vzl1ya2az"
+            }
+        ]
+    }
+}

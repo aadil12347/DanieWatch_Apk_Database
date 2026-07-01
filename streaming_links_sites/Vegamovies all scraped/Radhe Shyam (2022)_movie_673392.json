@@ -1,0 +1,47 @@
+{
+    "post_title": "Radhe Shyam (2022)",
+    "post_type": "movie",
+    "tmdb_id": 673392,
+    "imdb_id": "tt8960382",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dj4emvnh1l81eq4"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/swy1_uax1dx71xw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vviksxv7dogdznw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/14jrrwi1ymu-gy1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/-zb1aq9gbdgher9"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/zawzg1g1f6gffer"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/17vypu7ggkzwp3r"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Night Drive (2021)",
+    "post_type": "movie",
+    "tmdb_id": 630486,
+    "imdb_id": "tt10989240",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rigye4_ecey6m6f"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mdgntl3io3mvl1o"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xlmqmhp1xblp_o1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-ay7lmbmamubhdm"
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "post_title": "Lethal Weapon (1987)",
+    "post_type": "movie",
+    "tmdb_id": 941,
+    "imdb_id": "tt0093409",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "V-Cloud – 1 [Resumable]",
+                "link": "https://vcloud.zip/79iczyypz6z71k1"
+            },
+            {
+                "episode_title": "V-Cloud – 2 [Resumable]",
+                "link": "https://vcloud.zip/ocqn7kco0hmqj3o"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "V-Cloud – 1 [Resumable]",
+                "link": "https://vcloud.zip/h7uh0jkhfy44uuh"
+            },
+            {
+                "episode_title": "V-Cloud – 2 [Resumable]",
+                "link": "https://vcloud.zip/gpjkc5cb1d0cx7k"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dmo9huy995huzh_"
+            }
+        ]
+    }
+}

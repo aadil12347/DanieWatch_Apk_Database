@@ -1,0 +1,34 @@
+{
+    "post_title": "The Suicide Squad (2021)",
+    "post_type": "movie",
+    "tmdb_id": 436969,
+    "imdb_id": "tt6334354",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0cfrrcl7jg3ev3k"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ofujfjtjmpvot89"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xpgcvpsgcxb8gug"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/btn0cycnddouuf9"
+            }
+        ]
+    }
+}

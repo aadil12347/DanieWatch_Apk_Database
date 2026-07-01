@@ -1,0 +1,46 @@
+{
+    "post_title": "JUNG_E (2023)",
+    "post_type": "movie",
+    "tmdb_id": 843794,
+    "imdb_id": "tt22352848",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cpip_fl1oc3b25g"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e1bbr6jrijzzbjn"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/u0cvazzwtz5xzbw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c-mc61cnxxrg8h6"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/bvzukgdowka_umo"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/ub1fgiaya8eeymb"
+            },
+            {
+                "episode_title": "Episode 4",
+                "link": "https://vcloud.zip/1srwdhpehdln0wr"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Jurassic Hunt (2021)",
+    "post_type": "movie",
+    "tmdb_id": 848278,
+    "imdb_id": "tt14442328",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3pszumnzegezezn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lfkoj3l1h27nta8"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xtj0tehqzq41tln"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eevubybreccb14k"
+            }
+        ]
+    }
+}

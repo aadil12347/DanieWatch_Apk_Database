@@ -1,0 +1,34 @@
+{
+    "post_title": "The Detonator (2006)",
+    "post_type": "movie",
+    "tmdb_id": 24624,
+    "imdb_id": "tt0345461",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/y1o4sb19xy4kyc1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tphb0vwnghhgtmu"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vcvb4ccrivpexcx"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nut1gkreqkfkexb"
+            }
+        ]
+    }
+}

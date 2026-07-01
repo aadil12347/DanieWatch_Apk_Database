@@ -1,0 +1,30 @@
+{
+    "post_title": "Monster Island (2019)",
+    "post_type": "movie",
+    "tmdb_id": 606441,
+    "imdb_id": "tt10238788",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=OW5aeERabnYxSzl6Z0l4TmJxN1RoMWdhWllWcDAxK3ZWMWdXMWwxa2huSkh6NzhxSW1QNDJqTytFR3FwYkdjTg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=ZmlYSjdJY1lxNXdMa3hwektmM2h6Ti9mUmw4U0Z5Skd1L1J2NkFHOWhsY2xTcStqcXF6QjFWRUhZTlRMUzJSRA=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=MjExWEY4VDBiL2FNUXFNaWx4UHhoOXpLWWRDMTlwNG9ZZ1hhd0ZQb2pzZEgxb1NlbmhJOXkzcjNmenpSa1oweQ=="
+            }
+        ]
+    }
+}

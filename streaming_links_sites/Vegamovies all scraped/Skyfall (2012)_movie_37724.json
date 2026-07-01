@@ -1,0 +1,40 @@
+{
+    "post_title": "Skyfall (2012)",
+    "post_type": "movie",
+    "tmdb_id": 37724,
+    "imdb_id": "tt1074638",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/9xpeyqcn9hkvgxh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/b1ai53i0y0a1kh5"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c9ckrmh51k7xr99"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/oo1v--1jaz52t1c"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/c0ddcpdvf1lfz4c"
+            }
+        ]
+    }
+}

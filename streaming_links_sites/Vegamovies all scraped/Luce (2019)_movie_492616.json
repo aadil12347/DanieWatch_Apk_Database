@@ -1,0 +1,30 @@
+{
+    "post_title": "Luce (2019)",
+    "post_type": "movie",
+    "tmdb_id": 492616,
+    "imdb_id": "tt7616148",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=a0w1eFVoNEVnZDhJQWdxV3Z5TGdiRmVxQUxBMFJVQTZIQzN5dkZ2TjBTSEhSc0RtM0FLTUdDeXFMMVN5RUJRSA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=T2JxWlpXRERDWm9KK2paSW1zY09UaUV0d2hFVnQyVHZjVmtlWnRQbUdzRkM1TWdRSXNlM1VNclc4Y2JIMllIRg=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=TEo1ckxwZlVPU2o1WGRPTmh5eGhWK3liMkZUSHlMclZRMUJPdUFiOStSUnhGSk9qRkNoUzErWDdZT1lLcG4weQ=="
+            }
+        ]
+    }
+}

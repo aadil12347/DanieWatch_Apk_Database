@@ -1,0 +1,34 @@
+{
+    "post_title": "R.I.P.D. (2013)",
+    "post_type": "movie",
+    "tmdb_id": 49524,
+    "imdb_id": "tt0790736",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/eu3ipinn_i0wwua"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/m5qs5gqhmwweldh"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vtnxtwxlwjl0esc"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/-y227unlnfxrtqj"
+            }
+        ]
+    }
+}

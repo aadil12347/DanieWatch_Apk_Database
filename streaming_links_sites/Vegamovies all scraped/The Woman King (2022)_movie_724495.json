@@ -1,0 +1,44 @@
+{
+    "post_title": "The Woman King (2022)",
+    "post_type": "movie",
+    "tmdb_id": 724495,
+    "imdb_id": "tt8093700",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/n0xui6lpqul1pxr"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1tnbgebhggn29er"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/q1j7hgsycmgve7m"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/s1cwb1c3w3ow1wg"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kkyybas55gltcsk"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zlcuoczcj4xz8y4"
+            }
+        ]
+    }
+}

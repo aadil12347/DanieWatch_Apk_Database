@@ -1,0 +1,40 @@
+{
+    "post_title": "Pirates of the Caribbean: Dead Men Tell No Tales (2017)",
+    "post_type": "movie",
+    "tmdb_id": 166426,
+    "imdb_id": "tt1790809",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cr-p-wqhpwjwtt7"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/o4lydmkfvh1k8yf"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6h86q54kv56z3oy"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/7d_cdkaa_7it7r2"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/y1-jzjwcj11jcje"
+            }
+        ]
+    }
+}

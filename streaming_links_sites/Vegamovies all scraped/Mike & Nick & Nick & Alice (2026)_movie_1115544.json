@@ -1,0 +1,29 @@
+{
+    "post_title": "Mike & Nick & Nick & Alice (2026)",
+    "post_type": "movie",
+    "tmdb_id": 1115544,
+    "imdb_id": "tt27552099",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6g3dhpe6rhuve-6"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nxj1bja5kmbua1z"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jg4qgusgnsj6jjf"
+            }
+        ]
+    }
+}

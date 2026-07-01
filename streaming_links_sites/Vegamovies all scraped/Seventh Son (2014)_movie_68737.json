@@ -1,0 +1,30 @@
+{
+    "post_title": "Seventh Son (2014)",
+    "post_type": "movie",
+    "tmdb_id": 68737,
+    "imdb_id": "tt1121096",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=cG5NUzZmVTdwSGNiRW9ka1JIRU1qLzJHeFEvRGdjd2dOZHRsQy82Mjl4Zk02bm1IR3Q1TlNEQWFrdGlnaUd2Ug=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=amY0OWJJbDBXM093UlhWTjdNalRBVkV1L0VxMUhiT2FpY1JLSHc3Z29NeHZEQ3hmTzNEd1VEYlVLL0JTbXE5ZA=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ybvicggqdljvjve"
+            }
+        ]
+    }
+}

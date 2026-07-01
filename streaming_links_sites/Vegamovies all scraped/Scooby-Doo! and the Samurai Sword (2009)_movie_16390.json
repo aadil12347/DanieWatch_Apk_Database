@@ -1,0 +1,30 @@
+{
+    "post_title": "Scooby-Doo! and the Samurai Sword (2009)",
+    "post_type": "movie",
+    "tmdb_id": 16390,
+    "imdb_id": "tt1421378",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/af3lieix640hcii"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ttadqqj11dkaiax"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vy881nmimbjxbjh"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "post_title": "Chinese Zodiac (2012)",
+    "post_type": "movie",
+    "tmdb_id": 98567,
+    "imdb_id": "tt1424310",
+    "languages": [
+        "Hindi",
+        "English",
+        "Odia",
+        "Chinese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/snhsjrx8j4aclrh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_baodfhp_to9do_"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/mgzid3mpmdd-de1"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rrnst9ub1xa-xro"
+            }
+        ]
+    }
+}

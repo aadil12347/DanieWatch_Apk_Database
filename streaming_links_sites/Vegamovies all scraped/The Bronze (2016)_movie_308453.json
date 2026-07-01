@@ -1,0 +1,34 @@
+{
+    "post_title": "The Bronze (2016)",
+    "post_type": "movie",
+    "tmdb_id": 308453,
+    "imdb_id": "tt3859304",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wbkbwczlybysrly"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5ex7oahdeuvie1j"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1vmt_vlcmwc_cpc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/euyx9mchmqbijqq"
+            }
+        ]
+    }
+}

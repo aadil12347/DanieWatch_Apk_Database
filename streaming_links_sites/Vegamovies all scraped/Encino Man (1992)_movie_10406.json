@@ -1,0 +1,25 @@
+{
+    "post_title": "Encino Man (1992)",
+    "post_type": "movie",
+    "tmdb_id": 10406,
+    "imdb_id": "tt0104187",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qkzlldltxe177pk"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ci1czlizehie8zi"
+            }
+        ],
+        "1080p": []
+    }
+}

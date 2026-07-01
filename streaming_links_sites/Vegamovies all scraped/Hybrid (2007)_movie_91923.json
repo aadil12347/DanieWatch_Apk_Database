@@ -1,0 +1,25 @@
+{
+    "post_title": "Hybrid (2007)",
+    "post_type": "movie",
+    "tmdb_id": 91923,
+    "imdb_id": "tt0874917",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dmrmdmrd01dczrm"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ng0vnv0e2u1qlqm"
+            }
+        ],
+        "1080p": []
+    }
+}

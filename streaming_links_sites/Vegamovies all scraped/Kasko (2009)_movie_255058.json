@@ -1,0 +1,25 @@
+{
+    "post_title": "Kasko (2009)",
+    "post_type": "movie",
+    "tmdb_id": 255058,
+    "imdb_id": "tt1534092",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=amUvUWdCeXV5S2FTbkd6aWxMWng3UzBkWkVsN1BCMVV4eUVzTWRlYUtzS0hIMTdPQ096K0RpMnV5SzNpWHlwRA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=ZStVTUNGaElzSFA2dkY5UWhGcWhUaUJ2WTZQWTU2anJNUk1ZbS93VkJ6UFVQSytxUDM0UGtJYjBQOXh3ZEZWQw=="
+            }
+        ],
+        "1080p": []
+    }
+}

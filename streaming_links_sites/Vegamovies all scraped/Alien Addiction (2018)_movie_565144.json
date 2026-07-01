@@ -1,0 +1,30 @@
+{
+    "post_title": "Alien Addiction (2018)",
+    "post_type": "movie",
+    "tmdb_id": 565144,
+    "imdb_id": "tt5028702",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=MGVTMDRMN0dqUzJvd0ZqQWVUN01qNVpUakJJRWxXRUFUdWh0d2NocU40QnJFcGsvcFRvS0VtQ2tpSXhiVFBPVQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=RXkvUmszUVB0MHNaV2ZnZXE4U25qb0FMdjVaWWZId2srUkZ4MzUzSlNYd1lCT1FhYmZ1VXN5UjYvRkc0bEJFSw=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=dVQ2ZHJZMm9QU1RqbjdPWEI1UCtqWUh0bFhqbUhLYytDVWVLVjdkVDk0bE9JZGt2dDFkdnk2Szd1YXJ1VTFDTg=="
+            }
+        ]
+    }
+}

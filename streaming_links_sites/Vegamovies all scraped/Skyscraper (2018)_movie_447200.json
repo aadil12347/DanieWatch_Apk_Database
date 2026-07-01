@@ -1,0 +1,30 @@
+{
+    "post_title": "Skyscraper (2018)",
+    "post_type": "movie",
+    "tmdb_id": 447200,
+    "imdb_id": "tt5758778",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=bnRzcXVoVFVKRVFsVXFGK3MrNGFleUpPNEFaWmIzYWlLTUlUS2w1dXdIc2ZTRlVHMzhlOXNneTRsU2duREcwbQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=dkNJTmhPUFROZ0FHV3RHdGJYdHVHSXZ1MlZMVndaZG51SFdxSCtCbTVSTHJUbmVobk9HbThrdWFqQ2ZYV0N1Mw=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=dURHcXZMZW9abExSMG5LRmxucXdKQjlyMnNaT2ZWQ2ZvZGVFblBMRm9UMGVsWHVtQW1mbWFPTWF0R1k4d1pOMw=="
+            }
+        ]
+    }
+}

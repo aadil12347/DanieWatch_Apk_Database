@@ -1,0 +1,29 @@
+{
+    "post_title": "Obi-Wan Kenobi: A Jedi's Return (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1015606,
+    "imdb_id": "tt21860836",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/l8qdmvghofg8tpb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dgfqwqgdq7gsg1a"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ducgk55qsuxzoxl"
+            }
+        ]
+    }
+}

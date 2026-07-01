@@ -1,0 +1,38 @@
+{
+    "post_title": "Boyka: Undisputed IV (2016)",
+    "post_type": "movie",
+    "tmdb_id": 348893,
+    "imdb_id": "tt3344680",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z2aam3503dxtamv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zm7st5mmyoext5m"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/yb97humhu9h911k"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zmtxhetbc1z6tcw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/qpy55ws_5gxa5ys"
+            }
+        ]
+    }
+}

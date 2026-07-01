@@ -1,0 +1,33 @@
+{
+    "post_title": "Sonic the Hedgehog 2 (2022)",
+    "post_type": "movie",
+    "tmdb_id": 675353,
+    "imdb_id": "tt12412888",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mfbfdmfhs9bsjm2"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q3mvtqc3vovtxsm"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wnt6znapwzpkn8f"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hv_gaa168vv8vua"
+            }
+        ]
+    }
+}

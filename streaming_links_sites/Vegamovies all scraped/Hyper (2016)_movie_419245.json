@@ -1,0 +1,37 @@
+{
+    "post_title": "Hyper (2016)",
+    "post_type": "movie",
+    "tmdb_id": 419245,
+    "imdb_id": "tt6128292",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3v5zvhvi3zklvkh"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kd00e0o4yncxony"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/zcdhjidhngj1s6d"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/i1vuewpvkhktmwi"
+            },
+            {
+                "episode_title": "V-Cloud – 2nd [Resumable]",
+                "link": "https://vcloud.zip/uvnrrmoc1htthix"
+            }
+        ]
+    }
+}

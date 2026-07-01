@@ -1,0 +1,34 @@
+{
+    "post_title": "Carrie (2013)",
+    "post_type": "movie",
+    "tmdb_id": 133805,
+    "imdb_id": "tt1939659",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lchvmxfwnnwmwvi"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ng231mpnj09jcm3"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/sbcybj86bjy3c31"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cruragdui3gpv0m"
+            }
+        ]
+    }
+}

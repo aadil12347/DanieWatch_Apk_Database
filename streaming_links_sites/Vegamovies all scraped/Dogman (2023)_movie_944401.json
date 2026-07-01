@@ -1,0 +1,30 @@
+{
+    "post_title": "Dogman (2023)",
+    "post_type": "movie",
+    "tmdb_id": 944401,
+    "imdb_id": "tt17009348",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/a4bb-iyfzygy4e-"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/-7p7ng7px1bvgnp"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sdvsf5ddal7fd32"
+            }
+        ]
+    }
+}

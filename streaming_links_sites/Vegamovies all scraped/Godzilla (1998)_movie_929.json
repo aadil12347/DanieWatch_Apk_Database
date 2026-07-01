@@ -1,0 +1,30 @@
+{
+    "post_title": "Godzilla (1998)",
+    "post_type": "movie",
+    "tmdb_id": 929,
+    "imdb_id": "tt0120685",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_gc7pi12_y1scsv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/znvj__hkjvuvtom"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_clwu7cafksghss"
+            }
+        ]
+    }
+}

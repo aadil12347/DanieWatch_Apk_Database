@@ -1,0 +1,30 @@
+{
+    "post_title": "Basic (2003)",
+    "post_type": "movie",
+    "tmdb_id": 10782,
+    "imdb_id": "tt0264395",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/njyg51cuh4vb4uc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ad2ld_9nnnc0waq"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kukg9zjqfq00fgu"
+            }
+        ]
+    }
+}

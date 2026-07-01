@@ -1,0 +1,34 @@
+{
+    "post_title": "Samson (2018)",
+    "post_type": "movie",
+    "tmdb_id": 474392,
+    "imdb_id": "tt6951892",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fcarxrpprcrurip"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0z7wlm8r1z0o081"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ff5if1ifwduv6uq"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hx5p_6gqq1m_qvz"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "Mother, Couch (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1032642,
+    "imdb_id": "tt23778430",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/01gl00c1x1pcztl"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/09ce9findna4fo9"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uow_mhui1ruaqdr"
+            }
+        ]
+    }
+}

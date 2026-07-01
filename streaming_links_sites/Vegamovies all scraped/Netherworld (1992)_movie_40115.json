@@ -1,0 +1,30 @@
+{
+    "post_title": "Netherworld (1992)",
+    "post_type": "movie",
+    "tmdb_id": 40115,
+    "imdb_id": "tt0104987",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rjr8aahmr4gb8oo"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lafxd3macxe9jg9"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xnkvo1_vvgn4ttx"
+            }
+        ]
+    }
+}

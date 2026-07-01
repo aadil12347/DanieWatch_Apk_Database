@@ -1,0 +1,34 @@
+{
+    "post_title": "Ben 10: Alien Swarm (2009)",
+    "post_type": "movie",
+    "tmdb_id": 25642,
+    "imdb_id": "tt1327701",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/v1cdjoogc3jbvjv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/z4e5fqjzsdr4ntd"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/3zbaozkfokmzf39"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ikessri_grssrwe"
+            }
+        ]
+    }
+}

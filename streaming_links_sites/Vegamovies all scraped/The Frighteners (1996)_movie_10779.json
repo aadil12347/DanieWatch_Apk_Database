@@ -1,0 +1,34 @@
+{
+    "post_title": "The Frighteners (1996)",
+    "post_type": "movie",
+    "tmdb_id": 10779,
+    "imdb_id": "tt0116365",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/djj6xhnhmvhbhcv"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ee111h9w4-90177"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/smfkblzw1fkmvkf"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ptacsqdwcnb0nsl"
+            }
+        ]
+    }
+}

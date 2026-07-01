@@ -1,0 +1,29 @@
+{
+    "post_title": "Graduation Day (1981)",
+    "post_type": "movie",
+    "tmdb_id": 27420,
+    "imdb_id": "tt0082467",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zp1_8twzpzpzozp"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/awmzm38qw1jw_8m"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ogdgro8r3dsa2sb"
+            }
+        ],
+        "1080p": []
+    }
+}

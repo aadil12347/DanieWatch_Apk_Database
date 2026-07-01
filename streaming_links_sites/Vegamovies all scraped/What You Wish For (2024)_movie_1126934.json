@@ -1,0 +1,34 @@
+{
+    "post_title": "What You Wish For (2024)",
+    "post_type": "movie",
+    "tmdb_id": 1126934,
+    "imdb_id": "tt13638858",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=c1lYeGNsUmVhTVVPVzlaNzNoZDhQOGRuSnZGcEN3Nlp0Qm5NNlFxVlRQMjRNaUsrL2pZNnlGeUk0RG1CaUs2Qg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/3jirh33pbug2els"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1_q5kto1tawsztz"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/imfucr3ri__wxfu"
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "post_title": "The Wizards (2022)",
+    "post_type": "movie",
+    "tmdb_id": 1035573,
+    "imdb_id": "tt23651534",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1na0hhldaa3ak03"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6pxi1ssxmnsxnd0"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uc-qxxocp1uf911"
+            }
+        ]
+    }
+}

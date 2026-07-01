@@ -1,0 +1,30 @@
+{
+    "post_title": "Daylight (1996)",
+    "post_type": "movie",
+    "tmdb_id": 11228,
+    "imdb_id": "tt0116040",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=LzRERWZtK0xvai85a1lhZlNIc1FVejFTUDdqUU93TFl1N1hwK05OZFUvMzVvTHV5d1lzT0FSU0tUUEhqd2JqSg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=MGNESGdPNjh0ekFjbXF1MkJtOHlTM3RrQVpPQ3M4L2tXNWpKM0o0dkJyMFdwMk9zVHF2YjBwOW5nMHRvTGVNZQ=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=dm0wSlAxK1dNSm5HQU5jblZjU0pvZllJVHhSUC92N0JZWWxEMVcyQnIySVg1TGtzR0VBS1BhZGI4UXYwLzg1Sg=="
+            }
+        ]
+    }
+}

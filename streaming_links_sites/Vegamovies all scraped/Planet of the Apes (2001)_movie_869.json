@@ -1,0 +1,30 @@
+{
+    "post_title": "Planet of the Apes (2001)",
+    "post_type": "movie",
+    "tmdb_id": 869,
+    "imdb_id": "tt0133152",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zrietzkrncprexn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/oqg-1ysummunrbw"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/iig1ii3ij5d3gpu"
+            }
+        ]
+    }
+}

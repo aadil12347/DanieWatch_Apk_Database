@@ -1,0 +1,34 @@
+{
+    "post_title": "Don't Knock Twice (2017)",
+    "post_type": "movie",
+    "tmdb_id": 420245,
+    "imdb_id": "tt3622110",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/egn8bmuwpapzycn"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qkqqeie_619ie5a"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rxp4yrryx5ddby4"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/uu0chuhu0j3kvl3"
+            }
+        ]
+    }
+}

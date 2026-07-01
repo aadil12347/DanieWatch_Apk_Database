@@ -1,0 +1,40 @@
+{
+    "post_title": "The Hobbit: The Battle of the Five Armies (2014)",
+    "post_type": "movie",
+    "tmdb_id": 122917,
+    "imdb_id": "tt2310332",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uvcqeqogeset6aq"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fqp9pplbweqm99w"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_y-mabqqq-l7rfa"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ydxqvixe0r0ixxb"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rp-f9p59pw0cxfw"
+            }
+        ]
+    }
+}

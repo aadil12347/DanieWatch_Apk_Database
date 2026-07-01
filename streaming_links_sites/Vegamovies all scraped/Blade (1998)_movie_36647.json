@@ -1,0 +1,30 @@
+{
+    "post_title": "Blade (1998)",
+    "post_type": "movie",
+    "tmdb_id": 36647,
+    "imdb_id": "tt0120611",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kp_th2kikbtkxtu"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fbgnrfucxixxis6"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nzovi38n7rzhnkl"
+            }
+        ]
+    }
+}

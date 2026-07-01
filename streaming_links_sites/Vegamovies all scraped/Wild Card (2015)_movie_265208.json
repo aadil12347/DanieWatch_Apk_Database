@@ -1,0 +1,34 @@
+{
+    "post_title": "Wild Card (2015)",
+    "post_type": "movie",
+    "tmdb_id": 265208,
+    "imdb_id": "tt2231253",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_icg4grotd_fbd1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bigo1qr1kbr6ans"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/_iovxh7fahvk05p"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7kyeehgem3agafm"
+            }
+        ]
+    }
+}

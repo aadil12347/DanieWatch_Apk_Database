@@ -1,0 +1,44 @@
+{
+    "post_title": "Bullet Train (2022)",
+    "post_type": "movie",
+    "tmdb_id": 718930,
+    "imdb_id": "tt12593682",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xfecx5uushk5z2t"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bhoqyj9j1tujo9q"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/bwvve38p8vewwev"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lmpjn9v4i_rl5cl"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/csfsc4s6fsu2k_d"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/zeojo_yzyywefy_"
+            }
+        ]
+    }
+}

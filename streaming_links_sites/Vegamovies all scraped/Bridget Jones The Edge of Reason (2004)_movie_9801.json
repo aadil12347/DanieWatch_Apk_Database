@@ -1,0 +1,25 @@
+{
+    "post_title": "Bridget Jones: The Edge of Reason (2004)",
+    "post_type": "movie",
+    "tmdb_id": 9801,
+    "imdb_id": "tt0317198",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=OVpCWWNuR2gzV2FvR3NxU0I4QXQ0bWx5bExJYzExdXgxTjYvd3BUOGtBWk1lS2w2US9yeGxMN1JhWDBpNncrVQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=VTlJNjJjMDZXMkRwR0lISjlsdFM0ZnVoNkhSblNlL2VmQjFXRENRdTdEd0wydkZKQXFpei9KdFpBTUJyTUdBUA=="
+            }
+        ],
+        "1080p": []
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Infiesto (2023)",
+    "post_type": "movie",
+    "tmdb_id": 1072567,
+    "imdb_id": "tt15789492",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bksjgs8gkk65gii"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5wpkmxnxlxaspzp"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ub-jpyy87tirzn2"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vmdqq5wwi0jjzlj"
+            }
+        ]
+    }
+}

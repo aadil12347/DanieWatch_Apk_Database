@@ -1,0 +1,30 @@
+{
+    "post_title": "Book Club: The Next Chapter (2023)",
+    "post_type": "movie",
+    "tmdb_id": 982271,
+    "imdb_id": "tt20768712",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1fai9tkvznzvt6x"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ltqtglnntcrqwpn"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/l9lev-sjuwgczvp"
+            }
+        ]
+    }
+}

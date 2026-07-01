@@ -1,0 +1,34 @@
+{
+    "post_title": "Ghost in the Shell (1995)",
+    "post_type": "movie",
+    "tmdb_id": 9323,
+    "imdb_id": "tt0113568",
+    "languages": [
+        "English",
+        "Japanese"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1pn-axtdnwaiono"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/angad4uwihbtkv-"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/gv9g3secoocyrrc"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/crhsbdsfjevgvve"
+            }
+        ]
+    }
+}

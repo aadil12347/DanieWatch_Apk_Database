@@ -1,0 +1,30 @@
+{
+    "post_title": "Hot Stuff (1979)",
+    "post_type": "movie",
+    "tmdb_id": 99977,
+    "imdb_id": "tt0079308",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fhzpfxispffyfhz"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/slsoocso33bjgr7"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/cwk25yyk2ppc1mk"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "post_title": "Somewhere in Queens (2023)",
+    "post_type": "movie",
+    "tmdb_id": 829774,
+    "imdb_id": "tt14097180",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vg1brhrbgi1qybz"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ami8pcijyp8hjar"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/quahakxfq-kf6is"
+            }
+        ]
+    }
+}

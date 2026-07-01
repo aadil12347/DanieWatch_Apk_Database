@@ -1,0 +1,34 @@
+{
+    "post_title": "Slasher Party (2019)",
+    "post_type": "movie",
+    "tmdb_id": 576938,
+    "imdb_id": "tt8236214",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/kx7a5bgyoixr1n1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g7_j8dq_8daqvq9"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1eq6cbuub1jnmtv"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nuxuwkupzrrbqnn"
+            }
+        ]
+    }
+}

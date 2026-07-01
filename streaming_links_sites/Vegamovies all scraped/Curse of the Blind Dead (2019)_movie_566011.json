@@ -1,0 +1,30 @@
+{
+    "post_title": "Curse of the Blind Dead (2019)",
+    "post_type": "movie",
+    "tmdb_id": 566011,
+    "imdb_id": "tt7802180",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=eFFWaDBhb1BIYUx6b0tXRWZzRktXdDNueGlHNUIwM0tCczMwS2tXakdtQStyV2Vwd3kvODBPL2pLUFlPclRpeg=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=aHE2SjVBYVZGVXdxNVJkS05tTy9ublVWOWV5eloyYVVKZmp4UEN6cXBwbExVWUFuN2dZUzdwbERQQ0gvU21SWg=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/api/index.php?link=WGRjQ2d1ell1OFJ5dEordEtLMjF3RW1IRGRtMzV3WU84SFVzTDltU2QwNXd5SG9NVENNMDhtY0Z3bjBuZGJjMA=="
+            }
+        ]
+    }
+}

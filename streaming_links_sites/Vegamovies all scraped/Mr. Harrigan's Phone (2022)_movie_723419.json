@@ -1,0 +1,34 @@
+{
+    "post_title": "Mr. Harrigan's Phone (2022)",
+    "post_type": "movie",
+    "tmdb_id": 723419,
+    "imdb_id": "tt12908110",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gifzdt_fgupk_47"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lj2qj9jrmj1ldae"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/q4ntzqdezt9t3ee"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/8-nlbol-cw-gxjk"
+            }
+        ]
+    }
+}

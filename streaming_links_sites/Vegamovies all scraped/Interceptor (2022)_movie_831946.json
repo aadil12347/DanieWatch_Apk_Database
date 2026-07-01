@@ -1,0 +1,34 @@
+{
+    "post_title": "Interceptor (2022)",
+    "post_type": "movie",
+    "tmdb_id": 831946,
+    "imdb_id": "tt14174940",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tp8azzhkab1tphb"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/rxmrbr-zita4n-r"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/wo1bsxnxoaw4gjb"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vydty7mlti4f1my"
+            }
+        ]
+    }
+}

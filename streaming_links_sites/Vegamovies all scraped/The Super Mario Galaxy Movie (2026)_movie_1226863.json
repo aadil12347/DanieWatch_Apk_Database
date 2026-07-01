@@ -1,0 +1,38 @@
+{
+    "post_title": "The Super Mario Galaxy Movie (2026)",
+    "post_type": "movie",
+    "tmdb_id": 1226863,
+    "imdb_id": "tt28650488",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uruxw0j0h4ljurj"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/s1_2_1q8rs_212g"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xoxijppnpgippqp"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/_lqchq_khck0ulu"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/w_bgwkgf6bt_kkx"
+            }
+        ]
+    }
+}

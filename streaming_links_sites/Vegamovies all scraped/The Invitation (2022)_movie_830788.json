@@ -1,0 +1,34 @@
+{
+    "post_title": "The Invitation (2022)",
+    "post_type": "movie",
+    "tmdb_id": 830788,
+    "imdb_id": "tt12873562",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/q9mmyqqdlqxhdom"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/um4zvjoqvg80s0z"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/0qq4qq1blggxqvs"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/hqvzqq311apof55"
+            }
+        ]
+    }
+}

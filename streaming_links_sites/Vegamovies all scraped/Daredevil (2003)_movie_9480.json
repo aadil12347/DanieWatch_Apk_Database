@@ -1,0 +1,34 @@
+{
+    "post_title": "Daredevil (2003)",
+    "post_type": "movie",
+    "tmdb_id": 9480,
+    "imdb_id": "tt0287978",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0w0abhcfosh-3th"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/fr4iha4atlf2t43"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/xw1rrrrjjtmwm8p"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1z91nj39aooj9jz"
+            }
+        ]
+    }
+}

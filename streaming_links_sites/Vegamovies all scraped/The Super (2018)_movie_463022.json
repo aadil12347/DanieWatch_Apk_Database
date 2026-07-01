@@ -1,0 +1,30 @@
+{
+    "post_title": "The Super (2018)",
+    "post_type": "movie",
+    "tmdb_id": 463022,
+    "imdb_id": "tt5884784",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/at1bbgwldxgpd_b"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1kinefnv1y1liam"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mr5q7lccfmxf2xv"
+            }
+        ]
+    }
+}

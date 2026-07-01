@@ -1,0 +1,34 @@
+{
+    "post_title": "Dancing Ninja (2010)",
+    "post_type": "movie",
+    "tmdb_id": 278778,
+    "imdb_id": "tt1294141",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ihnoqdmuk64g-nw"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0y-q88axb80awtp"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/vtjqprh7hl87arf"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xpacck4xoidaoai"
+            }
+        ]
+    }
+}

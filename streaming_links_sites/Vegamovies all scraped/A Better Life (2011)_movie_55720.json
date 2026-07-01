@@ -1,0 +1,24 @@
+{
+    "post_title": "A Better Life (2011)",
+    "post_type": "movie",
+    "tmdb_id": 55720,
+    "imdb_id": "tt1554091",
+    "languages": [
+        "Hindi"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=WG5iemxKRmJReDZlTi9PTnJONjBvak9HVUZnVWJqUERhclJBRVFxMHBWTmRwMU1xRFc1cytKM2w3TGRvL0c3UQ=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "G-Drive [No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=QWRRRklJOEpiOHplTUhEL3owekx3eXl0ckhScUp2a2RaUnNTMkQzaGRrYW82Uy9UMlI5bWs4d0FReVIvSnppbA=="
+            }
+        ],
+        "1080p": []
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "post_title": "Together (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1242011,
+    "imdb_id": "tt31184028",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ytcftzlzwflxfyc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/0u90k0k0rkksxsf"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/x-qz34--smfu3t-"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/jj1u1swjmezwjfw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/e01mlf6i8ao0fpm"
+            }
+        ]
+    }
+}

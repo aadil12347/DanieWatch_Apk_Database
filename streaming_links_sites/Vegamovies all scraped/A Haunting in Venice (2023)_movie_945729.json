@@ -1,0 +1,38 @@
+{
+    "post_title": "A Haunting in Venice (2023)",
+    "post_type": "movie",
+    "tmdb_id": 945729,
+    "imdb_id": "tt22687790",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/xqhgxymknz8z98r"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/mrrve1s_8g_te4t"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/qmrqzbafhrz6aux"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/1zyoi3covdvovpd"
+            },
+            {
+                "episode_title": "Episode 3",
+                "link": "https://vcloud.zip/xxuca59xi-nu18b"
+            }
+        ]
+    }
+}

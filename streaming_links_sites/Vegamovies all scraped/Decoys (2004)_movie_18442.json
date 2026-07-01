@@ -1,0 +1,34 @@
+{
+    "post_title": "Decoys (2004)",
+    "post_type": "movie",
+    "tmdb_id": 18442,
+    "imdb_id": "tt0357585",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/wwm14e1dff41ee1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/u9bd5vu5e_t_9uu"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/llm1s0jpkxg_ajs"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/ccc_qan-j6ccawa"
+            }
+        ]
+    }
+}

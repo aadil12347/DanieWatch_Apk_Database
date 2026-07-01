@@ -1,0 +1,30 @@
+{
+    "post_title": "Kung Fu Panda 3 (2016)",
+    "post_type": "movie",
+    "tmdb_id": 140300,
+    "imdb_id": "tt2267968",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/anz95qoru6vq_r9"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tthcp8ixxxjyh_-"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/2rzclt1zvakzt1a"
+            }
+        ]
+    }
+}

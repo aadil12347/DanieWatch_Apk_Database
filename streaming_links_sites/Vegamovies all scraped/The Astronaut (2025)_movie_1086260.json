@@ -1,0 +1,34 @@
+{
+    "post_title": "The Astronaut (2025)",
+    "post_type": "movie",
+    "tmdb_id": 1086260,
+    "imdb_id": "tt13964560",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bwaae4taowdfoav"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tzaklu2n2ukkulj"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ebgppomosesipoe"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/op81lkjtetl8vnn"
+            }
+        ]
+    }
+}

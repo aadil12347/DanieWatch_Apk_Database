@@ -1,0 +1,34 @@
+{
+    "post_title": "Blitz (2011)",
+    "post_type": "movie",
+    "tmdb_id": 55846,
+    "imdb_id": "tt1297919",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bwxfxxirhwk8hqc"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/883mjgn894uja1m"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1gbbdrqcjs3dxcd"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/9t1l1ea_wynlfp0"
+            }
+        ]
+    }
+}

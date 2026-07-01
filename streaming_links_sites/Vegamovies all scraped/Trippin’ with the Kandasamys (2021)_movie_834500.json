@@ -1,0 +1,30 @@
+{
+    "post_title": "Trippin’ with the Kandasamys (2021)",
+    "post_type": "movie",
+    "tmdb_id": 834500,
+    "imdb_id": "tt14611368",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=ZUltZHVvcFIxc1ZBRGFQRmdaK3ZkSG93TGZlTHplTnZtY3pSZ1FxZjFnM3BrdlEzUUNsdnF3U1hNVkNNT0xSNA=="
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=anprTmppdlcvNWM1RyswYysyZzF1eGpGMTBlZUxwRXM1aGl0cmExQlVEeGVTRDVjSmltc3VlRVJMTk1KZmNuTQ=="
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Drive-[No Login]",
+                "link": "https://vcloud.zip/api/index.php?link=eUZhdm1RejZKblNaV1hMZnZ2bjhCeW9yM2xsckoraEVOUFJaVW5UdEJzTEt2eVZtSE8vTzhzZHEydDdsMFBsSQ=="
+            }
+        ]
+    }
+}

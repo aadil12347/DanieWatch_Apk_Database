@@ -1,0 +1,25 @@
+{
+    "post_title": "The Flintstones (1994)",
+    "post_type": "movie",
+    "tmdb_id": 888,
+    "imdb_id": "tt0109813",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/h7xooxeochxo1ol"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/avafccmxvf3w4c3"
+            }
+        ],
+        "1080p": []
+    }
+}

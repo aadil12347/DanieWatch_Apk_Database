@@ -1,0 +1,30 @@
+{
+    "post_title": "Fantasy Island (2020)",
+    "post_type": "movie",
+    "tmdb_id": 539537,
+    "imdb_id": "tt0983946",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6h6apatui1zuwr1"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nfmmy4_0x0t1y2r"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/g2yuwnjdngx2n72"
+            }
+        ]
+    }
+}

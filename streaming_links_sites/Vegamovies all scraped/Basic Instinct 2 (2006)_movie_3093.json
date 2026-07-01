@@ -1,0 +1,30 @@
+{
+    "post_title": "Basic Instinct 2 (2006)",
+    "post_type": "movie",
+    "tmdb_id": 3093,
+    "imdb_id": "tt0430912",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gs1kso9no3oo2ii"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/e3xke5ponmyu0mk"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/tvfczlydulyd1jd"
+            }
+        ]
+    }
+}

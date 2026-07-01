@@ -1,0 +1,29 @@
+{
+    "post_title": "Work It (2020)",
+    "post_type": "movie",
+    "tmdb_id": 612706,
+    "imdb_id": "tt10276470",
+    "languages": [
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/1khv1dvdkz3zvpf"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ug9jmn8c8gqcjzs"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/5zypyqxjnxn40jx"
+            }
+        ]
+    }
+}

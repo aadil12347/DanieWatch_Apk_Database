@@ -1,0 +1,30 @@
+{
+    "post_title": "My Favorite Martian (1999)",
+    "post_type": "movie",
+    "tmdb_id": 9849,
+    "imdb_id": "tt0120764",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/uu2ocnjn5w8nr2r"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/88mk1wexi8app8n"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6ck1jqxsb1ostqb"
+            }
+        ]
+    }
+}

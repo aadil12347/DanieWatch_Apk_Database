@@ -1,0 +1,44 @@
+{
+    "post_title": "Jungle Cruise (2021)",
+    "post_type": "movie",
+    "tmdb_id": 451048,
+    "imdb_id": "tt0870154",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/sfwl3xsvovqtgov"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/gdzkzgku5qq3id1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/bngv7_8riskkbbp"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nuuunhjaduh2aa9"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/y4ekdexxeudg4_6"
+            }
+        ],
+        "2160p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/6ui9rui5rrru-l5"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "post_title": "Percy Jackson & the Olympians: The Lightning Thief (2010)",
+    "post_type": "movie",
+    "tmdb_id": 32657,
+    "imdb_id": "tt0814255",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/nrnuqqqtnqn3f_w"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/ck6kobdycbc89c1"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/jpejz18f1dwm8tt"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bkxpxrtppapexu7"
+            }
+        ]
+    }
+}

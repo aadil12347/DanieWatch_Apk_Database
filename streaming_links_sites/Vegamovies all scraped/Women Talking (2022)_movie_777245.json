@@ -1,0 +1,34 @@
+{
+    "post_title": "Women Talking (2022)",
+    "post_type": "movie",
+    "tmdb_id": 777245,
+    "imdb_id": "tt13669038",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/bxdqsoypxjdw00r"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/lxuycjugy1iyqge"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/gz8g4wdkxsnzggm"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vvtdra0enac0wiy"
+            }
+        ]
+    }
+}

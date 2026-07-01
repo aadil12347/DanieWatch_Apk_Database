@@ -1,0 +1,34 @@
+{
+    "post_title": "To Catch a Killer (2023)",
+    "post_type": "movie",
+    "tmdb_id": 605886,
+    "imdb_id": "tt10275534",
+    "languages": [
+        "Hindi",
+        "English"
+    ],
+    "links": {
+        "480p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/vki1t0ppkzpgy53"
+            }
+        ],
+        "720p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/7iownoohph1hhhw"
+            },
+            {
+                "episode_title": "Episode 2",
+                "link": "https://vcloud.zip/6f41lz4u6lz289f"
+            }
+        ],
+        "1080p": [
+            {
+                "episode_title": "Episode 1",
+                "link": "https://vcloud.zip/dp91ppdmqkpppcc"
+            }
+        ]
+    }
+}
